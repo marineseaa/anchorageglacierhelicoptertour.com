@@ -1,0 +1,75 @@
+# ── MARKUP RULE (ziontoursfromlasvegas.com 2026-08-21) ──
+# comparison.html prints every cell value WITHOUT safeHTML, so an HTML entity
+# ships as VISIBLE TEXT. Use real Unicode characters: — – ✓ ✗
+#
+# ── COLUMN-ORDER RULE (same site, same day) ──
+# main.css mutes the LAST column (opacity .55 + italic) as "a weaker
+# alternative". The last column here is the drive-and-look-at-it option, which
+# is genuinely the one we are steering people away from — it does not get you
+# onto the ice at all.
+title: "Helicopter, Boat, or Drive Out and Look at It"
+subtitle: "Three ways to see a glacier from Anchorage. Only one of them puts you on the ice in a morning."
+
+highlight_column: 0
+
+columns:
+  - label: "Glacier Helicopter Landing"
+    badge: "ON THE ICE"
+    highlight: true
+    cta: "Check Dates"
+  - label: "Glacier Cruise or Day Trip"
+    highlight: false
+    url: "https://www.getyourguide.com/anchorage-l978/"
+    cta: "Browse Options"
+  - label: "Drive Out and Look at It"
+    highlight: false
+    url: "https://www.getyourguide.com/anchorage-l978/"
+
+rows:
+  - label: "Do you stand on the glacier?"
+    values:
+      - "Yes — 30 to 45 minutes on the surface, microspikes or overboots provided"
+      - "No on a cruise; yes on a driving day trip, after a shuttle and a walk in"
+      - "No — the Knik viewpoints are across a river flat from the ice"
+
+  - label: "Time from Anchorage, door to door"
+    values:
+      - "3 to 5 hours including the drive out and back"
+      - "8 to 11 hours"
+      - "3 to 4 hours, most of it driving"
+
+  - label: "Price per person"
+    values:
+      - "$520 – $1,416 depending on flight time and activity"
+      - "Roughly $115 – $370"
+      - "Fuel, plus a rental car if you do not have one"
+
+  - label: "Where it departs"
+    values:
+      - "Knik River valley (1 hr north) or Girdwood Airport (45 min south)"
+      - "Whittier, Seward or a downtown Anchorage pickup"
+      - "Wherever you park"
+
+  - label: "Weather sensitivity"
+    values:
+      - "High — needs cloud ceiling and visibility; morning slots fly more reliably"
+      - "Moderate — boats and buses run in weather that grounds helicopters"
+      - "Low, but low cloud hides the peaks that make the view"
+
+  - label: "What you actually get"
+    values:
+      - "Crevasse fields and meltwater pools from the air, then silence on the ice"
+      - "Calving faces and wildlife from the water, or a guided walk on a road-accessible glacier"
+      - "A distant white line and a very good photograph of the valley"
+
+  - label: "Add a dog team, a paddleboard or an ice axe?"
+    values:
+      - "Yes — four tours are built around it"
+      - "Rarely, and never on the glacier itself"
+      - "✗"
+
+  - label: "Best for"
+    values:
+      - "Anyone who wants to be on glacier ice and has one flyable morning to spend"
+      - "Wildlife, calving faces, and a full day out without a weight limit"
+      - "A free afternoon, a rental car, and no need to touch the ice"

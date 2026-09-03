@@ -1,0 +1,23 @@
+# Narrative (NOT card-grid) itinerary — reference/HOMEPAGE-CONVERSION-PATTERNS.md §4.
+# Rendered by layouts/partials/timeline.html, between how-it-works and gallery.
+# The counter-intuitive operational truth of this niche: not one minute of an
+# "Anchorage glacier helicopter tour" happens in Anchorage, and the hour before
+# the rotor turns is the part nobody plans for.
+# MARKUP RULE: timeline.html applies safeHTML to `narrative` and each stop's
+# `body`, but NOT to `label`. Use literal Unicode (— – ✓) in labels.
+overline: "How It Actually Works"
+title: "The Two Hours Before You Fly"
+narrative: "The flight is the easy part. What surprises most first-timers is everything in front of it: an <strong>hour's drive out of Anchorage</strong> to a lodge or a hangar you have to find yourself, a weigh-in that decides where you sit, and a cloud ceiling that is checked, not assumed. Here is what the morning actually looks like."
+stops:
+  - label: "You drive — nothing departs from the city"
+    body: "North to the Knik River valley near Palmer (about an hour up the Old Glenn Highway) or south to Girdwood Airport (40 miles, about 45 minutes down the Seward Highway). Transfers exist but are bought separately, by phone, after you have booked."
+  - label: "Check in early — 15 to 30 minutes, and they mean it"
+    body: "Alaska Glacier Lodge asks for 30 minutes before departure; Alpine Air asks for 15. That window is the safety briefing and the paperwork, not padding, and a late arrival can lose the slot."
+  - label: "Everyone gets weighed"
+    body: "Seat limits are published and enforced — 300 lbs per seat at one operator, with combined-weight caps of 650 or 900 lbs depending on the aircraft. Weight decides seating and fuel, and a party over an aircraft's total pays $350 to be split across two helicopters."
+  - label: "The pilot reads the sky, not the schedule"
+    body: "Cloud ceiling and visibility decide whether you go. Southcentral Alaska builds cloud through the day, so a morning slot flies more reliably than an afternoon one — and if it does not fly, you are rescheduled or refunded rather than flown."
+  - label: "Thirty minutes out, over ice you cannot reach any other way"
+    body: "Crevasse fields, meltwater rivers, waterfalls running off the ice, and the valley walls where pilots look for moose, black bear, Dall sheep and mountain goats."
+  - label: "Skids down, rotor off, and then it is quiet"
+    body: "Thirty to forty-five minutes on the surface depending on the tour, with microspikes or overboots handed out. What happens next — a walk, a dog team, a paddleboard, an ice axe — is the thing you actually chose when you booked."

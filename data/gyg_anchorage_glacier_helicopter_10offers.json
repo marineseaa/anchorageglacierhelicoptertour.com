@@ -1,0 +1,2372 @@
+[
+  {
+    "id": 147264,
+    "title": "Anchorage: Knik Glacier Helicopter Tour with Landing",
+    "abstract": null,
+    "url": "https://www.getyourguide.com/anchorage-l978/anchorage-knik-glacier-helicopter-tour-with-landing-t147264/",
+    "cityId": null,
+    "location": "Anchorage",
+    "coordinates": {
+      "latitude": 61.4341392,
+      "longitude": -148.7663726
+    },
+    "provider": "Alaska Helicopter Tours",
+    "startingPrice": 522,
+    "basePrice": 522.11,
+    "formattedStartingPrice": "$522",
+    "formattedBasePrice": "$522",
+    "currency": "USD",
+    "pricePrefix": "From",
+    "priceSuffix": "per person",
+    "priceCategory": "per person",
+    "rating": 4.987283075740199,
+    "formattedRating": "5.0",
+    "reviewCount": 85,
+    "ratingDistribution": [],
+    "reviewerCategories": [],
+    "reviewTags": [],
+    "duration": "1 hour",
+    "freeCancellation": true,
+    "cancellationDescription": "Cancel up to 24 hours in advance for a full refund",
+    "guideLanguage": null,
+    "languages": [],
+    "description": "Fly from Alaska Glacier Lodge, a scenic 1-hour drive north of Anchorage (transfers available for purchase), to the spectacular Knik Glacier.\nSoar over the beautiful valley and search the landscape for local wildlife, including moose, mountain goats, bands of Dall sheep, and bears.\n\nYour experienced Alaska pilot/guide will land your helicopter in the middle of Knik Glacier, where you'll have the opportunity to explore the thousand-year-old ice during the 30-minute stop.\nEnjoy the bright-blue melt pools, massive crevasses, and the unique ice formations created by the water, wind, and sun. Mark the moment with a photo, or simply savor the peace of being in a secluded Alaskan glacier.\n\nConclude with a 15-minute flight back to your starting point, flying over a glacier river flowing rapidly through the Knik Valley.",
+    "highlights": [
+      "Thirty minutes of flightseeing over the Knik River valley and the Chugach Range",
+      "Thirty minutes on the surface of Knik Glacier, ice roughly a thousand years old",
+      "Crevasse fields, meltwater rivers and glacier waterfalls seen from a few hundred feet",
+      "Pilot-narrated wildlife spotting — moose, black bear, Dall sheep and mountain goats",
+      "The cheapest landing tour from the Knik River base, and the highest-rated on the site"
+    ],
+    "includes": [
+      "30-minute helicopter flightseeing",
+      "30-minute glacier landing",
+      "Facility and permit fees",
+      "Pilot narration throughout"
+    ],
+    "excludes": [
+      "Hotel pickup and drop-off from Anchorage",
+      "Food and drinks",
+      "Gratuities"
+    ],
+    "goodToKnow": [
+      "Departure is from Alaska Glacier Lodge on East Knik River Road, roughly an hour's drive north of Anchorage — not from Anchorage itself.",
+      "Transfers from Anchorage can be purchased separately; call the operator on 907-272-7777 after booking to arrange one.",
+      "Flights are weather-dependent. Low cloud, wind or icing will delay or cancel a departure, and morning slots historically fly more reliably than afternoon ones.",
+      "Free cancellation up to 24 hours before departure.",
+      "Pets, smoking and drones are not permitted, and open-toed shoes are refused at check-in."
+    ],
+    "notSuitableFor": [
+      "Anyone unable to step down from the helicopter onto uneven ice",
+      "Guests in open-toed footwear"
+    ],
+    "notAllowed": [
+      "Pets",
+      "Smoking",
+      "Drones",
+      "Open-toed shoes"
+    ],
+    "toBring": [
+      "Closed-toe shoes with grip",
+      "Sunglasses — glare off clean ice is severe",
+      "A warm layer; it is colder on the glacier than at the lodge",
+      "A refillable water bottle"
+    ],
+    "meetingPoint": "Alaska Glacier Lodge, 29979 East Knik River Road, Palmer",
+    "meetingPointAddress": "29979 East Knik River Road, Palmer, AK 99645",
+    "meetingPointCoordinates": {
+      "latitude": 61.4341392,
+      "longitude": -148.7663726
+    },
+    "meetingPoints": [
+      {
+        "name": "Open in Google Maps",
+        "mapsUrl": "https://maps.google.com/?q=@61.4341392,-148.7663726",
+        "coordinates": {
+          "lat": 61.4341392,
+          "lng": -148.7663726
+        }
+      }
+    ],
+    "itinerary": [
+      {
+        "name": "Starting location:",
+        "description": "Alaska Glacier Lodge"
+      },
+      {
+        "name": "Knik Glacier",
+        "description": "Guided tour, Helicopter flight (1 hour)"
+      },
+      {
+        "name": "Arrive back at:",
+        "description": "Alaska Glacier Lodge"
+      }
+    ],
+    "nextAvailableDate": "2026-09-04",
+    "badges": [],
+    "certified": false,
+    "officialTicket": false,
+    "gygOriginal": false,
+    "sellingRank": null,
+    "likelyToSellOut": false,
+    "topPick": false,
+    "topRated": false,
+    "bookedIn24Hours": 0,
+    "bookedRecentlyText": null,
+    "bookedRecentlyLabel": null,
+    "flags": {
+      "isCertifiedPartner": false,
+      "isEcoCertified": false,
+      "isGygOriginals": false,
+      "yourPick": false,
+      "promoted": false,
+      "elevated": false,
+      "bestSeller": false,
+      "isLikelyToSellOut": false,
+      "boostedNewTour": false,
+      "specialOffer": false,
+      "newActivity": false
+    },
+    "images": [
+      "/images/gyg/t147264-x0.webp"
+    ],
+    "sampleReviews": [
+      {
+        "id": 127237808,
+        "rating": 5,
+        "text": "our guide was from the area, and was very knowledgeable. He was very aware of his surroundings which elevated the experience and our safety. looking forward to our next visit !!",
+        "reviewer": "JoEllen",
+        "country": "United States",
+        "date": "August 30, 2026",
+        "travelerType": null,
+        "media": [
+          "/images/reviews/4c915d56dd5b.webp"
+        ]
+      },
+      {
+        "id": 126992619,
+        "rating": 5,
+        "text": "Surreal experience! Definitely must visit and experience the glacier water!",
+        "reviewer": "Pratik",
+        "country": "United States",
+        "date": "August 24, 2026",
+        "travelerType": null,
+        "media": []
+      },
+      {
+        "id": 126834287,
+        "rating": 5,
+        "text": "Was the most favorite experience of our Alaskan vacation?",
+        "reviewer": "Christopher",
+        "country": "United States",
+        "date": "August 20, 2026",
+        "travelerType": null,
+        "media": []
+      },
+      {
+        "id": 126504870,
+        "rating": 5,
+        "text": "My 21yo son says it was the highlight of our trip. Thank you!",
+        "reviewer": "Jim",
+        "country": "United States",
+        "date": "August 11, 2026",
+        "travelerType": null,
+        "media": []
+      },
+      {
+        "id": 126427740,
+        "rating": 5,
+        "text": "The helicopter ride was incredible! It was the first time we’d been in a helicopter and we were nervous but the ride was so smooth and easy! We loved every minute of it. The views exceeded our expectations. Our guide was so knowledgeable and he helped us climb and even offered us spikes for our shoes if we wanted to keep climbing on slick terrain. He took us a few different routes so we could see more of the glacier and see wildlife. 10/10 recommend!",
+        "reviewer": "Sydney",
+        "country": "United States",
+        "date": "August 10, 2026",
+        "travelerType": null,
+        "media": []
+      },
+      {
+        "id": 125690321,
+        "rating": 5,
+        "text": "Very good. Alex is a great pilot and a very friendly and likable person.",
+        "reviewer": "Martina",
+        "country": "Germany",
+        "date": "July 21, 2026",
+        "travelerType": null,
+        "media": []
+      },
+      {
+        "id": 122255074,
+        "rating": 5,
+        "text": "Spectacular! The icing on the cake would have been if the guide had spoken Spanish. 🤗",
+        "reviewer": "Erendira",
+        "country": "Mexico",
+        "date": "March 30, 2026",
+        "travelerType": null,
+        "media": [
+          "/images/reviews/b17f193460e8.webp",
+          "/images/reviews/7e05c64ec964.webp",
+          "/images/reviews/87405553a42e.webp"
+        ]
+      },
+      {
+        "id": 122011489,
+        "rating": 5,
+        "text": "10,000/10! It was incredible! The entire staff is so friendly! The tour is breathtaking! I highly recommend this amazing experience! Huge thanks to all the staff",
+        "reviewer": "Daniela",
+        "country": "United States",
+        "date": "March 20, 2026",
+        "travelerType": null,
+        "media": [
+          "/images/reviews/2e188e72b7b6.webp",
+          "/images/reviews/67e13d531fbf.webp"
+        ]
+      }
+    ],
+    "scrapedAt": "2026-09-03T20:56:09.492Z",
+    "galleryImages": [
+      {
+        "src": "/images/gyg/t147264-x0.webp",
+        "alt": "A white Robinson R44 parked on the bare ice of Knik Glacier beside a turquoise meltwater channel, the Chugach ridgeline behind it"
+      },
+      {
+        "src": "/images/gyg/t147264-x1.webp",
+        "alt": "Two guests in blue jackets crouching on the glacier, one drinking meltwater straight from a bright blue pool"
+      },
+      {
+        "src": "/images/gyg/t147264-x2.webp",
+        "alt": "View from inside the helicopter over the crevasse field of Knik Glacier, the instrument panel lit in the foreground"
+      },
+      {
+        "src": "/images/gyg/t147264-x3.webp",
+        "alt": "A red helicopter on the glacier with the low Alaskan sun flaring through its rotor blades"
+      },
+      {
+        "src": "/images/gyg/t147264-x4.webp",
+        "alt": "Two tiny figures walking beside a deep blue meltwater stream cut into the white ice of Knik Glacier"
+      }
+    ],
+    "fullDescription": [
+      "This is the shortest, cheapest and best-reviewed way to stand on Knik Glacier. You check in at Alaska Glacier Lodge on East Knik River Road — about an hour's drive north of Anchorage — and fly out in a light helicopter with a pilot who narrates the whole way.",
+      "The flight runs roughly thirty minutes each way over the Knik River valley and into the Chugach, low enough to pick out crevasse fields, meltwater rivers and waterfalls running off the ice. Pilots watch for moose, black bears, Dall sheep and mountain goats on the valley walls, and will circle for a better look when something is worth seeing.",
+      "Then the skids touch down on the glacier itself and you get thirty minutes on ice that fell as snow around a thousand years ago. It is quiet in a way that is difficult to describe until the rotor winds off. Bring sunglasses — the glare off clean ice on a bright day is severe.",
+      "The lodge does not include transport from Anchorage in the price, but transfers can be bought separately: call the operator on 907-272-7777 after you have booked to arrange one. Most guests drive themselves, and the Old Glenn Highway approach is worth the trip on its own."
+    ],
+    "faq": [
+      {
+        "q": "Does this tour leave from Anchorage?",
+        "a": "No. Every helicopter on this tour lifts off from Alaska Glacier Lodge on East Knik River Road, about an hour's drive north of Anchorage. The tour is sold as an Anchorage experience because that is where guests are staying, but the drive out is yours to make unless you buy a transfer separately — call 907-272-7777 after booking."
+      },
+      {
+        "q": "How long do you actually spend on the glacier?",
+        "a": "Thirty minutes on the ice, plus roughly thirty minutes of flying split between the trip out and back. The whole booking runs about an hour from lift-off to landing, on top of the drive and a check-in you should arrive early for."
+      },
+      {
+        "q": "What happens if the weather is bad?",
+        "a": "The flight does not go. Helicopters need cloud ceiling and visibility, and Alaskan cloud builds through the day, so this is a real risk rather than a formality. Book a morning slot and, if you can, book it early in your trip so there is room to be rescheduled."
+      },
+      {
+        "q": "Is it cold on the glacier in summer?",
+        "a": "Colder than the valley you drove up. The ice generates its own chill and there is usually a breeze moving across it. A fleece or light insulated jacket is enough on a bright July day; in shoulder season bring gloves and a hat."
+      },
+      {
+        "q": "Can children do this tour?",
+        "a": "Yes, and families make up a fair share of the bookings. What matters is that everyone can climb into and out of the aircraft unaided and walk a short distance on uneven ice in proper shoes."
+      }
+    ],
+    "metaTitle": "Knik Glacier Helicopter Tour with Landing — Anchorage",
+    "metaDescription": "A 30-minute flight and 30 minutes on Knik Glacier from Alaska Glacier Lodge, an hour north of Anchorage. Rated 4.99/5. See what's included and what it costs.",
+    "keywords": [
+      "knik glacier helicopter tour with landing",
+      "anchorage knik glacier helicopter tour",
+      "knik glacier helicopter landing",
+      "glacier helicopter tour from anchorage",
+      "helicopter glacier landing alaska"
+    ],
+    "imagesPrunedNote": "Unreferenced gallery photos were removed by the post-build image prune. Re-run _gyg_tour_gallery_portable.py + _selfhost_images.py before giving this tour a page. Pre-prune JSON: ../_scrape/gyg_anchorage_glacier_helicopter_10offers_full_with_images.json"
+  },
+  {
+    "id": 147273,
+    "title": "Anchorage Area: Helicopter and Glacier Dogsled Tour",
+    "abstract": null,
+    "url": "https://www.getyourguide.com/palmer-alaska-l156848/knik-river-glacier-dogsled-optional-helicopter-tour-t147273/",
+    "cityId": null,
+    "location": "Palmer Alaska",
+    "coordinates": {
+      "latitude": 61.4345451,
+      "longitude": -148.7652852
+    },
+    "provider": "Alaska Helicopter Tours",
+    "startingPrice": 816,
+    "basePrice": 816.41,
+    "formattedStartingPrice": "$816",
+    "formattedBasePrice": "$816",
+    "currency": "USD",
+    "pricePrefix": "From",
+    "priceSuffix": "per person",
+    "priceCategory": "per person",
+    "rating": 4.929780505137504,
+    "formattedRating": "4.9",
+    "reviewCount": 63,
+    "ratingDistribution": [],
+    "reviewerCategories": [],
+    "reviewTags": [],
+    "duration": "1.5 - 2 hours",
+    "freeCancellation": true,
+    "cancellationDescription": "Cancel up to 24 hours in advance for a full refund",
+    "guideLanguage": null,
+    "languages": [],
+    "description": "Soar over Alaska on a spectacular helicopter ride above glaciers and icebergs. Search the skyline for moose, black bears, Dall sheep, and mountain goats. Land on a glacier snowfield and enjoy a whole hour with Alaskan sled dogs and their mushers who live here all summer long.\nTake the dog team for an exhilarating dog sled ride through snow, surrounded by amazing scenery. Overboots so your shoes stay dry, extra jackets and warm gear can be provided. Stand on the runners and mush your own dog team, or sit on the sled and let the mushers run the team.\nThe length of this tour makes it perfect for any traveler. After the dogsled tour, meet the canine athletes that pulled your sled, listen to stories about running sled dog races over 1,000 miles long, meet the puppies and take pictures with your favorite dogs.\nAfter the dog sled experience, take a helicopter ride over the lower glaciers where you can see the blue melt pools and the crevasses on your way back to the lodge.\n\nWeather can affect the operation of this tour due to the high-altitude location. If your tour is affected, you will always be given the option to rebook a different tour (which may involve a partial refund or increased charge depending on the newly chosen experience), reschedule for a different time or day, or cancel for a refund.",
+    "highlights": [
+      "A full hour with the dog team on the snow, not the fifteen minutes most glacier sled tours give you",
+      "Thirty minutes of flightseeing over the Chugach Range, Knik Glacier and Lake George",
+      "Mushing with a team trained by Iditarod competitors, on snow that lasts all summer",
+      "Time with the dogs off the line, and with the mushers who camp there through the season",
+      "An inland departure that dodges much of the coastal cloud that grounds Turnagain Arm flights"
+    ],
+    "includes": [
+      "30-minute helicopter flight",
+      "60-minute dog-sled tour on the snowfield",
+      "Permit and facility fees",
+      "Overboots for walking in snow"
+    ],
+    "excludes": [
+      "Hotel pickup and drop-off from Anchorage",
+      "Food and drinks",
+      "Gratuities"
+    ],
+    "goodToKnow": [
+      "The meeting point varies with the option you book — check your confirmation, as some options add a second landing.",
+      "Departure is from the Knik River valley near Palmer, roughly an hour's drive north of Anchorage. Hotel pickup is not included.",
+      "The hour on the snow is the longest dogsled time of any helicopter tour on this site.",
+      "Weapons, sharp objects, drones and backpacks are not permitted on the aircraft.",
+      "Weather can affect operations. Flights are weight-and-balance planned, so a party may be split across two departures."
+    ],
+    "notSuitableFor": [
+      "Anyone who cannot sit unsupported in a moving sled",
+      "Guests wanting to carry a backpack on the flight"
+    ],
+    "notAllowed": [
+      "Weapons or sharp objects",
+      "Drones",
+      "Backpacks"
+    ],
+    "toBring": [
+      "Warm clothing — the camp is above the snowline",
+      "A hat and gloves",
+      "Sunglasses",
+      "Hiking shoes or boots"
+    ],
+    "meetingPoint": "Knik River valley base, Palmer (exact point varies by option booked)",
+    "meetingPointAddress": "Knik River Road, Palmer, AK 99645",
+    "meetingPointCoordinates": {
+      "latitude": 61.4345451,
+      "longitude": -148.7652852
+    },
+    "meetingPoints": [
+      {
+        "name": "Dogsled & Helicopter Tour",
+        "mapsUrl": "https://maps.google.com/?q=@61.4345451,-148.7652852",
+        "coordinates": {
+          "lat": 61.4345451,
+          "lng": -148.7652852
+        }
+      },
+      {
+        "name": "Dogsled & Helicopter Tour with Extra Landing",
+        "mapsUrl": "https://maps.google.com/?q=@61.4345451,-148.7652852",
+        "coordinates": {
+          "lat": 61.4345451,
+          "lng": -148.7652852
+        }
+      }
+    ],
+    "itinerary": [
+      {
+        "name": "Starting location:",
+        "description": "29979 E Knik River Rd, Palmer, AK 99645, USA"
+      },
+      {
+        "name": "93HH8M2C+237",
+        "description": "Guided tour, Sightseeing, Helicopter flight (1.5 hours)"
+      },
+      {
+        "name": "Arrive back at:",
+        "description": "29979 E Knik River Rd"
+      }
+    ],
+    "nextAvailableDate": "2027-05-01",
+    "badges": [],
+    "certified": false,
+    "officialTicket": false,
+    "gygOriginal": false,
+    "sellingRank": null,
+    "likelyToSellOut": false,
+    "topPick": false,
+    "topRated": false,
+    "bookedIn24Hours": 0,
+    "bookedRecentlyText": null,
+    "bookedRecentlyLabel": null,
+    "flags": {
+      "isCertifiedPartner": false,
+      "isEcoCertified": false,
+      "isGygOriginals": false,
+      "yourPick": false,
+      "promoted": false,
+      "elevated": false,
+      "bestSeller": false,
+      "isLikelyToSellOut": false,
+      "boostedNewTour": false,
+      "specialOffer": false,
+      "newActivity": false
+    },
+    "images": [
+      "/images/gyg/147273-0.webp"
+    ],
+    "sampleReviews": [
+      {
+        "id": 127171738,
+        "rating": 5,
+        "text": "Our mushing guide was full of interesting information but wasn't really a people person. He was helpful in taking pictures of us but was too slow so we didn't have much time with the puppies.",
+        "reviewer": "Kimberly S",
+        "country": "United States",
+        "date": "August 29, 2026",
+        "travelerType": null,
+        "media": []
+      },
+      {
+        "id": 126873239,
+        "rating": 5,
+        "text": "Wonderful! Ben was awesome and so was the tour. 100% recommended.",
+        "reviewer": "Nitesh",
+        "country": "United States",
+        "date": "August 20, 2026",
+        "travelerType": null,
+        "media": []
+      },
+      {
+        "id": 123997896,
+        "rating": 5,
+        "text": "While the price tag was definitely more than our typical budget, it was definitely worth it. Everything was well organized and it was clear safety was the number one priority for both humans as well as the dogs. The helicopter ride was amazing and my husband and I felt very secure and safe. It truly was a once in a lifetime opportunity. We are glad we spent the money and the time on this excursion.",
+        "reviewer": "Jennifer",
+        "country": "United States",
+        "date": "May 27, 2026",
+        "travelerType": null,
+        "media": []
+      },
+      {
+        "id": 123931957,
+        "rating": 5,
+        "text": "Awesome! The helicopter rides de to the dogs was amazing! Them landed at camp husky even better! Alaskan Huskies all wanting to say hi! We got to pet all of them so friendly and kisses! If you are a dog lover, this is a must! When they pulled out the sleds to choose the dogs, all the dogs went crazy to be picked for the next run. It was amazing watching every single dog howling saying pick me pick me. Would definitely recommend the store to anybody one of the best stores we’ve ever had",
+        "reviewer": "MICHAEL James",
+        "country": "United States",
+        "date": "May 26, 2026",
+        "travelerType": null,
+        "media": [
+          "/images/reviews/36d19ace23fa.webp",
+          "/images/reviews/85c718cb5a6d.webp",
+          "/images/reviews/38909868e785.webp",
+          "/images/reviews/7b2239919e52.webp",
+          "/images/reviews/5409bc507d5b.webp"
+        ]
+      },
+      {
+        "id": 116892915,
+        "rating": 5,
+        "text": "Bucket list experience. Incredibly well organised.",
+        "reviewer": "Joanne",
+        "country": "United Kingdom",
+        "date": "August 17, 2025",
+        "travelerType": null,
+        "media": []
+      },
+      {
+        "id": 116252535,
+        "rating": 5,
+        "text": "We enjoyed everything about the tour, friendly staff and informative about safety. Pilot very friendly and enjoyable to ride with. The dog team handlers were amazing and friendly. The dogs were wonderful to watch and interact with. This tour was extremely fun",
+        "reviewer": "John",
+        "country": "United States",
+        "date": "July 30, 2025",
+        "travelerType": null,
+        "media": [
+          "/images/reviews/141f09b2fb51.webp",
+          "/images/reviews/bc39761d56bb.webp"
+        ]
+      },
+      {
+        "id": 116234605,
+        "rating": 5,
+        "text": "Loved the chance to “mush” a team. Our musher taught us a lot about the sport. Got to meet and pet the dogs. Flight over (and pilot) to the base was great.",
+        "reviewer": "Pete",
+        "country": "United States",
+        "date": "July 29, 2025",
+        "travelerType": null,
+        "media": []
+      },
+      {
+        "id": 115942810,
+        "rating": 5,
+        "text": "Ticked off the bucket list, helicopter and glacier dogsled tour. What an experience and adventure. Money well spent. Thank you Sam for our helicopter ride, thank you Sully for a sledging ride and thank you Alaska for the memories @AlaskaHelicopterTours #alaska #dogsledding #helicopter #bucketlistmoment #adventure #glacier",
+        "reviewer": "Antonia",
+        "country": null,
+        "date": "July 20, 2025",
+        "travelerType": null,
+        "media": [
+          "/images/reviews/078e5e74d6f5.webp",
+          "/images/reviews/c5ff4b1e2780.webp",
+          "/images/reviews/a0efdcf51f09.webp",
+          "/images/reviews/9657363244ae.webp",
+          "/images/reviews/fd95f55dac20.webp"
+        ]
+      }
+    ],
+    "scrapedAt": "2026-09-03T20:56:26.652Z",
+    "galleryImages": [
+      {
+        "src": "/images/gyg/147273-0.webp",
+        "alt": "Four guests riding a dog sled across the glacier snowfield with mountains on the horizon"
+      },
+      {
+        "src": "/images/gyg/147273-2.webp",
+        "alt": "A team of Alaskan huskies pulling a sled towards the camera across a bright glacier snowfield"
+      },
+      {
+        "src": "/images/gyg/t147273-x0.webp",
+        "alt": "Two harnessed sled dogs standing on the snow in the summer sun"
+      },
+      {
+        "src": "/images/gyg/t147273-x1.webp",
+        "alt": "A blue helicopter flying low over the broken seracs of the glacier"
+      },
+      {
+        "src": "/images/gyg/t147273-x2.webp",
+        "alt": "A couple kneeling beside a husky on the snowfield, the red helicopter and an American flag behind them"
+      }
+    ],
+    "fullDescription": [
+      "Dogsledding on real snow in the middle of an Alaskan summer only works if you get above the snowline, which is why this tour begins in a helicopter. Thirty minutes of flying takes you from the Knik River valley over the Chugach Range, past Knik Glacier and Lake George, to a snowfield camp that stays frozen all season.",
+      "On the ice you get a full hour with the dogs — long by the standards of glacier dogsled tours, most of which give you fifteen or twenty minutes. That is enough time to take the team out for a genuine run rather than a lap, meet the mushers who live at the camp through the summer, and spend time with the dogs off the line.",
+      "The operator makes a point of its weather record: flying out of the Knik River valley, it claims a better dispatch rate than glacier dogsled operations working out of Girdwood, Seward, Juneau, Haines or Skagway. It is an operator claim rather than a published statistic, but the inland valley genuinely sees less coastal cloud than Turnagain Arm does.",
+      "Overboots for the snow are handed out before you fly. Everything else — warm layers, hat, sunglasses — is on you."
+    ],
+    "faq": [
+      {
+        "q": "Are the dogs kept on the glacier all summer?",
+        "a": "Yes. The camp is staffed through the season by mushers who live alongside the team, and the dogs are worked and rested on a schedule that suits the snow rather than the tour timetable. You will meet the handlers as well as the dogs."
+      },
+      {
+        "q": "How does an hour compare to other glacier dogsled tours?",
+        "a": "It is roughly three to four times longer. Most helicopter dogsled products in Alaska allocate fifteen to twenty minutes of sled time; this one gives sixty. It is also why the price sits well above a straight landing tour."
+      },
+      {
+        "q": "Is this better than the Girdwood dogsled tour?",
+        "a": "They are different products. This one gives more time with the dogs and departs from the inland Knik valley; the Girdwood tour flies to Punchbowl Glacier at 3,200 feet with Mitch Seavey's IdidaRide team and takes 85 minutes on the snow. Direction of travel from Anchorage is usually the deciding factor — north or south."
+      },
+      {
+        "q": "Can I take a backpack?",
+        "a": "No. Backpacks, weapons, sharp objects and drones are all refused. Take a phone or camera in a pocket and leave the rest in the car."
+      },
+      {
+        "q": "Will my whole group fly together?",
+        "a": "Not necessarily. Helicopters are loaded to a weight-and-balance plan, so a larger party may be split across two departures and reunited at the camp."
+      }
+    ],
+    "metaTitle": "Anchorage Helicopter & Glacier Dogsled Tour",
+    "metaDescription": "Fly 30 minutes over Knik Glacier to a summer snowfield camp and mush for a full hour — the longest glacier dogsled time bookable near Anchorage.",
+    "keywords": [
+      "anchorage helicopter and glacier dogsled tour",
+      "alaska helicopter dog sledding",
+      "glacier dog sledding anchorage",
+      "helicopter dog sled tour alaska",
+      "summer dog sledding alaska"
+    ],
+    "imagesPrunedNote": "Unreferenced gallery photos were removed by the post-build image prune. Re-run _gyg_tour_gallery_portable.py + _selfhost_images.py before giving this tour a page. Pre-prune JSON: ../_scrape/gyg_anchorage_glacier_helicopter_10offers_full_with_images.json"
+  },
+  {
+    "id": 492083,
+    "title": "From Palmer: Knik Glacier Helicopter Tour",
+    "abstract": null,
+    "url": "https://www.getyourguide.com/palmer-alaska-l156848/from-palmer-knik-glacier-helicopter-tour-t492083/",
+    "cityId": null,
+    "location": "Palmer Alaska",
+    "coordinates": {
+      "latitude": 61.53712100000001,
+      "longitude": -148.976165
+    },
+    "provider": "Outbound Heli Adventures, LLC",
+    "startingPrice": 520,
+    "basePrice": 520,
+    "formattedStartingPrice": "$520",
+    "formattedBasePrice": "$520",
+    "currency": "USD",
+    "pricePrefix": "From",
+    "priceSuffix": "per person",
+    "priceCategory": "per person",
+    "rating": 4.895154936357358,
+    "formattedRating": "4.9",
+    "reviewCount": 31,
+    "ratingDistribution": [],
+    "reviewerCategories": [],
+    "reviewTags": [],
+    "duration": "1.5 hours",
+    "freeCancellation": true,
+    "cancellationDescription": "Cancel up to 7 days in advance for a full refund",
+    "guideLanguage": null,
+    "languages": [],
+    "description": "Get ready for a helicopter adventure tour of a lifetime as you fly over the stunning Chugach Mountain range and trek around the Knik Glacier in Alaska on foot. Be awe-inspired as you witness the breathtaking snow-capped peaks, braided river valleys, and glacial ice.\n\nLet your pilot guide you over the impressive sights below of towering waterfalls, iceberg-filled lakes, and the untouched wilderness. Be sure to have your camera handy.\n\nAfter a short flight time, the helicopter will touch down on the mighty Knik, one of the largest glaciers in Alaska. Explore at leisure the gorgeous blue pools, the swirling moulins, the deep crevasses, and the amazing ice formations on the surface.\n\nKeep your eyes peeled for some of Alaska's diverse wildlife such as moose, Dall sheep, and bears – an incredible sight for the eyes. Return with special memories of this unique experience that will stick with you for a long time.",
+    "highlights": [
+      "Forty-five minutes on Knik Glacier — the longest ice time of any landing tour on this site",
+      "A 40 to 45-minute flight over one of the largest glaciers in southcentral Alaska",
+      "Microspikes provided, so you can actually walk on the ice rather than stand beside the aircraft",
+      "Departs from the operator's own pad in Palmer, not a third-party lodge",
+      "The lowest starting price of any glacier landing flight bookable near Anchorage"
+    ],
+    "includes": [
+      "40-45 minute helicopter flight with an experienced pilot",
+      "Glacier sightseeing en route",
+      "45 minutes on Knik Glacier",
+      "Microspikes for the ice"
+    ],
+    "excludes": [
+      "Transport from Anchorage",
+      "Food and drinks",
+      "Gratuities"
+    ],
+    "goodToKnow": [
+      "Individual seat weight limit is 300 lbs, and it is enforced.",
+      "Combined passenger weight is capped at 650 lbs in the three-seat helicopter and 900 lbs in the four-seat aircraft.",
+      "A party over the aircraft limit that has to be flown in two helicopters pays an additional $350.",
+      "Groups are limited to seven participants.",
+      "Departure is from Palmer, roughly a one-hour drive north of Anchorage. No hotel pickup is offered."
+    ],
+    "notSuitableFor": [
+      "Passengers over 300 lbs, which is the manufacturer's seat limit",
+      "Anyone unable to walk on uneven ice in microspikes"
+    ],
+    "notAllowed": [],
+    "toBring": [
+      "Warm layers and a windproof outer shell",
+      "Sunglasses",
+      "Closed-toe shoes that take a microspike",
+      "A camera"
+    ],
+    "meetingPoint": "Outbound Heli Adventures, end of Lindsey Circle, Palmer",
+    "meetingPointAddress": "Lindsey Circle, Palmer, AK 99645",
+    "meetingPointCoordinates": {
+      "latitude": 61.53712100000001,
+      "longitude": -148.976165
+    },
+    "meetingPoints": [
+      {
+        "name": "Open in Google Maps",
+        "mapsUrl": "https://maps.google.com/?q=@61.53712100000001,-148.976165",
+        "coordinates": {
+          "lat": 61.53712100000001,
+          "lng": -148.976165
+        }
+      }
+    ],
+    "itinerary": null,
+    "nextAvailableDate": "2026-09-04",
+    "badges": [],
+    "certified": false,
+    "officialTicket": false,
+    "gygOriginal": false,
+    "sellingRank": null,
+    "likelyToSellOut": false,
+    "topPick": false,
+    "topRated": false,
+    "bookedIn24Hours": 0,
+    "bookedRecentlyText": null,
+    "bookedRecentlyLabel": null,
+    "flags": {
+      "isCertifiedPartner": false,
+      "isEcoCertified": false,
+      "isGygOriginals": false,
+      "yourPick": false,
+      "promoted": false,
+      "elevated": false,
+      "bestSeller": false,
+      "isLikelyToSellOut": false,
+      "boostedNewTour": false,
+      "specialOffer": false,
+      "newActivity": false
+    },
+    "images": [
+      "/images/gyg/492083-0.webp"
+    ],
+    "sampleReviews": [
+      {
+        "id": 125638833,
+        "rating": 5,
+        "text": "We loved this ride and it was worth all the money we paid. The guide was friendly and explained us about the glaciers. He took us through different paths on the way and while coming back which was very good. On the way back, we glided in between the canyons! That was pretty cool! The landing in the glacier itself was awesome! We had never experienced anything like that. Guide was kind enough to put the microspikes chain ⛓️‍💥 to our shoes as soon as we landed. Overall I would highly recommend this ride!!!",
+        "reviewer": "Ashwini",
+        "country": "United States",
+        "date": "July 19, 2026",
+        "travelerType": null,
+        "media": [
+          "/images/reviews/81f589a0a65e.webp",
+          "/images/reviews/c284e3e23def.webp",
+          "/images/reviews/acfcd03047bd.webp",
+          "/images/reviews/fbcd850faf95.webp"
+        ]
+      },
+      {
+        "id": 125148934,
+        "rating": 5,
+        "text": "The trip was exceptional! Celebrating graduation with young adult sin! Laura was outstanding as was her coworker, Carly! This was a once in a lifetime made stellar by this crew!",
+        "reviewer": "Vicki",
+        "country": "United States",
+        "date": "July 4, 2026",
+        "travelerType": null,
+        "media": [
+          "/images/reviews/bc1ee815fb57.webp"
+        ]
+      },
+      {
+        "id": 124232201,
+        "rating": 5,
+        "text": "From the time my grandson and I parked our car at the arrival point, everyone was so friendly and helpful. We watched a short safety video first and then were ready to take off. Our pilot, Laura, was amazing! She was knowledgeable, kind, and fun, as well. As a senior with a bad knee, she helped me on the ice leading me while holding my hand. She went above and beyond! Thank you, Laura.",
+        "reviewer": "Nancy",
+        "country": "United States",
+        "date": "June 4, 2026",
+        "travelerType": null,
+        "media": []
+      },
+      {
+        "id": 124027056,
+        "rating": 5,
+        "text": "Absolutely incredible!! Christine is a phenomenally skilled, top tier pilot and great host. Our secondary pilot on board with us, Wes, was an awesome hang and made my husband and I’s first time on a helicopter easygoing. This experience is going to be hard to beat. The views are unbelievable. Unfortunately for our pocketbooks, we are hooked. This is a MUST experience if you’re in Palmer, and if you’re not in Palmer, I highly recommend taking the trip to get there.",
+        "reviewer": "Makaela",
+        "country": "United States",
+        "date": "May 28, 2026",
+        "travelerType": null,
+        "media": [
+          "/images/reviews/0a558daef57d.webp",
+          "/images/reviews/250a9641b628.webp"
+        ]
+      },
+      {
+        "id": 121893471,
+        "rating": 5,
+        "text": "Phenomenal experience from start to finish with Outbound Heli Adventures on their Knik Glacier tour! They were very communicative and flexible when plans had to change due to weather. They were patient and accommodating with our five-year-old daughter, which I am eternally grateful for. You can tell they genuinely care about their customers, and ensuring they get the most out of their once-in-a-lifetime experience!",
+        "reviewer": "Paige",
+        "country": "United States",
+        "date": "March 16, 2026",
+        "travelerType": null,
+        "media": []
+      },
+      {
+        "id": 117897220,
+        "rating": 5,
+        "text": "We enjoyed everything! Our first time in a helicopter was amazing and much smoother than we thought it would be. Landing on the glacier and being able to walk around was indescribable. it's something pictures just can't do justice to the breath and scope of it all. Our pilot was knowledgeable and answered all of questions no matter how random. Great experience overall!",
+        "reviewer": "Alfonso",
+        "country": "United States",
+        "date": "September 17, 2025",
+        "travelerType": null,
+        "media": []
+      },
+      {
+        "id": 117203496,
+        "rating": 5,
+        "text": "We originally booked the glacier landing, last trip of the day. I asked our pilot Evan if we could go over the glacier to see Prince William Sound, he called the base and made it happen (extra charge no worries!)… that was a SPECTACULAR addition and SO worth it!! That’s customers service 100%!!! Unbelievable experience, I’d do it again tomorrow!!",
+        "reviewer": "SueAnn",
+        "country": "United States",
+        "date": "August 25, 2025",
+        "travelerType": null,
+        "media": [
+          "/images/reviews/442c1045f802.webp",
+          "/images/reviews/c5714cf0c5ec.webp",
+          "/images/reviews/f1a2396c508d.webp",
+          "/images/reviews/e4e9b48d81ce.webp"
+        ]
+      },
+      {
+        "id": 114516437,
+        "rating": 5,
+        "text": "An unforgettable experience! Thanks to our pilot Evan who was very friendly and professional!",
+        "reviewer": "Magali",
+        "country": "France",
+        "date": "May 27, 2025",
+        "travelerType": null,
+        "media": [
+          "/images/reviews/822dacddd3f4.webp",
+          "/images/reviews/17a204ffde81.webp"
+        ]
+      }
+    ],
+    "scrapedAt": "2026-09-03T20:56:23.502Z",
+    "galleryImages": [
+      {
+        "src": "/images/gyg/492083-0.webp",
+        "alt": "A helicopter shut down on the ice of Knik Glacier, meltwater pools and Chugach peaks beyond"
+      },
+      {
+        "src": "/images/gyg/492083-1.webp",
+        "alt": "Two guests sitting on the glacier with their bare feet in the freezing turquoise meltwater"
+      },
+      {
+        "src": "/images/gyg/492083-2.webp",
+        "alt": "A family of eight posing on the glacier ice beside a blue pool, the red helicopter parked behind them"
+      },
+      {
+        "src": "/images/gyg/492083-3.webp",
+        "alt": "Guests walking on the snow with two small red helicopters parked further out on the glacier"
+      },
+      {
+        "src": "/images/gyg/492083-4.webp",
+        "alt": "A helicopter in flight above the Chugach Mountains under a soft, high overcast"
+      },
+      {
+        "src": "/images/gyg/t492083-x7.webp",
+        "alt": "Aerial view along Knik Glacier, turquoise meltwater channels braiding through the blue ice"
+      }
+    ],
+    "fullDescription": [
+      "This is the cheapest glacier landing on the site and, measured in minutes on the ice, one of the most generous: forty to forty-five minutes of flying and forty-five minutes on Knik Glacier itself. Outbound Heli Adventures flies from its own pad at the end of Lindsey Circle in Palmer, so you are dealing with the operator directly rather than checking in at a lodge.",
+      "Knik is one of the largest glaciers in southcentral Alaska — around twenty-five miles long and more than five miles across at its widest — and the flight out gives you enough time over it to understand the scale before you land on it. Pilots point out salmon in the river below, moose in the flats and Dall sheep on the valley walls.",
+      "Microspikes are handed out for the ice, which matters: forty-five minutes is long enough to walk somewhere rather than stand near the aircraft, and clean glacier ice is slick. Groups are capped at seven.",
+      "Weight rules here are stricter and more explicitly published than on most listings, and they are worth reading before you book — see the practical notes below."
+    ],
+    "faq": [
+      {
+        "q": "Why is this the cheapest tour on the site?",
+        "a": "Shorter flight time and a simpler product. There is no dogsled camp, no guided hike and no lunch — it is the aircraft, the pilot, the glacier and forty-five minutes to walk around. It also happens to give more ice time than tours costing 50 percent more."
+      },
+      {
+        "q": "What are the weight limits?",
+        "a": "A hard 300 lb limit per seat, plus a combined limit of 650 lbs in the three-passenger helicopter and 900 lbs in the four-passenger one. If your party exceeds an aircraft's total and needs a second helicopter, there is an additional $350 charge. Weigh in honestly at booking — it is a flight-safety number, not a formality."
+      },
+      {
+        "q": "Where exactly is the departure point?",
+        "a": "The operator's own pad at the very end of Lindsey Circle in Palmer, about an hour's drive north of Anchorage. Helicopters depart from that location, so there is no shuttle leg between check-in and the pad."
+      },
+      {
+        "q": "Do I need my own crampons?",
+        "a": "No. Microspikes are included and handed out before you walk on the ice. Bring shoes sturdy enough to take them — trainers with a soft sole are not ideal."
+      },
+      {
+        "q": "How big is Knik Glacier?",
+        "a": "Around twenty-five miles long and over five miles across at its widest, which makes it one of the largest glaciers in southcentral Alaska. It feeds the Knik River, which runs another twenty-five miles down to Knik Arm."
+      }
+    ],
+    "metaTitle": "Knik Glacier Helicopter Tour from Palmer",
+    "metaDescription": "The cheapest glacier landing near Anchorage: a 40-45 minute flight plus 45 minutes on Knik Glacier with microspikes. Weight limits, price and reviews.",
+    "keywords": [
+      "knik glacier helicopter tour from palmer",
+      "cheapest glacier helicopter tour alaska",
+      "knik glacier helicopter landing",
+      "palmer helicopter tour",
+      "outbound heli adventures knik glacier"
+    ]
+  },
+  {
+    "id": 412333,
+    "title": "Anchorage: Grand Knik Glacier Helicopter Tour with Landings",
+    "abstract": null,
+    "url": "https://www.getyourguide.com/anchorage-l978/knik-grand-knik-helicopter-tour-with-landings-t412333/",
+    "cityId": null,
+    "location": "Anchorage",
+    "coordinates": {
+      "latitude": 61.4341392,
+      "longitude": -148.7663726
+    },
+    "provider": "Alaska Helicopter Tours",
+    "startingPrice": 762,
+    "basePrice": 761.91,
+    "formattedStartingPrice": "$762",
+    "formattedBasePrice": "$762",
+    "currency": "USD",
+    "pricePrefix": "From",
+    "priceSuffix": "per person",
+    "priceCategory": "per person",
+    "rating": 4.9829565606765645,
+    "formattedRating": "5.0",
+    "reviewCount": 24,
+    "ratingDistribution": [],
+    "reviewerCategories": [],
+    "reviewTags": [],
+    "duration": "2 hours",
+    "freeCancellation": true,
+    "cancellationDescription": "Cancel up to 24 hours in advance for a full refund",
+    "guideLanguage": null,
+    "languages": [],
+    "description": "<p>Experience the stunning beauty of Alaska by helicopter ride with three different landing spots. Pass over Lake George, watch for wildlife, and realize the scale of the glacier ice wall. Take half an hour at each landing site to explore and snap photos. </p><p>\n</p><p>Fly from Alaska Glacier Lodge and capture aerial views of Alaska. Take in the natural beauty of Lake George, awarded as a Natural Landmark. Scour the valley floor, look for moose, and witness just how big everything is up North. </p><p>\n</p><p>Soar over an alpine meadow and capture a birds-eye view of the massive Knik glacier below. Spot bears foraging along the hillsides, moose roaming in the snow, and Dall sheep keeping warm among the elements. </p><p>\n</p><p>Drop down for the last landing at the azure-colored melt pools. See the deep blue ice, and learn about the life cycle of glaciers and their importance to life all over the globe. </p><p>\n</p><p>Explore the glacier with your guide before heading back to the Knik. </p>",
+    "highlights": [
+      "Three separate landings in one two-hour flight, not a single touchdown",
+      "A remote peak landing looking down the full length of Knik Glacier",
+      "A guided walk on the ice among the azure meltwater pools",
+      "High country reached without the hike, the river crossing or the scramble",
+      "All taxes, fees and handling charges included in the price"
+    ],
+    "includes": [
+      "Two-hour helicopter flight with three landings",
+      "Guided glacier hike",
+      "All taxes, fees and handling charges",
+      "Pilot and guide narration"
+    ],
+    "excludes": [
+      "Hotel pickup and drop-off from Anchorage",
+      "Food and drinks",
+      "Gratuities"
+    ],
+    "goodToKnow": [
+      "Arrive at Alaska Glacier Lodge thirty minutes before your scheduled departure time.",
+      "The lodge is at 29979 East Knik River Road, Palmer — roughly an hour north of Anchorage.",
+      "Transfers from Anchorage can be purchased separately by calling the operator after booking.",
+      "Pets, smoking, drones and open-toed shoes are not permitted.",
+      "Landing sites are chosen on the day for conditions; the three stops are not a fixed itinerary."
+    ],
+    "notSuitableFor": [
+      "Anyone unable to walk on uneven ground away from the aircraft",
+      "Guests in open-toed footwear"
+    ],
+    "notAllowed": [
+      "Pets",
+      "Smoking",
+      "Drones",
+      "Open-toed shoes"
+    ],
+    "toBring": [
+      "Weather-appropriate outdoor clothing",
+      "Closed-toe shoes with grip",
+      "Sunglasses",
+      "A camera and a spare battery"
+    ],
+    "meetingPoint": "Alaska Glacier Lodge, 29979 East Knik River Road, Palmer",
+    "meetingPointAddress": "29979 East Knik River Road, Palmer, AK 99645",
+    "meetingPointCoordinates": {
+      "latitude": 61.4341392,
+      "longitude": -148.7663726
+    },
+    "meetingPoints": [
+      {
+        "name": "Open in Google Maps",
+        "mapsUrl": "https://maps.google.com/?q=@61.4341392,-148.7663726",
+        "coordinates": {
+          "lat": 61.4341392,
+          "lng": -148.7663726
+        }
+      }
+    ],
+    "itinerary": [
+      {
+        "name": "Starting location:",
+        "description": "Alaska Glacier Lodge"
+      },
+      {
+        "name": "Knik Glacier",
+        "description": "Guided tour, Sightseeing, Helicopter flight (30 minutes)"
+      },
+      {
+        "name": "Inner Lake George, Alaska",
+        "description": "Guided tour, Sightseeing, Helicopter flight (30 minutes)"
+      },
+      {
+        "name": "Chugach Mountains",
+        "description": "Guided tour, Sightseeing, Helicopter flight (30 minutes)"
+      },
+      {
+        "name": "Arrive back at:",
+        "description": "Alaska Glacier Lodge"
+      }
+    ],
+    "nextAvailableDate": "2026-09-05",
+    "badges": [],
+    "certified": false,
+    "officialTicket": false,
+    "gygOriginal": false,
+    "sellingRank": null,
+    "likelyToSellOut": false,
+    "topPick": false,
+    "topRated": false,
+    "bookedIn24Hours": 0,
+    "bookedRecentlyText": null,
+    "bookedRecentlyLabel": null,
+    "flags": {
+      "isCertifiedPartner": false,
+      "isEcoCertified": false,
+      "isGygOriginals": false,
+      "yourPick": false,
+      "promoted": false,
+      "elevated": false,
+      "bestSeller": false,
+      "isLikelyToSellOut": false,
+      "boostedNewTour": false,
+      "specialOffer": false,
+      "newActivity": false
+    },
+    "images": [
+      "/images/gyg/t412333-x8.webp"
+    ],
+    "sampleReviews": [
+      {
+        "id": 127029115,
+        "rating": 5,
+        "text": "This was a TOP experience in superlatives!A very good pilot who gave a lot of explanations. We flew low above the ground, sometimes zigzagging between gorges, and made several stops, each one different. We felt alone in the world in an enchanting landscape!",
+        "reviewer": "Ann",
+        "country": "Belgium",
+        "date": "August 25, 2026",
+        "travelerType": null,
+        "media": [
+          "/images/reviews/5da992912651.webp",
+          "/images/reviews/e040190c3767.webp",
+          "/images/reviews/4a2d431821f1.webp",
+          "/images/reviews/95467a53d488.webp",
+          "/images/reviews/17e821032037.webp"
+        ]
+      },
+      {
+        "id": 126750896,
+        "rating": 5,
+        "text": "It was absolutely amazing! One of the best things I’ve did in my life! Great Guide and driver!",
+        "reviewer": "Jasmin",
+        "country": "Austria",
+        "date": "August 18, 2026",
+        "travelerType": null,
+        "media": []
+      },
+      {
+        "id": 124468422,
+        "rating": 5,
+        "text": "Fantastic, unique experience. Friendly, precise, and punctual staff. Exceptional, helpful, professional, and kind driver. Despite the language barrier, he supported us and guided us at every stop along the route",
+        "reviewer": "Gianni",
+        "country": "Italy",
+        "date": "June 11, 2026",
+        "travelerType": null,
+        "media": []
+      },
+      {
+        "id": 122884045,
+        "rating": 5,
+        "text": "Better than I could have imagined, well worth every penny. Sam was great, very knowledgeable and amiable. I’m looking forward to my next tour.",
+        "reviewer": "David",
+        "country": "United States",
+        "date": "April 21, 2026",
+        "travelerType": null,
+        "media": [
+          "/images/reviews/92ab6eb69771.webp",
+          "/images/reviews/9253302d1e47.webp",
+          "/images/reviews/587f1757ccef.webp",
+          "/images/reviews/a9b36f56b0c5.webp",
+          "/images/reviews/e03c966e1235.webp"
+        ]
+      },
+      {
+        "id": 108636046,
+        "rating": 5,
+        "text": "Excellent, up to expectations, the price is a bit high...",
+        "reviewer": "Miguel",
+        "country": "Spain",
+        "date": "August 14, 2024",
+        "travelerType": null,
+        "media": [
+          "/images/reviews/ac084253ff53.webp"
+        ]
+      },
+      {
+        "id": 103373745,
+        "rating": 5,
+        "text": "Had a great helicopter flight with 3 stops. Lots of explanation and very relaxed. An unforgettable trip!",
+        "reviewer": "Jurrie en",
+        "country": "Netherlands",
+        "date": "September 22, 2023",
+        "travelerType": null,
+        "media": []
+      },
+      {
+        "id": 126836241,
+        "rating": 5,
+        "text": null,
+        "reviewer": "Ido",
+        "country": "Israel",
+        "date": "August 20, 2026",
+        "travelerType": null,
+        "media": []
+      },
+      {
+        "id": 120880872,
+        "rating": 5,
+        "text": null,
+        "reviewer": "Vivian",
+        "country": "United States",
+        "date": "January 27, 2026",
+        "travelerType": null,
+        "media": [
+          "/images/reviews/b2f2a5629624.webp"
+        ]
+      }
+    ],
+    "scrapedAt": "2026-09-03T20:56:05.668Z",
+    "galleryImages": [
+      {
+        "src": "/images/gyg/t412333-x8.webp",
+        "alt": "A blue helicopter banking past the snow-covered spires of the Chugach Range"
+      },
+      {
+        "src": "/images/gyg/412333-2.webp",
+        "alt": "A couple standing arm in arm on the glacier at the edge of a vivid blue meltwater pool"
+      },
+      {
+        "src": "/images/gyg/t412333-x2.webp",
+        "alt": "A red Robinson R44 parked on the moraine directly beneath a wall of blue glacier ice"
+      },
+      {
+        "src": "/images/gyg/t412333-x3.webp",
+        "alt": "A line of guests on a tundra ridge looking out over the glacier below, lupines in the foreground"
+      },
+      {
+        "src": "/images/gyg/t412333-x11.webp",
+        "alt": "A guest in a yellow jacket leaping across a narrow blue crevasse on the glacier surface"
+      }
+    ],
+    "fullDescription": [
+      "The Grand is the same operator's one-hour Knik landing tour extended into a two-hour flight with three separate touchdowns. That structure is the point: instead of one glacier surface, you see the ice from three different vantages, including a remote peak that looks down the length of Knik Glacier.",
+      "One landing puts you on the glacier proper, among the azure melt pools that open across the surface through summer as the ice drains. Another puts you somewhere you could not otherwise reach on foot — a ridge or a high shoulder — with a guided walk rather than a stand-and-photograph stop.",
+      "Because it is helicopter-access throughout, you get the terrain without the approach: no eight-hour hike in, no river crossing, no scramble. It is the tour to pick if the reason you want a glacier is the view of it rather than the walk on it.",
+      "Check in at Alaska Glacier Lodge on East Knik River Road thirty minutes before your scheduled departure. As with every flight from this base, the drive out from Anchorage is about an hour and is not included."
+    ],
+    "faq": [
+      {
+        "q": "What makes this different from the standard Knik landing tour?",
+        "a": "Time and touchdowns. The standard tour is one hour with a single glacier landing; the Grand is two hours with three, including a peak landing and a guided walk. You pay roughly 45 percent more for double the airtime."
+      },
+      {
+        "q": "Are the three landing spots always the same?",
+        "a": "No. Pilots choose sites on the day for weather, snow and surface conditions. The shape of the tour — glacier surface, high vantage point, and a third stop — holds, but the exact places change."
+      },
+      {
+        "q": "Is the guided hike difficult?",
+        "a": "It is a walk rather than a hike in the mountaineering sense: short distances on uneven ice and rock, at a pace set by the group. Proper closed shoes matter more than fitness."
+      },
+      {
+        "q": "What are the melt pools?",
+        "a": "Through summer, meltwater collects in depressions on the glacier surface and drains through it, leaving pools of a startling turquoise. They are at their most vivid from late June through August, and they refreeze and vanish in winter."
+      },
+      {
+        "q": "When should I arrive?",
+        "a": "Thirty minutes before your scheduled departure, at the lodge front desk. Budget an hour on top of that for the drive from Anchorage, plus margin — the Old Glenn Highway is not a road to rush."
+      }
+    ],
+    "metaTitle": "Grand Knik Glacier Helicopter Tour — 2 Hours, 3 Landings",
+    "metaDescription": "Two hours over Knik Glacier with three landings, a peak vantage point and a guided ice walk. See what's included and how it differs from the 1-hour flight.",
+    "keywords": [
+      "grand knik glacier helicopter tour",
+      "knik glacier helicopter tour with landings",
+      "multiple glacier landings alaska",
+      "anchorage helicopter tour 2 hours",
+      "knik glacier peak landing"
+    ],
+    "imagesPrunedNote": "Unreferenced gallery photos were removed by the post-build image prune. Re-run _gyg_tour_gallery_portable.py + _selfhost_images.py before giving this tour a page. Pre-prune JSON: ../_scrape/gyg_anchorage_glacier_helicopter_10offers_full_with_images.json"
+  },
+  {
+    "id": 412348,
+    "title": "Anchorage: Knik Glacier Helicopter and Paddleboarding Tour",
+    "abstract": null,
+    "url": "https://www.getyourguide.com/anchorage-l978/anchorage-knik-glacier-helicopter-and-paddleboarding-tour-t412348/",
+    "cityId": null,
+    "location": "Anchorage",
+    "coordinates": {
+      "latitude": 61.4343349,
+      "longitude": -148.7660042
+    },
+    "provider": "Alaska Helicopter Tours",
+    "startingPrice": 1416,
+    "basePrice": 1415.91,
+    "formattedStartingPrice": "$1,416",
+    "formattedBasePrice": "$1,416",
+    "currency": "USD",
+    "pricePrefix": "From",
+    "priceSuffix": "per person",
+    "priceCategory": "per person",
+    "rating": 5,
+    "formattedRating": "5.0",
+    "reviewCount": 10,
+    "ratingDistribution": [],
+    "reviewerCategories": [],
+    "reviewTags": [],
+    "duration": "4 hours",
+    "freeCancellation": true,
+    "cancellationDescription": "Cancel up to 24 hours in advance for a full refund",
+    "guideLanguage": null,
+    "languages": [],
+    "description": "<p>Venture to Alaska’s frozen desert with a tour of the Knik Glacier Pools. Ride in a helicopter from Knik River Lodge and land on a glacier, before exploring the vast ice fields and going for a refreshing dip. Feel safe in the hands of your knowledgeable guide whether you’re new to paddling or a pro.</p><p>\n</p><p>Fly over Knik Glacier in a helicopter to admire the wintry landscape below. Gear up with a dry suit and safety equipment and jump into the freezing cold glacier water. Your guide will join you on a few jumps into the glacial lake until you’re comfortable safely getting in and out of the water.</p><p>\n</p><p>Next up is a paddling lesson and safety demonstration, so you know what to do if you lose your balance. Paddle solo into the lake for a serene trip through the frozen wonderland, and explore one of the biggest glaciers in south Alaska.</p>",
+    "highlights": [
+      "Paddleboard a turquoise meltwater pool on the surface of Knik Glacier",
+      "Dry suit, flotation device, leash, throw rope, board, paddle and microspikes all provided",
+      "Four hours on the ice with guides carrying bear-safety and medical rescue equipment",
+      "An optional plunge into glacial meltwater for anyone who wants it",
+      "Lunch included, on the glacier"
+    ],
+    "includes": [
+      "Round-trip helicopter flight",
+      "Experienced guides",
+      "Dry suit",
+      "All safety gear — flotation device, leash and throw rope",
+      "Paddleboard, paddle and microspikes",
+      "Lunch"
+    ],
+    "excludes": [
+      "Transport from Anchorage",
+      "Additional food and drinks",
+      "Gratuities"
+    ],
+    "goodToKnow": [
+      "The tour is weather-dependent and you are outdoors for up to four hours.",
+      "A moderate level of fitness and a tolerance for extreme cold are required.",
+      "Guides carry bear-safety and medical rescue gear as standard.",
+      "Transfers from Anchorage can be purchased separately by calling the operator after booking.",
+      "Weapons, sharp objects, backpacks, alcohol and drugs are not permitted."
+    ],
+    "notSuitableFor": [
+      "Non-swimmers",
+      "Anyone with a low tolerance for cold",
+      "Guests unable to balance on a board or get themselves back onto one"
+    ],
+    "notAllowed": [
+      "Weapons or sharp objects",
+      "Backpacks",
+      "Alcohol and drugs"
+    ],
+    "toBring": [
+      "Warm base layers to wear under the dry suit",
+      "Sunglasses and sunscreen — reflected glare off ice and water is intense",
+      "A refillable water bottle",
+      "A camera you are happy to have near water"
+    ],
+    "meetingPoint": "Alaska Glacier Lodge front desk, 29979 East Knik River Road, Palmer",
+    "meetingPointAddress": "29979 East Knik River Road, Palmer, AK 99645",
+    "meetingPointCoordinates": {
+      "latitude": 61.4343349,
+      "longitude": -148.7660042
+    },
+    "meetingPoints": [
+      {
+        "name": "Open in Google Maps",
+        "mapsUrl": "https://maps.google.com/?q=@61.4343349,-148.7660042",
+        "coordinates": {
+          "lat": 61.4343349,
+          "lng": -148.7660042
+        }
+      }
+    ],
+    "itinerary": null,
+    "nextAvailableDate": "2026-09-11",
+    "badges": [],
+    "certified": false,
+    "officialTicket": false,
+    "gygOriginal": false,
+    "sellingRank": null,
+    "likelyToSellOut": false,
+    "topPick": false,
+    "topRated": false,
+    "bookedIn24Hours": 0,
+    "bookedRecentlyText": null,
+    "bookedRecentlyLabel": null,
+    "flags": {
+      "isCertifiedPartner": false,
+      "isEcoCertified": false,
+      "isGygOriginals": false,
+      "yourPick": false,
+      "promoted": false,
+      "elevated": false,
+      "bestSeller": false,
+      "isLikelyToSellOut": false,
+      "boostedNewTour": false,
+      "specialOffer": false,
+      "newActivity": false
+    },
+    "images": [
+      "/images/gyg/412348-0.webp"
+    ],
+    "sampleReviews": [
+      {
+        "id": 123644774,
+        "rating": 5,
+        "text": "An absolute MUST do!! If you’re going to spend money on one thing make it this. We had the most amazing experience doing the helicopter ride and paddleboarding. Being one of the fist torus of the season it felt super special and the guides were beyond fabulous. Tom, Haylie and Taylor made it so fun, we were able to totally customise what we did with our time on the glacier and they helped us out with everything. All the guides were super knowledgeable about the glacier and shared all they knew which was super interesting. They showed us a “death hole” and a second paddle boarding pool where we were able to walk through a channel to get through. Everyone back at the base site and our pilots were super lovely and we couldn’t recommend this tour more!! Thank you for the lifelong memories!",
+        "reviewer": "Sophie",
+        "country": "Canada",
+        "date": "May 16, 2026",
+        "travelerType": null,
+        "media": [
+          "/images/reviews/d052604331e0.webp"
+        ]
+      },
+      {
+        "id": 107314023,
+        "rating": 5,
+        "text": "I recently took a helicopter tour to a glacier, and it was an unforgettable experience. Everything about the trip was perfect, from the breathtaking views to the smooth flight. The pilot was professional and knowledgeable, making us feel safe and informed throughout the journey. The sights were absolutely stunning, and landing on the glacier was like stepping into another world. I highly recommend this adventure to anyone looking for an extraordinary experience. Definitely a 10/10! And girls who assist us on the glassier were so friendly and give us amazing experiences of swimming and hiking on there, also be sure that u will have more then enough pictures from them, totally recommend and worth the price",
+        "reviewer": "Карина",
+        "country": "Ukraine",
+        "date": "June 15, 2024",
+        "travelerType": null,
+        "media": []
+      },
+      {
+        "id": 103307611,
+        "rating": 5,
+        "text": "Awesome ! Our guides were amazing. Very knowledgeable and super chill. My wife and I had the best time and would def recommend to anyone if they are visiting the area.",
+        "reviewer": "Matthew",
+        "country": "United States",
+        "date": "September 18, 2023",
+        "travelerType": null,
+        "media": []
+      },
+      {
+        "id": 126262551,
+        "rating": 5,
+        "text": null,
+        "reviewer": "GetYourGuide traveler",
+        "country": "Portugal",
+        "date": "August 5, 2026",
+        "travelerType": null,
+        "media": []
+      },
+      {
+        "id": 125281302,
+        "rating": 5,
+        "text": null,
+        "reviewer": "GetYourGuide traveler",
+        "country": "United States",
+        "date": "July 8, 2026",
+        "travelerType": null,
+        "media": []
+      },
+      {
+        "id": 124988404,
+        "rating": 5,
+        "text": null,
+        "reviewer": "GetYourGuide traveler",
+        "country": "Lithuania",
+        "date": "June 29, 2026",
+        "travelerType": null,
+        "media": []
+      },
+      {
+        "id": 116474774,
+        "rating": 5,
+        "text": null,
+        "reviewer": "GetYourGuide traveler",
+        "country": "United States",
+        "date": "August 5, 2025",
+        "travelerType": null,
+        "media": []
+      },
+      {
+        "id": 115494743,
+        "rating": 5,
+        "text": null,
+        "reviewer": "GetYourGuide traveler",
+        "country": "Canada",
+        "date": "July 4, 2025",
+        "travelerType": null,
+        "media": []
+      }
+    ],
+    "scrapedAt": "2026-09-03T20:56:19.414Z",
+    "galleryImages": [
+      {
+        "src": "/images/gyg/412348-0.webp",
+        "alt": "Two yellow helicopters parked on the glacier beside a wide turquoise meltwater lake"
+      },
+      {
+        "src": "/images/gyg/t412348-x0.webp",
+        "alt": "Two paddleboarders crossing a deep blue meltwater lake on the surface of the glacier"
+      },
+      {
+        "src": "/images/gyg/t412348-x1.webp",
+        "alt": "View through the helicopter windscreen towards a towering blue ice wall, the instrument panel lit in the foreground"
+      },
+      {
+        "src": "/images/gyg/t412348-x2.webp",
+        "alt": "Two guests in drysuits swimming in the bright blue meltwater beneath a glacier ice cliff"
+      },
+      {
+        "src": "/images/gyg/t412348-x3.webp",
+        "alt": "Paddleboards and a kayak drawn up on the ice beside a narrow glacial channel"
+      }
+    ],
+    "fullDescription": [
+      "Paddleboarding on a glacier sounds like a stunt until you see the pools. Through summer, meltwater collects on and beside Knik Glacier in basins deep enough and calm enough to paddle, hemmed in by walls of blue ice. This tour flies you to one of them and puts you on the water in a dry suit.",
+      "It is a four-hour outing built around that, with guides who carry bear-safety and medical rescue gear and who run the safety brief properly. Dry suit, flotation device, leash, throw rope, board, paddle and microspikes are all provided; lunch is included. Some guests get in the water as well as on it, which is a genuine cold-shock experience and entirely optional.",
+      "This is the most physically demanding tour on the site after the ice climbing. The operator asks for a moderate level of fitness and a tolerance for extreme cold, and it means both: you are outdoors for up to four hours on and around ice, in weather that can turn.",
+      "At $1,416 per person it is also the joint most expensive. What you are buying is a half-day with guides on a glacier that almost nobody else is standing on, not a flightseeing trip with an activity attached."
+    ],
+    "faq": [
+      {
+        "q": "Do I need to have paddleboarded before?",
+        "a": "No. The water is flat and enclosed and the guides run a full brief, so complete beginners manage. Balance and cold tolerance matter more than technique — you are on a board in a dry suit beside a wall of ice."
+      },
+      {
+        "q": "Is the dry suit enough to keep me warm?",
+        "a": "A dry suit keeps water out; it does not insulate on its own. Wear warm base layers underneath — a thermal top and bottom plus wool socks — and you will be comfortable. In just a t-shirt you will not be."
+      },
+      {
+        "q": "Do I have to get in the water?",
+        "a": "No. The plunge is optional and plenty of guests skip it. If you do go in, expect genuine cold shock: this is meltwater a few degrees above freezing, not a swim."
+      },
+      {
+        "q": "Why does it cost so much more than a landing tour?",
+        "a": "You are buying four hours of guided time, a full kit of technical gear, lunch and a considerably longer helicopter commitment. A straight landing tour is one hour of aircraft and thirty minutes on the ice."
+      },
+      {
+        "q": "What if the pool isn't there?",
+        "a": "Meltwater pools form and drain with the season and the weather, so guides pick a site on the day. Early season and after a cold snap the options are fewer; midsummer is when the pools are at their best."
+      }
+    ],
+    "metaTitle": "Knik Glacier Helicopter & Paddleboarding Tour",
+    "metaDescription": "Fly to Knik Glacier and paddleboard a turquoise meltwater pool in a dry suit. Four hours, all gear and lunch included. What to expect and what it costs.",
+    "keywords": [
+      "knik glacier paddle boarding tour",
+      "glacier paddleboarding alaska",
+      "knik glacier helicopter and paddleboarding",
+      "heli paddleboarding alaska",
+      "glacier meltwater pool paddleboard"
+    ],
+    "imagesPrunedNote": "Unreferenced gallery photos were removed by the post-build image prune. Re-run _gyg_tour_gallery_portable.py + _selfhost_images.py before giving this tour a page. Pre-prune JSON: ../_scrape/gyg_anchorage_glacier_helicopter_10offers_full_with_images.json"
+  },
+  {
+    "id": 1079145,
+    "title": "Anchorage: Helicopter Glacier Dogsledding Tour",
+    "abstract": null,
+    "url": "https://www.getyourguide.com/anchorage-l978/anchorage-helicopter-glacier-dogsledding-tour-t1079145/",
+    "cityId": 978,
+    "location": "Anchorage",
+    "coordinates": {
+      "latitude": 60.96783889999999,
+      "longitude": -149.119017
+    },
+    "provider": "Alpine Air Alaska",
+    "startingPrice": 769,
+    "basePrice": 769,
+    "formattedStartingPrice": "$769",
+    "formattedBasePrice": "$769",
+    "currency": "USD",
+    "pricePrefix": "From",
+    "priceSuffix": "per person",
+    "priceCategory": "per person",
+    "rating": 5,
+    "formattedRating": "5.0",
+    "reviewCount": 7,
+    "ratingDistribution": [],
+    "reviewerCategories": [],
+    "reviewTags": [],
+    "duration": "1.5 hours",
+    "freeCancellation": true,
+    "cancellationDescription": "Cancel up to 24 hours in advance for a full refund",
+    "guideLanguage": null,
+    "languages": [],
+    "description": "Begin your adventure with a scenic helicopter flight over Girdwood Valley, soaring into the Chugach Mountains. Capture breathtaking aerial views before landing on Punchbowl Glacier, a vast snowfield 3,200 feet above sea level.\n\nMeet the mushers and a team of Alaskan Huskies, trained by Seavey’s IdidaRide Kennel, owned by three-time Iditarod Champion Mitch Seavey. Watch as the mushers select dogs for the sleds, then embark on an exhilarating ride across the snow, surrounded by stunning glaciers and mountains.\n\nStand on the runners or sit back on the sled as your musher guides you through the icy landscape. After the ride, enjoy time playing with the adorable puppies and learn about the musher’s lifestyle on a quick tour of the camp.\n\nFly with confidence knowing Alpine Air Alaska is the region’s most experienced and safety-focused helicopter tour company, trusted for over 30 years for our expert local pilots and strong safety record.\n\nRoundtrip shuttle from Anchorage is not included but may be added for an additional fee.\nPlease call our office to schedule your transportation.",
+    "highlights": [
+      "Land on Punchbowl Glacier at around 3,200 feet in the Chugach Mountains",
+      "Roughly 85 minutes on the snow — a sled run, a camp tour and time with the team",
+      "Dogs and mushers from Mitch Seavey's IdidaRide kennel, a three-time Iditarod champion's operation",
+      "Sled dog puppies living at the summer camp, and time scheduled to meet them",
+      "Outer layers and boots provided, so no glacier kit needed"
+    ],
+    "includes": [
+      "Scenic helicopter flight to Punchbowl Glacier",
+      "90-minute glacier experience, around 85 minutes of it on the snow",
+      "Dogsled ride guided by Mitch Seavey's IdidaRide team",
+      "Time with the sled dogs and the summer puppies",
+      "Outer layers and boots",
+      "Small group departures, maximum 10 guests"
+    ],
+    "excludes": [
+      "Transport from Anchorage to Girdwood — available for an extra fee by calling the operator",
+      "Food and drinks",
+      "Gratuities"
+    ],
+    "goodToKnow": [
+      "Departure is from Girdwood Airport, 599 Mt. Hood Drive — about 40 miles and 45 minutes south of Anchorage on the Seward Highway.",
+      "A sled run needs a group of four to launch; parties of two or three may be moved to another departure with other travellers.",
+      "Solo travellers should call the operator, who will add them to an existing reservation.",
+      "Per FAA guidance, infants under 24 months may fly on a parent's lap; children aged two and over must have a seat purchased for them.",
+      "A surcharge may apply for guests over 250 lbs, for safety and comfort."
+    ],
+    "notSuitableFor": [
+      "Anyone unwilling to be moved to a different departure time to make up a sled group",
+      "Guests who cannot climb into the aircraft unaided"
+    ],
+    "notAllowed": [],
+    "toBring": [
+      "Warm clothing to layer under the provided outerwear",
+      "Sunglasses",
+      "A camera",
+      "Gloves"
+    ],
+    "meetingPoint": "Alpine Air Alaska hangar, Girdwood Airport, 599 Mt. Hood Drive, Girdwood",
+    "meetingPointAddress": "599 Mt. Hood Drive, Girdwood, AK 99587",
+    "meetingPointCoordinates": {
+      "latitude": 60.96783889999999,
+      "longitude": -149.119017
+    },
+    "meetingPoints": [
+      {
+        "name": "Open in Google Maps",
+        "mapsUrl": "https://maps.google.com/?q=@60.96783889999999,-149.119017",
+        "coordinates": {
+          "lat": 60.96783889999999,
+          "lng": -149.119017
+        }
+      }
+    ],
+    "itinerary": null,
+    "nextAvailableDate": "2027-07-18",
+    "badges": [],
+    "certified": false,
+    "officialTicket": false,
+    "gygOriginal": false,
+    "sellingRank": null,
+    "likelyToSellOut": false,
+    "topPick": false,
+    "topRated": false,
+    "bookedIn24Hours": 0,
+    "bookedRecentlyText": null,
+    "bookedRecentlyLabel": null,
+    "flags": {
+      "isCertifiedPartner": false,
+      "isEcoCertified": false,
+      "isGygOriginals": false,
+      "yourPick": false,
+      "promoted": false,
+      "elevated": false,
+      "bestSeller": false,
+      "isLikelyToSellOut": false,
+      "boostedNewTour": false,
+      "specialOffer": false,
+      "newActivity": false
+    },
+    "images": [
+      "/images/gyg/1079145-0.webp"
+    ],
+    "sampleReviews": [
+      {
+        "id": 124525537,
+        "rating": 5,
+        "text": "It is a unique experience 100% recommend. Great staff",
+        "reviewer": "Mariuska",
+        "country": "United States",
+        "date": "June 14, 2026",
+        "travelerType": null,
+        "media": []
+      },
+      {
+        "id": 124217171,
+        "rating": 5,
+        "text": "This was an unbelievable experience and something we will always remember! Very professionally run and so much time on the snow and with the dogs!",
+        "reviewer": "Michelle",
+        "country": "Australia",
+        "date": "June 4, 2026",
+        "travelerType": null,
+        "media": []
+      },
+      {
+        "id": 126704448,
+        "rating": 5,
+        "text": "Love it",
+        "reviewer": "GetYourGuide traveler",
+        "country": "United States",
+        "date": "August 16, 2026",
+        "travelerType": null,
+        "media": []
+      },
+      {
+        "id": 125713706,
+        "rating": 5,
+        "text": ".",
+        "reviewer": "GetYourGuide traveler",
+        "country": "Mexico",
+        "date": "July 21, 2026",
+        "travelerType": null,
+        "media": []
+      },
+      {
+        "id": 125451226,
+        "rating": 5,
+        "text": "This was an amazing experience. My favorite activity in Alaska. It is very expensive but it is worth it. The employees at the airport were very nice and helpful, the helicopter pilot was smiling and the guy leading the dogs on the sled was very nice answering questions.",
+        "reviewer": "GetYourGuide traveler",
+        "country": "Puerto Rico",
+        "date": "July 14, 2026",
+        "travelerType": null,
+        "media": []
+      },
+      {
+        "id": 125351234,
+        "rating": 5,
+        "text": null,
+        "reviewer": "GetYourGuide traveler",
+        "country": "United States",
+        "date": "July 10, 2026",
+        "travelerType": null,
+        "media": []
+      },
+      {
+        "id": 125105853,
+        "rating": 5,
+        "text": "It was INCREDIBLE",
+        "reviewer": "Thomas",
+        "country": "United States",
+        "date": "July 2, 2026",
+        "travelerType": null,
+        "media": []
+      }
+    ],
+    "scrapedAt": "2026-09-03T20:56:30.911Z",
+    "galleryImages": [
+      {
+        "src": "/images/gyg/1079145-0.webp",
+        "alt": "A dog team running past the Punchbowl Glacier sign beneath the Chugach peaks, an Alaska state flag flying at the camp"
+      },
+      {
+        "src": "/images/gyg/t1079145-x9.webp",
+        "alt": "A guest cradling a husky puppy in the warmth of a jacket at the glacier dog camp"
+      },
+      {
+        "src": "/images/gyg/1079145-2.webp",
+        "alt": "A guest in a red jacket kneeling in the snow to greet two harnessed sled dogs"
+      },
+      {
+        "src": "/images/gyg/1079145-3.webp",
+        "alt": "A team of Alaskan huskies in full stride pulling the sled across the snow"
+      },
+      {
+        "src": "/images/gyg/1079145-4.webp",
+        "alt": "A red helicopter flying above the snow-covered Chugach Mountains on the way to Punchbowl Glacier"
+      }
+    ],
+    "fullDescription": [
+      "This is the southern alternative to the Knik River dogsled tours, and the only one on the site that flies out of Girdwood — forty miles down the Seward Highway from Anchorage, about forty-five minutes' drive. You check in at the Alpine Air hangar at Girdwood Airport and fly up into the Chugach.",
+      "The destination is Punchbowl Glacier, a snowfield sitting at around 3,200 feet, where Mitch Seavey's IdidaRide kennel keeps a summer camp. Seavey is a three-time Iditarod champion, and the dogs on the glacier are working animals in their off-season conditioning rather than a display team.",
+      "The glacier experience runs about ninety minutes, of which roughly eighty-five are on the snow: a sled run with a musher guide, a tour of the camp, and time with the dogs. Sled dog puppies live at the camp through the season, and meeting them is a scheduled part of the visit rather than a happy accident.",
+      "Outer layers and boots are provided at the hangar, so you do not need to arrive dressed for a glacier. Groups are capped at ten. If you are a party of two or three, be aware that a sled run needs four people to launch — the operator may move you to another departure with other travellers."
+    ],
+    "faq": [
+      {
+        "q": "Where is Punchbowl Glacier?",
+        "a": "In the Chugach Mountains above Girdwood, at around 3,200 feet. It holds snow through the summer, which is what makes a June or July dogsled run possible. You cannot drive or walk to the camp — the helicopter is the access."
+      },
+      {
+        "q": "Are these real racing dogs?",
+        "a": "Yes. The camp is run by Mitch Seavey's IdidaRide kennel; Seavey has won the Iditarod three times, and the glacier camp is part of the team's summer conditioning. The mushers on the ice work with these dogs year-round."
+      },
+      {
+        "q": "How far is Girdwood from Anchorage?",
+        "a": "About 40 miles and roughly 45 minutes down the Seward Highway, which runs along Turnagain Arm and is one of the best drives in the state. Transport is not included but the operator can arrange a shuttle for an extra fee — call them after booking."
+      },
+      {
+        "q": "What if there are only two of us?",
+        "a": "A sled run needs four people to launch. The operator may contact you and move you to another convenient departure with another group. Solo travellers should call ahead and be added to an existing reservation rather than booking blind."
+      },
+      {
+        "q": "Do I need my own winter clothing?",
+        "a": "No. Outer layers and boots are provided at the hangar. Bring warm layers to wear underneath, plus gloves and sunglasses — the glare off a snowfield at 3,200 feet is strong even under cloud."
+      }
+    ],
+    "metaTitle": "Anchorage Helicopter Glacier Dogsledding — Punchbowl Glacier",
+    "metaDescription": "Fly from Girdwood to Punchbowl Glacier at 3,200 ft and mush with Mitch Seavey's IdidaRide team. 85 minutes on the snow, outerwear provided. Price and details.",
+    "keywords": [
+      "anchorage helicopter glacier dogsledding tour",
+      "punchbowl glacier dog sledding",
+      "girdwood helicopter dog sled",
+      "alaska summer dog sledding helicopter",
+      "ididaride glacier dog sled tour"
+    ],
+    "imagesPrunedNote": "Unreferenced gallery photos were removed by the post-build image prune. Re-run _gyg_tour_gallery_portable.py + _selfhost_images.py before giving this tour a page. Pre-prune JSON: ../_scrape/gyg_anchorage_glacier_helicopter_10offers_full_with_images.json"
+  },
+  {
+    "id": 1078337,
+    "title": "Anchorage: 90-min Flight with 2 Landings",
+    "abstract": null,
+    "url": "https://www.getyourguide.com/girdwood-l1609/anchorage-90-min-flight-with-2-landings-t1078337/",
+    "cityId": 1609,
+    "location": "Girdwood",
+    "coordinates": {
+      "latitude": 60.96783889999999,
+      "longitude": -149.119017
+    },
+    "provider": "Alpine Air Alaska",
+    "startingPrice": 844,
+    "basePrice": 844,
+    "formattedStartingPrice": "$844",
+    "formattedBasePrice": "$844",
+    "currency": "USD",
+    "pricePrefix": "From",
+    "priceSuffix": "per person",
+    "priceCategory": "per person",
+    "rating": 4.76883348655893,
+    "formattedRating": "4.8",
+    "reviewCount": 4,
+    "ratingDistribution": [],
+    "reviewerCategories": [],
+    "reviewTags": [],
+    "duration": "1.5 hours",
+    "freeCancellation": true,
+    "cancellationDescription": "Cancel up to 24 hours in advance for a full refund",
+    "guideLanguage": null,
+    "languages": [],
+    "description": "This premier 90-minute scenic tour includes two unforgettable landings—one on glacier ice and one on a high alpine ridge or a mountain lake —making it the perfect choice for families, photographers, and anyone looking to experience the best of Alaska’s backcountry.\n\nYour journey begins with a breathtaking flight over the Girdwood Valley and deep into the Chugach Mountains. Your first stop is a glacier landing, where you'll spend 25-30 minutes on the ice, surrounded by towering peaks and ancient blue ice—perfect for dramatic, once-in-a-lifetime photos.\n\nFrom there, you’ll fly to a remote alpine ridgeline for your second landing, with sweeping views of glacier valleys and untouched wilderness. This vantage point offers incredible photo opportunities and a chance to spot wildlife like moose, mountain goats, or even bears in the distance.\n\nThis is one of our most scenic and diverse tours—ideal for capturing the raw beauty of Alaska from both the ground and the sky.\n\nFly with confidence: For more than 30 years, Alpine Air Alaska has been the region’s safest and most trusted helicopter tour company, known for our expert pilots and an unwavering commitment to safety.\n\nRoundtrip shuttle service from Anchorage is not included, but is available for an additional fee.\nPlease call our office to schedule your transportation.",
+    "highlights": [
+      "A 90-minute scenic flight through the Chugach Mountains — the longest on this site",
+      "Two landings: one on glacier ice, one on an alpine ridge or a remote mountain lake",
+      "Around 30 minutes on the glacier surface",
+      "Blue meltwater pools scattered across the ice through spring and summer",
+      "Pilot commentary throughout, with wildlife spotting on the valley walls"
+    ],
+    "includes": [
+      "90-minute scenic helicopter flight",
+      "Two landings",
+      "Professional pilot commentary"
+    ],
+    "excludes": [
+      "Round-trip transport from Anchorage",
+      "Food and drinks",
+      "Gratuities"
+    ],
+    "goodToKnow": [
+      "Arrive 15 minutes before your scheduled flight time for the safety briefing.",
+      "There is a two-passenger minimum. Solo travellers need to call the operator if the departure is not already booked.",
+      "Departure is from the Alpine Air hangar at Girdwood Airport, about 45 minutes south of Anchorage.",
+      "The second landing site — ridge or lake — is chosen on the day for conditions.",
+      "Round-trip transport from Anchorage is not included."
+    ],
+    "notSuitableFor": [
+      "Solo travellers booking online without calling first",
+      "Anyone unable to step onto uneven ground from the aircraft"
+    ],
+    "notAllowed": [],
+    "toBring": [
+      "Warm layers for the landings",
+      "Sunglasses",
+      "A camera with a wide lens",
+      "Closed-toe shoes"
+    ],
+    "meetingPoint": "Alpine Air Alaska hangar, Girdwood Airport, Girdwood",
+    "meetingPointAddress": "599 Mt. Hood Drive, Girdwood, AK 99587",
+    "meetingPointCoordinates": {
+      "latitude": 60.96783889999999,
+      "longitude": -149.119017
+    },
+    "meetingPoints": [
+      {
+        "name": "Open in Google Maps",
+        "mapsUrl": "https://maps.google.com/?q=@60.96783889999999,-149.119017",
+        "coordinates": {
+          "lat": 60.96783889999999,
+          "lng": -149.119017
+        }
+      }
+    ],
+    "itinerary": null,
+    "nextAvailableDate": "2026-09-03",
+    "badges": [],
+    "certified": false,
+    "officialTicket": false,
+    "gygOriginal": false,
+    "sellingRank": null,
+    "likelyToSellOut": false,
+    "topPick": false,
+    "topRated": false,
+    "bookedIn24Hours": 0,
+    "bookedRecentlyText": null,
+    "bookedRecentlyLabel": null,
+    "flags": {
+      "isCertifiedPartner": false,
+      "isEcoCertified": false,
+      "isGygOriginals": false,
+      "yourPick": false,
+      "promoted": false,
+      "elevated": false,
+      "bestSeller": false,
+      "isLikelyToSellOut": false,
+      "boostedNewTour": false,
+      "specialOffer": false,
+      "newActivity": false
+    },
+    "images": [
+      "/images/gyg/1078337-0.webp"
+    ],
+    "sampleReviews": [
+      {
+        "id": 125317851,
+        "rating": 5,
+        "text": "This was an awe inspiring amazing activity. Very expensive, but still worth every penny.",
+        "reviewer": "Jeanne",
+        "country": "Canada",
+        "date": "July 9, 2026",
+        "travelerType": null,
+        "media": []
+      },
+      {
+        "id": 126798357,
+        "rating": 5,
+        "text": null,
+        "reviewer": "Ulrich",
+        "country": "Germany",
+        "date": "August 19, 2026",
+        "travelerType": null,
+        "media": []
+      },
+      {
+        "id": 125112173,
+        "rating": 5,
+        "text": "An absolute highlight! Perfectly organized and breathtaking scenery! All the staff were extremely competent and friendly! An unforgettable experience.",
+        "reviewer": "GetYourGuide traveler",
+        "country": "Switzerland",
+        "date": "July 3, 2026",
+        "travelerType": null,
+        "media": []
+      },
+      {
+        "id": 124930793,
+        "rating": 4,
+        "text": null,
+        "reviewer": "GetYourGuide traveler",
+        "country": "Germany",
+        "date": "June 28, 2026",
+        "travelerType": null,
+        "media": []
+      }
+    ],
+    "scrapedAt": "2026-09-03T20:56:37.297Z",
+    "galleryImages": [
+      {
+        "src": "/images/gyg/1078337-0.webp",
+        "alt": "Three guests with arms raised beside a red helicopter parked on the ice, an iceberg-strewn glacier lake in front of them"
+      },
+      {
+        "src": "/images/gyg/1078337-1.webp",
+        "alt": "Aerial view of the crevassed glacier surface with meltwater pools breaking through the white ice"
+      },
+      {
+        "src": "/images/gyg/1078337-2.webp",
+        "alt": "A red helicopter landed on a green alpine ridge above a wide glacier, a rainbow arcing over the valley"
+      },
+      {
+        "src": "/images/gyg/1078337-3.webp",
+        "alt": "A red helicopter flying low over a smooth blue ice basin at the head of the glacier"
+      },
+      {
+        "src": "/images/gyg/1078337-4.webp",
+        "alt": "Two red helicopters seen from above on the snow beside a run of deep blue crevasses"
+      }
+    ],
+    "fullDescription": [
+      "Ninety minutes of flying and two landings — one on glacier ice and one on a high alpine ridge or a remote mountain lake. It is the longest pure flightseeing tour on the site and the only one that puts you down on two entirely different kinds of terrain in a single trip.",
+      "The route runs out of Girdwood Valley and into the Chugach, over icefields, crevasse fields and, from spring through late summer, meltwater pools scattered blue across the white. Pilots narrate the whole way and watch for moose, bears and mountain goats on the slopes below.",
+      "The second landing is what distinguishes it. A glacier landing gives you ice; a ridge or lake landing gives you the view back across the icefield you have just flown over, which is a different and in some ways better photograph. Which one you get depends on conditions on the day.",
+      "This is a good fit for photographers and for anyone who would rather spend the money on airtime than on an activity. Arrive fifteen minutes early for the safety briefing. Note the two-passenger minimum: solo travellers need to call rather than book online."
+    ],
+    "faq": [
+      {
+        "q": "What are the two landings?",
+        "a": "One on glacier ice, where you spend around thirty minutes, and one on either a high alpine ridge or a remote mountain lake. The second site is picked on the day for weather and surface conditions."
+      },
+      {
+        "q": "Can I book as a solo traveller?",
+        "a": "Not directly online unless the departure already has another booking. There is a two-passenger minimum, so call the operator — they will tell you which slots already have someone on them."
+      },
+      {
+        "q": "Is 90 minutes worth the extra money over a one-hour tour?",
+        "a": "If flying is the point, yes. You get half again the airtime, a second landing on completely different terrain, and a route through the Chugach rather than a single valley. If standing on ice is the point, a Knik landing tour gives you more glacier time for less money."
+      },
+      {
+        "q": "When are the meltwater pools visible?",
+        "a": "Spring through late summer. They form as the surface drains and refreeze in winter, so a September flight will show fewer than a July one."
+      },
+      {
+        "q": "How early should I arrive?",
+        "a": "Fifteen minutes before the flight time for the briefing, plus the drive: Girdwood is 40 miles south of Anchorage on the Seward Highway, about 45 minutes without stops."
+      }
+    ],
+    "metaTitle": "Anchorage 90-Min Helicopter Flight, 2 Landings",
+    "metaDescription": "Ninety minutes over the Chugach from Girdwood with two landings: glacier ice plus an alpine ridge or lake. The longest flightseeing tour near Anchorage.",
+    "keywords": [
+      "anchorage 90 min flight with 2 landings",
+      "girdwood helicopter tours",
+      "chugach helicopter flightseeing",
+      "two glacier landings alaska",
+      "alpine air alaska flight"
+    ],
+    "imagesPrunedNote": "Unreferenced gallery photos were removed by the post-build image prune. Re-run _gyg_tour_gallery_portable.py + _selfhost_images.py before giving this tour a page. Pre-prune JSON: ../_scrape/gyg_anchorage_glacier_helicopter_10offers_full_with_images.json"
+  },
+  {
+    "id": 412340,
+    "title": "Anchorage: Knik Glacier Helicopter and Hiking Adventure Tour",
+    "abstract": null,
+    "url": "https://www.getyourguide.com/anchorage-l978/anchorage-knik-glacier-helicopter-and-hiking-adventure-tour-t412340/",
+    "cityId": null,
+    "location": "Anchorage",
+    "coordinates": {
+      "latitude": 61.4341392,
+      "longitude": -148.7663726
+    },
+    "provider": "Alaska Helicopter Tours",
+    "startingPrice": 771,
+    "basePrice": 771.47,
+    "formattedStartingPrice": "$771",
+    "formattedBasePrice": "$771",
+    "currency": "USD",
+    "pricePrefix": "From",
+    "priceSuffix": "per person",
+    "priceCategory": "per person",
+    "rating": 5,
+    "formattedRating": "5.0",
+    "reviewCount": 1,
+    "ratingDistribution": [],
+    "reviewerCategories": [],
+    "reviewTags": [],
+    "duration": "4 hours",
+    "freeCancellation": true,
+    "cancellationDescription": "Cancel up to 24 hours in advance for a full refund",
+    "guideLanguage": null,
+    "languages": [],
+    "description": "<p>Feed your adventurous heart on this round-trip helicopter ride and hiking tour from Anchorage. Explore the lush Alaskan wilds from the sky and on land, including the Chugach Range, Knik Glacier, Lake George, and more. Enjoy a flexible trip that can be customized to your interests. </p><p>\n</p><p>Start your trip by considering the best location for your hike and the itinerary with your guide. There are dozens of incredible high-alpine locations that are ideally suited for heli-hiking. Your guide will be there to help satisfy your interests.</p><p>\n</p><p>After deciding on your ideal hiking experience, you’ll board the helicopter and be whisked to the location. Upon arrival, your guide will help you out of the helicopter, which will then zip back to the lodge. </p><p>\n</p><p>Complete silence will quickly surround you. From here, take in the one-of-a-kind scenery and go explore with your guide. You’ll be traveling in a group size that ensures an optimum wilderness experience with a minimized human impact.</p><p>\n</p><p>This tour is all about you, so ask when you would like to stop, take a break, snap some pictures, or run up the ridge to see what is back there ─ more mountains and glaciers, but go for it. </p><p>\n</p><p>Your guide will be perfectly happy taking it easy and waiting with you for the perfect light, that cloud to move into position, or for wildlife to get just a bit closer, all while looking out for your safety. </p><p>\n</p><p>At the end of your adventure on land, you’ll return round-trip to the take-off location. </p>",
+    "highlights": [
+      "A guided hike above the timberline, reached only by helicopter",
+      "Landing site chosen with your guide to suit what you want to see",
+      "Long views over the Chugach Range and the length of Knik Glacier",
+      "Four hours in country that would take a full day to approach on foot",
+      "Snacks and water included along with the guide"
+    ],
+    "includes": [
+      "Helicopter flight and all flight fees",
+      "Guided hike above the timberline",
+      "Snacks",
+      "Water"
+    ],
+    "excludes": [
+      "Hotel pickup and drop-off from Anchorage",
+      "Lunch",
+      "Gratuities"
+    ],
+    "goodToKnow": [
+      "Departure is from Knik River Lodge, roughly an hour's drive north of Anchorage.",
+      "The landing spot is chosen on the day with your guide, so the hike can be pitched to your group.",
+      "You are outdoors for a good part of the four hours; Alaskan weather above the timberline changes fast.",
+      "Pets, smoking and open-toed shoes are not permitted.",
+      "This tour has few reviews so far — the operator's record across its other tours is strong, but this specific product has little feedback yet."
+    ],
+    "notSuitableFor": [
+      "Anyone not comfortable walking on uneven ground for an extended period",
+      "Guests in open-toed footwear"
+    ],
+    "notAllowed": [
+      "Pets",
+      "Smoking",
+      "Open-toed shoes"
+    ],
+    "toBring": [
+      "Proper walking shoes or boots",
+      "Weather-appropriate outdoor layers",
+      "Sunglasses",
+      "A camera"
+    ],
+    "meetingPoint": "Knik River Lodge, Palmer",
+    "meetingPointAddress": "Knik River Road, Palmer, AK 99645",
+    "meetingPointCoordinates": {
+      "latitude": 61.4341392,
+      "longitude": -148.7663726
+    },
+    "meetingPoints": [
+      {
+        "name": "Open in Google Maps",
+        "mapsUrl": "https://maps.google.com/?q=@61.4341392,-148.7663726",
+        "coordinates": {
+          "lat": 61.4341392,
+          "lng": -148.7663726
+        }
+      }
+    ],
+    "itinerary": null,
+    "nextAvailableDate": "2026-09-15",
+    "badges": [],
+    "certified": false,
+    "officialTicket": false,
+    "gygOriginal": false,
+    "sellingRank": null,
+    "likelyToSellOut": false,
+    "topPick": false,
+    "topRated": false,
+    "bookedIn24Hours": 0,
+    "bookedRecentlyText": null,
+    "bookedRecentlyLabel": null,
+    "flags": {
+      "isCertifiedPartner": false,
+      "isEcoCertified": false,
+      "isGygOriginals": false,
+      "yourPick": false,
+      "promoted": false,
+      "elevated": false,
+      "bestSeller": false,
+      "isLikelyToSellOut": false,
+      "boostedNewTour": false,
+      "specialOffer": false,
+      "newActivity": false
+    },
+    "images": [
+      "/images/gyg/412340-0.webp"
+    ],
+    "sampleReviews": [
+      {
+        "id": 126593222,
+        "rating": 5,
+        "text": "What a great trip. Me and my 15 year old son did this and it was spectacular. I could not recommend this enough!",
+        "reviewer": "John",
+        "country": "United States",
+        "date": "August 14, 2026",
+        "travelerType": null,
+        "media": [
+          "/images/reviews/af7a3bd2ef84.webp",
+          "/images/reviews/616b7aa6e18e.webp",
+          "/images/reviews/e24dd7d5fbed.webp",
+          "/images/reviews/abbf3c628378.webp"
+        ]
+      }
+    ],
+    "scrapedAt": "2026-09-03T20:56:12.950Z",
+    "galleryImages": [
+      {
+        "src": "/images/gyg/412340-0.webp",
+        "alt": "A group of hikers on the moraine below the broken ice front of Knik Glacier"
+      },
+      {
+        "src": "/images/gyg/t412340-x4.webp",
+        "alt": "A helicopter parked on a green alpine ridge with the glacier tongue running away into the mountains behind"
+      },
+      {
+        "src": "/images/gyg/t412340-x0.webp",
+        "alt": "A line of guests on a lupine-covered ridge looking out over the glacier and the Chugach Range"
+      },
+      {
+        "src": "/images/gyg/t412340-x1.webp",
+        "alt": "Two hikers on a green slope high above a glacier-fed lake"
+      },
+      {
+        "src": "/images/gyg/t412340-x2.webp",
+        "alt": "A guest sitting on a rock outcrop above the wide white sweep of the glacier"
+      }
+    ],
+    "fullDescription": [
+      "A helicopter is a good way to see a glacier and a very good way to reach a hike you could not otherwise get to. This four-hour tour uses it for the second: you fly out from Knik River Lodge, pick a landing spot with your guide based on what you want to see, and then walk.",
+      "The terrain is above the timberline — open country with long sightlines over the Chugach Range and Knik Glacier, the kind of place that takes a full day's approach on foot if it is reachable at all. Because the landing site is chosen rather than fixed, the hike can be pitched at your group: a gentle ridge walk or something with more in it.",
+      "Snacks and water are included, along with the guide and the flight. The walk is the substance of the tour rather than a stop between flights, so expect to be out in the weather for a good part of the four hours.",
+      "It has only a handful of reviews so far, which is worth knowing: the product is sound and the operator is the best-reviewed on this site across its other tours, but you will be booking on the operator's record rather than on this specific tour's."
+    ],
+    "faq": [
+      {
+        "q": "How hard is the hike?",
+        "a": "It depends on you. The landing site is chosen with your guide, so the walk can be an easy ridge amble or something with more climbing in it. Say what you want at check-in rather than at the landing site."
+      },
+      {
+        "q": "How is this different from the Grand tour's guided walk?",
+        "a": "Scale. The Grand tour is a two-hour flight with three short stops, one of which includes a walk. This is four hours built around the hike, with the flight as the means of getting there."
+      },
+      {
+        "q": "Do I need hiking experience?",
+        "a": "No, but you need shoes that will take rough ground and the willingness to be outdoors in changeable weather for several hours. It is not a technical outing."
+      },
+      {
+        "q": "Is lunch included?",
+        "a": "Snacks and water are. A full lunch is not, so eat properly before you drive out or bring something for the walk."
+      },
+      {
+        "q": "Why does it have so few reviews?",
+        "a": "It is a smaller-volume product than the operator's flagship landing tour, and it runs less often. Alaska Helicopter Tours' other tours on this site carry 85, 63 and 24 reviews at ratings between 4.93 and 4.99, so the operator record is solid even where this listing's own is thin."
+      }
+    ],
+    "metaTitle": "Knik Glacier Helicopter and Hiking Adventure from Anchorage",
+    "metaDescription": "Fly from Knik River Lodge to a landing site of your choosing and hike above the timberline over Knik Glacier. Four hours, guide, snacks and water included.",
+    "keywords": [
+      "knik glacier helicopter and hiking tour",
+      "heli hiking alaska",
+      "anchorage helicopter hiking adventure",
+      "guided glacier hike helicopter",
+      "knik river lodge helicopter hike"
+    ],
+    "imagesPrunedNote": "Unreferenced gallery photos were removed by the post-build image prune. Re-run _gyg_tour_gallery_portable.py + _selfhost_images.py before giving this tour a page. Pre-prune JSON: ../_scrape/gyg_anchorage_glacier_helicopter_10offers_full_with_images.json"
+  },
+  {
+    "id": 412355,
+    "title": "Anchorage: Knik Glacier Helicopter and Ice Climbing Tour",
+    "abstract": null,
+    "url": "https://www.getyourguide.com/anchorage-l978/knik-helicopter-and-ice-climbing-tour-t412355/",
+    "cityId": null,
+    "location": "Anchorage",
+    "coordinates": {
+      "latitude": 61.4341392,
+      "longitude": -148.7663726
+    },
+    "provider": "Alaska Helicopter Tours",
+    "startingPrice": 1416,
+    "basePrice": 1415.91,
+    "formattedStartingPrice": "$1,416",
+    "formattedBasePrice": "$1,416",
+    "currency": "USD",
+    "pricePrefix": "From",
+    "priceSuffix": "per person",
+    "priceCategory": "per person",
+    "rating": null,
+    "formattedRating": null,
+    "reviewCount": null,
+    "ratingDistribution": [],
+    "reviewerCategories": [],
+    "reviewTags": [],
+    "duration": "4 hours",
+    "freeCancellation": true,
+    "cancellationDescription": "Cancel up to 24 hours in advance for a full refund",
+    "guideLanguage": null,
+    "languages": [],
+    "description": "<p>Join your guide for an incredible Alaskan adventure climbing a steep wall of glacial ice. Take a scenic helicopter flight from Knik River Lodge over the Knik Glacier and start your ice climbing exploration.</p><p>\n</p><p>\n</p><p>Once at Knik Glacier, you're only a short walk away from many immense frozen waterfalls. Your guide will equip you with everything necessary to remain safe to ensure a successful ascent up the glacier wall. </p><p>\n</p><p>\n</p><p>Receive climbing instruction and a safety briefing, and learn how to climb on frozen waterfalls at your pace. Choose to either take on a steeper challenge or stay in your comfort zone on this unique Alaskan adventure. Lunch included.</p>",
+    "highlights": [
+      "Up to four hours climbing on Knik Glacier with a professional instructor",
+      "No ice-climbing experience needed — difficulty set to suit you",
+      "All technical equipment provided: axes, crampons, harness, helmet and ropes",
+      "Glacier ice cave exploration in winter, when the meltwater channels have frozen solid",
+      "Helicopter access to features that would take most of a day to reach on foot"
+    ],
+    "includes": [
+      "Round-trip helicopter flight from Knik River Lodge",
+      "Guided ice climbing with an instructor — two instructors in winter",
+      "All climbing equipment",
+      "Glacier ice cave exploration (winter only)",
+      "Lunch"
+    ],
+    "excludes": [
+      "Warm and waterproof clothing",
+      "Hotel pickup and drop-off from Anchorage",
+      "Gratuities"
+    ],
+    "goodToKnow": [
+      "A moderate level of fitness is required, but no ice-climbing experience is necessary.",
+      "Winter departures add ice cave exploration and carry a second instructor.",
+      "Warm and waterproof clothing is explicitly not included — bring your own layers.",
+      "Alaskan weather changes fast and you should be prepared for cold wind and rain.",
+      "Weapons, sharp objects, alcohol and drugs are not permitted."
+    ],
+    "notSuitableFor": [
+      "Anyone without a moderate level of fitness",
+      "Guests unwilling to wear a harness and helmet",
+      "Anyone without warm waterproof outer layers"
+    ],
+    "notAllowed": [
+      "Weapons or sharp objects",
+      "Alcohol and drugs"
+    ],
+    "toBring": [
+      "Warm, waterproof outer layers — these are not provided",
+      "Gloves, ideally two pairs",
+      "A hat and sunglasses",
+      "Sunscreen",
+      "Sturdy hiking shoes for the walk-in"
+    ],
+    "meetingPoint": "Knik River Lodge, Palmer",
+    "meetingPointAddress": "Knik River Road, Palmer, AK 99645",
+    "meetingPointCoordinates": {
+      "latitude": 61.4341392,
+      "longitude": -148.7663726
+    },
+    "meetingPoints": [
+      {
+        "name": "Open in Google Maps",
+        "mapsUrl": "https://maps.google.com/?q=@61.4341392,-148.7663726",
+        "coordinates": {
+          "lat": 61.4341392,
+          "lng": -148.7663726
+        }
+      }
+    ],
+    "itinerary": null,
+    "nextAvailableDate": "2026-09-12",
+    "badges": [],
+    "certified": false,
+    "officialTicket": false,
+    "gygOriginal": false,
+    "sellingRank": null,
+    "likelyToSellOut": false,
+    "topPick": false,
+    "topRated": false,
+    "bookedIn24Hours": 0,
+    "bookedRecentlyText": null,
+    "bookedRecentlyLabel": null,
+    "flags": {
+      "isCertifiedPartner": false,
+      "isEcoCertified": false,
+      "isGygOriginals": false,
+      "yourPick": false,
+      "promoted": false,
+      "elevated": false,
+      "bestSeller": false,
+      "isLikelyToSellOut": false,
+      "boostedNewTour": false,
+      "specialOffer": false,
+      "newActivity": false
+    },
+    "images": [
+      "/images/gyg/t412355-x0.webp"
+    ],
+    "sampleReviews": [],
+    "scrapedAt": "2026-09-03T20:56:16.550Z",
+    "galleryImages": [
+      {
+        "src": "/images/gyg/t412355-x0.webp",
+        "alt": "A climber roped into a blue ice gully on Knik Glacier, seen from above"
+      },
+      {
+        "src": "/images/gyg/t412355-x1.webp",
+        "alt": "A climber in a pink jacket standing at the lip of a blue crevasse with ice tools in both hands"
+      },
+      {
+        "src": "/images/gyg/t412355-x2.webp",
+        "alt": "Aerial view of a small climbing party working around a deep blue moulin in the glacier surface"
+      },
+      {
+        "src": "/images/gyg/t412355-x3.webp",
+        "alt": "A climber swinging an ice axe into a near-vertical wall of glacier ice"
+      },
+      {
+        "src": "/images/gyg/t412355-x4.webp",
+        "alt": "Two climbers on ropes descending into a crevasse on the glacier"
+      }
+    ],
+    "fullDescription": [
+      "Ice climbing on Knik Glacier, reached by helicopter, with no previous experience required. You meet your guide at Knik River Lodge, fly over the glacier, and land beside features that would take most of a day to walk to — frozen waterfalls, crevasse walls and seracs, all a short distance from where the helicopter puts you down.",
+      "You get up to four hours on the ice with an instructor — two of them in winter — and all the climbing equipment is provided: boots, crampons, axes, harness, helmet and ropes. The difficulty is yours to set. Guides will find something gentle and confidence-building or something steep, and most groups do both across an afternoon.",
+      "In winter the tour adds glacier ice cave exploration, which is only possible once meltwater channels have frozen solid and the surface is stable. That makes this one of the few tours on the site with a genuinely better winter version rather than a reduced one.",
+      "Lunch is included and eaten on the glacier — beside it in winter. Bring warm and waterproof clothing: the operator provides the technical gear but not the layers, and standing around on ice between climbs is where people get cold."
+    ],
+    "faq": [
+      {
+        "q": "Do I need to have climbed before?",
+        "a": "No. The instructor teaches the technique on the ice and sets the difficulty to your level. What you need is a moderate level of fitness and a willingness to be cold and wet for a few hours."
+      },
+      {
+        "q": "What is included in the equipment?",
+        "a": "Everything technical: ice axes, crampons, harness, helmet and ropes. Not included is clothing — warm and waterproof layers are explicitly your responsibility, and the listing says so."
+      },
+      {
+        "q": "Is the winter version better?",
+        "a": "Different, and arguably yes. Winter adds glacier ice cave exploration, which is only possible once the meltwater channels freeze solid, and puts a second instructor on the ice. Lunch moves to beside the glacier rather than on it."
+      },
+      {
+        "q": "How much of the four hours is climbing?",
+        "a": "Up to four hours on the ice in total, which includes the walk-in from the landing site, the teaching, the climbing itself and lunch. The actual time on the ropes depends on the group."
+      },
+      {
+        "q": "Why does this tour have no reviews yet?",
+        "a": "It is a low-volume specialist product from an operator whose other tours on this site carry 85, 63 and 24 reviews at 4.93 to 4.99. You are booking on the operator's record rather than this listing's, which is worth weighing."
+      }
+    ],
+    "metaTitle": "Knik Glacier Helicopter and Ice Climbing Tour from Anchorage",
+    "metaDescription": "Fly to Knik Glacier and ice climb with an instructor — no experience needed, all gear and lunch included, plus ice cave exploration in winter.",
+    "keywords": [
+      "knik glacier ice climbing",
+      "helicopter ice climbing alaska",
+      "glacier ice climbing anchorage",
+      "knik glacier ice cave tour",
+      "beginner ice climbing alaska"
+    ],
+    "imagesPrunedNote": "Unreferenced gallery photos were removed by the post-build image prune. Re-run _gyg_tour_gallery_portable.py + _selfhost_images.py before giving this tour a page. Pre-prune JSON: ../_scrape/gyg_anchorage_glacier_helicopter_10offers_full_with_images.json"
+  },
+  {
+    "id": 490542,
+    "title": "Palmer: \"Dogs and Glaciers\" Sledding and Helicopter Tour",
+    "abstract": null,
+    "url": "https://www.getyourguide.com/palmer-alaska-l156848/palmer-dogs-and-glaciers-sledding-and-helicopter-tour-t490542/",
+    "cityId": null,
+    "location": "Palmer Alaska",
+    "coordinates": {
+      "latitude": 61.53712100000001,
+      "longitude": -148.976165
+    },
+    "provider": "Outbound Heli Adventures, LLC",
+    "startingPrice": 1200,
+    "basePrice": 1200,
+    "formattedStartingPrice": "$1,200",
+    "formattedBasePrice": "$1,200",
+    "currency": "USD",
+    "pricePrefix": "From",
+    "priceSuffix": "per person",
+    "priceCategory": "per person",
+    "rating": null,
+    "formattedRating": null,
+    "reviewCount": null,
+    "ratingDistribution": [],
+    "reviewerCategories": [],
+    "reviewTags": [],
+    "duration": "4 hours",
+    "freeCancellation": true,
+    "cancellationDescription": "Cancel up to 7 days in advance for a full refund",
+    "guideLanguage": null,
+    "languages": [],
+    "description": "Experience flying down the Knik river valley and past the towering Pioneer Peak with views of The Sleeping Lady and Denali to Big Lake, Alaska, where you will be welcomed at The Dogstead! Home of respected Iditarod musher Nic Petit and his kennel of lovable pups.\n\nIn the winter, enjoy a ride atop snow packed trails under the alpenglow on a traditional dog sled. In the fall, take in the sights of changing leaves and termination dust and the feel of crisp air on your cheeks, as the dogs give you the ride of your life! Feel the rush of racing dogs and see why Nic and his pups consistently finish in the top 10 of every race they run!\n\nAfter your mushing experience, get back in the chopper and continue flightseeing your way out to the Knik Glacier for a landing and some trekking on exposed glacial ice. In the winter explore the ice caves as everything freezes solid and is blanketed in snow.\n\nManufacture's individual seat weight limit is 300lbs in all helicopters flown. We unfortunately cannot accommodate passengers over this legal limit and they will not be able to fly.",
+    "highlights": [
+      "Relax on a scenic helicopter flight",
+      "Experience the thrilling adventure that is sledding",
+      "Spend time with racing dogs"
+    ],
+    "includes": [
+      "Helicopter sightseeing",
+      "Sledding with dogs"
+    ],
+    "excludes": [],
+    "goodToKnow": [
+      "The 3 passenger helicopters have a total combined passenger weight limit of 600lbs. The 4 passenger helicopters have a total combined passenger weight limit of 900lbs. If your party exceeds the total weight limit of the aircraft and needs to be flown in multiple helicopters or larger aircraft to accommodate your party, there is an additional fee of $250."
+    ],
+    "notSuitableFor": [
+      "People over 300 lbs (136 kg)"
+    ],
+    "notAllowed": [],
+    "toBring": [],
+    "meetingPoint": "Outbound Heli Adventures, end of Lindsey Circle, Palmer",
+    "meetingPointAddress": "Lindsey Circle, Palmer, AK 99645",
+    "meetingPointCoordinates": {
+      "latitude": 61.53712100000001,
+      "longitude": -148.976165
+    },
+    "meetingPoints": [
+      {
+        "name": "Open in Google Maps",
+        "mapsUrl": "https://maps.google.com/?q=@61.53712100000001,-148.976165",
+        "coordinates": {
+          "lat": 61.53712100000001,
+          "lng": -148.976165
+        }
+      }
+    ],
+    "itinerary": null,
+    "nextAvailableDate": "2026-09-10",
+    "badges": [],
+    "certified": false,
+    "officialTicket": false,
+    "gygOriginal": false,
+    "sellingRank": null,
+    "likelyToSellOut": false,
+    "topPick": false,
+    "topRated": false,
+    "bookedIn24Hours": 0,
+    "bookedRecentlyText": null,
+    "bookedRecentlyLabel": null,
+    "flags": {
+      "isCertifiedPartner": false,
+      "isEcoCertified": false,
+      "isGygOriginals": false,
+      "yourPick": false,
+      "promoted": false,
+      "elevated": false,
+      "bestSeller": false,
+      "isLikelyToSellOut": false,
+      "boostedNewTour": false,
+      "specialOffer": false,
+      "newActivity": false
+    },
+    "images": [],
+    "sampleReviews": [],
+    "scrapedAt": "2026-09-03T20:56:34.069Z",
+    "galleryImages": [
+      {
+        "src": "/images/gyg/t490542-x4.webp",
+        "alt": "Aerial view of the glacier terminus at low sun, ridges of blue ice meeting the outwash plain"
+      }
+    ],
+    "imagesPrunedNote": "Unreferenced gallery photos were removed by the post-build image prune. Re-run _gyg_tour_gallery_portable.py + _selfhost_images.py before giving this tour a page. Pre-prune JSON: ../_scrape/gyg_anchorage_glacier_helicopter_10offers_full_with_images.json"
+  }
+]

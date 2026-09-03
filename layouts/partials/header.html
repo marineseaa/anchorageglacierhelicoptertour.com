@@ -1,0 +1,127 @@
+{{ $tour  := .tour | default dict }}
+{{ $site  := .Site }}
+{{ $page  := .Page }}
+{{/* Site-wide price floor, not the featured tour's own price (HOMEPAGE-
+     CONVERSION-PATTERNS.md §6) — DEFAULT, not opt-in. A featured tour that
+     isn't the cheapest option would otherwise silently advertise a non-floor
+     "From $X" and lose budget browsers. Set sitePriceFrom in hugo.toml. */}}
+{{ $price := $site.Params.sitePriceFrom | default $tour.formattedStartingPrice | default "" }}
+
+{{/* Pages that render the same component stack as the homepage (home + landing)
+     have local #availability, #how-it-works, etc. sections — use relative
+     anchors so nav scrolls within the page instead of jumping back to /. */}}
+{{ $hasLocalSections := or $page.IsHome (eq $page.Type "landing") }}
+{{ $anchorPrefix := cond $hasLocalSections "" "/" }}
+{{ $tagline := $page.Params.siteTagline | default $site.Params.siteTagline }}
+
+{{/* The transparent header + white logo/nav is designed for the homepage's dark
+     hero. Pages WITHOUT a hero (tour pages, guides, legal, 404) render the header
+     over a light body — white text merges invisibly with the background. Give
+     those pages a solid dark header from the start (codified 2026-07-11,
+     versaillespalace-tour build). */}}
+{{ $hasHero := or $page.IsHome (eq $page.Type "landing") }}
+
+<header class="site-header{{ if not $hasHero }} site-header--solid{{ end }}" id="site-header">
+  <div class="container">
+    <nav class="nav-inner" aria-label="Main navigation">
+
+      {{/* ── Logo mark ──
+           PER-SITE: draw something the niche actually evokes, and keep
+           layouts/partials/footer.html, layouts/404.html and static/favicon.svg
+           in sync with it. The default below is a deliberately NEUTRAL compass
+           rose — it used to be a Tokyo paper lantern (chochin), which shipped
+           unchanged on clones because an SVG *shape* carries no searchable word,
+           so neither the scaffold-leak grep nor _audit_rendered.py could see it.
+           (picoarierosunrisetours.com 2026-08-16) */}}
+      <a href="/" class="logo" aria-label="{{ $site.Params.siteName }} — home">
+        <span class="logo-text">
+          <span class="logo-primary">{{ upper $site.Params.siteName }}</span>
+          <span class="logo-tagline">{{ $tagline }}</span>
+        </span>
+      </a>
+
+      {{/* ── Desktop Navigation — anchors are relative on home/landing, absolute elsewhere ── */}}
+      <ul class="nav-links" role="list">
+        <li><a href="{{ $anchorPrefix }}#how-it-works" class="nav-link">How It Works</a></li>
+        <li><a href="{{ $anchorPrefix }}#gallery"      class="nav-link">Gallery</a></li>
+        <li><a href="{{ $anchorPrefix }}#comparison"   class="nav-link">Compare</a></li>
+        <li><a href="{{ $anchorPrefix }}#reviews"      class="nav-link">Reviews</a></li>
+        <li><a href="{{ $anchorPrefix }}#faq"          class="nav-link">FAQ</a></li>
+      </ul>
+
+      {{/* ── Header CTA — top-of-funnel, scrolls to widget ── */}}
+      {{ $bookingURL := printf "%s#availability" $anchorPrefix }}
+      {{ if eq .Page.Type "tour" }}
+        {{ $bookingURL = "#tour-booking" }}
+      {{ end }}
+      <a href="{{ $bookingURL }}"
+         class="btn-primary btn-sm nav-cta">
+        Book Now
+      </a>
+
+      {{/* ── Mobile Hamburger ── */}}
+      <button class="hamburger" id="hamburger-btn"
+              aria-label="Open navigation menu"
+              aria-expanded="false"
+              aria-controls="mobile-menu">
+        <span class="hamburger-line"></span>
+        <span class="hamburger-line"></span>
+        <span class="hamburger-line"></span>
+      </button>
+
+    </nav>
+  </div>
+
+  {{/* ── Mobile Menu ── */}}
+  <div class="mobile-backdrop" id="mobile-backdrop" aria-hidden="true"></div>
+  <div class="mobile-menu" id="mobile-menu" role="dialog" aria-label="Mobile navigation" aria-modal="true">
+    <div class="mobile-menu-header">
+      <span class="logo-primary" style="color: var(--deep-canal); font-family: var(--font-display);">
+        {{ $site.Params.siteName }}
+      </span>
+      <button class="mobile-close" id="mobile-close-btn" aria-label="Close navigation menu">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" width="20" height="20">
+          <line x1="18" y1="6" x2="6" y2="18"/>
+          <line x1="6" y1="6" x2="18" y2="18"/>
+        </svg>
+      </button>
+    </div>
+    <ul class="mobile-nav-list" role="list">
+      <li><a href="{{ $anchorPrefix }}#how-it-works" class="mobile-nav-link">How It Works</a></li>
+      <li><a href="{{ $anchorPrefix }}#gallery"      class="mobile-nav-link">Gallery</a></li>
+      <li><a href="{{ $anchorPrefix }}#comparison"   class="mobile-nav-link">Compare Options</a></li>
+      <li><a href="{{ $anchorPrefix }}#reviews"      class="mobile-nav-link">Reviews</a></li>
+      <li><a href="{{ $anchorPrefix }}#faq"          class="mobile-nav-link">FAQ</a></li>
+    </ul>
+    <div class="mobile-menu-footer">
+      {{ $mobileBookingURL := printf "%s#availability" $anchorPrefix }}
+      {{ if eq .Page.Type "tour" }}
+        {{ $mobileBookingURL = "#tour-booking" }}
+      {{ end }}
+      <a href="{{ $mobileBookingURL }}"
+         class="btn-primary w-full mobile-menu-cta">
+        Book Now{{ with $price }} — From {{ . }}{{ end }}
+      </a>
+    </div>
+  </div>
+
+</header>
+<script>
+(function(){
+  var hdr = document.getElementById('site-header');
+  if (!hdr) return;
+  var lastY = 0;
+  var threshold = 300;
+  window.addEventListener('scroll', function(){
+    var y = window.scrollY;
+    if (y < threshold) {
+      hdr.classList.remove('header-hidden');
+    } else if (y > lastY) {
+      hdr.classList.add('header-hidden');
+    } else {
+      hdr.classList.remove('header-hidden');
+    }
+    lastY = y;
+  }, {passive:true});
+})();
+</script>

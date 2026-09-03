@@ -1,0 +1,15 @@
+# Tours that get their own /tours/<slug>/ page.
+# Mirrors the ids in data/experiences_config.yaml plus the hub-only ones.
+# 490542 (Palmer "Dogs and Glaciers") is deliberately ABSENT: its listing carries
+# 3 highlights, 2 includes, no excludes and no what-to-bring, which cannot meet
+# the exit gate's tour-page depth requirement. It stays page-less and un-carded.
+tours_with_pages:
+  - 147264    # Knik Glacier Helicopter Tour with Landing ($522, 85 reviews, 4.99) — FEATURED
+  - 147273    # Helicopter and Glacier Dogsled Tour ($816, 63 reviews, 4.93)
+  - 492083    # From Palmer: Knik Glacier Helicopter Tour ($520, 31 reviews, 4.90) — price floor
+  - 412333    # Grand Knik Glacier Helicopter Tour with Landings ($762, 24 reviews, 4.98)
+  - 412348    # Knik Glacier Helicopter and Paddleboarding Tour ($1,416, 10 reviews, 5.00)
+  - 1079145   # Helicopter Glacier Dogsledding, Punchbowl ($769, 7 reviews, 5.00)
+  - 1078337   # 90-min Flight with 2 Landings, Girdwood ($844, 4 reviews, 4.77)
+  - 412340    # Knik Glacier Helicopter and Hiking Adventure ($771, 1 review, 5.00)
+  - 412355    # Knik Glacier Helicopter and Ice Climbing Tour ($1,416, no reviews yet)

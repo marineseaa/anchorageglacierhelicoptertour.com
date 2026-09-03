@@ -1,0 +1,125 @@
+{{ $tour := .tour | default dict }}
+{{ $site := .Site }}
+{{ $page := .Page }}
+
+{{/* Pages with local sections (home + landing) get relative anchors;
+     other page types keep absolute /# anchors that jump to the homepage. */}}
+{{ $hasLocalSections := or $page.IsHome (eq $page.Type "landing") }}
+{{ $anchorPrefix := cond $hasLocalSections "" "/" }}
+
+{{/* Primary tour for footer address — read from offers JSON via offersDataKey */}}
+{{ $primaryID := $site.Params.primaryTourID | default $site.Params.featuredTourID | int }}
+{{ $primaryTour := dict }}
+{{ $allTours := index $site.Data $site.Params.offersDataKey }}
+{{ range $allTours }}
+  {{ if eq (int .id) $primaryID }}
+    {{ $primaryTour = . }}
+  {{ end }}
+{{ end }}
+
+{{/* Contact address: landing pages show their own tour's meeting point (the
+     page promotes a specific provider/tour, not the sitewide primary).
+     Other page types keep the primary-tour address as a stable business
+     address. Page-level $contactAddress front matter wins over both. */}}
+{{/* Resolution order: page front matter -> SITE param -> the tour meeting point.
+     The site-param step is load-bearing. GYG's meetingPoints[].name is an OPTION
+     LABEL ("Ticket Only without Drinks or Dinner", "Original Session - First Row")
+     or the literal UI string "Open in Google Maps" -- almost never a postal
+     address -- and the scrapers copy it into meetingPointAddress verbatim. Without
+     a site-level override there was no way to suppress that junk except by editing
+     the offers JSON, so it shipped as <address> on every page.
+     (edinburghlochnessglencoehighlands 2026-05-12 -> recurred buenosairestangoshows
+     2026-08-25; scaffold-baked on the recurrence.) */}}
+{{ $contactAddress := $page.Params.contactAddress | default $site.Params.contactAddress | default "" }}
+{{ if not $contactAddress }}
+  {{ $candidate := "" }}
+  {{ if and (eq $page.Type "landing") $tour.meetingPointAddress }}
+    {{ $candidate = $tour.meetingPointAddress }}
+  {{ else }}
+    {{ $candidate = $primaryTour.meetingPointAddress }}
+  {{ end }}
+  {{/* Only accept something that can actually BE an address: a digit plus a
+       separator. An option label has neither. Fail closed -- printing nothing is
+       always better than printing a ticket type where the address goes. */}}
+  {{ if and $candidate (findRE `[0-9]` $candidate) (in $candidate ",") }}
+    {{ $contactAddress = $candidate }}
+  {{ end }}
+{{ end }}
+
+<footer class="site-footer" aria-label="Site footer">
+  <div class="container">
+    <div class="footer-grid">
+
+      {{/* ── Brand column ── */}}
+      <div class="footer-col footer-brand">
+        <a href="/" class="footer-logo" aria-label="{{ $site.Params.siteName }} — home">
+          <span class="footer-logo-text">{{ upper $site.Params.siteName }}</span>
+        </a>
+        <p class="footer-brand-desc">{{ $site.Params.footerDescription }}</p>
+      </div>
+
+      {{/* ── Quick links ── */}}
+      <div class="footer-col">
+        <h3 class="footer-col-title">Quick Links</h3>
+        <ul class="footer-links" role="list">
+          {{ range $site.Params.footerQuickLinks }}
+            {{ $href := .href }}
+            {{/* Rewrite "/#section" → "#section" on pages that have those sections inline */}}
+            {{ if and $hasLocalSections (hasPrefix $href "/#") }}
+              {{ $href = strings.TrimPrefix "/" $href }}
+            {{ end }}
+            <li><a href="{{ $href }}" class="footer-link">{{ .label }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
+
+      {{/* ── Contact ── */}}
+      <div class="footer-col">
+        <h3 class="footer-col-title">Contact</h3>
+        <ul class="footer-links" role="list">
+          <li>
+            <a href="mailto:{{ $site.Params.contactEmail }}" class="footer-link">
+              {{ $site.Params.contactEmail }}
+            </a>
+          </li>
+          <li>
+            <a href="{{ $anchorPrefix }}#availability" class="footer-link">
+              Book Online
+            </a>
+          </li>
+          {{ with $contactAddress }}
+          <li>
+            <address class="footer-address">
+              {{ . }}
+            </address>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+
+    </div>{{/* .footer-grid */}}
+  </div>
+
+  {{ partial "footer-seo-links.html" (dict "Site" $site "Page" $page) }}
+
+  <div class="footer-bottom">
+    <div class="container">
+      {{/* Affiliate disclosure sitewide, not only in /pages/terms/ — FTC
+           guidance asks for clear and conspicuous disclosure
+           (HOMEPAGE-CONVERSION-PATTERNS.md §6) — DEFAULT, not opt-in.
+           Set affiliateDisclosure in hugo.toml. */}}
+      {{ with $site.Params.affiliateDisclosure }}
+      <p class="footer-disclosure">{{ . }}</p>
+      {{ end }}
+      <p class="footer-copy">
+        &copy; {{ now.Year }} {{ $site.Params.siteName }}. All rights reserved.
+      </p>
+      <nav class="footer-legal" aria-label="Legal links">
+        {{ range $site.Params.footerLegalLinks }}
+        <a href="{{ .href }}" class="footer-legal-link">{{ .label }}</a>
+        {{ end }}
+      </nav>
+    </div>
+  </div>
+
+</footer>

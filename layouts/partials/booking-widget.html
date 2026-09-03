@@ -1,0 +1,106 @@
+{{ $tour := .tour | default dict }}
+{{ $site := .Site }}
+{{ $page := .Page }}
+{{ $tourID := $page.Params.tourId | default $site.Params.featuredTourID | default $site.Params.gygWidgetTourID }}
+
+{{/* ── Booking header (HOMEPAGE-CONVERSION-PATTERNS.md §3).
+     On the homepage this section sits directly under highlights.html, which
+     already names the tour and lists what is included — so the header here
+     is the date-picker instruction ("Check Availability & Prices"), not a
+     second sales pitch. Tour pages, which have no highlights block above the
+     widget, still derive "Book the <own tour>".
+     Duplication trap: price/rating/review count already appear in the trust
+     band above AND in this widget's own social-proof bar below — do NOT
+     repeat them in bookingOverline/featuredTourPitch.
+     Context-leakage trap: this partial is shared by the homepage, the guides
+     hub, landing pages and tour pages, so a flat pitch would render the
+     FEATURED tour's name/pitch on every page. Derive from $isFeatured. */}}
+{{ $isFeatured := or $page.IsHome (eq $page.Type "landing") }}
+{{ $tName := $tour.title | default "" }}
+{{ $bookingOverline := cond $isFeatured ($site.Params.bookingOverline | default "Our Pick for Most Visitors") "Book Your Experience" }}
+{{/* bookingHeading (hugo.toml) overrides the derived "Book the <tour>" heading
+     on FEATURED pages only — tour pages still name their own tour. The
+     highlights block directly above already names and sells the tour, so the
+     booking header says what to do here, not why (§3, revised 2026-08-21). */}}
+{{ $derivedHeading := cond (ne $tName "") (printf "Book the %s" $tName) "Check Availability & Prices" }}
+{{ $bookingHeading := cond $isFeatured ($site.Params.bookingHeading | default $derivedHeading) $derivedHeading }}
+{{ $bookingPitch := cond $isFeatured ($site.Params.featuredTourPitch | default "") ($tour.abstract | default "") }}
+
+{{/* ── Load widget snippet from assets/widgets/gyg-availability-<tourID>.txt ── */}}
+{{ $txtPath := printf "assets/widgets/gyg-availability-%v.txt" $tourID }}
+{{ $widgetHTML := "" }}
+{{ if fileExists $txtPath }}
+  {{ $widgetHTML = readFile $txtPath }}
+{{ end }}
+
+<section class="section booking-section" id="availability" aria-labelledby="booking-heading">
+  <div class="container container-narrow">
+    <div class="section-header fade-up">
+      <p class="section-overline">{{ $bookingOverline }}</p>
+      <h2 class="section-title" id="booking-heading">{{ $bookingHeading }}</h2>
+      {{ if $bookingPitch }}
+      <p class="section-subtitle">{{ $bookingPitch }}</p>
+      {{ else }}
+      <p class="section-subtitle">Select your preferred date and time. Instant confirmation — free cancellation up to 24 hours before departure.</p>
+      {{ end }}
+    </div>
+
+    <div class="booking-widget-wrapper fade-up">
+      {{/* The GYG loader script is already in <head> (partials/head.html, gated
+           on gygPartnerID, loads once for every page) — do NOT repeat it here.
+           Found tripled on a single page during /final-check (2026-07-11). */}}
+      {{ if $widgetHTML }}
+        {{ $widgetHTML | safeHTML }}
+      {{ else if $tourID }}
+        {{/* ── Inline availability widget (codified 2026-08-17,
+             champagnedaytoursfromparis) ──
+             Now that tour pages call this partial, a MISSING widget .txt used to
+             degrade to the generic `auto` widget below — a browse carousel where
+             the visitor asked for THIS tour's dates. The .txt is only a template
+             with three substitutions, so build it inline instead: a forgotten
+             widget file can no longer change which product the page sells.
+             Keep the "Powerd by" spelling — it is the portfolio fingerprint. */}}
+        {{ $fallbackHref := $tour.url | default (printf "https://www.getyourguide.com/%s/" ($site.Params.gygLocationSlug | default "")) }}
+        <div data-gyg-href="https://widget.getyourguide.com/default/availability.frame"
+             data-gyg-tour-id="{{ $tourID }}"
+             data-gyg-locale-code="en-US"
+             data-gyg-currency="USD"
+             data-gyg-widget="availability"
+             data-gyg-variant="vertical"
+             data-gyg-partner-id="{{ $site.Params.gygPartnerID }}"
+             data-gyg-cmp="{{ $site.Params.gygCampaign }}"><span>Powerd by <a target="_blank" rel="sponsored" href="{{ $fallbackHref }}">GetYourGuide</a></span></div>
+      {{ else }}
+        <div data-gyg-widget="auto"
+             data-gyg-partner-id="{{ $site.Params.gygPartnerID }}"
+             data-gyg-cmp="{{ $site.Params.gygCampaign }}"></div>
+      {{ end }}
+    </div>
+
+    {{/* ── Social proof trust bar ── */}}
+    {{ $rating := $tour.rating | default 0 }}
+    {{ $reviewCount := $tour.reviewCount | default 0 }}
+    {{ if $rating }}
+    <div class="booking-social-proof fade-up">
+      <div class="social-proof-item">
+        <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-hidden="true" class="social-proof-star">
+          <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>
+        </svg>
+        <strong>{{ printf "%.1f" $rating }}/5</strong> from {{ lang.FormatNumber 0 $reviewCount }} verified reviews
+      </div>
+      <div class="social-proof-item">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16" aria-hidden="true">
+          <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/>
+        </svg>
+        Guests from <strong>75+ countries</strong>
+      </div>
+      <div class="social-proof-item">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16" aria-hidden="true">
+          <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+        </svg>
+        {{ with $tour.includes }}<strong>Includes</strong> {{ delimit (first 2 .) " · " | truncate 70 }}{{ else }}<strong>Instant confirmation</strong> · mobile voucher{{ end }}
+      </div>
+    </div>
+    {{ end }}
+
+  </div>
+</section>

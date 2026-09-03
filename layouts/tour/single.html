@@ -1,0 +1,309 @@
+{{ define "main" }}
+{{- $allTours := index .Site.Data .Site.Params.offersDataKey -}}
+{{- $tourID := .Params.tourId -}}
+{{- $tour := dict -}}
+
+{{- range $allTours -}}
+  {{- if eq (int .id) (int $tourID) -}}
+    {{- $tour = . -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $site := .Site -}}
+{{- $featuredID := $site.Params.featuredTourID | default $site.Params.gygWidgetTourID -}}
+{{- $txtPath := printf "assets/widgets/gyg-availability-%v.txt" $featuredID -}}
+{{- $partnerID := "" -}}
+{{- $campaign := $site.Params.gygCampaign | default "" -}}
+{{- if fileExists $txtPath -}}
+  {{- $widgetHTML := readFile $txtPath -}}
+  {{- $match := index (findRE `data-gyg-partner-id="[^"]+"` $widgetHTML) 0 -}}
+  {{- $partnerID = replaceRE `data-gyg-partner-id="([^"]+)"` "$1" $match -}}
+  {{- $cmpMatch := index (findRE `data-gyg-cmp="[^"]+"` $widgetHTML) 0 -}}
+  {{- if $cmpMatch -}}
+    {{- $campaign = replaceRE `data-gyg-cmp="([^"]+)"` "$1" $cmpMatch -}}
+  {{- end -}}
+{{- end -}}
+
+{{/* Tour page booking link — the BARE GYG URL only; partner_id/utm/cmp are appended
+     at runtime by js/main.js (data-gyg-href) so they never sit in static HTML (/final-check §4). */}}
+
+<article class="tour-page">
+  <div class="container">
+
+    {{/* Breadcrumb */}}
+    <div class="tour-breadcrumb">
+      {{/* Middle crumb is a PARAM, not the scaffold word. It used to be the literal
+           "Experiences" pointing at /tours/, so on every clone it named something the
+           hub page itself never called itself. Set toursBreadcrumbLabel per site.
+           (Reported on ziontoursfromlasvegas.com 2026-08-21.) */}}
+      <a href="/">Home</a> → <a href="/tours/">{{ $site.Params.toursBreadcrumbLabel | default "Tours" }}</a> → <span>{{ $tour.title }}</span>
+    </div>
+
+    <h1 class="tour-title">{{ $tour.title }}</h1>
+
+    {{- if $tour.rating -}}
+    <div class="tour-rating-summary">
+      <div class="tour-stars">
+        {{- range seq 5 -}}
+          <svg viewBox="0 0 24 24" fill="currentColor" width="20" height="20">
+            <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>
+          </svg>
+        {{- end -}}
+      </div>
+      <span class="tour-rating-text">{{ printf "%.1f" $tour.rating }} ({{ lang.FormatNumber 0 $tour.reviewCount }} verified reviews)</span>
+    </div>
+    {{- end -}}
+
+    {{/* Image Gallery — 1 big + 4 small (2 per row).
+         Prefer per-tour curated galleryImages ([{src,alt}, …], 5 distinct photos)
+         so each tour page shows its own imagery; fall back to the GYG images[]
+         (string URLs) when no curated set exists. */}}
+    {{- $gallery := $tour.galleryImages | default (apply ($tour.images | default slice) "dict" "src" "." "alt" $tour.title) -}}
+    {{- with $gallery -}}
+    {{ $first := index . 0 }}
+    {{ $mainImg := partial "img-src.html" (dict "src" $first.src "alt" $first.alt "Site" $site) }}
+    <div class="tour-gallery">
+      <div class="tour-gallery-main">
+        <img src="{{ $mainImg.src }}" alt="{{ $mainImg.alt }}" loading="eager" width="800" height="400">
+      </div>
+      {{- if gt (len .) 1 -}}
+      <div class="tour-gallery-grid">
+        {{- range first 4 (after 1 .) -}}
+        {{ $gridImg := partial "img-src.html" (dict "src" .src "alt" .alt "Site" $site) }}
+        <img src="{{ $gridImg.src }}" alt="{{ $gridImg.alt }}" loading="lazy" width="400" height="200">
+        {{- end -}}
+      </div>
+      {{- end -}}
+    </div>
+    {{- end -}}
+
+    {{/* NO booking-widget / alt-tours partial on tour pages — deliberate.
+         Marina's standing instruction (2026-08-17): tour pages are built to the
+         ORIGINAL contract and convert through the sidebar booking card, whose
+         "Check Availability & Book" CTA links straight to this tour's own GYG
+         page. Embedding an availability calendar + an auto widget here was tried
+         and rejected. The per-page-tour widget rule applies to GUIDE pages only
+         (layouts/guides/single.html + guides/list.html).
+         Do not "fix" this back — see
+         memory/feedback_widgets_on_guide_pages_only.md */}}
+
+    <div class="tour-content-wrapper">
+
+      {{/* Main Content */}}
+      <div class="tour-main-content">
+
+        <section class="tour-section">
+          <h2>About This Experience</h2>
+          {{- with $tour.fullDescription -}}
+            {{- range . -}}<p class="tour-description">{{ . }}</p>{{- end -}}
+          {{- else -}}
+            <p class="tour-description">{{ $tour.abstract }}</p>
+          {{- end -}}
+        </section>
+
+        {{- with $tour.highlights -}}
+        <section class="tour-section">
+          <h2>Highlights</h2>
+          <ul class="tour-highlights">
+            {{- range . -}}
+            <li>{{ . }}</li>
+            {{- end -}}
+          </ul>
+        </section>
+        {{- end -}}
+
+        {{- with $tour.includes -}}
+        <section class="tour-section">
+          <h2>What's Included</h2>
+          <ul class="tour-includes">
+            {{- range . -}}
+            <li>✓ {{ . }}</li>
+            {{- end -}}
+          </ul>
+        </section>
+        {{- end -}}
+
+        {{- with $tour.excludes -}}
+        <section class="tour-section">
+          <h2>Not Included</h2>
+          <ul class="tour-excludes">
+            {{- range . -}}
+            <li>{{ . }}</li>
+            {{- end -}}
+          </ul>
+        </section>
+        {{- end -}}
+
+        {{- with $tour.toBring -}}
+        <section class="tour-section">
+          <h2>What to Bring</h2>
+          <ul class="tour-to-bring">
+            {{- range . -}}
+            <li>{{ . }}</li>
+            {{- end -}}
+          </ul>
+        </section>
+        {{- end -}}
+
+        {{- with $tour.goodToKnow -}}
+        <section class="tour-section">
+          <h2>Good to Know &amp; Caveats</h2>
+          <ul class="tour-good-to-know">
+            {{- range . -}}
+            <li>{{ . }}</li>
+            {{- end -}}
+          </ul>
+        </section>
+        {{- end -}}
+
+        {{- with $tour.notSuitableFor -}}
+        <section class="tour-section tour-not-suitable">
+          <h2>Not Suitable For</h2>
+          <ul>
+            {{- range . -}}
+            <li>{{ . }}</li>
+            {{- end -}}
+          </ul>
+        </section>
+        {{- end -}}
+
+        {{- with $tour.meetingPoint -}}
+        <section class="tour-section">
+          <h2>Meeting Point</h2>
+          <p>{{ . }}</p>
+        </section>
+        {{- end -}}
+
+        {{- with $tour.sampleReviews -}}
+        <section class="tour-section tour-reviews">
+          <h2>What Travelers Say</h2>
+          <p class="tour-reviews-summary">Rated <strong>{{ printf "%.1f" $tour.rating }}/5</strong> by {{ lang.FormatNumber 0 $tour.reviewCount }} verified GetYourGuide travelers.</p>
+          <div class="tour-reviews-list">
+            {{- range first 3 . -}}
+            {{- if .text -}}
+            <blockquote class="tour-review">
+              <div class="tour-review-stars" aria-label="{{ .rating }} out of 5 stars">
+                {{- range seq (int .rating) -}}<svg viewBox="0 0 24 24" fill="currentColor" width="15" height="15"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>{{- end -}}
+              </div>
+              <p>{{ .text }}</p>
+              <cite>— {{ .reviewer }}{{ with .date }}, {{ substr . 0 7 }}{{ end }}</cite>
+            </blockquote>
+            {{- end -}}
+            {{- end -}}
+          </div>
+        </section>
+        {{- end -}}
+
+        {{- with $tour.faq -}}
+        <section class="tour-section tour-faq" id="tour-faq">
+          <h2>Frequently Asked Questions</h2>
+          <div class="tour-faq-list">
+            {{- range . -}}
+            <details class="tour-faq-item">
+              <summary>{{ .q }}</summary>
+              <div class="tour-faq-answer"><p>{{ .a }}</p></div>
+            </details>
+            {{- end -}}
+          </div>
+        </section>
+        {{- /* FAQPage JSON-LD is emitted in partials/structured-data.html (tour branch). */ -}}
+        {{- end -}}
+
+      </div>
+
+      {{/* Sidebar — bottom-of-funnel booking card */}}
+      <aside class="tour-sidebar">
+
+        <div class="tour-booking-card" id="tour-booking">
+          <div class="tour-price">
+            <span class="tour-price-label">From</span>
+            <span class="tour-price-amount">{{ $tour.formattedStartingPrice }}</span>
+            {{/* Read the data, never hardcode (codified 2026-08-15, mountfujiprivatetours):
+                 hero.html / comparison.html / sticky-cta.html all honour
+                 $tour.priceCategory, and this one printed a literal "per person" — so on
+                 any private-charter, boat-hire or per-vehicle niche the tour page
+                 understated a whole-vehicle price as a per-head one (~4x on a $309 car). */}}
+            <span class="tour-price-unit">{{ $tour.priceCategory | default "per person" }}</span>
+          </div>
+
+          {{- with $tour.duration -}}
+          <div class="tour-detail-item">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="20" height="20">
+              <circle cx="12" cy="12" r="10"/>
+              <polyline points="12 6 12 12 16 14"/>
+            </svg>
+            <span>{{ . }}</span>
+          </div>
+          {{- end -}}
+
+          {{- if $tour.freeCancellation -}}
+          <div class="tour-detail-item">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="20" height="20">
+              <polyline points="20 6 9 17 4 12"/>
+            </svg>
+            <span>Free cancellation</span>
+          </div>
+          {{- end -}}
+
+          {{/* STATIC bare href + data-gyg-href (codified 2026-08-16, mountfujiprivatetours):
+               main.js upgrades the href in place with partner_id/utm/cmp, so tracking params
+               still never sit in static HTML — but the href must be PRESENT. Shipping only
+               data-gyg-href makes this element not a link at all: no pointer cursor, not
+               keyboard-focusable, not announced as a link, and a click does nothing whenever
+               JS is slow, blocked or disabled. This is the tour page's PRIMARY conversion
+               CTA, so that silently loses the booking. */}}
+          <a href="{{ $tour.url }}" data-gyg-href="{{ $tour.url }}" class="btn-primary w-full" target="_blank" rel="sponsored nofollow noopener noreferrer">
+            Check Availability & Book
+          </a>
+
+          <p class="tour-booking-note">You'll be redirected to our secure booking partner to complete your booking.</p>
+        </div>
+
+        {{- with $tour.badges -}}
+        <div class="tour-badges">
+          {{- range . -}}
+          <span class="tour-badge">{{ . }}</span>
+          {{- end -}}
+        </div>
+        {{- end -}}
+
+      </aside>
+    </div>
+
+    {{/* Related Tours */}}
+    <section class="related-tours">
+      <h2 class="related-tours-title">{{ $site.Params.relatedToursTitle | default "Explore More Tours" }}</h2>
+      <div class="related-tours-grid">
+        {{- $currentTourID := $tourID -}}
+        {{- range .Site.Pages -}}
+          {{- if and (eq .Type "tour") (ne (int .Params.tourId) (int $currentTourID)) -}}
+            {{- $relatedTourID := .Params.tourId -}}
+            {{- $relatedTourData := dict -}}
+            {{- range $allTours -}}
+              {{- if eq (int .id) (int $relatedTourID) -}}
+                {{- $relatedTourData = . -}}
+              {{- end -}}
+            {{- end -}}
+            {{- $relatedPage := . -}}
+            {{- with $relatedTourData -}}
+            <a href="{{ $relatedPage.RelPermalink }}" class="related-tour-card">
+              {{- with .images -}}
+              {{ $relImg := partial "img-src.html" (dict "src" (index . 0) "alt" $relatedTourData.title "Site" $site) }}
+              <img src="{{ $relImg.src }}" alt="{{ $relImg.alt }}" loading="lazy">
+              {{- end -}}
+              <h3>{{ $relatedTourData.title }}</h3>
+              <p class="related-tour-price">From {{ $relatedTourData.formattedStartingPrice }}</p>
+            </a>
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+      </div>
+    </section>
+
+    <div class="tour-back-link">
+      <a href="/tours/">{{ $site.Params.tourBackLinkText | default "← Browse All Tours" }}</a>
+    </div>
+
+  </div>
+</article>
+{{ end }}

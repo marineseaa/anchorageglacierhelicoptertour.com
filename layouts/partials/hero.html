@@ -1,0 +1,101 @@
+{{ $tour := .tour | default dict }}
+{{ $site := .Site }}
+{{ $page := .Page }}
+
+{{/* Prefer an explicit heroImage override (page > site param); otherwise fall
+     back to the featured tour's first photo. Lets a site pin a hand-picked hero
+     (e.g. a self-hosted destination photo) without touching this partial. */}}
+{{ $heroImg := $page.Params.heroImage | default $site.Params.heroImage | default "" }}
+{{ if not $heroImg }}
+  {{ $heroImgRaw := partial "first-image.html" $tour.images }}
+  {{ $heroResolved := partial "img-src.html" (dict "src" $heroImgRaw "alt" ($tour.title | default "") "Site" $site) }}
+  {{ $heroImg = $heroResolved.src }}
+{{ end }}
+{{ $title    := $page.Params.h1 | default ($page.Title | default ($tour.title | default $site.Params.siteName)) }}
+{{ $subtitle := $page.Params.heroSubtitle | default $site.Params.heroSubtitle | default $tour.abstract | default $site.Params.siteDescription }}
+{{ $overline := $page.Params.heroOverline | default $site.Params.heroOverline | default "" }}
+{{ $price    := $tour.formattedStartingPrice | default "" }}
+{{ $per      := $tour.priceCategory | default "per person" }}
+
+{{/* Responsive hero background: CSS background-image can't use srcset, so we
+     media-query-swap the url() with !important (the only way to beat an
+     inline style's specificity from a stylesheet-equivalent rule) when the
+     site ships "-800w"/"-1200w" siblings alongside the hero photo. Matches
+     the <link rel="preload" imagesrcset> breakpoints in head.html so the
+     preloaded variant is the one actually painted — no wasted double-fetch.
+     Codified 2026-07-11 (versaillespalace-tour /final-check pass). */}}
+{{ $heroBase := "" }}
+{{ $heroExt := "" }}
+{{ $hasVariants := false }}
+{{ with $heroImg }}
+  {{ $heroExt = path.Ext . }}
+  {{ $heroBase = strings.TrimSuffix $heroExt . }}
+  {{ $hasVariants = and (not (hasPrefix . "http")) (fileExists (printf "static%s-800w%s" $heroBase $heroExt)) (fileExists (printf "static%s-1200w%s" $heroBase $heroExt)) }}
+{{ end }}
+
+<section class="hero" id="hero"
+  {{ with $heroImg }}style="background-image: url('{{ . }}')"{{ end }}
+  aria-label="Hero — {{ $title }}">
+
+  {{ if $hasVariants }}
+  <style>
+    @media (max-width: 800px) {
+      #hero { background-image: url('{{ $heroBase }}-800w{{ $heroExt }}') !important; }
+    }
+    @media (min-width: 801px) and (max-width: 1200px) {
+      #hero { background-image: url('{{ $heroBase }}-1200w{{ $heroExt }}') !important; }
+    }
+  </style>
+  {{ end }}
+
+  <div class="hero-overlay" aria-hidden="true"></div>
+
+  <div class="container hero-content">
+    <div class="hero-text fade-up">
+      <p class="hero-overline">{{ $overline }}</p>
+      <h1 class="hero-title">{{ $title }}</h1>
+      <p class="hero-subtitle">{{ $subtitle }}</p>
+
+      {{ if $tour.badges }}
+      <div class="hero-badges" aria-label="Tour badges">
+        {{ range $tour.badges }}
+        <span class="hero-badge">{{ . }}</span>
+        {{ end }}
+      </div>
+      {{ end }}
+
+      <div class="hero-actions">
+        <a href="#availability" class="btn-primary btn-lg">
+          {{ $site.Params.heroCTAPrimary | default "Check Availability & Book" }}
+        </a>
+        <a href="#how-it-works" class="btn-secondary btn-lg">
+          {{ $site.Params.heroCTASecondary | default "How It Works" }}
+        </a>
+      </div>
+    </div>
+
+    {{ if $price }}
+    <div class="hero-price-badge fade-up" aria-label="Starting price: {{ $price }} {{ $per }}">
+      <span class="price-from">From</span>
+      <span class="price-amount">{{ $price }}</span>
+      <span class="price-per">{{ $per }}</span>
+      {{ if $tour.freeCancellation }}
+      <span class="price-free-cancel">Free cancellation</span>
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+  {{/* Facts strip pinned to the foot of the hero. It used to render as
+       its own band on a light background below the hero; it now sits over
+       the bottom of the photograph, where the scrim is heaviest. The
+       scroll chevron went with it -- the strip anchors the hero's bottom
+       edge on its own, and the two collided for the same space.
+
+       CONTRAST: this text is over a PHOTOGRAPH, so it is governed by
+       _audit_hero_contrast.py, not _audit_accent_on_dark.py, which
+       resolves the first opaque ancestor and cannot see through a scrim
+       to an image. Re-run it after any change to heroImage or the scrim.
+  */}}
+  {{ partial "trust-band.html" . }}
+
+</section>

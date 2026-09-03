@@ -1,0 +1,67 @@
+{{ $page := .Page }}
+{{ $site := .Site }}
+{{ $tour := .tour | default dict }}
+{{ $highlights := $tour.highlights | default slice }}
+{{ $includes   := $tour.includes   | default slice }}
+{{ $hlTitle    := $page.Params.highlightsTitle    | default $site.Params.highlightsTitle    | default "What Makes This Tour Special" }}
+{{ $hlSubtitle := $page.Params.highlightsSubtitle | default $site.Params.highlightsSubtitle | default "Everything that makes this a top-rated experience." }}
+
+{{ if or $highlights $includes }}
+<section class="section highlights-section" id="highlights" aria-labelledby="highlights-heading">
+  <div class="container">
+
+    <div class="section-header fade-up">
+      <p class="section-overline">The Experience</p>
+      <h2 class="section-title" id="highlights-heading">{{ $hlTitle }}</h2>
+      <p class="section-subtitle">{{ $hlSubtitle }}</p>
+    </div>
+
+    <div class="highlights-grid">
+
+      {{ if $highlights }}
+      <div class="highlights-col">
+        <h3 class="highlights-col-title">
+          Highlights
+        </h3>
+        <ul class="highlights-list" role="list">
+          {{ range $highlights }}
+          <li class="highlight-item">
+            <svg class="highlight-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" width="16" height="16" aria-hidden="true">
+              <polyline points="20 6 9 17 4 12"/>
+            </svg>
+            <span>{{ . }}</span>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+
+      {{ if $includes }}
+      <div class="highlights-col">
+        <h3 class="highlights-col-title">
+          What's Included
+        </h3>
+        <ul class="highlights-list" role="list">
+          {{ range $includes }}
+          <li class="highlight-item">
+            <svg class="highlight-check highlight-check--gold" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" width="16" height="16" aria-hidden="true">
+              <polyline points="20 6 9 17 4 12"/>
+            </svg>
+            <span>{{ . }}</span>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+
+    </div>
+
+    <div class="highlights-cta fade-up">
+      <a href="#availability" class="btn-primary btn-lg">
+        Check Availability & Book
+      </a>
+    </div>
+
+  </div>
+</section>
+{{ end }}

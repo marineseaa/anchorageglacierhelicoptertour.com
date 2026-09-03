@@ -1,0 +1,44 @@
+# Curated site gallery — one photograph per operator and per kind of tour, so the
+# strip reads as a survey of the niche rather than a second copy of the featured
+# tour's own gallery. Every alt line was written after looking at the file.
+# Photos are the operators' own listing images, self-hosted as WebP.
+items:
+  - src: "/images/gyg/t147264-x4.webp"
+    alt: "Two tiny figures walking beside a deep blue meltwater stream cut into the white ice of Knik Glacier"
+    caption: "Knik Glacier, mid-summer. The meltwater channels open across the surface as the ice drains."
+
+  - src: "/images/gyg/t492083-x7.webp"
+    alt: "Aerial view along Knik Glacier, turquoise meltwater channels braiding through the blue ice"
+    caption: "Twenty-five miles long and over five across — the scale only reads from the air."
+
+  - src: "/images/gyg/1078337-2.webp"
+    alt: "A red helicopter landed on a green alpine ridge above a wide glacier, a rainbow arcing over the valley"
+    caption: "The second landing on the Girdwood flight: a ridge above the icefield you just crossed."
+
+  - src: "/images/gyg/147273-0.webp"
+    alt: "Four guests riding a dog sled across the glacier snowfield with mountains on the horizon"
+    caption: "A full hour with the team, on snow that lasts all summer above the Knik valley."
+
+  - src: "/images/gyg/t412348-x0.webp"
+    alt: "Two paddleboarders crossing a deep blue meltwater lake on the surface of the glacier"
+    caption: "Paddleboarding a meltwater pool on Knik Glacier — four hours, dry suits, guides."
+
+  - src: "/images/gyg/t412355-x1.webp"
+    alt: "A climber in a pink jacket standing at the lip of a blue crevasse with ice tools in both hands"
+    caption: "No experience needed. The instructor sets the difficulty and brings every tool."
+
+  - src: "/images/gyg/t147264-x2.webp"
+    alt: "View from inside the helicopter over the crevasse field of Knik Glacier, the instrument panel lit in the foreground"
+    caption: "Thirty minutes out, low enough to pick out individual crevasses."
+
+  - src: "/images/gyg/1079145-0.webp"
+    alt: "A dog team running past the Punchbowl Glacier sign beneath the Chugach peaks, an Alaska state flag flying at the camp"
+    caption: "Punchbowl Glacier, 3,200 feet above Girdwood — the summer camp of a three-time Iditarod champion's kennel."
+
+  - src: "/images/gyg/t412333-x11.webp"
+    alt: "A guest in a yellow jacket leaping across a narrow blue crevasse on the glacier surface"
+    caption: "The Grand tour's guided walk, between three separate landings."
+
+  - src: "/images/gyg/t490542-x4.webp"
+    alt: "Aerial view of the glacier terminus at low sun, ridges of blue ice meeting the outwash plain"
+    caption: "Where the ice ends and the Knik River begins its twenty-five miles to Knik Arm."

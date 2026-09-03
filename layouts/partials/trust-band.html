@@ -1,0 +1,78 @@
+{{ $tour := .tour | default dict }}
+{{ $site := .Site }}
+{{ $page := .Page }}
+
+{{ $rating      := $tour.rating      | default 0 }}
+{{ $reviewCount := $tour.reviewCount | default 0 }}
+{{ $duration    := $tour.duration    | default "" }}
+{{ $freeCancellation := $tour.freeCancellation | default false }}
+
+{{/* Niche-specific tiles (page → site override).
+     WARNING: defaults are niche-NEUTRAL on purpose. They used to be the food-tour
+     copy "15 Dishes" / "4 Eateries" / "English Guide" / "Local Expert", which
+     shipped VERBATIM on every clone whose builder didn't happen to know these
+     param names — note they are trustDishesMetric, trustDishesLabel,
+     trustGuideMetric, trustGuideLabel, NOT trustTile1Value and friends. Because
+     none of those strings contains a geo token, the standard scaffold-leak grep
+     never caught it. Set all four params per site; if you forget, the page now
+     degrades to something generically true instead of advertising Japanese food
+     on a hiking site. (picoarierosunrisetours.com 2026-08-16; same class of bug
+     as the booking-widget "drinks, snacks and live guide" leak, rule #52.) */}}
+{{ $dishesMetric := $page.Params.trustDishesMetric | default $site.Params.trustDishesMetric | default "Top Rated" }}
+{{ $dishesLabel  := $page.Params.trustDishesLabel  | default $site.Params.trustDishesLabel  | default "Verified Reviews" }}
+{{ $guideMetric  := $page.Params.trustGuideMetric  | default $site.Params.trustGuideMetric  | default "Instant" }}
+{{ $guideLabel   := $page.Params.trustGuideLabel   | default $site.Params.trustGuideLabel   | default "Confirmation" }}
+
+<section class="trust-band" aria-label="Trust signals">
+  <div class="container">
+    <ul class="trust-grid" role="list">
+
+      {{ if $rating }}
+      <li class="trust-item fade-up">
+        <div class="trust-text">
+          <span class="trust-metric">{{ printf "%.1f" $rating }} / 5</span>
+          <span class="trust-label">{{ if $reviewCount }}{{ lang.FormatNumber 0 $reviewCount }}+ Reviews{{ else }}Top Rated{{ end }}</span>
+        </div>
+      </li>
+      {{ end }}
+
+      {{ if $duration }}
+      <li class="trust-item fade-up">
+        <div class="trust-text">
+          <span class="trust-metric">{{ $duration }}</span>
+          <span class="trust-label">Duration</span>
+        </div>
+      </li>
+      {{ end }}
+
+      {{/* Niche tile 1 — generic "award" glyph. Swap for something the niche
+           actually evokes (a summit, a boat, a ticket) when you set the params
+           above; a cutlery icon used to live here and leaked onto every clone. */}}
+      <li class="trust-item fade-up">
+        <div class="trust-text">
+          <span class="trust-metric">{{ $dishesMetric }}</span>
+          <span class="trust-label">{{ $dishesLabel }}</span>
+        </div>
+      </li>
+
+      {{/* Niche tile 2 — swap the glyph to match whatever you put in
+           trustGuideMetric/trustGuideLabel above. */}}
+      <li class="trust-item fade-up">
+        <div class="trust-text">
+          <span class="trust-metric">{{ $guideMetric }}</span>
+          <span class="trust-label">{{ $guideLabel }}</span>
+        </div>
+      </li>
+
+      {{ if $freeCancellation }}
+      <li class="trust-item fade-up">
+        <div class="trust-text">
+          <span class="trust-metric">Free</span>
+          <span class="trust-label">Cancellation</span>
+        </div>
+      </li>
+      {{ end }}
+
+    </ul>
+  </div>
+</section>

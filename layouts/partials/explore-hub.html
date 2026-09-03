@@ -1,0 +1,83 @@
+{{/* Generated explore hub — HOMEPAGE-CONVERSION-PATTERNS.md §5. Built from live
+     tours/guides sections, not hand-listed, so it grows as articles ship and
+     structurally cannot 404. Sits in the reading flow, after FAQ — distinct from
+     footer-seo-links.html (which is footer-only). Link styling: see #explore
+     rule in main.css. */}}
+{{ $site := .Site }}
+{{ $guides := where $site.RegularPages "Section" "guides" }}
+{{ $tours  := where $site.RegularPages "Section" "tours" }}
+{{/* The landing spokes are the site's category pages. Without this they
+     are reachable only from the footer blocks and from prose -- never from
+     the section whose own subtitle claims "every tour and planning guide
+     on this site, in one place". Sorted by the `weight` in their own front
+     matter, so the order is deliberate rather than alphabetical. */}}
+{{ $spokes := sort (where $site.RegularPages "Section" "landing") "Weight" }}
+{{ if or $guides $tours }}
+<section class="section explore-section" id="explore" aria-labelledby="explore-heading">
+  <div class="container">
+
+    <div class="section-header fade-up">
+      <p class="section-overline">Keep Exploring</p>
+      <h2 class="section-title" id="explore-heading">Explore More</h2>
+      <p class="section-subtitle">{{ $site.Params.exploreHubSubtitle | default "Every tour and planning guide on this site, in one place." }}</p>
+    </div>
+
+    <div class="highlights-grid explore-grid">
+
+
+      {{ if $spokes }}
+      <div class="highlights-col">
+        <h3 class="highlights-col-title">{{ $site.Params.exploreHubSpokesLabel | default "By Type" }}</h3>
+        <ul class="highlights-list" role="list">
+          {{ range $spokes }}
+          <li class="highlight-item">
+            <svg class="highlight-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" width="16" height="16" aria-hidden="true">
+              <polyline points="20 6 9 17 4 12"/>
+            </svg>
+            <span><a href="{{ .Permalink | relURL }}">{{ .Params.h1 | default .Title }}</a></span>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+
+      {{ if $tours }}
+      <div class="highlights-col">
+        <h3 class="highlights-col-title">
+          {{ $site.Params.exploreHubToursLabel | default "Individual Tours" }}
+        </h3>
+        <ul class="highlights-list" role="list">
+          {{ range $tours }}
+          <li class="highlight-item">
+            <svg class="highlight-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" width="16" height="16" aria-hidden="true">
+              <polyline points="20 6 9 17 4 12"/>
+            </svg>
+            <span><a href="{{ .RelPermalink }}">{{ .Params.h1 | default .Title }}</a></span>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+
+      {{ if $guides }}
+      <div class="highlights-col">
+        <h3 class="highlights-col-title">
+          Guides
+        </h3>
+        <ul class="highlights-list" role="list">
+          {{ range $guides }}
+          <li class="highlight-item">
+            <svg class="highlight-check highlight-check--gold" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" width="16" height="16" aria-hidden="true">
+              <polyline points="20 6 9 17 4 12"/>
+            </svg>
+            <span><a href="{{ .RelPermalink }}">{{ .Params.h1 | default .Title }}</a></span>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+
+    </div>
+  </div>
+</section>
+{{ end }}

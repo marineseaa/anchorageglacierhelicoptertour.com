@@ -1,0 +1,40 @@
+# featured_tours — the homepage "Explore More" cards, in display order.
+# EVERY id here must have a page under content/tours/ (exit-gate item 7 / KK):
+# experiences.html links a card internally only when a matching page exists and
+# otherwise falls back to a server-side affiliate URL, which breaks the
+# no-partner_id-in-HTML rule on the homepage and every landing page at once.
+featured_tours:
+  - id: 492083
+    badge: "LOWEST PRICE"
+  - id: 147273
+    badge: "LONGEST SLED TIME"
+  - id: 412333
+    badge: "THREE LANDINGS"
+  - id: 1079145
+    badge: "GIRDWOOD DEPARTURE"
+  - id: 412348
+    badge: "MOST UNUSUAL"
+
+# all_badges — badge lookup for the /tours/ HUB cards (layouts/tours/list.html).
+# Every label is earned by data in the offers JSON: lowest price, most reviews,
+# longest ice time, a distinct departure town or a distinct format. No two cards
+# make the same claim.
+all_badges:
+  - id: 147264
+    badge: "MOST REVIEWED"
+  - id: 492083
+    badge: "LOWEST PRICE"
+  - id: 147273
+    badge: "LONGEST SLED TIME"
+  - id: 412333
+    badge: "THREE LANDINGS"
+  - id: 1079145
+    badge: "GIRDWOOD DEPARTURE"
+  - id: 412348
+    badge: "MOST UNUSUAL"
+  - id: 1078337
+    badge: "LONGEST FLIGHT"
+  - id: 412340
+    badge: "HELI-HIKING"
+  - id: 412355
+    badge: "ICE CLIMBING"

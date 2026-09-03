@@ -1,0 +1,216 @@
+baseURL = "https://anchorageglacierhelicoptertour.com/"
+title = "Anchorage Glacier Helicopter Tours"
+theme = "travel-niche"
+languageCode = "en-US"
+enableRobotsTXT = true
+disableKinds = ["taxonomy", "term"]
+buildFuture = true
+# false during content build/dev so `hugo` works BEFORE `git init` (the decoupled
+# flow inits git only at the end). Flip to true after git init if you want
+# git-based .Lastmod / dateModified. See START-HERE §0 "Building before git init".
+enableGitInfo = false
+
+[permalinks]
+  landing = '/:slug/'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+[params]
+siteName      = "Anchorage Glacier Helicopter Tour"
+# Plain words, NOT manually letter-spaced — .logo-tagline already applies
+# letter-spacing, and HTML collapses runs of spaces.
+siteTagline   = "GLACIER LANDINGS · ALASKA"
+description   = "Compare and book Anchorage glacier helicopter tours: flight time, glacier landing time, where each one actually departs from, and what it costs."
+featuredTourID = "147264"
+gygWidgetTourID = "147264"
+# offers-JSON data key (centralized — read by 6+ layout files via $site.Params.offersDataKey)
+# Pattern: filename of data/<key>.json minus the .json extension
+offersDataKey   = "gyg_anchorage_glacier_helicopter_10offers"
+# From this project folder's own gyg_analytics_head_code.txt, confirmed by
+# Marina 2026-09-03. Deliberately NOT the older portfolio-wide GLBKRID.
+gygPartnerID    = "1MSALBX"
+gygAffiliateURL = "https://www.getyourguide.com/anchorage-l978/anchorage-knik-glacier-helicopter-tour-with-landing-t147264/"
+gygCampaign     = "anchorageglacierhelicoptertour"
+contactEmail   = "info@anchorageglacierhelicoptertour.com"
+
+heroImage     = "/images/hero.webp"
+heroOverline  = "Knik Glacier · Chugach Range · Alaska"
+heroSubtitle  = "Land on 1,000-year-old ice an hour from town — with every Anchorage-area operator compared."
+
+# ── Homepage conversion layer (reference/HOMEPAGE-CONVERSION-PATTERNS.md) ──
+bookingOverline    = "Book Your Flight"
+bookingHeading     = "Check Availability & Prices"
+featuredTourPitch  = ""
+# Site-wide price FLOOR — the cheapest tour on the site (492083, $520), kept
+# separate from the featured tour's own $522 so a featured-tour swap can't
+# silently advertise a non-floor "From $X".
+sitePriceFrom = "$520"
+exploreHubSubtitle = "Every glacier flight and planning guide on this site, in one place."
+exploreHubSpokesLabel = "Popular Searches"
+exploreHubToursLabel  = "Individual Tours"
+
+# ── Trust band tiles ──
+# F7: trustGuideMetric/Label must NOT be "Free" / "Cancellation" — trust-band.html
+# renders its own free-cancellation tile from the tour's flag, so those words here
+# render the tile twice.
+trustDishesMetric = "9"
+trustDishesLabel  = "Flights Compared"
+trustGuideMetric  = "Glacier"
+trustGuideLabel   = "Landing Included"
+
+reviewsTitle      = "What Guests Say"
+reviewsSource     = "verified guests"
+reviewsDisclaimer = "Ratings and review counts are the tour operators' live figures on GetYourGuide and may shift slightly day to day."
+
+# FTC-style affiliate disclosure, rendered sitewide in the footer.
+affiliateDisclosure = "This site earns a commission when you book through links to GetYourGuide."
+
+ctaTitle  = "Stand on Knik Glacier This Week"
+ctaBody   = "A thirty-minute flight over the Chugach, thirty minutes on the ice, and free cancellation up to 24 hours before you fly. Check live dates and prices."
+ctaButton = "Check Availability & Book"
+
+# LocalBusiness reference point: Anchorage, the city every one of these tours is
+# sold from — even though every flight lifts off from a base outside it.
+schemaLat     = "61.2181"
+schemaLong    = "-149.9003"
+schemaPriceRange = "$$$$"
+schemaAddressLocality = "Anchorage, Alaska"
+schemaCountry = "US"
+
+ogImage     = "https://anchorageglacierhelicoptertour.com/images/og/anchorage-glacier-helicopter-tour.jpg"
+twitterCard = "summary_large_image"
+
+# ── /tours/ and /guides/ hub list-page labels ──
+toursListTitle       = "All Anchorage Glacier Helicopter Tours"
+toursListSubtitle    = "Every glacier flight bookable from the Anchorage area, side by side."
+tourBackLinkText     = "All glacier helicopter tours"
+relatedToursTitle    = "Other Glacier Flights to Consider"
+comparisonAriaLabel  = "Compare Anchorage glacier helicopter tours"
+guidesListTitle      = "Anchorage Glacier Helicopter Tour Guides"
+guidesListSubtitle   = "Costs, timing, what to wear and which flight suits you — before you book."
+
+footerDescription = "Anchorage Glacier Helicopter Tour compares every helicopter flight with a glacier landing bookable from the Anchorage area — Knik Glacier, Punchbowl Glacier and the Chugach icefields."
+
+[[params.footerQuickLinks]]
+  label = "Knik Glacier Helicopter Tours"
+  href = "/knik-glacier-helicopter-tours/"
+[[params.footerQuickLinks]]
+  label = "Glacier Dogsledding by Helicopter"
+  href = "/anchorage-helicopter-glacier-dogsledding/"
+[[params.footerQuickLinks]]
+  label = "Compare Glacier Flights"
+  href = "/#comparison"
+[[params.footerQuickLinks]]
+  label = "Glacier Helicopter Reviews"
+  href = "/#reviews"
+[[params.footerQuickLinks]]
+  label = "Glacier Helicopter FAQ"
+  href = "/#faq"
+[[params.footerQuickLinks]]
+  label = "Planning Guides"
+  href = "/guides/"
+
+[[params.footerLegalLinks]]
+  label = "Privacy Policy"
+  href = "/pages/privacy/"
+[[params.footerLegalLinks]]
+  label = "Terms of Service"
+  href = "/pages/terms/"
+
+# ── Footer SEO Links (validated against live Google Autocomplete, 2026-09-03) ──
+footerSEOTitle = "Explore Anchorage Glacier Flights"
+
+[[params.footerSEOLinks]]
+  label = "knik glacier helicopter tours"
+  href = "/knik-glacier-helicopter-tours/"
+[[params.footerSEOLinks]]
+  label = "anchorage knik glacier helicopter tour with landing"
+  href = "/tours/anchorage-knik-glacier-helicopter-tour-with-landing/"
+[[params.footerSEOLinks]]
+  label = "glacier helicopter tour anchorage alaska"
+  href = "/"
+[[params.footerSEOLinks]]
+  label = "helicopter glacier tour from anchorage"
+  href = "/knik-glacier-helicopter-tours/"
+[[params.footerSEOLinks]]
+  label = "closest glacier to anchorage"
+  href = "/guides/knik-glacier-vs-punchbowl-glacier-helicopter-tours/"
+[[params.footerSEOLinks]]
+  label = "are there glaciers in anchorage"
+  href = "/#faq"
+[[params.footerSEOLinks]]
+  label = "alaska helicopter tour cost"
+  href = "/guides/how-much-does-an-anchorage-glacier-helicopter-tour-cost/"
+[[params.footerSEOLinks]]
+  label = "how much is a helicopter ride in alaska"
+  href = "/guides/how-much-does-an-anchorage-glacier-helicopter-tour-cost/"
+[[params.footerSEOLinks]]
+  label = "how safe are helicopter tours in alaska"
+  href = "/#faq"
+[[params.footerSEOLinks]]
+  label = "best helicopter glacier tour alaska"
+  href = "/guides/which-anchorage-glacier-helicopter-tour-is-right-for-you/"
+[[params.footerSEOLinks]]
+  label = "knik glacier ice climbing"
+  href = "/tours/anchorage-knik-glacier-helicopter-and-ice-climbing-tour/"
+[[params.footerSEOLinks]]
+  label = "knik glacier paddle boarding tour"
+  href = "/tours/anchorage-knik-glacier-helicopter-and-paddleboarding-tour/"
+[[params.footerSEOLinks]]
+  label = "alaska helicopter dog sledding"
+  href = "/anchorage-helicopter-glacier-dogsledding/"
+[[params.footerSEOLinks]]
+  label = "what to wear dog sledding in alaska"
+  href = "/guides/what-to-wear-on-an-alaska-glacier-helicopter-tour/"
+[[params.footerSEOLinks]]
+  label = "girdwood helicopter glacier tour"
+  href = "/glacier-landing-tours-from-girdwood/"
+[[params.footerSEOLinks]]
+  label = "knik glacier from anchorage"
+  href = "/knik-glacier-helicopter-tours/"
+[[params.footerSEOLinks]]
+  label = "knik glacier in september"
+  href = "/guides/best-time-for-an-anchorage-glacier-helicopter-tour/"
+[[params.footerSEOLinks]]
+  label = "knik glacier winter tours"
+  href = "/guides/best-time-for-an-anchorage-glacier-helicopter-tour/"
+[[params.footerSEOLinks]]
+  label = "knik glacier weather"
+  href = "/guides/best-time-for-an-anchorage-glacier-helicopter-tour/"
+[[params.footerSEOLinks]]
+  label = "helicopter glacier landing alaska"
+  href = "/"
+[[params.footerSEOLinks]]
+  label = "anchorage helicopter tour cost"
+  href = "/guides/how-much-does-an-anchorage-glacier-helicopter-tour-cost/"
+[[params.footerSEOLinks]]
+  label = "knik glacier how to get there"
+  href = "/knik-glacier-helicopter-tours/"
+[[params.footerSEOLinks]]
+  label = "girdwood helicopter tours"
+  href = "/glacier-landing-tours-from-girdwood/"
+[[params.footerSEOLinks]]
+  label = "anchorage helicopter and glacier dogsled tour"
+  href = "/tours/anchorage-area-helicopter-and-glacier-dogsled-tour/"
+
+[[params.steps]]
+  number = "1"
+  title  = "Pick Your Direction"
+  body   = "Nothing lifts off from Anchorage itself. Knik Glacier flights leave from the Knik River valley, about an hour north; Punchbowl and the Chugach icefields leave from Girdwood, 40 miles south. Choose before you book — the drive is yours to make."
+
+[[params.steps]]
+  number = "2"
+  title  = "Book a Morning Slot"
+  body   = "Alaskan cloud builds through the day. Early departures fly more reliably than afternoon ones, and if weather does close in, an early booking leaves room to be rebooked later the same day."
+
+[[params.steps]]
+  number = "3"
+  title  = "Weigh In and Brief"
+  body   = "Every passenger is weighed — seat limits are real and enforced, and weights decide who sits where. You'll get a safety briefing, and on glacier landings, overboots for the snow."
+
+[[params.steps]]
+  number = "4"
+  title  = "Fly, Land, Walk on the Ice"
+  body   = "Thirty minutes over crevasse fields and meltwater pools, then the skids touch down and the rotor winds off. What happens next — a walk, a dog team, a paddleboard, an ice axe — is what you chose at step one."
