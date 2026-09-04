@@ -10,10 +10,10 @@
      Comments describe each token's ROLE, not a motif: a niche-flavoured comment
      ships verbatim in public/css/main.css and trips _audit_rendered.py's own
      scaffold-leak scan. (Codified 2026-08-21, niagarariverjetboat.) */
-  --deep-canal:    #263944;   /* Dark surface + display headings   */
-  --gold:          #287D9B;   /* Primary CTA — proven gold         */
-  --gold-light:    #349BBE;   /* Gold gradient end                 */
-  --gold-dark:     #1E6178;   /* Gold pressed state                */
+  --deep-canal:    #2A3740;   /* Dark surface + display headings   */
+  --gold:          #2F7290;   /* Primary CTA — proven gold         */
+  --gold-light:    #407D99;   /* Gold gradient end                 */
+  --gold-dark:     #265B73;   /* Gold pressed state                */
   /* Darkened gold for TEXT on a light background: --gold-dark measures 3.16:1
      on --marble-white (fails 4.5:1 AA); this clears 4.70:1. Used by
      .section-overline. Recompute if a niche remaps these tokens.
@@ -28,7 +28,7 @@
      Hugo reports no error; only a computed-style read in a real browser catches
      it. Detector: strip all comments, then assert no terminator survives.
      (picoarierosunrisetours.com 2026-08-16) */
-  --gold-text:     #1B5A70;
+  --gold-text:     #28617A;
 
   /* Accent text + halo — auto-derive from --gold so a palette swap is safe.
      Set --on-accent to #FFFFFF when --gold is a DARK colour (white text),
@@ -41,14 +41,14 @@
      nothing greps for it (no geo token, no build error, correct-looking source).
      Route every accent-on-dark use through this token instead of a raw accent.
      (buenosairestangoshows.com 2026-08-25.) */
-  --accent-on-dark:     #7FC4DC;
+  --accent-on-dark:     #A1C0CD;
   /* Rating stars drawn on the dark --deep-canal surface. Kept SEPARATE from
      --accent-on-dark because the roles differ: accent ink may legitimately be
      a cool colour, but a star must read as a star, so this one wants a warm
      tone. Defaults to the accent so the scaffold is unchanged; remap it
      alongside --accent-on-dark whenever --gold is not a warm gold.
      (topkapipalace-tours.com 2026-08-28.) */
-  --star-on-dark:       #E4B95B;
+  --star-on-dark:       #C9A06A;
   /* Accent ink drawn over the HERO PHOTOGRAPH — a THIRD surface, and the only
      one no audit can measure. --on-accent is text ON the accent fill;
      --accent-on-dark is accent ink on the flat --deep-canal chrome (header,
@@ -89,21 +89,21 @@
   --shadow-tint:         color-mix(in srgb, var(--deep-canal) 12%, transparent);
   --shadow-tint-strong:  color-mix(in srgb, var(--deep-canal) 18%, transparent);
 
-  --dutch-orange:  #9C6218;   /* Urgency / badges only             */
-  --canal-teal:    #34706D;   /* Secondary accent — links, icons   */
-  --canal-light:   #E7F1F4;   /* Pale tint — SURFACE role (rule 45)*/
-  --amber-warm:    #E9ECEB;   /* Warm tint — SURFACE role (rule 45)*/
+  --dutch-orange:  #A16242;   /* Urgency / badges only             */
+  --canal-teal:    #91593B;   /* Secondary accent — links, icons   */
+  --canal-light:   #EAF1F4;   /* Pale tint — SURFACE role (rule 45)*/
+  --amber-warm:    #F3ECE4;   /* Warm tint — SURFACE role (rule 45)*/
 
   /* Neutrals */
   --marble-white:  #F8FBFC;   /* Warm off-white base background    */
-  --charcoal:      #303A3E;   /* Near-black primary text           */
+  --charcoal:      #2A3740;   /* Near-black primary text           */
   --slate:         #4A5A63;   /* Secondary text */
   /* Darkened from #94A3B8: measured 2.43:1 on marble-white here (fails 4.5:1
      AA) — this clears 5.95:1. Only used as text color sitewide. Recompute
      if a niche remaps marble-white. (/final-check, 2026-07-11) */
   --stone:         #556069;   /* Tertiary text  */
   --silver:        #C3D2D8;   /* Light text     */
-  --mist:          #EDF3F5;   /* Warm cream mist                   */
+  --mist:          #EAF1F4;   /* Warm cream mist                   */
   --white:         #FFFFFF;
 
   /* Gradients */
@@ -3504,8 +3504,23 @@ body { line-height: 1.75; }
 .prose,
 .faq-contact,
 .faq-contact-link,
+.footer-link,
 .footer-address,
 .mobile-menu .logo-primary { overflow-wrap: break-word; }
+
+/* SECOND instance of the same bug, found while codifying the fix back into the
+   scaffold (2026-09-04): the PRISTINE scaffold fails `tour @320px 369>320`
+   because `$tour.meetingPoint` renders as a bare <p> and GYG operators routinely
+   paste a `https://maps.app.goo.gl/...` link into that field -- min-content 349px
+   for that one paragraph. This site's own meeting points are plain street
+   addresses today, so it is LATENT here rather than live; a data refresh that
+   pulls in a maps URL would make it live with no other change.
+   `min-width: 0` is the load-bearing half: `.tour-main-content` is a grid item
+   (`.tour-content-wrapper` is `1fr 380px`), and a grid item's automatic minimum
+   is min-content, so the track grows to the unbreakable token no matter how the
+   text is allowed to wrap. `overflow-wrap` alone left the scaffold failing at
+   exactly 369>320. Same `min-width: 0` the scaffold already gives `.nav-inner`. */
+.tour-main-content { overflow-wrap: break-word; min-width: 0; }
 
 /* ── Single-weight display faces ──────────────────────────────────────────────
    READ THIS BEFORE CHANGING A DISPLAY FONT.
