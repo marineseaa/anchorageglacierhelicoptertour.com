@@ -1313,6 +1313,17 @@ address { font-style: normal; }
   color: var(--gold);
   font-weight: 600;
 }
+/* Checklist AAA -- a flex row shrinks a fixed-size inline SVG to nothing.
+   `<svg width="14" height="14">` sets an INTRINSIC size, not a floor: the flex
+   default `flex: 0 1 auto` lets a row that runs out of space squeeze the only
+   shrinkable item. Measured across the portfolio 2026-09-06: the rating star at
+   0.0-2.1px of 14 on /tours/, `.footer-logo-icon` at 25.7px of 32, `.logo-icon`
+   at 44.8px of 48. `.logo` already had `flex-shrink: 0` -- the container was
+   protected and its child was not.
+   Scaffold-baked the same day; this is the retrofit. */
+.experience-rating svg,
+.logo-icon,
+.footer-logo-icon { flex: 0 0 auto; }
 .experience-review-count {
   color: var(--slate);
   font-weight: 400;
