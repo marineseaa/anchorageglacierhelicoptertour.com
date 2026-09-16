@@ -90,6 +90,8 @@ Neither is better. They are different purchases, and people who book an activity
 
 **The clock.** Cloud builds through the day. Book the earliest slot available, and book it early in your trip so a weather cancellation can be rescheduled rather than lost. Everything here carries free cancellation up to 24 hours out.
 
+Once you've picked a tour, our [full booking checklist](/guides/how-to-book-a-helicopter-tour-in-alaska/) walks through everything else worth checking before you pay.
+
 ## Frequently Asked Questions
 
 ### What is the best glacier helicopter tour near Anchorage?

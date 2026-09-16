@@ -197,6 +197,12 @@ footerSEOTitle = "Explore Anchorage Glacier Flights"
 [[params.footerSEOLinks]]
   label = "helicopter tour for two alaska"
   href = "/guides/helicopter-tour-for-two-in-alaska/"
+[[params.footerSEOLinks]]
+  label = "alaska glacier landing helicopter"
+  href = "/guides/alaska-glacier-landing-by-helicopter/"
+[[params.footerSEOLinks]]
+  label = "how to book a helicopter tour in alaska"
+  href = "/guides/how-to-book-a-helicopter-tour-in-alaska/"
 
 [[params.steps]]
   number = "1"

@@ -69,7 +69,7 @@ The skids touch, the pilot winds the rotor down, and then there is the thing nob
 
 You get **thirty to forty-five minutes** depending on the tour. Microspikes or overboots are handed out where the surface calls for them. Stay within the area the pilot marks — a glacier surface has holes in it that do not look like holes, and meltwater channels are deeper and faster than they appear.
 
-It is colder than the valley. A glacier cools the air sitting on it and that air drains downhill as a breeze, so bring the layer you thought you would not need. The [what to wear guide](/guides/what-to-wear-on-an-alaska-glacier-helicopter-tour/) covers it by season.
+It is colder than the valley. A glacier cools the air sitting on it and that air drains downhill as a breeze, so bring the layer you thought you would not need. The [what to wear guide](/guides/what-to-wear-on-an-alaska-glacier-helicopter-tour/) covers it by season, and our [full glacier-landing guide](/guides/alaska-glacier-landing-by-helicopter/) goes deeper on what the ice actually looks like, ice caves, and whether the landing is worth the extra cost.
 
 ## Then what
 
