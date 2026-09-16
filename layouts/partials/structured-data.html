@@ -195,7 +195,13 @@
 }
 </script>
 {{ end }}
-{{ else }}
+{{ else if ne .Page.Type "guides" }}
+{{/* guides pages emit their own, more accurate Article + FAQPage block
+     (layouts/guides/single.html — derived dateModifiedISO, FAQPage built
+     from the rendered content) — this generic block would duplicate the
+     @type and ship a second, wrongly-dated ("now", i.e. build date rather
+     than content date) Article entity alongside it. Found sitewide across
+     all 9 guide pages 2026-09-16, hugo-add-new-articles skill run. */}}
 {{ $site := .Site }}
 {{ $page := .Page }}
 <script type="application/ld+json">
