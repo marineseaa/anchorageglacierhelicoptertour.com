@@ -185,7 +185,7 @@ If privacy matters — an anniversary, proposal, wedding or other occasion — c
 
 **Worth paying for if:** privacy is central to the experience, you're planning a proposal, you're travelling as a small group, or photography is particularly important to you.
 
-None of the nine tours near Anchorage on this site is explicitly sold as a dedicated private charter — several, including the [Grand Knik tour](/tours/anchorage-grand-knik-glacier-helicopter-tour-with-landings/) and the four-hour activity tours, cap groups at a small number of seats, which narrows the odds of sharing with strangers without guaranteeing exclusivity. If a genuinely private flight matters to you, call the operator directly before booking to confirm.
+None of the nine tours near Anchorage on this site is explicitly sold as a dedicated private charter — several, including the [Grand Knik tour](/tours/anchorage-grand-knik-glacier-helicopter-tour-with-landings/) and the four-hour activity tours, cap groups at a small number of seats, which narrows the odds of sharing with strangers without guaranteeing exclusivity. If a genuinely private flight matters to you, call the operator directly before booking to confirm. Our [full guide to booking for two](/guides/helicopter-tour-for-two-in-alaska/) goes through exactly what "two tickets" does and doesn't buy, real prices for a couple on every tour here, and when paying for privacy is actually worth it.
 
 ### Verdict
 

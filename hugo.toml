@@ -194,6 +194,9 @@ footerSEOTitle = "Explore Anchorage Glacier Flights"
 [[params.footerSEOLinks]]
   label = "anchorage helicopter and glacier dogsled tour"
   href = "/tours/anchorage-area-helicopter-and-glacier-dogsled-tour/"
+[[params.footerSEOLinks]]
+  label = "helicopter tour for two alaska"
+  href = "/guides/helicopter-tour-for-two-in-alaska/"
 
 [[params.steps]]
   number = "1"
