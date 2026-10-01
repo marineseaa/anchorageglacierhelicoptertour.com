@@ -50,7 +50,7 @@
             {{ $col := index $data.columns $i }}
             <td class="comparison-cell{{ if $col.highlight }} comparison-cell--highlight{{ end }}">
               {{- if and (eq $row.label "Starting Price") $col.highlight -}}
-                From {{ $price }}/{{ $priceCategory }}
+                From {{ $price }} {{ $priceCategory }}
               {{- else -}}
                 {{- $val -}}
               {{- end -}}

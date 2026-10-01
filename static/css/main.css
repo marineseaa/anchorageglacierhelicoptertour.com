@@ -2827,12 +2827,14 @@ address { font-style: normal; }
 
 @media (max-width: 480px) {
   .logo-tagline { display: none; }
+  /* WRAP, never ellipsis: nowrap + text-overflow cut long site names mid-word
+     at 390px. Two short lines fit the affixed bar. (Kit checklist VVV,
+     torresdelpainefulldaytours.com 2026-10-01.) */
   .logo-primary {
-    font-size: 0.95rem;
+    font-size: 0.85rem;
     letter-spacing: 0.02em;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
+    line-height: 1.15;
+    white-space: normal;
   }
   .footer-seo-link { white-space: normal; }
 }
