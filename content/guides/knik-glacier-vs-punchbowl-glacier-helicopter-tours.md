@@ -29,7 +29,7 @@ Anchorage has two helicopter-accessible glaciers, and they sit in opposite direc
 
 **Knik** if you want to stand on bare, crevassed glacier ice beside turquoise meltwater pools, and if price or choice matters — six tours, from $520.
 
-**Punchbowl** if you want summer dogsledding on a real snowfield, if you are travelling with children, or if your day is already pointing south — two tours, from $769.
+**Punchbowl** if you want summer dogsledding on a real snowfield, if you are travelling with children, or if your day is already pointing south — three Girdwood tours, from $620, and the dog camp from $769.
 
 ## Where they are
 
@@ -54,10 +54,10 @@ So: Knik is where you go to look at a glacier. Punchbowl is where you go to do s
 | Direction from Anchorage | North, ~1 hour, Old Glenn Highway | South, 40 miles, ~45 min, Seward Highway |
 | Departure bases | Alaska Glacier Lodge, Knik River Lodge, Lindsey Circle (Palmer) | Alpine Air hangar, Girdwood Airport |
 | Surface | Bare crevassed ice, turquoise melt pools in summer | Permanent snowfield at ~3,200 ft |
-| Tours available | Six | Two |
-| Starting price | $520 | $769 |
+| Tours available | Six | Three |
+| Starting price | $520 | $620 |
 | Longest time on the glacier | 45 minutes (landing tour) | ~85 minutes (dogsled camp) |
-| Activities offered | Landing, guided hike, dogsledding, paddleboarding, ice climbing | Dogsledding, two-landing flightseeing |
+| Activities offered | Landing, dogsledding, paddleboarding, ice climbing | Landing, dogsledding, two-landing flightseeing |
 | Best for | Ice, melt pools, price and choice | Summer sledding, families, a short drive |
 
 ## The weather argument
@@ -68,9 +68,9 @@ In practice this only decides the booking if your trip has a single flyable morn
 
 ## What each one costs
 
-Knik starts at **$520** for the [Palmer flight](/tours/from-palmer-knik-glacier-helicopter-tour/), which also gives the longest ice time on the site — forty-five minutes with microspikes. The [flagship landing tour](/tours/anchorage-knik-glacier-helicopter-tour-with-landing/) is $522 for thirty minutes on the ice, and is the best-reviewed tour here at 4.99 from 85 guests. Everything from a [two-hour three-landing flight](/tours/anchorage-grand-knik-glacier-helicopter-tour-with-landings/) at $762 to [ice climbing](/tours/anchorage-knik-glacier-helicopter-and-ice-climbing-tour/) at $1,416 sits above them.
+Knik starts at **$520** for the [Palmer flight](/tours/from-palmer-knik-glacier-helicopter-tour/), which also gives the longest ice time on the site — forty-five minutes with microspikes. The [flagship landing tour](/tours/anchorage-knik-glacier-helicopter-tour-with-landing/) is $522 for thirty minutes on the ice, and is the best-reviewed tour here at 4.99 from 89 guests. Everything from a [two-hour three-landing flight](/tours/anchorage-grand-knik-glacier-helicopter-tour-with-landings/) at $762 to the four-hour [ice-climbing](/tours/anchorage-knik-glacier-helicopter-and-ice-climbing-tour/) and [paddleboarding](/tours/anchorage-knik-glacier-helicopter-and-paddleboarding-tour/) days at $1,416–$1,470 sits above them.
 
-Punchbowl starts at **$769** for the [dogsledding tour](/tours/anchorage-helicopter-glacier-dogsledding-tour/), with the [90-minute two-landing flight](/tours/anchorage-90-min-flight-with-2-landings/) at $844. There is no cheap Girdwood option.
+Punchbowl starts at **$769** for the [dogsledding tour](/tours/anchorage-helicopter-glacier-dogsledding-tour/), with the [90-minute two-landing flight](/tours/anchorage-90-min-flight-with-2-landings/) at $844. Girdwood's cheapest glacier landing, the one-hour {{< gyg-link tour="1107685" >}}Girdwood: Chugach Mountains Helicopter Flight with Landing{{< /gyg-link >}}, is $620 and lands on a glacier in the backcountry rather than on Punchbowl; it is still about $100 more than the Knik landing tours, with fifteen to twenty minutes on the ice.
 
 Full breakdown in the [cost guide](/guides/how-much-does-an-anchorage-glacier-helicopter-tour-cost/).
 

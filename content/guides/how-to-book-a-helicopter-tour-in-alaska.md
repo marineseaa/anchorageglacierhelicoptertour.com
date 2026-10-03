@@ -171,7 +171,7 @@ Neither, if you can help it. On arrival day, a delayed commercial flight can eat
 | Family | A basic glacier landing, or a dog-sledding combination if the kids are into it |
 | Photographer | A longer, multi-landing flight like the [Grand Knik tour](/tours/anchorage-grand-knik-glacier-helicopter-tour-with-landings/) |
 | Proposal or anniversary | A shared landing, upgraded to a private or custom arrangement by calling the operator directly |
-| Active traveller | [Heli-hiking](/tours/anchorage-knik-glacier-helicopter-and-hiking-adventure-tour/) or a dedicated glacier trek |
+| Active traveller | [Ice climbing](/tours/anchorage-knik-glacier-helicopter-and-ice-climbing-tour/) or a dedicated glacier trek |
 
 ## Our Verdict: How Should You Book?
 

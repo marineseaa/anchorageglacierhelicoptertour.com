@@ -73,7 +73,7 @@ Part of the advertised tour duration goes to the glacier stop rather than the ai
 
 ### Our pick
 
-Near Anchorage, the **[Knik Glacier Helicopter Tour with Landing](/tours/anchorage-knik-glacier-helicopter-tour-with-landing/)** is the strongest all-round version of this: $522, a one-hour round trip, thirty minutes on the ice, and rated 5.0 from 85 guests — the best review record of any tour on this site. Book it via {{< gyg-link tour="147264" >}}Anchorage: Knik Glacier Helicopter Tour with Landing{{< /gyg-link >}}. If ice time matters more to you than review count, the **[From Palmer tour](/tours/from-palmer-knik-glacier-helicopter-tour/)** is $2 cheaper and gives forty-five minutes on the glacier instead of thirty — book via {{< gyg-link tour="492083" >}}From Palmer: Knik Glacier Helicopter Tour{{< /gyg-link >}}.
+Near Anchorage, the **[Knik Glacier Helicopter Tour with Landing](/tours/anchorage-knik-glacier-helicopter-tour-with-landing/)** is the strongest all-round version of this: $522, a one-hour round trip, thirty minutes on the ice, and rated 5.0 from 89 guests — the best review record of any tour on this site. Book it via {{< gyg-link tour="147264" >}}Anchorage: Knik Glacier Helicopter Tour with Landing{{< /gyg-link >}}. If ice time matters more to you than review count, the **[From Palmer tour](/tours/from-palmer-knik-glacier-helicopter-tour/)** is $2 cheaper and gives forty-five minutes on the glacier instead of thirty — book via {{< gyg-link tour="492083" >}}From Palmer: Knik Glacier Helicopter Tour{{< /gyg-link >}}.
 
 ### Verdict
 
@@ -93,7 +93,7 @@ Makes sense if aerial photography is a priority, you've already walked on a glac
 
 ### Our pick
 
-The **[Grand Knik Glacier Helicopter Tour with Landings](/tours/anchorage-grand-knik-glacier-helicopter-tour-with-landings/)** is the version of this near Anchorage: two hours, three separate touchdowns — including a remote peak looking down the length of Knik Glacier — and a guided walk among the meltwater pools, for $762 and rated 5.0 from 24 guests. Book via {{< gyg-link tour="412333" >}}Anchorage: Grand Knik Glacier Helicopter Tour with Landings{{< /gyg-link >}}. If you'd rather fly out of Girdwood, the **[90-min Flight with 2 Landings](/tours/anchorage-90-min-flight-with-2-landings/)** covers the Chugach south of the city with a glacier landing and a second stop on an alpine ridge, for $844.
+The **[Grand Knik Glacier Helicopter Tour with Landings](/tours/anchorage-grand-knik-glacier-helicopter-tour-with-landings/)** is the version of this near Anchorage: two hours, three separate touchdowns — including a remote peak looking down the length of Knik Glacier — and a guided walk among the meltwater pools, for $762 and rated 5.0 from 25 guests. Book via {{< gyg-link tour="412333" >}}Anchorage: Grand Knik Glacier Helicopter Tour with Landings{{< /gyg-link >}}. If you'd rather fly out of Girdwood, the **[90-min Flight with 2 Landings](/tours/anchorage-90-min-flight-with-2-landings/)** covers the Chugach south of the city with a glacier landing and a second stop on an alpine ridge, for $844.
 
 ### Verdict
 
@@ -119,7 +119,7 @@ It's significantly more expensive than straightforward flightseeing. If dog sled
 
 ### Our pick
 
-The **[Helicopter and Glacier Dogsled Tour](/tours/anchorage-area-helicopter-and-glacier-dogsled-tour/)** near Palmer gives a full hour with the dog team on the snowfield — three to four times the sled time most glacier dogsled products in Alaska allocate — plus thirty minutes of flightseeing over the Chugach, Knik Glacier and Lake George. $816, rated 4.9 from 63 guests. Book via {{< gyg-link tour="147273" >}}Anchorage Area: Helicopter and Glacier Dogsled Tour{{< /gyg-link >}}. Travelling with children, or want a shorter drive from Anchorage? The **[Girdwood dogsledding tour](/tours/anchorage-helicopter-glacier-dogsledding-tour/)** lands on Punchbowl Glacier with Mitch Seavey's IdidaRide kennel — $769, rated 5.0 from 7 guests. Book via {{< gyg-link tour="1079145" >}}Anchorage: Helicopter Glacier Dogsledding Tour{{< /gyg-link >}}.
+The **[Helicopter and Glacier Dogsled Tour](/tours/anchorage-area-helicopter-and-glacier-dogsled-tour/)** near Palmer gives a full hour with the dog team on the snowfield — three to four times the sled time most glacier dogsled products in Alaska allocate — plus thirty minutes of flightseeing over the Chugach, Knik Glacier and Lake George. $816, rated 4.9 from 64 guests. Book via {{< gyg-link tour="147273" >}}Anchorage Area: Helicopter and Glacier Dogsled Tour{{< /gyg-link >}}. Travelling with children, or want a shorter drive from Anchorage? The **[Girdwood dogsledding tour](/tours/anchorage-helicopter-glacier-dogsledding-tour/)** lands on Punchbowl Glacier with Mitch Seavey's IdidaRide kennel — $769, rated 5.0 from 7 guests. Book via {{< gyg-link tour="1079145" >}}Anchorage: Helicopter Glacier Dogsledding Tour{{< /gyg-link >}}.
 
 ### Verdict
 
@@ -135,9 +135,9 @@ A standard glacier landing lets you stand on the ice. A heli-hiking or trekking 
 
 A standard landing puts you down, gives you time near the helicopter to look around and photograph, and flies you back. Heli-hiking makes the landing the beginning rather than the whole experience — a guide takes you farther through the terrain, and glacier exploration becomes a substantial part of the tour.
 
-### Our pick
+### Near Anchorage
 
-The **[Knik Glacier Helicopter and Hiking Adventure Tour](/tours/anchorage-knik-glacier-helicopter-and-hiking-adventure-tour/)** is the option near Anchorage — four hours, rated 5.0 from a single review so far, which is genuinely thin, so treat the rating as a starting point rather than a settled verdict. It's worth reading the [full comparison guide](/guides/which-anchorage-glacier-helicopter-tour-is-right-for-you/) before booking this one specifically, since it has the least review history of any tour on this site with a rating at all.
+Near Anchorage there is currently no heli-hiking tour you can book through GetYourGuide: the four-hour Knik hiking adventure that used to be listed there has been withdrawn. Alaska Helicopter Tours sells a guided glacier trek directly, combined with a swim in a meltwater pool, as its Glacier Swim & Hike (from $1,049, May 15 to September 15, ages 13 and up). If you would rather keep to bookable tours with free cancellation, the closest thing on this site is the [Grand Knik tour](/tours/anchorage-grand-knik-glacier-helicopter-tour-with-landings/), whose three landings include a guided walk among the melt pools.
 
 ### Verdict
 
@@ -292,7 +292,7 @@ The "best" helicopter tour is therefore not necessarily the most expensive optio
 
 ### What is the best helicopter tour in Alaska?
 
-For most first-time visitors, a helicopter tour with a glacier landing offers the best combination of aerial scenery and time on the ice. Near Anchorage, the [Knik Glacier Helicopter Tour with Landing](/tours/anchorage-knik-glacier-helicopter-tour-with-landing/) has the strongest review record of any tour on this site at 5.0 from 85 guests.
+For most first-time visitors, a helicopter tour with a glacier landing offers the best combination of aerial scenery and time on the ice. Near Anchorage, the [Knik Glacier Helicopter Tour with Landing](/tours/anchorage-knik-glacier-helicopter-tour-with-landing/) has the strongest review record of any tour on this site at 5.0 from 89 guests.
 
 ### Where is the best place for a glacier helicopter tour in Alaska?
 
@@ -337,5 +337,5 @@ Start by comparing the [Knik Glacier landing tours](/knik-glacier-helicopter-tou
 - Knik Glacier ~25 miles long, 5+ miles wide — content/_index.md.
 - Juneau Icefield and Denali/Talkeetna flightseeing descriptions are general destination information, not tied to any product sold on this site, and are stated without a figure.
 - "Most glacier sled products give 15-20 minutes" and similar industry generalisations about product shape are not cited statistics; the specific minute counts for this site's own tours come from the listings themselves.
-- The 412340 (hiking) 1-review and 412355 (ice climbing) zero-review/zero-rating status are stated exactly as scraped 2026-09-03 and will drift — re-check before reusing this framing.
+- 2026-10-03: 412340 (Knik heli-hiking) was withdrawn from GetYourGuide (its URL 301s to the Anchorage location page); no heli-hiking product near Anchorage on GYG or Viator. Glacier Swim & Hike (from $1,049, May 15-Sep 15, 13+) — alaskahelicoptertours.com/glacier-swim-explore/. 412355 (ice climbing) still shows no public rating — re-check before reusing this framing.
 -->

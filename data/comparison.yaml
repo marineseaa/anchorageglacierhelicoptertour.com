@@ -28,7 +28,7 @@ columns:
 rows:
   - label: "Do you stand on the glacier?"
     values:
-      - "Yes — 30 to 45 minutes on the surface, microspikes or overboots provided"
+      - "Yes — 15 to 45 minutes on the surface, microspikes or overboots provided"
       - "No on a cruise; yes on a driving day trip, after a shuttle and a walk in"
       - "No — the Knik viewpoints are across a river flat from the ice"
 
@@ -40,7 +40,7 @@ rows:
 
   - label: "Price per person"
     values:
-      - "$520 – $1,416 depending on flight time and activity"
+      - "$520 – $1,470 depending on flight time and activity"
       - "Roughly $115 – $370"
       - "Fuel, plus a rental car if you do not have one"
 

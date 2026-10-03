@@ -26,7 +26,7 @@ Glaciers that look like white strips between the mountains from the ground turn 
 
 Near Anchorage, that perspective is specific: nothing takes off from the city itself. The helicopters that fly under an "Anchorage" tour name actually lift off from the Knik River valley near Palmer, about an hour north, or from Girdwood, 40 miles south — see our [full comparison of every tour](/) for exactly where each one departs. What the drive buys you is access. A helicopter crosses mountains and glaciers in minutes and can land somewhere a hiker would need most of a day to reach on foot, or couldn't reach at all.
 
-For most first-timers, a **glacier landing** is what turns the flight from an impressive sightseeing trip into one of the highlights of the visit. The best-reviewed way to get one near Anchorage is the **[Knik Glacier Helicopter Tour with Landing](/tours/anchorage-knik-glacier-helicopter-tour-with-landing/)** — $522, a one-hour round trip with thirty minutes on the ice, rated 5.0 from 85 guests. Book it directly via {{< gyg-link tour="147264" >}}Anchorage: Knik Glacier Helicopter Tour with Landing{{< /gyg-link >}}.
+For most first-timers, a **glacier landing** is what turns the flight from an impressive sightseeing trip into one of the highlights of the visit. The best-reviewed way to get one near Anchorage is the **[Knik Glacier Helicopter Tour with Landing](/tours/anchorage-knik-glacier-helicopter-tour-with-landing/)** — $522, a one-hour round trip with thirty minutes on the ice, rated 5.0 from 89 guests. Book it directly via {{< gyg-link tour="147264" >}}Anchorage: Knik Glacier Helicopter Tour with Landing{{< /gyg-link >}}.
 
 That doesn't make it the right choice for everyone.
 
@@ -96,11 +96,11 @@ Good if:
 
 ### Helicopter tour with a glacier landing
 
-Instead of only seeing the glacier from above, the helicopter lands and you step onto it. You'll normally get **thirty to forty-five minutes** to look around, take photographs and take in the scale before flying back.
+Instead of only seeing the glacier from above, the helicopter lands and you step onto it. Near Anchorage you'll get **fifteen to forty-five minutes**, depending on the tour, to look around, take photographs and take in the scale before flying back.
 
 If this is likely to be your **only helicopter experience in Alaska**, a glacier landing is usually the one we'd choose. From the air, glaciers are impressive. Standing on one is a different experience entirely — the ice has ridges, cracks and meltwater channels invisible from altitude, and the surface goes almost completely silent once the rotor winds down.
 
-Near Anchorage, the **[From Palmer flight](/tours/from-palmer-knik-glacier-helicopter-tour/)** gives the most ice time on this site for the least money: $520, and forty-five minutes standing on Knik Glacier with microspikes handed out. Book via {{< gyg-link tour="492083" >}}From Palmer: Knik Glacier Helicopter Tour{{< /gyg-link >}}. If you'd rather have the strongest review record over the extra fifteen minutes, the flagship landing tour above is $2 more and rated 5.0 from 85 guests instead of 4.9 from 31.
+Near Anchorage, the **[From Palmer flight](/tours/from-palmer-knik-glacier-helicopter-tour/)** gives the most ice time on this site for the least money: $520, and forty-five minutes standing on Knik Glacier with microspikes handed out. Book via {{< gyg-link tour="492083" >}}From Palmer: Knik Glacier Helicopter Tour{{< /gyg-link >}}. If you'd rather have the strongest review record over the extra fifteen minutes, the flagship landing tour above is $2 more and rated 5.0 from 89 guests instead of 4.9 from 34.
 
 You'll normally stay within an area the pilot or guide marks out rather than wandering independently. You don't need to be an experienced hiker to enjoy a standard glacier landing — it's a different, much gentler experience than a dedicated glacier trek or ice-climbing tour, covered in our [full comparison guide](/guides/which-anchorage-glacier-helicopter-tour-is-right-for-you/).
 
@@ -129,7 +129,7 @@ Near Anchorage, **around an hour is typical for a straightforward glacier landin
 - ice climbing;
 - guided glacier exploration.
 
-These run **four hours** rather than one — the [heli-hiking adventure](/tours/anchorage-knik-glacier-helicopter-and-hiking-adventure-tour/), [paddleboarding tour](/tours/anchorage-knik-glacier-helicopter-and-paddleboarding-tour/) and [ice-climbing tour](/tours/anchorage-knik-glacier-helicopter-and-ice-climbing-tour/) all sit at $771–$1,416 for four hours on the glacier.
+These run **four hours** rather than one — the [paddleboarding tour](/tours/anchorage-knik-glacier-helicopter-and-paddleboarding-tour/) and [ice-climbing tour](/tours/anchorage-knik-glacier-helicopter-and-ice-climbing-tour/) sit at $1,416–$1,470 for four hours on the glacier.
 
 When comparing tours, don't look only at the advertised duration — check **what the time actually includes**. A 60-minute tour with a glacier landing is a very different experience from 60 uninterrupted minutes of flightseeing, and neither is automatically better. It depends whether your priority is time in the air or time on the glacier.
 
@@ -351,7 +351,7 @@ For a first visit around Anchorage, we'd generally choose a **helicopter tour wi
 
 ### How much is a helicopter ride in Alaska?
 
-Near Anchorage, glacier tours run $520 to $1,416 per person. A straight landing flight is $520–$844; a guided half-day with dog sledding, paddleboarding or ice climbing runs $769–$1,416. Our [full cost guide](/guides/how-much-does-an-anchorage-glacier-helicopter-tour-cost/) breaks down exactly what each price band buys.
+Near Anchorage, glacier tours run $520 to $1,470 per person. A straight landing flight is $520–$844; a guided half-day with dog sledding, paddleboarding or ice climbing runs $769–$1,470. Our [full cost guide](/guides/how-much-does-an-anchorage-glacier-helicopter-tour-cost/) breaks down exactly what each price band buys.
 
 ### Can you land on a glacier in Alaska by helicopter?
 

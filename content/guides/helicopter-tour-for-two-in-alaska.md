@@ -106,7 +106,7 @@ There's no flat "couple's rate" — you're paying for two individual seats, so t
 | [Grand Knik tour, 3 landings](/tours/anchorage-grand-knik-glacier-helicopter-tour-with-landings/) | $762 | **$1,524** |
 | [Knik valley dog sledding](/tours/anchorage-area-helicopter-and-glacier-dogsled-tour/) | $816 | **$1,632** |
 | [90-min flight, 2 landings](/tours/anchorage-90-min-flight-with-2-landings/) | $844 | **$1,688** |
-| [Paddleboarding](/tours/anchorage-knik-glacier-helicopter-and-paddleboarding-tour/) | $1,416 | **$2,832** |
+| [Paddleboarding](/tours/anchorage-knik-glacier-helicopter-and-paddleboarding-tour/) | $1,470 | **$2,940** |
 
 Before extras, transport or gratuities.
 
@@ -184,7 +184,7 @@ For most couples staying in Anchorage, we'd narrow it to three real choices on t
 
 ### Best overall: the flagship Knik Glacier landing
 
-$522pp, one hour, thirty minutes flying and thirty minutes on the ice, rated 5.0 from 85 reviews — the most-reviewed and best-rated tour on this site. Book it via {{< gyg-link tour="147264" >}}Anchorage: Knik Glacier Helicopter Tour with Landing{{< /gyg-link >}}. Choose this if you want the classic Alaska helicopter experience without turning the day into an expedition.
+$522pp, one hour, thirty minutes flying and thirty minutes on the ice, rated 5.0 from 89 reviews — the most-reviewed and best-rated tour on this site. Book it via {{< gyg-link tour="147264" >}}Anchorage: Knik Glacier Helicopter Tour with Landing{{< /gyg-link >}}. Choose this if you want the classic Alaska helicopter experience without turning the day into an expedition.
 
 ### Best value: the Palmer landing
 
@@ -344,7 +344,7 @@ Book **shared** if you're primarily sightseeing — it's the better-value choice
 
 ### What is the best helicopter tour for two near Anchorage?
 
-For most first-time visitors, the [flagship Knik Glacier landing tour](/tours/anchorage-knik-glacier-helicopter-tour-with-landing/) at $522pp — rated 5.0 from 85 reviews, the most-reviewed tour on this site.
+For most first-time visitors, the [flagship Knik Glacier landing tour](/tours/anchorage-knik-glacier-helicopter-tour-with-landing/) at $522pp — rated 5.0 from 89 reviews, the most-reviewed tour on this site.
 
 ---
 

@@ -17,7 +17,7 @@ relatedFAQ: "How much does an Anchorage glacier helicopter tour cost?"
 ogImage: "/images/which-anchorage-glacier-helicopter-tour-is-right-for-you-hook.webp"
 ---
 
-Nine tours, three operators, two directions out of the city and a price range that runs from $520 to $1,416. The good news is that the decision collapses quickly once you answer two questions: which way you are driving, and whether you want the glacier or something to do on it.
+Nine tours, three operators, two directions out of the city and a price range that runs from $520 to $1,470. The good news is that the decision collapses quickly once you answer two questions: which way you are driving, and whether you want the glacier or something to do on it.
 
 <!--more-->
 
@@ -29,7 +29,7 @@ Nine tours, three operators, two directions out of the city and a price range th
 
 If you want to stand on a glacier and you are choosing on value, book the **[Palmer flight](/tours/from-palmer-knik-glacier-helicopter-tour/)** — $520, forty-five minutes on the ice, more glacier time than anything else on this site.
 
-If you want the safest, best-reviewed version of the same idea, book the **[flagship landing tour](/tours/anchorage-knik-glacier-helicopter-tour-with-landing/)** — $522, 4.99 from 85 guests, thirty minutes on the ice.
+If you want the safest, best-reviewed version of the same idea, book the **[flagship landing tour](/tours/anchorage-knik-glacier-helicopter-tour-with-landing/)** — $522, 4.99 from 89 guests, thirty minutes on the ice.
 
 Everything below is the reasoning, and the cases where those two are the wrong answer.
 
@@ -37,19 +37,19 @@ Everything below is the reasoning, and the cases where those two are the wrong a
 
 Nothing departs from Anchorage. That is the constraint everything else hangs off.
 
-**North, about an hour, up the Old Glenn Highway to the Knik River valley.** Six tours. Bare, crevassed Knik Glacier with turquoise meltwater pools through summer. Every price band from $520 to $1,416, and every activity — landing, hiking, dogsledding, paddleboarding, ice climbing.
+**North, about an hour, up the Old Glenn Highway to the Knik River valley.** Six tours. Bare, crevassed Knik Glacier with turquoise meltwater pools through summer. Every price band from $520 to $1,470, and every activity — landing, dogsledding, paddleboarding, ice climbing.
 
-**South, about 45 minutes, down the Seward Highway to Girdwood.** Two tours, both from Alpine Air at Girdwood Airport. Punchbowl Glacier at 3,200 feet and the high Chugach. Nothing under $769.
+**South, about 45 minutes, down the Seward Highway to Girdwood.** Three tours, all from Alpine Air at Girdwood Airport: a one-hour glacier landing from $620, a 90-minute two-landing flight and the Punchbowl Glacier dog camp at 3,200 feet.
 
-If your itinerary already points at Alyeska, Portage or Seward, go south and pick between two tours. Otherwise the north has the range, the ice and the lower prices. Our [Knik versus Punchbowl guide](/guides/knik-glacier-vs-punchbowl-glacier-helicopter-tours/) covers the glaciers themselves in more detail.
+If your itinerary already points at Alyeska, Portage or Seward, go south and pick between three tours. Otherwise the north has the range, the ice and the lower prices. Our [Knik versus Punchbowl guide](/guides/knik-glacier-vs-punchbowl-glacier-helicopter-tours/) covers the glaciers themselves in more detail.
 
 ## Second: the glacier, or something to do on it?
 
 This is where the price splits in two.
 
-**A landing tour** buys you flight time and thirty to forty-five minutes standing on ice. $520 to $844.
+**A landing tour** buys you flight time and fifteen to forty-five minutes standing on ice. $520 to $844.
 
-**An activity tour** buys you a guided half-day, with the helicopter as the commute. $769 to $1,416. You are paying for guides, technical gear, lunch, and in the dogsled cases an entire camp of mushers and dogs living on a glacier for the season.
+**An activity tour** buys you a guided half-day, with the helicopter as the commute. $769 to $1,470. You are paying for guides, technical gear, lunch, and in the dogsled cases an entire camp of mushers and dogs living on a glacier for the season.
 
 Neither is better. They are different purchases, and people who book an activity tour expecting a scenic flight — or the reverse — are the ones who come away feeling they overpaid.
 
@@ -57,17 +57,19 @@ Neither is better. They are different purchases, and people who book an activity
 
 **Best value, and the most ice time: [From Palmer: Knik Glacier Helicopter Tour](/tours/from-palmer-knik-glacier-helicopter-tour/).** $520, a 40 to 45-minute flight, and forty-five minutes on Knik Glacier with microspikes handed out. It is the cheapest tour on the site and gives more glacier time than tours costing half as much again, because there is nothing else in it — no dog camp, no guided hike, no lunch. Groups capped at seven. Book via {{< gyg-link tour="492083" >}}From Palmer: Knik Glacier Helicopter Tour{{< /gyg-link >}}.
 
-**Best-reviewed, and the safest first booking: [Knik Glacier Helicopter Tour with Landing](/tours/anchorage-knik-glacier-helicopter-tour-with-landing/).** $522, one hour, thirty minutes on the ice, rated **4.99 from 85 guests** — the strongest record on this site by a distance. If you want the version most people have done and almost none have complained about, it is this one. {{< gyg-link tour="147264" >}}Anchorage: Knik Glacier Helicopter Tour with Landing{{< /gyg-link >}}.
+**Best-reviewed, and the safest first booking: [Knik Glacier Helicopter Tour with Landing](/tours/anchorage-knik-glacier-helicopter-tour-with-landing/).** $522, one hour, thirty minutes on the ice, rated **4.99 from 89 guests** — the strongest record on this site by a distance. If you want the version most people have done and almost none have complained about, it is this one. {{< gyg-link tour="147264" >}}Anchorage: Knik Glacier Helicopter Tour with Landing{{< /gyg-link >}}.
 
 **Best for photographers: [Grand Knik Glacier Helicopter Tour with Landings](/tours/anchorage-grand-knik-glacier-helicopter-tour-with-landings/).** Two hours, three separate touchdowns including a remote peak looking down the length of the glacier, and a guided walk among the melt pools. $762. Three vantage points rather than one is worth the premium if the pictures matter. {{< gyg-link tour="412333" >}}Anchorage: Grand Knik Glacier Helicopter Tour with Landings{{< /gyg-link >}}.
+
+**Best simple landing if you are heading south: {{< gyg-link tour="1107685" >}}Girdwood: Chugach Mountains Helicopter Flight with Landing{{< /gyg-link >}}.** A one-hour flight from Alpine Air's Girdwood hangar with one glacier landing and fifteen to twenty minutes on the ice. $620, rated 4.9 from 14 guests, which is a short review record next to the Knik flights. It costs about $100 more than the Knik landing tours and gives less time on the ice; book it because your day already runs down Turnagain Arm, not to save money.
 
 **Best for the longest flight: [90-min Flight with 2 Landings](/tours/anchorage-90-min-flight-with-2-landings/).** Ninety minutes through the Chugach out of Girdwood, with a glacier landing and a second stop on an alpine ridge or a mountain lake. $844, two-passenger minimum. {{< gyg-link tour="1078337" >}}Anchorage: 90-min Flight with 2 Landings{{< /gyg-link >}}.
 
 **Best with children: [Helicopter Glacier Dogsledding Tour](/tours/anchorage-helicopter-glacier-dogsledding-tour/).** Outer layers and boots provided at the hangar, small groups, sled dog puppies at the camp, and the shorter drive from town. $769. {{< gyg-link tour="1079145" >}}Anchorage: Helicopter Glacier Dogsledding Tour{{< /gyg-link >}}.
 
-**Best if the dogs are the point: [Helicopter and Glacier Dogsled Tour](/tours/anchorage-area-helicopter-and-glacier-dogsled-tour/).** A full hour with the team on the snow rather than the fifteen or twenty minutes most glacier sled products give you. $816, 63 reviews at 4.93. {{< gyg-link tour="147273" >}}Anchorage Area: Helicopter and Glacier Dogsled Tour{{< /gyg-link >}}.
+**Best if the dogs are the point: [Helicopter and Glacier Dogsled Tour](/tours/anchorage-area-helicopter-and-glacier-dogsled-tour/).** A full hour with the team on the snow rather than the fifteen or twenty minutes most glacier sled products give you. $816, 64 reviews at 4.89. {{< gyg-link tour="147273" >}}Anchorage Area: Helicopter and Glacier Dogsled Tour{{< /gyg-link >}}.
 
-**Best for something nobody else will have done: [Helicopter and Paddleboarding Tour](/tours/anchorage-knik-glacier-helicopter-and-paddleboarding-tour/)** — four hours, a dry suit, and a turquoise meltwater pool on the glacier surface — or the **[Ice Climbing Tour](/tours/anchorage-knik-glacier-helicopter-and-ice-climbing-tour/)**, which needs no experience and adds ice cave exploration in winter. Both $1,416.
+**Best for something nobody else will have done: [Helicopter and Paddleboarding Tour](/tours/anchorage-knik-glacier-helicopter-and-paddleboarding-tour/)** — four hours, a dry suit, and a turquoise meltwater pool on the glacier surface — or the **[Ice Climbing Tour](/tours/anchorage-knik-glacier-helicopter-and-ice-climbing-tour/)**, which needs no experience and adds ice cave exploration in winter. $1,470 and $1,416.
 
 ## Who should book what
 
@@ -79,8 +81,8 @@ Neither is better. They are different purchases, and people who book an activity
 | Already heading south toward Alyeska or Seward | [90-min Flight with 2 Landings](/tours/anchorage-90-min-flight-with-2-landings/) — $844 |
 | Travelling with children | [Girdwood dogsledding](/tours/anchorage-helicopter-glacier-dogsledding-tour/) — $769, gear provided |
 | Here for the dogs above all | [Knik valley dogsled tour](/tours/anchorage-area-helicopter-and-glacier-dogsled-tour/) — $816, a full hour sledding |
-| Fit, cold-tolerant and after a story | [Paddleboarding](/tours/anchorage-knik-glacier-helicopter-and-paddleboarding-tour/) or [ice climbing](/tours/anchorage-knik-glacier-helicopter-and-ice-climbing-tour/) — $1,416 |
-| Wanting a long hike you could never walk to | [Heli-hiking adventure](/tours/anchorage-knik-glacier-helicopter-and-hiking-adventure-tour/) — $771, four hours |
+| Fit, cold-tolerant and after a story | [Paddleboarding](/tours/anchorage-knik-glacier-helicopter-and-paddleboarding-tour/) or [ice climbing](/tours/anchorage-knik-glacier-helicopter-and-ice-climbing-tour/) — $1,470 / $1,416 |
+| Driving south anyway and want a single glacier landing | {{< gyg-link tour="1107685" >}}Girdwood glacier landing flight{{< /gyg-link >}} — $620, one hour |
 
 ## Three things that decide it more often than price
 
@@ -96,7 +98,7 @@ Once you've picked a tour, our [full booking checklist](/guides/how-to-book-a-he
 
 ### What is the best glacier helicopter tour near Anchorage?
 
-For most people, the [Knik Glacier Helicopter Tour with Landing](/tours/anchorage-knik-glacier-helicopter-tour-with-landing/) at $522 — one hour, thirty minutes on the ice, and rated 4.99 from 85 guests, which is the strongest record of any tour on this site. If value matters more than the review count, the [Palmer flight](/tours/from-palmer-knik-glacier-helicopter-tour/) is $2 cheaper and gives fifteen more minutes on the glacier.
+For most people, the [Knik Glacier Helicopter Tour with Landing](/tours/anchorage-knik-glacier-helicopter-tour-with-landing/) at $522 — one hour, thirty minutes on the ice, and rated 4.99 from 89 guests, which is the strongest record of any tour on this site. If value matters more than the review count, the [Palmer flight](/tours/from-palmer-knik-glacier-helicopter-tour/) is $2 cheaper and gives fifteen more minutes on the glacier.
 
 ### Is a longer flight worth the extra money?
 

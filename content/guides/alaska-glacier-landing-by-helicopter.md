@@ -74,7 +74,7 @@ On this site specifically: the [Palmer tour](/tours/from-palmer-knik-glacier-hel
 
 ### Is 20–30 minutes on a glacier enough?
 
-For a first-time sightseeing landing, yes. That's not normal sightseeing time — you're standing somewhere most visitors can't reach by road, with enough time to walk the marked area, see the ice close up, take photographs and appreciate the scale. If your goal is genuinely "I want to explore a glacier," not just experience one, book a dedicated [heli-hiking tour](/tours/anchorage-knik-glacier-helicopter-and-hiking-adventure-tour/) instead.
+For a first-time sightseeing landing, yes. That's not normal sightseeing time — you're standing somewhere most visitors can't reach by road, with enough time to walk the marked area, see the ice close up, take photographs and appreciate the scale. If your goal is genuinely "I want to explore a glacier," not just experience one, look at a guided glacier activity instead, such as the [Grand Knik tour](/tours/anchorage-grand-knik-glacier-helicopter-tour-with-landings/) and its walk among the melt pools, or the [ice-climbing day](/tours/anchorage-knik-glacier-helicopter-and-ice-climbing-tour/).
 
 ## What Does the Ice Actually Look Like?
 
@@ -128,7 +128,7 @@ Yes, though it changes the character of the landing more than whether it's worth
 
 ## Where Can You Do a Glacier Landing Near Anchorage?
 
-The main option is **Knik Glacier**, part of the Chugach glacier landscape, accessible from operators based in the Palmer/Knik area northeast of the city — six of the nine tours on this site fly there. The other three fly south to **Punchbowl Glacier** above Girdwood, a high snowfield rather than a valley glacier.
+The main option is **Knik Glacier**, part of the Chugach glacier landscape, accessible from operators based in the Palmer/Knik area northeast of the city — six of the nine tours on this site fly there. The other three fly from Girdwood, to the south: the dog camp sits on **Punchbowl Glacier**, a high snowfield rather than a valley glacier, and Alpine Air's landing flights touch down on backcountry glaciers such as Colony Glacier.
 
 This is the same point worth repeating from elsewhere on this site: **"Anchorage glacier helicopter tour" doesn't mean the helicopter takes off from downtown Anchorage.** Always check the actual departure point, drive time, transfer availability and whether transport costs extra before you book. Our [Knik versus Punchbowl guide](/guides/knik-glacier-vs-punchbowl-glacier-helicopter-tours/) compares the two glaciers in full — which one is "better" depends far more on the actual tour than on the glacier's name.
 
@@ -136,7 +136,7 @@ This is the same point worth repeating from elsewhere on this site: **"Anchorage
 
 **Glacier landing** is access plus sightseeing — best for first-time visitors, photography, families, limited time, and anyone who isn't looking for a strenuous activity.
 
-**Glacier hiking**, like the [heli-hiking tour](/tours/anchorage-knik-glacier-helicopter-and-hiking-adventure-tour/), is exploration — best for active travellers who want several hours on the ice and are interested in the glacier's features, not just standing on it.
+**Glacier hiking** is exploration — best for active travellers who want several hours on the ice and are interested in the glacier's features, not just standing on it.
 
 **Ice climbing**, like the [ice-climbing tour](/tours/anchorage-knik-glacier-helicopter-and-ice-climbing-tour/), is for people who specifically want to climb ice — not simply the "best" version of a landing. For most first-time visitors it would be unnecessary.
 
@@ -184,7 +184,7 @@ For most first-time visitors, a straightforward helicopter flight with one good 
 
 ### Can helicopters really land on glaciers near Anchorage?
 
-Yes. It's a well-established part of Anchorage-area sightseeing — six of the nine tours on this site include at least one glacier landing.
+Yes. It's a well-established part of Anchorage-area sightseeing — every one of the nine tours on this site lands on a glacier or a glacier snowfield.
 
 ### Can you get out of the helicopter on a glacier landing?
 
@@ -238,6 +238,7 @@ For most first-time visitors, we'd choose the landing — it adds a second, comp
 
 <!-- GK-AUDIT
 - All prices, durations, ratings, weight limits, cancellation windows and equipment provided — data/gyg_anchorage_glacier_helicopter_10offers.json only, as already established in this site's other guides.
-- "Colony Glacier" in the source queue article (05-alaska-glacier-landing-by-helicopter.md) does not correspond to any tour sold on this site (all nine visit Knik or Punchbowl) and was replaced with the real Knik-vs-Punchbowl comparison already published at content/guides/knik-glacier-vs-punchbowl-glacier-helicopter-tours.md.
+- "Colony Glacier" in the source queue article (05-alaska-glacier-landing-by-helicopter.md) did not correspond to any tour sold on this site at the time and was replaced with the real Knik-vs-Punchbowl comparison already published at content/guides/knik-glacier-vs-punchbowl-glacier-helicopter-tours.md.
+- 2026-10-03: Alpine Air's one-hour Girdwood landing flight (GYG t1107685) is now on this site; Alpine Air's landing tours touch down on glaciers such as Colony Glacier (alaska.org Alpine Air listing; alaskarailroad.com helicopter glacier landing page: Lake George, Whiteout and Colony glaciers).
 - Check-in/weigh-in/briefing procedural detail was trimmed and cross-linked to the existing content/guides/what-to-expect-on-a-glacier-helicopter-tour.md rather than duplicated, since that page already covers it in full with the same sourcing.
 -->

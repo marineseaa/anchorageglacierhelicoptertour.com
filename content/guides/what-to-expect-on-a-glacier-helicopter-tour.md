@@ -67,7 +67,7 @@ Sit by a window if you can, and put the camera down for the first two minutes. T
 
 The skids touch, the pilot winds the rotor down, and then there is the thing nobody prepares you for: the silence. A glacier with no engine running on it is one of the quietest places most people will ever stand.
 
-You get **thirty to forty-five minutes** depending on the tour. Microspikes or overboots are handed out where the surface calls for them. Stay within the area the pilot marks — a glacier surface has holes in it that do not look like holes, and meltwater channels are deeper and faster than they appear.
+You get **fifteen to forty-five minutes** depending on the tour: thirty on the flagship Knik flight, forty-five on the Palmer flight, fifteen to twenty on the one-hour Girdwood landing flight. Microspikes or overboots are handed out where the surface calls for them. Stay within the area the pilot marks — a glacier surface has holes in it that do not look like holes, and meltwater channels are deeper and faster than they appear.
 
 It is colder than the valley. A glacier cools the air sitting on it and that air drains downhill as a breeze, so bring the layer you thought you would not need. The [what to wear guide](/guides/what-to-wear-on-an-alaska-glacier-helicopter-tour/) covers it by season, and our [full glacier-landing guide](/guides/alaska-glacier-landing-by-helicopter/) goes deeper on what the ice actually looks like, ice caves, and whether the landing is worth the extra cost.
 

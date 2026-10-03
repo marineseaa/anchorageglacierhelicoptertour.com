@@ -1,7 +1,7 @@
 ---
 title: "How Much Does an Anchorage Glacier Helicopter Tour Cost?"
 h1: "What a Glacier Helicopter Tour Actually Costs"
-description: "Anchorage glacier helicopter tours run $520 to $1,416 per person. What each price band buys, what is never included, and the surcharges nobody budgets for."
+description: "Anchorage glacier helicopter tours run $520 to $1,470 per person. What each price band buys, what is never included, and the surcharges nobody budgets for."
 keywords:
   - "alaska helicopter tour cost"
   - "how much is a helicopter ride in alaska"
@@ -10,14 +10,14 @@ keywords:
   - "how much is dog sledding in alaska"
 type: "guides"
 date: 2026-09-03
-dateModified: "September 2026"
-dateModifiedISO: "2026-09-16"
+dateModified: "October 2026"
+dateModifiedISO: "2026-10-03"
 featuredTourId: 492083
 relatedFAQ: "How much does an Anchorage glacier helicopter tour cost?"
 ogImage: "/images/how-much-does-an-anchorage-glacier-helicopter-tour-cost-hook.webp"
 ---
 
-Between $520 and $1,416 per person, which is a wide enough spread to be useless without knowing what moves it. The short version: flight time sets the floor, and whatever you do after the skids touch down sets the ceiling.
+Between $520 and $1,470 per person, which is a wide enough spread to be useless without knowing what moves it. The short version: flight time sets the floor, and whatever you do after the skids touch down sets the ceiling.
 
 <!--more-->
 
@@ -27,11 +27,11 @@ Between $520 and $1,416 per person, which is a wide enough spread to be useless 
 
 ## The three price bands
 
-**$520 – $560: a glacier landing, and nothing else.** One operator sits here. The [Palmer flight](/tours/from-palmer-knik-glacier-helicopter-tour/) is $520 for a 40 to 45-minute flight and forty-five minutes on Knik Glacier with microspikes. The [flagship landing tour](/tours/anchorage-knik-glacier-helicopter-tour-with-landing/) is $522 for a one-hour flight with thirty minutes on the ice. These two are the reason nobody should assume a glacier landing is out of reach.
+**$520 – $620: a glacier landing, and nothing else.** The [Palmer flight](/tours/from-palmer-knik-glacier-helicopter-tour/) is $520 for a 40 to 45-minute flight and forty-five minutes on Knik Glacier with microspikes. The [flagship landing tour](/tours/anchorage-knik-glacier-helicopter-tour-with-landing/) is $522 for a one-hour flight with thirty minutes on the ice. South of Anchorage, the one-hour {{< gyg-link tour="1107685" >}}Girdwood: Chugach Mountains Helicopter Flight with Landing{{< /gyg-link >}} is $620 for fifteen to twenty minutes on the ice. These three are the reason nobody should assume a glacier landing is out of reach. The only helicopter ride that costs less is a 30-minute scenic flight with no landing, which our [guide to cheap helicopter tours](/guides/cheap-helicopter-tours-in-alaska/) compares with them.
 
-**$760 – $850: more airtime, more landings, or a dog camp.** The [Grand tour](/tours/anchorage-grand-knik-glacier-helicopter-tour-with-landings/) is $762 for two hours and three touchdowns. The [heli-hiking day](/tours/anchorage-knik-glacier-helicopter-and-hiking-adventure-tour/) is $771 for four hours with a guide. The [Girdwood dogsledding tour](/tours/anchorage-helicopter-glacier-dogsledding-tour/) is $769 and the [90-minute two-landing flight](/tours/anchorage-90-min-flight-with-2-landings/) is $844. The [Knik valley dogsled tour](/tours/anchorage-area-helicopter-and-glacier-dogsled-tour/) is $816.
+**$760 – $850: more airtime, more landings, or a dog camp.** The [Grand tour](/tours/anchorage-grand-knik-glacier-helicopter-tour-with-landings/) is $762 for two hours and three touchdowns. The [Girdwood dogsledding tour](/tours/anchorage-helicopter-glacier-dogsledding-tour/) is $769 and the [90-minute two-landing flight](/tours/anchorage-90-min-flight-with-2-landings/) is $844. The [Knik valley dogsled tour](/tours/anchorage-area-helicopter-and-glacier-dogsled-tour/) is $816.
 
-**$1,416: a technical half-day.** The [paddleboarding](/tours/anchorage-knik-glacier-helicopter-and-paddleboarding-tour/) and [ice-climbing](/tours/anchorage-knik-glacier-helicopter-and-ice-climbing-tour/) tours both sit here. Four hours, an instructor or guide team, a full kit of technical equipment, and lunch.
+**$1,416 – $1,470: a technical half-day.** The [ice-climbing](/tours/anchorage-knik-glacier-helicopter-and-ice-climbing-tour/) tour is $1,416 and the [paddleboarding](/tours/anchorage-knik-glacier-helicopter-and-paddleboarding-tour/) tour $1,470. Four hours, an instructor or guide team, a full kit of technical equipment, and lunch.
 
 ## Why the cheapest tour gives the most ice time
 
@@ -55,7 +55,7 @@ Two listings that both say "glacier landing" can differ by an hour of flying, tw
 | **Actual flight time vs. total duration** | A 60-minute tour can mean 30 minutes flying and 30 on the ice, or nearly the full hour in the air. They're different products. |
 | **Number of landings** | The [Grand tour](/tours/anchorage-grand-knik-glacier-helicopter-tour-with-landings/) touches down three times for $762; the flagship tour touches down once for $522. |
 | **Glacier landing included?** | Never assume it from the word "glacier" in the title. |
-| **Activity included?** | Dog sledding, hiking, paddleboarding and ice climbing explain most of the jump above $760. |
+| **Activity included?** | Dog sledding, paddleboarding and ice climbing explain most of the jump above $760. |
 | **Departure point** | Every tour here excludes transport from Anchorage — see below. |
 | **Weight policy** | Limits and the $350 second-aircraft charge vary by operator. |
 | **Cancellation window** | 24 hours on most tours; 7 days on the Palmer flight specifically. |
@@ -80,7 +80,7 @@ Figures below are per person unless marked otherwise, based on this site's curre
 
 **Gratuities.** Excluded on every tour. Alpine Air's listing puts it well: appreciated, never expected.
 
-**Food, on the short tours.** Lunch is included on the paddleboarding and ice-climbing days and on nothing else. The heli-hiking tour includes snacks and water but not a meal.
+**Food, on the short tours.** Lunch is included on the paddleboarding and ice-climbing days and on nothing else.
 
 **Warm clothing, on the ice-climbing tour specifically.** That listing excludes warm and waterproof clothing in writing, while providing every piece of technical gear. Two of the other tours provide overboots or full outer layers. See the [what to wear guide](/guides/what-to-wear-on-an-alaska-glacier-helicopter-tour/).
 
@@ -102,7 +102,7 @@ Per hour of your holiday, the numbers are closer than they look. Per dollar, the
 
 ### How much is a helicopter ride in Alaska?
 
-Near Anchorage, $520 to $1,416 per person for a glacier tour, depending on flight length and whether an activity is attached. A straight landing flight is $520 to $844; a guided half-day with dogsledding, paddleboarding or ice climbing is $769 to $1,416. Prices elsewhere in Alaska — Juneau, Seward, Denali — sit in similar bands.
+Near Anchorage, $520 to $1,470 per person for a glacier tour, depending on flight length and whether an activity is attached. A straight landing flight is $520 to $844; a guided half-day with dogsledding, paddleboarding or ice climbing is $769 to $1,470. Prices elsewhere in Alaska — Juneau, Seward, Denali — sit in similar bands.
 
 ### Why do prices vary so much between similar-sounding tours?
 
@@ -110,7 +110,7 @@ Airtime and what happens on the ground. Two tours that both say "glacier landing
 
 ### What is the cheapest way to land on a glacier near Anchorage?
 
-The [Palmer flight](/tours/from-palmer-knik-glacier-helicopter-tour/) at $520, which is also the tour that gives the most time on the ice — forty-five minutes, with microspikes provided. Groups are capped at seven.
+The [Palmer flight](/tours/from-palmer-knik-glacier-helicopter-tour/) at $520, which is also the tour that gives the most time on the ice — forty-five minutes, with microspikes provided. Groups are capped at seven. Alaska Helicopter Tours also lists its own one-hour Knik Glacier Landing from $479 on its website; our [guide to cheap helicopter tours](/guides/cheap-helicopter-tours-in-alaska/) compares booking direct with booking here.
 
 ### Are there any hidden costs?
 
@@ -122,7 +122,7 @@ The listed starting prices on this site are the operators' own "from" figures an
 
 ### Is the most expensive tour the best one?
 
-No. The best-value tour depends on what you actually want. Someone taking their first helicopter flight and wanting to stand on a glacier is best served by the $520–$522 landing tours. A photographer chasing maximum aerial scenery is better matched to the $762 [Grand tour](/tours/anchorage-grand-knik-glacier-helicopter-tour-with-landings/) and its three landings. Someone who has always wanted to go dog sledding is better matched to the $769–$816 dog-sled tours. The most expensive tour on this site ($1,416) buys a four-hour guided activity, not a better version of the basic flight.
+No. The best-value tour depends on what you actually want. Someone taking their first helicopter flight and wanting to stand on a glacier is best served by the $520–$522 landing tours. A photographer chasing maximum aerial scenery is better matched to the $762 [Grand tour](/tours/anchorage-grand-knik-glacier-helicopter-tour-with-landings/) and its three landings. Someone who has always wanted to go dog sledding is better matched to the $769–$816 dog-sled tours. The most expensive tour on this site ($1,470) buys a four-hour guided activity, not a better version of the basic flight.
 
 ### How much does a helicopter tour for two cost?
 
@@ -136,4 +136,5 @@ The two cheapest tours on this site put a couple at $1,040–$1,044 total. Our [
 - FAA lap-infant guidance is quoted as the operator states it on its own listing.
 - "Prices elsewhere in Alaska sit in similar bands" is a qualitative comparison drawn from listings for Juneau, Seward and Denali helicopter tours seen in the same catalogue; no figure is attached to it.
 - 2026-09-16 update: added a price-comparison checklist, a per-traveller-type budget section and two FAQ entries, merged in from queue article 04-how-much-does-a-helicopter-tour-cost-in-alaska.md (new-articles/). That source article's own price figures (e.g. "$439-$479 per adult", "$1,299 ice climbing") were generic Alaska-wide placeholders, not specific to this site's real listings, and were not used — every figure added here is this site's own $520-$1,416 data, already established in the sections above.
+- 2026-10-03 update: GYG live prices/ratings re-checked (?currency=USD). Paddleboarding (412348) is now $1,470, so the ceiling moved from $1,416 to $1,470; the hook image still shows the old $1,416 figure in type and needs regenerating. Heli-hiking (412340, $771) was withdrawn from GYG and removed. Girdwood landing flight (1107685, $620, 15-20 min on the ice) added. AHT direct Knik Glacier Landing from $479 — alaskahelicoptertours.com/glacier-tours/.
 -->
