@@ -1,0 +1,30 @@
+[
+  {
+    "code": "85337P1",
+    "title": "Anchorage Helicopter Flightseeing Tour (30 min)",
+    "supplier": "Alpine Air Alaska",
+    "departs": "Girdwood Airport",
+    "duration": "30 minutes",
+    "landing": false,
+    "url": "https://www.viator.com/tours/Anchorage/30-Minute-Flightseeing-Tour-Girdwood-Alaska/d4152-85337P1",
+    "fromPrice": 459,
+    "rating": 5.0,
+    "reviewCount": 16,
+    "checkedAt": "2026-10-03",
+    "why": "Not sold on GetYourGuide."
+  },
+  {
+    "code": "85337P5",
+    "title": "Anchorage Prince William Sound Heli Tour with Glacier Landing",
+    "supplier": "Alpine Air Alaska",
+    "departs": "Girdwood Airport",
+    "duration": "90 minutes",
+    "landing": true,
+    "url": "https://www.viator.com/tours/Anchorage/Prince-William-Sound-Tour-with-Glacier-Landing-Girdwood-Alaska/d4152-85337P5",
+    "fromPrice": 769,
+    "rating": 4.95,
+    "reviewCount": 64,
+    "checkedAt": "2026-10-03",
+    "why": "The GetYourGuide listing (t1063804) has 1 review."
+  }
+]

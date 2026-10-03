@@ -9,6 +9,14 @@
   # deprecation warnings. (Bumped from 0.140.0 — rovaniemidaytours 2026-07-30.)
   HUGO_VERSION = "0.146.0"
 
+# 412340 (Knik heli-hiking) was delisted by GetYourGuide (its listing 301s to the
+# Anchorage location page as of 2026-10-03). Send its old tour page to the Knik hub.
+[[redirects]]
+  from = "/tours/anchorage-knik-glacier-helicopter-and-hiking-adventure-tour/"
+  to = "/knik-glacier-helicopter-tours/"
+  status = 301
+  force = true
+
 [[redirects]]
   from = "/*"
   to = "/404.html"

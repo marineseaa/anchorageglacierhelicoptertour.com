@@ -55,12 +55,35 @@
   {{ $rest = .Content }}
   {{ $intro = "" }}
 {{ end }}
+{{/* ── Owner rule, 2026-09-19 (supersedes the fixed "two sections" above):
+     the auto widget goes ONE whole ## section below the availability widget
+     when that first section is long (words + 12 per table row >= 150), and
+     TWO when it is short. Guard: if two sections would push the widget past
+     ~45% of the article's plain text, use one. A page can pin the value with
+     `autoWidgetAfterSections: 1|2` in front matter (the guard is then skipped).
+     Reference: hugo-add-new-articles Part 5 / 7c-ter. ── */}}
 {{ $parts := strings.Split $rest "<h2" }}
 {{ $aboveAuto := $rest }}
 {{ $belowAuto := "" }}
-{{ if gt (len $parts) 3 }}
-  {{ $aboveAuto = printf "%s<h2%s<h2%s" (index $parts 0) (index $parts 1) (index $parts 2) }}
-  {{ $belowAuto = printf "<h2%s" (delimit (after 3 $parts) "<h2") }}
+{{ if gt (len $parts) 2 }}
+  {{ $longWords := $site.Params.autoWidgetLongSectionWords | default 150 | int }}
+  {{ $sec1 := index $parts 1 }}
+  {{ $w1 := add (countwords (plainify (printf "<h2%s" $sec1))) (mul 12 (len (findRE "<tr" $sec1))) }}
+  {{ $afterN := cond (ge $w1 $longWords) 1 2 }}
+  {{ with .Params.autoWidgetAfterSections }}
+    {{ $afterN = int . }}
+  {{ else }}
+    {{ if and (eq $afterN 2) (gt (len $parts) 3) }}
+      {{ $above2 := delimit (first 3 $parts) "<h2" }}
+      {{ $totalW := countwords (plainify .Content) }}
+      {{ $aboveW := add (countwords (plainify $intro)) (countwords (plainify $above2)) }}
+      {{ if and (gt $totalW 0) (gt (mul $aboveW 100) (mul $totalW 45)) }}{{ $afterN = 1 }}{{ end }}
+    {{ end }}
+  {{ end }}
+  {{ if gt (len $parts) (add $afterN 1) }}
+    {{ $aboveAuto = delimit (first (add $afterN 1) $parts) "<h2" }}
+    {{ $belowAuto = printf "<h2%s" (delimit (after (add $afterN 1) $parts) "<h2") }}
+  {{ end }}
 {{ end }}
 
 <article class="guide-article">

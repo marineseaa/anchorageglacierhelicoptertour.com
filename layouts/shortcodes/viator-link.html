@@ -1,0 +1,14 @@
+{{/* viator-link — inline affiliate link to a Viator product, for tours GetYourGuide
+     does not sell (or sells with 0-3 reviews). GYG stays first everywhere else.
+     Usage: {{< viator-link code="85337P1" >}}30-minute flight{{< /viator-link >}}
+     Looks the product up in data/viator_offers.json (unknown code = build error).
+     Emits the BARE product URL as href and data-viator-href; js/main.js appends
+     pid/mcid/medium/api_version/campaign at runtime. File must end right after
+     </a> with no trailing newline (a newline renders as a space before
+     punctuation). */}}
+{{- $code := .Get "code" -}}
+{{- $p := dict -}}
+{{- range .Site.Data.viator_offers -}}{{- if eq (string .code) (string $code) -}}{{- $p = . -}}{{- end -}}{{- end -}}
+{{- if not $p.url -}}{{- errorf "viator-link: %q not in data/viator_offers.json (page %s)" $code .Page.File.Path -}}{{- end -}}
+{{- $label := trim (.Inner | default "") " \n\t" | default $p.title -}}
+<a href="{{ $p.url }}" data-viator-href="{{ $p.url }}" target="_blank" rel="sponsored nofollow noopener noreferrer">{{ .Page.RenderString $label }}</a>

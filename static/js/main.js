@@ -10,7 +10,11 @@
    (/final-check §4). Swap GYG_CAMPAIGN + the featured URL per build. */
 const GYG_PARTNER_ID = '1MSALBX';
 const GYG_CAMPAIGN   = 'anchorageglacierhelicoptertour';
-const GYG_AFFILIATE_URL = 'https://www.getyourguide.com/anchorage-l978/anchorage-knik-glacier-helicopter-tour-with-landing-t147264/?partner_id=' + GYG_PARTNER_ID + '&utm_medium=online_publisher&cmp=' + GYG_CAMPAIGN;
+/* Viator affiliate (pid P00285896, Viator's default mcid 42383) — public values. */
+const VIATOR_PID      = 'P00285896';
+const VIATOR_MCID     = '42383';
+const VIATOR_CAMPAIGN = 'anchorageglacierhelicoptertour-viator';
+const GYG_AFFILIATE_URL ='https://www.getyourguide.com/anchorage-l978/anchorage-knik-glacier-helicopter-tour-with-landing-t147264/?partner_id=' + GYG_PARTNER_ID + '&utm_medium=online_publisher&cmp=' + GYG_CAMPAIGN;
 
 /* ── DOM helpers ── */
 const $  = (sel, ctx = document) => ctx.querySelector(sel);
@@ -61,6 +65,20 @@ function initGYGLinks() {
        error. Only genuinely monetised GYG destinations carry it. */
     el.rel     = isGYGUrl(bare) ? 'sponsored nofollow noopener noreferrer'
                                 : 'noopener noreferrer';
+  });
+  /* Viator — used only for tours GetYourGuide does not sell (or sells with
+     0-3 reviews). Static HTML carries the BARE viator.com product URL; the
+     affiliate params are appended here, like partner_id/cmp above. */
+  $$('[data-viator-href]').forEach(el => {
+    const bare = el.getAttribute('data-viator-href');
+    let host = '';
+    try { host = new URL(bare, location.href).hostname; } catch (e) { return; }
+    if (!/(^|\.)viator\.com$/i.test(host)) return;
+    const sep = bare.indexOf('?') === -1 ? '?' : '&';
+    el.href   = bare + sep + 'pid=' + VIATOR_PID + '&mcid=' + VIATOR_MCID +
+                '&medium=api&api_version=2.0&campaign=' + VIATOR_CAMPAIGN;
+    el.target = '_blank';
+    el.rel    = 'sponsored nofollow noopener noreferrer';
   });
 }
 

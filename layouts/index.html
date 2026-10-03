@@ -30,8 +30,15 @@
   {{ partial "hero.html"           $ctx }}
   {{ partial "highlights.html"     $ctx }}
   {{ partial "booking-widget.html" $ctx }}
-  {{ partial "how-it-works.html"   $ctx }}
-  {{ partial "timeline.html"       $ctx }}
+  {{/* Auto widget 1 or 2 blocks below the date picker (owner rule 2026-09-19,
+       hugo-add-new-articles Part 5): after block 1 when it is long (words + 12 per
+       table row >= 150), otherwise after block 2. It used to sit near the foot,
+       eight blocks down. */}}
+  {{ $b1 := partial "how-it-works.html" $ctx }}
+  {{ $b2 := partial "timeline.html" $ctx }}
+  {{ $w1 := add (countwords (plainify $b1)) (mul 12 (len (findRE "<tr" $b1))) }}
+  {{ $b1 }}
+  {{ if ge $w1 150 }}{{ partial "alt-tours.html" $ctx }}{{ $b2 }}{{ else }}{{ $b2 }}{{ partial "alt-tours.html" $ctx }}{{ end }}
   {{ partial "gallery.html"        $ctx }}
   {{ partial "comparison.html"     $ctx }}
   {{ partial "experiences.html"    $ctx }}
@@ -58,7 +65,6 @@
 
   {{ partial "reviews.html"        $ctx }}
   {{ partial "cta-band.html"       $ctx }}
-  {{ partial "alt-tours.html"      $ctx }}
   {{ partial "faq.html"            $ctx }}
   {{ partial "explore-hub.html"    $ctx }}
 {{ end }}

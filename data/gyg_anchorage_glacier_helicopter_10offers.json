@@ -19,9 +19,9 @@
     "pricePrefix": "From",
     "priceSuffix": "per person",
     "priceCategory": "per person",
-    "rating": 4.987283075740199,
+    "rating": 4.988205901790936,
     "formattedRating": "5.0",
-    "reviewCount": 85,
+    "reviewCount": 89,
     "ratingDistribution": [],
     "reviewerCategories": [],
     "reviewTags": [],
@@ -281,7 +281,8 @@
       "glacier helicopter tour from anchorage",
       "helicopter glacier landing alaska"
     ],
-    "imagesPrunedNote": "Unreferenced gallery photos were removed by the post-build image prune. Re-run _gyg_tour_gallery_portable.py + _selfhost_images.py before giving this tour a page. Pre-prune JSON: ../_scrape/gyg_anchorage_glacier_helicopter_10offers_full_with_images.json"
+    "imagesPrunedNote": "Unreferenced gallery photos were removed by the post-build image prune. Re-run _gyg_tour_gallery_portable.py + _selfhost_images.py before giving this tour a page. Pre-prune JSON: ../_scrape/gyg_anchorage_glacier_helicopter_10offers_full_with_images.json",
+    "ratingsCheckedAt": "2026-10-03"
   },
   {
     "id": 147273,
@@ -303,9 +304,9 @@
     "pricePrefix": "From",
     "priceSuffix": "per person",
     "priceCategory": "per person",
-    "rating": 4.929780505137504,
+    "rating": 4.8889669650421865,
     "formattedRating": "4.9",
-    "reviewCount": 63,
+    "reviewCount": 64,
     "ratingDistribution": [],
     "reviewerCategories": [],
     "reviewTags": [],
@@ -578,7 +579,8 @@
       "helicopter dog sled tour alaska",
       "summer dog sledding alaska"
     ],
-    "imagesPrunedNote": "Unreferenced gallery photos were removed by the post-build image prune. Re-run _gyg_tour_gallery_portable.py + _selfhost_images.py before giving this tour a page. Pre-prune JSON: ../_scrape/gyg_anchorage_glacier_helicopter_10offers_full_with_images.json"
+    "imagesPrunedNote": "Unreferenced gallery photos were removed by the post-build image prune. Re-run _gyg_tour_gallery_portable.py + _selfhost_images.py before giving this tour a page. Pre-prune JSON: ../_scrape/gyg_anchorage_glacier_helicopter_10offers_full_with_images.json",
+    "ratingsCheckedAt": "2026-10-03"
   },
   {
     "id": 492083,
@@ -600,9 +602,9 @@
     "pricePrefix": "From",
     "priceSuffix": "per person",
     "priceCategory": "per person",
-    "rating": 4.895154936357358,
+    "rating": 4.915669652464387,
     "formattedRating": "4.9",
-    "reviewCount": 31,
+    "reviewCount": 34,
     "ratingDistribution": [],
     "reviewerCategories": [],
     "reviewTags": [],
@@ -856,7 +858,8 @@
       "knik glacier helicopter landing",
       "palmer helicopter tour",
       "outbound heli adventures knik glacier"
-    ]
+    ],
+    "ratingsCheckedAt": "2026-10-03"
   },
   {
     "id": 412333,
@@ -878,9 +881,9 @@
     "pricePrefix": "From",
     "priceSuffix": "per person",
     "priceCategory": "per person",
-    "rating": 4.9829565606765645,
+    "rating": 4.984403632547104,
     "formattedRating": "5.0",
-    "reviewCount": 24,
+    "reviewCount": 25,
     "ratingDistribution": [],
     "reviewerCategories": [],
     "reviewTags": [],
@@ -1155,7 +1158,8 @@
       "anchorage helicopter tour 2 hours",
       "knik glacier peak landing"
     ],
-    "imagesPrunedNote": "Unreferenced gallery photos were removed by the post-build image prune. Re-run _gyg_tour_gallery_portable.py + _selfhost_images.py before giving this tour a page. Pre-prune JSON: ../_scrape/gyg_anchorage_glacier_helicopter_10offers_full_with_images.json"
+    "imagesPrunedNote": "Unreferenced gallery photos were removed by the post-build image prune. Re-run _gyg_tour_gallery_portable.py + _selfhost_images.py before giving this tour a page. Pre-prune JSON: ../_scrape/gyg_anchorage_glacier_helicopter_10offers_full_with_images.json",
+    "ratingsCheckedAt": "2026-10-03"
   },
   {
     "id": 412348,
@@ -1169,17 +1173,17 @@
       "longitude": -148.7660042
     },
     "provider": "Alaska Helicopter Tours",
-    "startingPrice": 1416,
-    "basePrice": 1415.91,
-    "formattedStartingPrice": "$1,416",
-    "formattedBasePrice": "$1,416",
+    "startingPrice": 1470,
+    "basePrice": 1470,
+    "formattedStartingPrice": "$1,470",
+    "formattedBasePrice": "$1,470",
     "currency": "USD",
     "pricePrefix": "From",
     "priceSuffix": "per person",
     "priceCategory": "per person",
-    "rating": 5,
+    "rating": 5.0,
     "formattedRating": "5.0",
-    "reviewCount": 10,
+    "reviewCount": 12,
     "ratingDistribution": [],
     "reviewerCategories": [],
     "reviewTags": [],
@@ -1421,7 +1425,8 @@
       "heli paddleboarding alaska",
       "glacier meltwater pool paddleboard"
     ],
-    "imagesPrunedNote": "Unreferenced gallery photos were removed by the post-build image prune. Re-run _gyg_tour_gallery_portable.py + _selfhost_images.py before giving this tour a page. Pre-prune JSON: ../_scrape/gyg_anchorage_glacier_helicopter_10offers_full_with_images.json"
+    "imagesPrunedNote": "Unreferenced gallery photos were removed by the post-build image prune. Re-run _gyg_tour_gallery_portable.py + _selfhost_images.py before giving this tour a page. Pre-prune JSON: ../_scrape/gyg_anchorage_glacier_helicopter_10offers_full_with_images.json",
+    "ratingsCheckedAt": "2026-10-03"
   },
   {
     "id": 1079145,
@@ -1443,7 +1448,7 @@
     "pricePrefix": "From",
     "priceSuffix": "per person",
     "priceCategory": "per person",
-    "rating": 5,
+    "rating": 5.0,
     "formattedRating": "5.0",
     "reviewCount": 7,
     "ratingDistribution": [],
@@ -1670,7 +1675,8 @@
       "alaska summer dog sledding helicopter",
       "ididaride glacier dog sled tour"
     ],
-    "imagesPrunedNote": "Unreferenced gallery photos were removed by the post-build image prune. Re-run _gyg_tour_gallery_portable.py + _selfhost_images.py before giving this tour a page. Pre-prune JSON: ../_scrape/gyg_anchorage_glacier_helicopter_10offers_full_with_images.json"
+    "imagesPrunedNote": "Unreferenced gallery photos were removed by the post-build image prune. Re-run _gyg_tour_gallery_portable.py + _selfhost_images.py before giving this tour a page. Pre-prune JSON: ../_scrape/gyg_anchorage_glacier_helicopter_10offers_full_with_images.json",
+    "ratingsCheckedAt": "2026-10-03"
   },
   {
     "id": 1078337,
@@ -1886,203 +1892,8 @@
       "two glacier landings alaska",
       "alpine air alaska flight"
     ],
-    "imagesPrunedNote": "Unreferenced gallery photos were removed by the post-build image prune. Re-run _gyg_tour_gallery_portable.py + _selfhost_images.py before giving this tour a page. Pre-prune JSON: ../_scrape/gyg_anchorage_glacier_helicopter_10offers_full_with_images.json"
-  },
-  {
-    "id": 412340,
-    "title": "Anchorage: Knik Glacier Helicopter and Hiking Adventure Tour",
-    "abstract": null,
-    "url": "https://www.getyourguide.com/anchorage-l978/anchorage-knik-glacier-helicopter-and-hiking-adventure-tour-t412340/",
-    "cityId": null,
-    "location": "Anchorage",
-    "coordinates": {
-      "latitude": 61.4341392,
-      "longitude": -148.7663726
-    },
-    "provider": "Alaska Helicopter Tours",
-    "startingPrice": 771,
-    "basePrice": 771.47,
-    "formattedStartingPrice": "$771",
-    "formattedBasePrice": "$771",
-    "currency": "USD",
-    "pricePrefix": "From",
-    "priceSuffix": "per person",
-    "priceCategory": "per person",
-    "rating": 5,
-    "formattedRating": "5.0",
-    "reviewCount": 1,
-    "ratingDistribution": [],
-    "reviewerCategories": [],
-    "reviewTags": [],
-    "duration": "4 hours",
-    "freeCancellation": true,
-    "cancellationDescription": "Cancel up to 24 hours in advance for a full refund",
-    "guideLanguage": null,
-    "languages": [],
-    "description": "<p>Feed your adventurous heart on this round-trip helicopter ride and hiking tour from Anchorage. Explore the lush Alaskan wilds from the sky and on land, including the Chugach Range, Knik Glacier, Lake George, and more. Enjoy a flexible trip that can be customized to your interests. </p><p>\n</p><p>Start your trip by considering the best location for your hike and the itinerary with your guide. There are dozens of incredible high-alpine locations that are ideally suited for heli-hiking. Your guide will be there to help satisfy your interests.</p><p>\n</p><p>After deciding on your ideal hiking experience, you’ll board the helicopter and be whisked to the location. Upon arrival, your guide will help you out of the helicopter, which will then zip back to the lodge. </p><p>\n</p><p>Complete silence will quickly surround you. From here, take in the one-of-a-kind scenery and go explore with your guide. You’ll be traveling in a group size that ensures an optimum wilderness experience with a minimized human impact.</p><p>\n</p><p>This tour is all about you, so ask when you would like to stop, take a break, snap some pictures, or run up the ridge to see what is back there ─ more mountains and glaciers, but go for it. </p><p>\n</p><p>Your guide will be perfectly happy taking it easy and waiting with you for the perfect light, that cloud to move into position, or for wildlife to get just a bit closer, all while looking out for your safety. </p><p>\n</p><p>At the end of your adventure on land, you’ll return round-trip to the take-off location. </p>",
-    "highlights": [
-      "A guided hike above the timberline, reached only by helicopter",
-      "Landing site chosen with your guide to suit what you want to see",
-      "Long views over the Chugach Range and the length of Knik Glacier",
-      "Four hours in country that would take a full day to approach on foot",
-      "Snacks and water included along with the guide"
-    ],
-    "includes": [
-      "Helicopter flight and all flight fees",
-      "Guided hike above the timberline",
-      "Snacks",
-      "Water"
-    ],
-    "excludes": [
-      "Hotel pickup and drop-off from Anchorage",
-      "Lunch",
-      "Gratuities"
-    ],
-    "goodToKnow": [
-      "Departure is from Knik River Lodge, roughly an hour's drive north of Anchorage.",
-      "The landing spot is chosen on the day with your guide, so the hike can be pitched to your group.",
-      "You are outdoors for a good part of the four hours; Alaskan weather above the timberline changes fast.",
-      "Pets, smoking and open-toed shoes are not permitted.",
-      "This tour has few reviews so far — the operator's record across its other tours is strong, but this specific product has little feedback yet."
-    ],
-    "notSuitableFor": [
-      "Anyone not comfortable walking on uneven ground for an extended period",
-      "Guests in open-toed footwear"
-    ],
-    "notAllowed": [
-      "Pets",
-      "Smoking",
-      "Open-toed shoes"
-    ],
-    "toBring": [
-      "Proper walking shoes or boots",
-      "Weather-appropriate outdoor layers",
-      "Sunglasses",
-      "A camera"
-    ],
-    "meetingPoint": "Knik River Lodge, Palmer",
-    "meetingPointAddress": "Knik River Road, Palmer, AK 99645",
-    "meetingPointCoordinates": {
-      "latitude": 61.4341392,
-      "longitude": -148.7663726
-    },
-    "meetingPoints": [
-      {
-        "name": "Open in Google Maps",
-        "mapsUrl": "https://maps.google.com/?q=@61.4341392,-148.7663726",
-        "coordinates": {
-          "lat": 61.4341392,
-          "lng": -148.7663726
-        }
-      }
-    ],
-    "itinerary": null,
-    "nextAvailableDate": "2026-09-15",
-    "badges": [],
-    "certified": false,
-    "officialTicket": false,
-    "gygOriginal": false,
-    "sellingRank": null,
-    "likelyToSellOut": false,
-    "topPick": false,
-    "topRated": false,
-    "bookedIn24Hours": 0,
-    "bookedRecentlyText": null,
-    "bookedRecentlyLabel": null,
-    "flags": {
-      "isCertifiedPartner": false,
-      "isEcoCertified": false,
-      "isGygOriginals": false,
-      "yourPick": false,
-      "promoted": false,
-      "elevated": false,
-      "bestSeller": false,
-      "isLikelyToSellOut": false,
-      "boostedNewTour": false,
-      "specialOffer": false,
-      "newActivity": false
-    },
-    "images": [
-      "/images/gyg/412340-0.webp"
-    ],
-    "sampleReviews": [
-      {
-        "id": 126593222,
-        "rating": 5,
-        "text": "What a great trip. Me and my 15 year old son did this and it was spectacular. I could not recommend this enough!",
-        "reviewer": "John",
-        "country": "United States",
-        "date": "August 14, 2026",
-        "travelerType": null,
-        "media": [
-          "/images/reviews/af7a3bd2ef84.webp",
-          "/images/reviews/616b7aa6e18e.webp",
-          "/images/reviews/e24dd7d5fbed.webp",
-          "/images/reviews/abbf3c628378.webp"
-        ]
-      }
-    ],
-    "scrapedAt": "2026-09-03T20:56:12.950Z",
-    "galleryImages": [
-      {
-        "src": "/images/gyg/412340-0.webp",
-        "alt": "A group of hikers on the moraine below the broken ice front of Knik Glacier"
-      },
-      {
-        "src": "/images/gyg/t412340-x4.webp",
-        "alt": "A helicopter parked on a green alpine ridge with the glacier tongue running away into the mountains behind"
-      },
-      {
-        "src": "/images/gyg/t412340-x0.webp",
-        "alt": "A line of guests on a lupine-covered ridge looking out over the glacier and the Chugach Range"
-      },
-      {
-        "src": "/images/gyg/t412340-x1.webp",
-        "alt": "Two hikers on a green slope high above a glacier-fed lake"
-      },
-      {
-        "src": "/images/gyg/t412340-x2.webp",
-        "alt": "A guest sitting on a rock outcrop above the wide white sweep of the glacier"
-      }
-    ],
-    "fullDescription": [
-      "A helicopter is a good way to see a glacier and a very good way to reach a hike you could not otherwise get to. This four-hour tour uses it for the second: you fly out from Knik River Lodge, pick a landing spot with your guide based on what you want to see, and then walk.",
-      "The terrain is above the timberline — open country with long sightlines over the Chugach Range and Knik Glacier, the kind of place that takes a full day's approach on foot if it is reachable at all. Because the landing site is chosen rather than fixed, the hike can be pitched at your group: a gentle ridge walk or something with more in it.",
-      "Snacks and water are included, along with the guide and the flight. The walk is the substance of the tour rather than a stop between flights, so expect to be out in the weather for a good part of the four hours.",
-      "It has only a handful of reviews so far, which is worth knowing: the product is sound and the operator is the best-reviewed on this site across its other tours, but you will be booking on the operator's record rather than on this specific tour's."
-    ],
-    "faq": [
-      {
-        "q": "How hard is the hike?",
-        "a": "It depends on you. The landing site is chosen with your guide, so the walk can be an easy ridge amble or something with more climbing in it. Say what you want at check-in rather than at the landing site."
-      },
-      {
-        "q": "How is this different from the Grand tour's guided walk?",
-        "a": "Scale. The Grand tour is a two-hour flight with three short stops, one of which includes a walk. This is four hours built around the hike, with the flight as the means of getting there."
-      },
-      {
-        "q": "Do I need hiking experience?",
-        "a": "No, but you need shoes that will take rough ground and the willingness to be outdoors in changeable weather for several hours. It is not a technical outing."
-      },
-      {
-        "q": "Is lunch included?",
-        "a": "Snacks and water are. A full lunch is not, so eat properly before you drive out or bring something for the walk."
-      },
-      {
-        "q": "Why does it have so few reviews?",
-        "a": "It is a smaller-volume product than the operator's flagship landing tour, and it runs less often. Alaska Helicopter Tours' other tours on this site carry 85, 63 and 24 reviews at ratings between 4.93 and 4.99, so the operator record is solid even where this listing's own is thin."
-      }
-    ],
-    "metaTitle": "Knik Glacier Helicopter and Hiking Adventure from Anchorage",
-    "metaDescription": "Fly from Knik River Lodge to a landing site of your choosing and hike above the timberline over Knik Glacier. Four hours, guide, snacks and water included.",
-    "keywords": [
-      "knik glacier helicopter and hiking tour",
-      "heli hiking alaska",
-      "anchorage helicopter hiking adventure",
-      "guided glacier hike helicopter",
-      "knik river lodge helicopter hike"
-    ],
-    "imagesPrunedNote": "Unreferenced gallery photos were removed by the post-build image prune. Re-run _gyg_tour_gallery_portable.py + _selfhost_images.py before giving this tour a page. Pre-prune JSON: ../_scrape/gyg_anchorage_glacier_helicopter_10offers_full_with_images.json"
+    "imagesPrunedNote": "Unreferenced gallery photos were removed by the post-build image prune. Re-run _gyg_tour_gallery_portable.py + _selfhost_images.py before giving this tour a page. Pre-prune JSON: ../_scrape/gyg_anchorage_glacier_helicopter_10offers_full_with_images.json",
+    "ratingsCheckedAt": "2026-10-03"
   },
   {
     "id": 412355,
@@ -2368,5 +2179,122 @@
       }
     ],
     "imagesPrunedNote": "Unreferenced gallery photos were removed by the post-build image prune. Re-run _gyg_tour_gallery_portable.py + _selfhost_images.py before giving this tour a page. Pre-prune JSON: ../_scrape/gyg_anchorage_glacier_helicopter_10offers_full_with_images.json"
+  },
+  {
+    "id": 1107685,
+    "title": "Girdwood: Chugach Mountains Helicopter Flight with Landing",
+    "abstract": null,
+    "url": "https://www.getyourguide.com/girdwood-l1609/girdwood-chugach-mountains-helicopter-flight-with-landing-t1107685/",
+    "cityId": 1609,
+    "location": "Girdwood",
+    "coordinates": {
+      "latitude": 60.96783889999999,
+      "longitude": -149.119017
+    },
+    "provider": "Alpine Air Alaska",
+    "startingPrice": 620,
+    "basePrice": 620,
+    "formattedStartingPrice": "$620",
+    "formattedBasePrice": "$620",
+    "currency": "USD",
+    "pricePrefix": "From",
+    "priceSuffix": "per person",
+    "priceCategory": "per person",
+    "rating": 4.928571428571429,
+    "formattedRating": "4.9",
+    "reviewCount": 14,
+    "ratingDistribution": [],
+    "reviewerCategories": [],
+    "reviewTags": [],
+    "duration": "1 hour",
+    "freeCancellation": true,
+    "cancellationDescription": "Cancel up to 24 hours in advance for a full refund",
+    "guideLanguage": null,
+    "languages": [],
+    "description": "A 60-minute scenic helicopter flight through the Chugach Mountains from Girdwood, with a landing on a remote glacier and 15-20 minutes to explore on foot.",
+    "highlights": [
+      "60-minute scenic helicopter flight through the Chugach Mountains",
+      "Glacier landing with 15-20 minutes to explore on foot",
+      "Blue meltwater pools on the ice in spring and summer"
+    ],
+    "includes": [
+      "60-minute scenic helicopter flight",
+      "Glacier landing"
+    ],
+    "excludes": [
+      "Round-trip transport from Anchorage",
+      "Gratuities"
+    ],
+    "goodToKnow": [
+      "Per FAA guidelines, infants younger than 24 months can fly on a parent's lap; children aged 2 and older need their own seat.",
+      "Not suitable for people over 287 lbs (130 kg)."
+    ],
+    "notSuitableFor": [
+      "People over 287 lbs (130 kg)"
+    ],
+    "notAllowed": [],
+    "toBring": [
+      "Warm layers for the landing",
+      "Sunglasses",
+      "Closed-toe shoes"
+    ],
+    "meetingPoint": "Alpine Air Alaska hangar, Girdwood Airport, Girdwood",
+    "meetingPointAddress": "599 Mt. Hood Drive, Girdwood, AK 99587",
+    "meetingPointCoordinates": {
+      "latitude": 60.96783889999999,
+      "longitude": -149.119017
+    },
+    "meetingPoints": [
+      {
+        "name": "Open in Google Maps",
+        "mapsUrl": "https://maps.google.com/?q=@60.96783889999999,-149.119017",
+        "coordinates": {
+          "lat": 60.96783889999999,
+          "lng": -149.119017
+        }
+      }
+    ],
+    "itinerary": null,
+    "nextAvailableDate": null,
+    "badges": [],
+    "certified": false,
+    "officialTicket": false,
+    "gygOriginal": false,
+    "sellingRank": null,
+    "likelyToSellOut": false,
+    "topPick": false,
+    "topRated": false,
+    "bookedIn24Hours": 0,
+    "bookedRecentlyText": null,
+    "bookedRecentlyLabel": null,
+    "flags": {
+      "isCertifiedPartner": false,
+      "isEcoCertified": false,
+      "isGygOriginals": false,
+      "yourPick": false,
+      "promoted": false,
+      "elevated": false,
+      "bestSeller": false,
+      "isLikelyToSellOut": false,
+      "boostedNewTour": false,
+      "specialOffer": false,
+      "newActivity": false
+    },
+    "images": [],
+    "sampleReviews": [],
+    "scrapedAt": "2026-10-03T00:00:00Z",
+    "galleryImages": [],
+    "fullDescription": [
+      "A one-hour flight from Alpine Air's Girdwood hangar into the Chugach backcountry, with one glacier landing and 15-20 minutes on the ice."
+    ],
+    "faq": [],
+    "metaTitle": "Girdwood Helicopter Flight with Glacier Landing",
+    "metaDescription": "A one-hour Chugach helicopter flight from Girdwood with one glacier landing and 15-20 minutes on the ice.",
+    "keywords": [
+      "girdwood helicopter tour",
+      "girdwood glacier landing"
+    ],
+    "imagesPrunedNote": null,
+    "ratingsCheckedAt": "2026-10-03"
   }
 ]
