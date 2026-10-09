@@ -3619,3 +3619,62 @@ body { line-height: 1.75; }
 .itinerary-body strong {
   font-synthesis-weight: none;
 }
+
+
+/* ── Best-time page kit (best-time-page skill, ported 2026-10-09 from
+   copenhagencanaltour.com, which shares this scaffold's tokens) ──────────
+   Deck + hand-off in the hero, the short answer box with its decision list
+   and figure row, the table of contents, the date checker (.cvd), collapsed
+   FAQ items and the folded sources block. Rules inside .prose are prefixed
+   with .prose so they beat `.prose p` / `.prose a` on specificity. */
+.guide-deck { color: var(--charcoal); }
+.guide-deck2 { font-size: 0.98rem; }
+.guide-deck2 a { color: var(--canal-teal); text-decoration: underline; text-underline-offset: 2px; font-weight: 600; }
+.guide-answer { background: var(--amber-warm); border-left: 4px solid var(--canal-teal); border-radius: 10px; padding: var(--space-5); margin: var(--space-2) 0 var(--space-6); }
+.prose .guide-answer__label { font-size: .78rem; letter-spacing: .08em; text-transform: uppercase; font-weight: 700; color: var(--canal-teal); margin: 0 0 var(--space-2); }
+.prose .guide-answer__text { color: var(--charcoal); margin-bottom: var(--space-3); }
+.guide-answer .ans-decide { margin: var(--space-5) 0 0; padding: 0; display: grid; gap: 0; }
+.ans-decide__row { display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1.15fr); gap: var(--space-3); padding: 8px 0; border-top: 1px solid var(--shadow-tint); font-size: .95rem; }
+.ans-decide__row:first-child { border-top: 0; }
+dl.ans-decide dt, dl.ans-decide dd { margin: 0; }
+.ans-decide__label { font-weight: 600; color: var(--deep-canal); }
+.ans-decide__value { color: var(--charcoal); }
+.ans-decide__head { font-size: .78rem; text-transform: uppercase; letter-spacing: .06em; color: var(--stone); }
+@media (max-width: 520px) { .ans-decide__row { grid-template-columns: 1fr; gap: 2px; } }
+.prose ul.guide-figures { list-style: none; padding: 0; margin: var(--space-4) 0 0; display: grid; grid-template-columns: repeat(2, minmax(0,1fr)); gap: var(--space-3); }
+@media (min-width: 720px) { .prose ul.guide-figures { grid-template-columns: repeat(4, minmax(0,1fr)); } }
+.prose ul.guide-figures li { background: var(--white); border-radius: 8px; padding: 10px 12px; margin: 0; font-size: .84rem; color: var(--slate); line-height: 1.4; list-style: none; }
+.guide-figures b { display: block; font-size: 1.02rem; color: var(--deep-canal); }
+.prose .guide-answer__cta { margin: var(--space-5) 0 0; }
+.prose .guide-answer__cta a.btn-primary, .prose .cvd__cta a.btn-primary { color: var(--on-accent); text-decoration: none; }
+.guide-toc { background: var(--white); border: 1px solid var(--shadow-tint); border-radius: 10px; padding: var(--space-4) var(--space-5); margin: var(--space-6) 0; font-size: .95rem; }
+.prose .guide-toc p { margin: 0 0 var(--space-2); color: var(--charcoal); }
+.guide-toc ol { margin: 0; padding-left: var(--space-5); }
+.guide-toc li { margin-bottom: 4px; }
+.cvd { margin: var(--space-6) 0; padding: var(--space-5); border: 1px solid var(--shadow-tint); border-radius: 12px; background: var(--white); scroll-margin-top: 90px; }
+.cvd__head { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-end; gap: var(--space-3); margin-bottom: var(--space-3); }
+.prose .cvd__intro { font-size: .92rem; color: var(--slate); margin: 0; max-width: 46ch; }
+.cvd__pick { display: flex; flex-direction: column; gap: 4px; font-size: .85rem; color: var(--charcoal); font-weight: 600; }
+.cvd__pick input { padding: .5rem .65rem; border: 1px solid var(--shadow-tint-strong); border-radius: 8px; font-size: 1rem; font-family: inherit; max-width: 100%; }
+.cvd__card { background: var(--amber-warm); border-radius: 10px; padding: var(--space-4); }
+.prose .cvd__source { font-size: .78rem; color: var(--stone); margin: 0 0 6px; text-transform: uppercase; letter-spacing: .04em; }
+.prose .cvd__verdict { font-weight: 600; color: var(--deep-canal); margin: 0 0 var(--space-3); }
+.prose ul.cvd__stats { list-style: none; margin: 0 0 var(--space-3); padding: 0; display: grid; grid-template-columns: repeat(2, minmax(0,1fr)); gap: var(--space-2); }
+@media (min-width: 640px) { .prose ul.cvd__stats { grid-template-columns: repeat(4, minmax(0,1fr)); } }
+.prose ul.cvd__stats li { background: var(--white); border-radius: 8px; padding: 8px 10px; margin: 0; font-size: .8rem; color: var(--slate); line-height: 1.35; list-style: none; }
+.cvd__stats b { display: block; font-size: 1rem; color: var(--deep-canal); }
+.prose ul.cvd__rows { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; font-size: .92rem; }
+.prose ul.cvd__rows li { display: flex; justify-content: space-between; gap: var(--space-3); border-bottom: 1px dashed var(--shadow-tint); padding-bottom: 4px; margin: 0; color: var(--slate); list-style: none; }
+.prose ul.cvd__rows li span { flex: 0 1 42%; }
+.cvd__rows b { color: var(--charcoal); text-align: right; font-weight: 600; }
+.prose .cvd__cta { margin: var(--space-4) 0 0; display: flex; flex-wrap: wrap; gap: var(--space-3); align-items: center; }
+.prose .cvd__note { font-size: .82rem; color: var(--stone); margin: var(--space-3) 0 0; }
+.prose table.btv-months td, .prose table.btv-months th { font-size: .88rem; }
+.guide-faq { border-top: 1px solid var(--shadow-tint); padding: var(--space-3) 0; }
+.guide-faq summary { cursor: pointer; font-weight: 600; color: var(--deep-canal); list-style: none; position: relative; padding-right: 1.75rem; }
+.guide-faq summary::-webkit-details-marker { display: none; }
+.guide-faq summary::after { content: "+"; position: absolute; right: 0; top: 0; font-weight: 700; color: var(--canal-teal); }
+.guide-faq[open] summary::after { content: "\2212"; }
+.prose .guide-faq p { margin: var(--space-2) 0 0; }
+.guide-sources { margin: 0 0 1.5rem; }
+.guide-sources__summary { cursor: pointer; font-weight: 600; padding: .5rem 0; color: var(--deep-canal); }

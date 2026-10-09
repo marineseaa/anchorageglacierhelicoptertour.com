@@ -103,8 +103,19 @@
   <header class="guide-header">
     <div class="container container-narrow">
       <h1 class="guide-title">{{ .Params.h1 | default .Title }}</h1>
+      {{/* A guide can carry its own standfirst (`deck`) instead of repeating
+           the meta description under the H1. `deck2` is a second, unchecked
+           paragraph for the hand-off to an on-page tool (best-time-page
+           skill: only the first paragraph carries the article-deck token).
+           Guides without a deck keep the old behaviour: the description is
+           the subtitle. Ported from copenhagencanaltour.com, 2026-10-09. */}}
+      {{ with .Params.deck }}
+      <p class="guide-subtitle guide-deck article-deck">{{ . | markdownify }}</p>
+      {{ with $.Params.deck2 }}<p class="guide-subtitle guide-deck2">{{ . | markdownify }}</p>{{ end }}
+      {{ else }}
       {{ with .Params.description }}
       <p class="guide-subtitle">{{ . }}</p>
+      {{ end }}
       {{ end }}
       <p class="guide-meta">Updated {{ .Params.dateModified | default (.Date.Format "January 2006") }}</p>
     </div>
@@ -125,6 +136,7 @@
        still becomes the first thing after the header (degrades to the old
        behaviour rather than erroring). ── */}}
   <section class="section section--slim guide-availability" id="guide-availability">
+    <span id="availability" aria-hidden="true"></span>
     <div class="container container-narrow">
       <p class="section-overline" style="margin-bottom:0.75rem;">Check Availability</p>
       <div class="booking-widget-wrapper fade-up">
@@ -157,8 +169,8 @@
     <div class="container container-narrow">
       <div class="section-header fade-up">
         <p class="section-overline">Other Experiences</p>
-        <h2 class="section-title" id="guide-auto-heading">Other experiences you might enjoy</h2>
-        <p class="section-subtitle">{{ $site.Params.guideAutoWidgetIntro | default "More ways to explore the area — all bookable with free cancellation." }}</p>
+        <h2 class="section-title" id="guide-auto-heading">{{ .Params.autoWidgetTitle | default "Other experiences you might enjoy" }}</h2>
+        <p class="section-subtitle">{{ .Params.autoWidgetIntro | default ($site.Params.guideAutoWidgetIntro | default "More ways to explore the area — all bookable with free cancellation.") }}</p>
       </div>
       <div class="booking-widget-wrapper fade-up">
         <div data-gyg-widget="auto"
@@ -248,12 +260,28 @@
        <hr>                                      ← the `---` closing the block
      Guides with no FAQ heading emit nothing at all. */}}
 {{ $faqBlock := "" }}
-{{ $split := split .Content "frequently-asked-questions" }}
+{{/* Split on the heading's id ATTRIBUTE, not the bare slug: a table of
+     contents links to #frequently-asked-questions, and splitting there made
+     every body <h3> between the TOC and the <hr> a FAQ item. */}}
+{{ $split := split .Content `id="frequently-asked-questions"` }}
 {{ if gt (len $split) 1 }}
   {{ $faqBlock = index (split (index $split 1) "<hr") 0 }}
 {{ end }}
 {{ $faqs := slice }}
-{{ range $i, $chunk := (split $faqBlock "<h3") }}
+{{/* Collapsed FAQs: <details class="guide-faq"><summary>Q</summary><p>A</p></details>
+     (one <p> per answer), derived from the rendered page like the h3 form. */}}
+{{ if in $faqBlock "<details" }}
+{{ range $i, $chunk := (split $faqBlock "<details") }}
+  {{ if and (gt $i 0) (in $chunk "<summary>") }}
+    {{ $q := trim ($chunk | replaceRE `(?s)^.*?<summary>(.*?)</summary>.*$` "$1" | plainify | htmlUnescape) " \n\t" }}
+    {{ $a := trim ($chunk | replaceRE `(?s)^.*?</summary>\s*<p>(.*?)</p>.*$` "$1" | plainify | htmlUnescape) " \n\t" }}
+    {{ if and (ne $q "") (ne $a "") }}
+      {{ $faqs = $faqs | append (dict "q" $q "a" $a) }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ end }}
+{{ range $i, $chunk := (cond (in $faqBlock "<details") (slice) (split $faqBlock "<h3")) }}
   {{ if gt $i 0 }}
     {{ $item := printf "<h3%s" $chunk }}
     {{ $q := trim ($item | replaceRE `(?s)^<h3[^>]*>(.*?)</h3>.*$` "$1" | plainify | htmlUnescape) " \n\t" }}

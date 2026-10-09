@@ -211,8 +211,8 @@ footerSEOTitle = "Explore Anchorage Glacier Flights"
 
 [[params.steps]]
   number = "2"
-  title  = "Book a Morning Slot"
-  body   = "Alaskan cloud builds through the day. Early departures fly more reliably than afternoon ones, and if weather does close in, an early booking leaves room to be rebooked later the same day."
+  title  = "Fly Early in Your Trip"
+  body   = "Flights are weather-dependent at any hour, and no time of day is reliably clearer. Schedule the flight early in your stay, so a weather cancellation can be moved to another day rather than lost."
 
 [[params.steps]]
   number = "3"
