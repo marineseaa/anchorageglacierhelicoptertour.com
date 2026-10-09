@@ -1,0 +1,926 @@
+{
+ "checked": "2026-10-09",
+ "slug": "best-time-for-an-anchorage-glacier-helicopter-tour",
+ "subject": "Helicopter glacier-landing tours sold from Anchorage: mainly Knik Glacier flights from the Knik River valley near Palmer (Alaska Helicopter Tours, Outbound Heli Adventures), plus Alpine Air's Chugach flights and glacier dogsledding from Girdwood. Featured tour: Knik Glacier Helicopter Tour with Landing (GetYourGuide t147264).",
+ "prose_locale": "en_US",
+ "prose_locale_note": "US destination on a US site: fall, color, 12-hour clock, month-day dates, Fahrenheit and inches first.",
+ "autocomplete_run": {
+  "file": "scratchpad demand.txt (tools/demand_probe.py)",
+  "date": "2026-10-09",
+  "subjects": [
+   "best time knik glacier",
+   "knik glacier helicopter",
+   "anchorage helicopter tour",
+   "alaska helicopter tour",
+   "knik glacier"
+  ],
+  "counts": {
+   "best time knik glacier": 6,
+   "knik glacier helicopter": 31,
+   "anchorage helicopter tour": 25,
+   "alaska helicopter tour": 114,
+   "knik glacier": 195
+  },
+  "buckets": {
+   "OTHER": 303,
+   "MONTH": 14,
+   "PRICE": 11,
+   "SEASON": 6,
+   "NOW": 5,
+   "WEATHER": 4,
+   "WORTH": 2,
+   "CROWDS": 1,
+   "PHENOMENON": 1
+  }
+ },
+ "top_attractors": [
+  "month queries: 'knik glacier in may / june / july / august / september / december' - the page has a season-by-season section and a month table, and the date checker covers every date",
+  "season queries: 'knik glacier in winter', 'knik glacier winter tours', 'knik glacier summer' - winter gets its own section (ice caves, snow, daylight)",
+  "live weather: 'knik glacier weather', 'knik glacier weather today', 'knik glacier forecast', 'knik glacier temperature' - the date checker reads the live forecast for the glacier inside 16 days",
+  "aurora: 'knik glacier aurora gallery' - one query; the aurora is a bonus, not a bookable row"
+ ],
+ "existing_page": {
+  "searched": [
+   "content/**/*.md (Hugo source) with tools/find_existing.py",
+   "patterns: best time, when to visit/go, best month, weather by month, month by month, seasons"
+  ],
+  "found": true,
+  "path": "content/guides/best-time-for-an-anchorage-glacier-helicopter-tour.md",
+  "action": "rebuild",
+  "note": "Slug and URL kept (/guides/best-time-for-an-anchorage-glacier-helicopter-tour/): hugo.toml footer links (knik glacier in september / winter tours / weather), faq.yaml and several guides link to it. Research, structure, answer box, date checker, FAQ and hook image are new; the old text was used only as a list of claims to check.",
+  "old_claims": [
+   {
+    "claim": "The hour beats the month: mornings are clearer and convective cloud builds from late morning, so book the earliest slot; an 8am departure in a mediocre week beats a 3pm one in a good week",
+    "disposition": "corrected",
+    "new": "No time of day is reliably clearer; Alaska Helicopter Tours says morning or afternoon is 'really your preference' and afternoons 'tend to be a bit higher' in temperature; Outbound says it depends on what you want to experience",
+    "source": "https://www.alaskahelicoptertours.com/planning-guide/ ; https://outboundheli.com/faqs/ ; Iowa Environmental Mesonet METARs for Palmer (PAAQ) 2016-2025: afternoon daytime hours were as clear or slightly clearer than morning hours in every month",
+    "note": "The hook image carried the claim in text; regenerated."
+   },
+   {
+    "claim": "Book it early in your trip so a weather cancellation can be rescheduled",
+    "disposition": "kept",
+    "source": "https://www.alaskahelicoptertours.com/planning-guide/ ('We highly advise always booking any air tours at the beginning of your vacation'); https://alpineairalaska.com/faq/ ('We highly recommend you book your tour at the beginning of your stay')"
+   },
+   {
+    "claim": "Everything on this site carries free cancellation up to 24 hours before departure; operators reschedule rather than fly into weather",
+    "disposition": "corrected",
+    "new": "If your booking has free cancellation, check the forecast before its deadline; operators rebook or refund in full if they cancel for weather",
+    "source": "GetYourGuide listings in data/gyg_anchorage_glacier_helicopter_10offers.json (freeCancellation); https://www.alaskahelicoptertours.com/planning-guide/; https://outboundheli.com/faqs/; https://alpineairalaska.com/faq/",
+    "note": "Scoped to the reader's booking (ANS-TERMSUNIVERSAL)."
+   },
+   {
+    "claim": "June through August have the most reliable flying weather of the year",
+    "disposition": "corrected",
+    "new": "Mid-May to August is the best overall time because every tour runs, the meltwater pools are open and the days are long; May and June are drier than July and August around Palmer",
+    "source": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00025331.csv (Palmer precipitation normals); IEM METAR calculation (body only): April-June had the highest share of good-flying daytime hours, July the lowest of the summer months",
+    "note": "'Most reliable flying weather' had no source; reliability now stays in the body as a derived, labelled calculation."
+   },
+   {
+    "claim": "June to August: the melt pools are at their most vivid, daylight stretches past most people's stamina",
+    "disposition": "corrected",
+    "new": "Blue meltwater pools open on the ice from late spring through summer; mid-June has about 19 1/2 hours of daylight at the Knik River",
+    "source": "https://www.alaska.org/blog/into-the-blue-the-magic-of-alaskas-glacier-pools (pools 'typically from mid-May through September', a post sponsored by Outbound Heli); https://www.alaskahelicoptertours.com/when-to-go/ ('lots of daylight to illuminate vibrant blue glacier pools'); daylight computed (NOAA)"
+   },
+   {
+    "claim": "Summer glacier dogsledding: the sled camps sit above the snowline where snow lasts all season",
+    "disposition": "corrected",
+    "new": "Glacier dogsledding runs May 1 to August 31 from the Knik River (Alaska Helicopter Tours, camp at 3,200 ft) and May 15 to August 30 from Girdwood (Alpine Air)",
+    "source": "https://www.alaskahelicoptertours.com/glacier-dogsledding/ ; https://alpineairalaska.com/girdwood/dog-sledding-tours/"
+   },
+   {
+    "claim": "September: ice still bare, pools still there, lower light, summer volume gone, weather less settled than July",
+    "disposition": "corrected",
+    "new": "September brings Southcentral Alaska's peak fall color; it is one of the wettest months around Palmer and the dogsled tours have finished; paddleboarding runs to September 15",
+    "source": "https://www.travelalaska.com/explore-alaska/articles/best-places-to-view-fall-colors-in-alaska ; https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00025331.csv ; https://www.alaskahelicoptertours.com/glacier-paddleboarding/",
+    "note": "'Summer volume has gone' dropped: Alaska's summer visitor season is counted May-September; AHT's own 'thinner crowds' in fall is attributed in the body."
+   },
+   {
+    "claim": "October and November: increasingly a coin flip; odds of a clean weather window narrow",
+    "disposition": "corrected",
+    "new": "October brings the first snow and shorter days; poor-flying hours become more frequent from October to February (derived, body only)",
+    "source": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00025331.csv ; IEM METAR calculation"
+   },
+   {
+    "claim": "December-February: the ice-climbing tour adds glacier ice cave exploration once meltwater channels freeze, with a second instructor; lunch beside the glacier",
+    "disposition": "kept",
+    "source": "GetYourGuide listing t412355 (data/gyg_anchorage_glacier_helicopter_10offers.json); AHT winter ice climbing Dec 15 - Mar 31 (https://www.alaskahelicoptertours.com/glacier-ice-climbing/); Outbound Winter Ice Cave Adventure December-March (https://outboundheli.com/winter-ice-cave-adventure/)",
+    "note": "Ice caves are natural formations and are not promised; the page says ice-cave tours are offered, not that a cave is guaranteed."
+   },
+   {
+    "claim": "Daylight around the solstice: a departure window measured in hours",
+    "disposition": "kept",
+    "source": "computed daylight (5 h 21 min on December 21 at the Knik River base); https://www.alaskahelicoptertours.com/planning-guide/ ('During the winter we only operate during the limited daylight hours')"
+   },
+   {
+    "claim": "March and April: cold, clear high-pressure days in early spring are among the best flying conditions of the year",
+    "disposition": "corrected",
+    "new": "April and early May are among the driest months and the clearest in the airport record, with snow still on the glacier; it is also the windiest time of year at Palmer",
+    "source": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00025331.csv ; IEM METAR calculation (body only)"
+   },
+   {
+    "claim": "Overcast light is better for photographing glacier ice; grey is not automatically a cancellation",
+    "disposition": "dropped",
+    "reason": "Photography claim unsourced; the cancellation mechanism is now stated from the operators' own lists (visibility, low cloud, wind, icing).",
+    "note": "no source found for the photography claim; dropped"
+   },
+   {
+    "claim": "What grounds a helicopter is a low ceiling, poor visibility, wind or icing",
+    "disposition": "kept",
+    "source": "https://alpineairalaska.com/faq/ ('high winds, fog, low clouds or icing conditions may cause delays or cancellations'); https://www.alaskahelicoptertours.com/planning-guide/"
+   },
+   {
+    "claim": "The Knik River valley sits further inland, away from the coastal cloud Turnagain Arm pulls in, which is why the northern operators claim the better dispatch rate",
+    "disposition": "corrected",
+    "new": "Girdwood averages more than five times the yearly precipitation of Palmer (70.9 in against 12.6 in) (NOAA normals)",
+    "source": "NCEI normals USC00500243 Alyeska and USW00025331 Palmer Muni AP",
+    "note": "No dispatch-rate figure is published by any operator; the comparison is now the measured rainfall gap, in the body only."
+   },
+   {
+    "claim": "Blue meltwater pools are at their most vivid from roughly late June to August and refreeze over winter",
+    "disposition": "corrected",
+    "new": "from late spring through summer; snow-covered in winter",
+    "source": "https://www.alaska.org/blog/into-the-blue-the-magic-of-alaskas-glacier-pools"
+   }
+  ]
+ },
+ "measurement_baseline": {
+  "status": "not captured",
+  "reason": "anchorageglacierhelicoptertour.com is not in any Search Console property this machine can read (~/.consolecloudgooglecom/domain-map.json has no entry for the domain on 2026-10-09). The page went live on 2026-09-03. Owner: add the domain to Search Console and export the URL's numbers before the next rebuild."
+ },
+ "product_place": {
+  "place": "Knik Glacier, about 25 miles long, east of Palmer in the Knik River valley; flights leave Alaska Glacier Lodge (29979 East Knik River Road, Palmer) or Outbound's Palmer hangar and land on the glacier or in its upper basins. A minority of tours leave Girdwood airport for Chugach glaciers and the dogsled camp on Punchbowl Glacier.",
+  "administrative_unit": "Knik River Public Use Area (Alaska DNR), Matanuska-Susitna Borough",
+  "measures_product_place": [
+   {
+    "series": "daylight",
+    "where": "Knik River base 61.48N 148.75W",
+    "measures_product_place": true
+   },
+   {
+    "series": "temperature and precipitation normals",
+    "where": "Palmer Municipal Airport, about 20 miles west-northwest of the glacier at 230 ft",
+    "measures_product_place": false,
+    "label_in_prose": "around Palmer / at Palmer"
+   },
+   {
+    "series": "good-flying hours",
+    "where": "Palmer Municipal Airport METARs",
+    "measures_product_place": false,
+    "label_in_prose": "at Palmer airport, derived"
+   },
+   {
+    "series": "visitor volume",
+    "where": "Alaska statewide",
+    "measures_product_place": false,
+    "label_in_prose": "Alaska"
+   }
+  ]
+ },
+ "site_intent": {
+  "subject": "Anchorage glacier helicopter tours",
+  "markers": [
+   "glacier landing",
+   "helicopter",
+   "glacier helicopter"
+  ],
+  "note": "anchorageglacierhelicoptertour.com is a single-subject site about helicopter glacier landings near Anchorage; this page answers when to fly."
+ },
+ "wider_trip": {
+  "destination": "Alaska",
+  "product_seasonal": true,
+  "note": "The flight changes with the season in its own right (which glacier tours run, pools or snow, daylight), so the season recommendation is real; most visitors come in summer, and the box gives the fixed-dates hand-off to the date checker."
+ },
+ "subject_scope": {
+  "named": "Anchorage glacier helicopter tour",
+  "kind": "helicopter flights with a glacier landing from bases near Anchorage, with or without dogsledding, paddleboarding or ice climbing",
+  "sub_sites": [
+   "Knik Glacier",
+   "Knik River",
+   "Palmer",
+   "Girdwood",
+   "Punchbowl Glacier"
+  ],
+  "note": "Single bookable activity class sold by several operators."
+ },
+ "evidence_scope": [
+  {
+   "claim": "temperature and precipitation normals",
+   "measured_at": "NOAA NCEI Palmer Municipal Airport (USW00025331), 1991-2020",
+   "generalises": false,
+   "must_name": [
+    "Palmer"
+   ],
+   "markers": [
+    "°F",
+    " inches"
+   ],
+   "why": "One valley-floor station about 20 miles from the glacier; on the ice it is colder and often windier."
+  },
+  {
+   "claim": "daylight",
+   "measured_at": "Knik River base 61.48N 148.75W, NOAA algorithm, Alaska time",
+   "generalises": true,
+   "why": "Varies by minutes across the area; mountains shade the valley floor earlier."
+  },
+  {
+   "claim": "visitor volume",
+   "measured_at": "Alaska statewide, Alaska Visitor Volume 2024-25 (McKinley Research for ATIA), as reported by KTOO",
+   "generalises": false,
+   "must_name": [
+    "Alaska"
+   ],
+   "markers": [
+    "visitors",
+    "visit Alaska"
+   ],
+   "why": "Statewide visitors, not helicopter passengers."
+  },
+  {
+   "claim": "good-flying hours",
+   "measured_at": "Palmer Municipal Airport hourly reports, 2016-2025, derived",
+   "generalises": false,
+   "must_name": [
+    "Palmer"
+   ],
+   "markers": [
+    "good-flying"
+   ],
+   "why": "Airport sensors 20 miles from the glacier; not a record of flights flown."
+  }
+ ],
+ "availability_status": "partial_offer",
+ "availability_sentence": "Glacier landing flights near Anchorage are available year-round, while dogsledding and paddleboarding on the glacier are summer-only tours.",
+ "availability_source": "https://www.alaskahelicoptertours.com/planning-guide/ ('open 7 days a week, year round'); https://www.alaskahelicoptertours.com/glacier-tours/ (landing tours 'Year-Round'); https://outboundheli.com/ ('year-round flightseeing'); https://alpineairalaska.com/faq/ ('Flightseeing and Glacier Landing tours year round, except on Christmas and Thanksgiving'); dogsledding and paddleboarding seasons on the operators' own pages",
+ "availability_evidence": [
+  "AHT: 'Yes, we are open 7 days a week, year round.'",
+  "AHT glacier tours: Knik Glacier Landing and Grand Knik Glacier Experience 'Year-Round'",
+  "AHT glacier dogsledding (Anchorage): 'May 1 - Aug 31'",
+  "AHT heli glacier paddleboarding: 'May 15 - Sep 15'",
+  "AHT ice climbing: summer 'May 15 - Sep 15', winter 'Dec 15 - Mar 31'",
+  "Outbound: 'year-round flightseeing'; Winter Ice Cave Adventure 'December-March'",
+  "Alpine Air: 'Flightseeing and Glacier Landing tours year round, except on Christmas and Thanksgiving!'; dogsledding 'May 15-Aug 30'",
+  "AHT: 'During the winter we only operate during the limited daylight hours'"
+ ],
+ "operator_facts": {
+  "published_seasons": [
+   {
+    "operator": "Alaska Helicopter Tours (Knik River, Palmer)",
+    "season": "landing flights year-round, 7 days a week; dogsledding May 1-Aug 31; paddleboarding May 15-Sep 15; ice climbing May 15-Sep 15 and Dec 15-Mar 31",
+    "url": "https://www.alaskahelicoptertours.com/glacier-tours/",
+    "read": "2026-10-09"
+   },
+   {
+    "operator": "Outbound Heli Adventures (Palmer)",
+    "season": "flightseeing year-round; Knik Glacier Explorer year-round; Winter Ice Cave Adventure December-March",
+    "url": "https://outboundheli.com/",
+    "read": "2026-10-09"
+   },
+   {
+    "operator": "Alpine Air Alaska (Girdwood)",
+    "season": "flightseeing and glacier landings year-round except Christmas and Thanksgiving; glacier dogsledding May 15-Aug 30",
+    "url": "https://alpineairalaska.com/faq/",
+    "read": "2026-10-09"
+   }
+  ],
+  "operator_names": [
+   "Alaska Helicopter Tours",
+   "Outbound Heli Adventures",
+   "Alpine Air"
+  ],
+  "forward_timetable_unpublished": true,
+  "published_to": "No departure times are published by AHT or Alpine Air; Outbound flies 8 a.m. to 8 p.m. daily",
+  "time_of_day_dissent": [
+   {
+    "operator": "Alaska Helicopter Tours",
+    "says": "Should I choose the morning or afternoon tour? 'It's really your preference that matters most here.' 'During the afternoon tours the temperatures tend to be a bit higher.'",
+    "url": "https://www.alaskahelicoptertours.com/planning-guide/"
+   },
+   {
+    "operator": "Outbound Heli Adventures",
+    "says": "What is the best time of day to book a tour? 'That all depends on what you are hoping to experience on your adventure!' ... 'we operate from 8 a.m. to 8 p.m. daily, which means our sunset flights are only possible in the winter.'",
+    "url": "https://outboundheli.com/faqs/"
+   },
+   {
+    "operator": "Alpine Air",
+    "says": "nothing on time of day",
+    "url": "https://alpineairalaska.com/faq/"
+   }
+  ],
+  "weather_policies": [
+   {
+    "operator": "Alaska Helicopter Tours",
+    "says": "legal to fly down to .5 miles of visibility, 'HOWEVER ... if visibility is low we may reschedule'; wind limits '15kts+ gust spread / winds over 30kts / excessive wind shear'; icing; 'we'll first aim to reschedule your tour later in the day or to another date'; 'If we need to cancel due to weather ... we will refund you 100%'",
+    "url": "https://www.alaskahelicoptertours.com/planning-guide/"
+   },
+   {
+    "operator": "Outbound",
+    "says": "'We do not make advanced weather calls.' 'We will look at weather the day of your flight and reach out to you'; full refund if cancelled for weather",
+    "url": "https://outboundheli.com/faqs/"
+   },
+   {
+    "operator": "Alpine Air",
+    "says": "'high winds, fog, low clouds or icing conditions may cause delays or cancellations'; rebook or full refund",
+    "url": "https://alpineairalaska.com/faq/"
+   }
+  ],
+  "seasonal_bands": {
+   "AHT glacier dogsledding": [
+    "May 1 - Aug 31"
+   ],
+   "AHT paddleboarding": [
+    "May 15 - Sep 15"
+   ],
+   "AHT ice climbing": [
+    "May 15 - Sep 15",
+    "Dec 15 - Mar 31"
+   ],
+   "Outbound ice caves": [
+    "December - March"
+   ],
+   "Alpine Air dogsledding": [
+    "May 15 - Aug 30"
+   ]
+  }
+ },
+ "current_status_snapshot": {
+  "checked": "2026-10-09",
+  "recheck_before": "2027-04-30",
+  "queries": [
+   "Alaska Helicopter Tours 2026",
+   "Knik Glacier closed 2026",
+   "Outbound Heli Adventures 2026",
+   "Alpine Air Alaska 2026 suspended"
+  ],
+  "found": [
+   "No 2026 closure, suspension or grounding found for Alaska Helicopter Tours, Outbound Heli Adventures or Alpine Air",
+   "Outbound is selling fall flights through November 15, 2026; Alpine Air advertises autumn tours",
+   "No 2026 closure notice for the Knik River Public Use Area"
+  ],
+  "status": "operating normally"
+ },
+ "visit_profile": {
+  "typical_visit": "Drive about an hour from Anchorage to the Knik River base (or 45 minutes to Girdwood), weigh in and brief, then a 1-hour landing tour (about 30 minutes in the air and about 30 minutes on the glacier) or a 2-hour, three-landing tour; activity versions add dogsledding (1.5-2 hours), paddleboarding on a meltwater pool (about 4 hours) or ice climbing (about 4 hours).",
+  "hours_outdoors": "On a landing tour about 30 minutes standing on the glacier, the rest inside an enclosed helicopter cabin; activity tours spend 1 to 4 hours outdoors on the ice.",
+  "bundled_sites": [],
+  "transport_part_of_experience": true,
+  "seasonal_versions": "Landing flights all year; dogsledding May-August; paddleboarding mid-May to mid-September; ice climbing in summer and from mid-December to March; ice-cave tours December-March (Outbound); in winter flights run only in daylight.",
+  "shelter_checked": "The helicopter cabin is enclosed; the weather is felt during the time on the glacier. Outbound: 'Dress in layers for changing weather'. AHT pilots fly only in conditions they judge safe (visibility, wind, icing).",
+  "itinerary_controlled": false,
+  "view_dependent": "the flight over the Knik Glacier ice field and the Chugach is half of what is sold; low cloud hides it and can stop the landing"
+ },
+ "view_product": true,
+ "view_product_note": "A scenic flight and landing: visibility, low cloud and wind on the day decide whether the helicopter flies and how much of the glacier you see.",
+ "weather_exposure": "mixed",
+ "factor_weights": [
+  {
+   "factor": "visibility, low cloud and wind on the day",
+   "why": "Weather-gated flight: Alpine Air lists 'high winds, fog, low clouds or icing' as causes of delays or cancellations; AHT may reschedule when visibility is low and stops for winds over 30 kt or gust spreads of 15 kt. Low cloud also hides the ice field the flight is sold on. This holds in every month."
+  },
+  {
+   "factor": "which glacier tours run in the season",
+   "why": "Landing flights run all year, but dogsledding runs only May-August, paddleboarding mid-May to mid-September, ice-cave tours December-March, and winter ice climbing mid-December to March (operators' own pages)."
+  },
+  {
+   "factor": "what the glacier looks like: meltwater pools, snow, fall color",
+   "why": "Blue meltwater pools open from late spring through summer (Alaska.org, Outbound-sponsored); the glacier is under snow in winter; Southcentral Alaska's fall colors peak in September (Travel Alaska)."
+  },
+  {
+   "factor": "daylight",
+   "why": "A landing tour lasts about an hour and activity tours up to four, so daylight binds in winter: AHT flies only in daylight hours then, and the Knik River has 5 h 25 min of daylight in mid-December against 19 h 26 min in mid-June (computed), which narrows the choice of flight times from November to February."
+  },
+  {
+   "factor": "temperature and rain on the ice",
+   "why": "What to wear for 30 minutes to 4 hours on the glacier: Palmer average highs 66-68°F in June and July, 22-25°F in December and January; rain becomes more frequent from July to September (14.3 wet days in August)."
+  },
+  {
+   "factor": "how busy Alaska is",
+   "why": "About 88% of Alaska's visitors in 2024-25 came in the summer season (May-September); fewer than 400,000 came from October to April (statewide proxy, not helicopter passengers)."
+  }
+ ],
+ "factor_canonicity_checks": [
+  {
+   "factor": "visibility, low cloud and wind",
+   "checked_against": "https://www.alaskahelicoptertours.com/planning-guide/ ; https://alpineairalaska.com/faq/",
+   "finding": "canonical: the operators name these as the reasons flights are delayed or cancelled"
+  },
+  {
+   "factor": "seasonal tours",
+   "checked_against": "AHT, Outbound and Alpine Air product pages",
+   "finding": "canonical: published season dates on each operator's own pages"
+  },
+  {
+   "factor": "meltwater pools",
+   "checked_against": "https://www.alaska.org/blog/into-the-blue-the-magic-of-alaskas-glacier-pools ; https://outboundheli.com/knik-glacier-explorer/",
+   "finding": "operator-sponsored post gives mid-May through September; operator pages describe pools in summer"
+  },
+  {
+   "factor": "fall color",
+   "checked_against": "https://www.travelalaska.com/explore-alaska/articles/best-places-to-view-fall-colors-in-alaska",
+   "finding": "Travel Alaska: 'The Southcentral region sees peak colors in September'"
+  },
+  {
+   "factor": "morning clearer than afternoon",
+   "checked_against": "https://www.alaskahelicoptertours.com/planning-guide/ ; https://outboundheli.com/faqs/ ; IEM METARs PAAQ 2016-2025",
+   "finding": "rejected: operators say time of day is preference; airport afternoons were as clear or slightly clearer in every month"
+  }
+ ],
+ "constraint_clocks": {
+  "season_decides": "which glacier tours run (dogsledding and paddleboarding in summer, ice caves in winter) and whether the glacier shows blue pools or snow",
+  "day_decides": "whether the helicopter can fly and how much you see: visibility, low cloud, wind and icing",
+  "hour_decides": "in winter, whether the flight fits in daylight; otherwise mostly preference (afternoons are a little warmer)",
+  "season_words": [
+   "season",
+   "summer",
+   "winter",
+   "month",
+   "dogsledding",
+   "paddleboarding",
+   "ice caves",
+   "pools",
+   "snow",
+   "fall color"
+  ],
+  "day_words": [
+   "visibility",
+   "low cloud",
+   "wind",
+   "icing",
+   "weather",
+   "forecast",
+   "cancel"
+  ]
+ },
+ "seasonal_archetype": "C",
+ "seasonal_archetype_evidence": "Two travelers with different priorities choose different halves of the year: summer (mid-May to August) for dogsledding, paddleboarding, blue meltwater pools and long days; December to March for a snow-covered glacier and ice-cave tours; September for fall color. Landing flights run in every month. A first-trip best overall period exists (mid-May to August, because every tour runs), but it is one recommendation among several.",
+ "experience_recommendations": {
+  "best overall, first trip": "mid-May to August",
+  "dogsledding on a glacier": "May to August",
+  "paddleboarding on a meltwater pool": "mid-May to mid-September",
+  "fall color": "September",
+  "snow, ice caves and winter ice climbing": "December to March",
+  "fewer visitors in Alaska": "October to April",
+  "time of day": "no reliably clearer hour; in winter, daylight hours only"
+ },
+ "verdict_shape": "by_priority",
+ "verdict_split": {
+  "best_overall": "mid-May to August",
+  "best_for_fewer_crowds": "October to April",
+  "best_weather": "May and June",
+  "best_time_of_day": "no reliably clearer time of day; afternoons a little warmer; in winter only daylight hours"
+ },
+ "verdict_split_reasons": {
+  "best_overall": "every tour type runs (dogsledding May 1/May 15 - Aug 30/31, paddleboarding May 15 - Sep 15, landing flights year-round), blue meltwater pools on the ice, 17-19 1/2 hours of daylight",
+  "best_for_fewer_crowds": "fewer than 400,000 of Alaska's roughly 3 million 2024-25 visitors came October-April (statewide proxy); landing flights continue",
+  "best_weather": "Palmer precipitation normals: May 0.62 in / 6.7 wet days, June 1.00 in / 8.7, against July 1.60 / 11.9 and August 2.32 / 14.3",
+  "best_time_of_day": "operator statements (AHT, Outbound) and the airport record"
+ },
+ "verdict_notes": "Mid-May to August is crowned only as best overall for a first trip; the box gives September, October-April and December-March their own reasons.",
+ "recommendation_window": {
+  "window": "mid-May to August",
+  "source_window": "paddleboarding and Alpine Air dogsledding from May 15; AHT dogsledding May 1 - Aug 31; Alpine Air dogsledding to Aug 30",
+  "why_not_narrower": "The window is the overlap of the published summer-tour seasons; normals cannot separate weeks inside it"
+ },
+ "period_edges": [
+  {
+   "period": "May 15",
+   "edge": "mid-May",
+   "reason": "May 15; paddleboarding, summer ice climbing and Alpine Air dogsledding start on May 15 (operators' published seasons)"
+  },
+  {
+   "period": "September 15",
+   "edge": "mid-September",
+   "reason": "September 15; paddleboarding and summer ice climbing end (AHT)"
+  },
+  {
+   "period": "June 15",
+   "edge": "mid-June",
+   "reason": "June 15; daylight computed for the 15th of each month"
+  },
+  {
+   "period": "December 15",
+   "edge": "mid-December",
+   "reason": "December 15; daylight computed for the 15th; winter ice climbing starts December 15"
+  },
+  {
+   "period": "March 15",
+   "edge": "mid-March",
+   "reason": "March 15; daylight computed for the 15th"
+  },
+  {
+   "period": "October 15",
+   "edge": "mid-October",
+   "reason": "October 15; daylight computed for the 15th"
+  },
+  {
+   "period": "November 15",
+   "edge": "mid-November",
+   "reason": "November 15; daylight computed for the 15th"
+  },
+  {
+   "period": "April 15",
+   "edge": "mid-April",
+   "reason": "April 15; daylight computed for the 15th"
+  },
+  {
+   "period": "summer tours",
+   "edge": "May 15 (paddleboarding, Alpine Air dogsledding); May 1 (AHT dogsledding)",
+   "reason": "operators' published seasons"
+  },
+  {
+   "period": "dogsledding ends",
+   "edge": "August 30 (Alpine Air) / August 31 (AHT)",
+   "reason": "operators' published seasons"
+  },
+  {
+   "period": "paddleboarding ends",
+   "edge": "September 15",
+   "reason": "AHT"
+  },
+  {
+   "period": "winter ice climbing",
+   "edge": "December 15 - March 31",
+   "reason": "AHT"
+  },
+  {
+   "period": "ice-cave tours",
+   "edge": "December - March",
+   "reason": "Outbound"
+  }
+ ],
+ "period_costs": {
+  "mid-May to August": "Alaska's main travel season; July and August bring more frequent rain around Palmer",
+  "September": "one of the wettest months around Palmer (2.08 in, 13.3 wet days) and the dogsled tours have finished",
+  "October to April": "no summer activity tours, snow and cold, shorter days",
+  "December to March": "short days (5 h 25 min of daylight in mid-December), cold (Palmer average highs 22-34°F), flights only in daylight"
+ },
+ "crowd_evidence": {
+  "type": "proxy",
+  "measures": "visitors to Alaska by season, statewide (Alaska Visitor Volume, McKinley Research for the Alaska Travel Industry Association), 2024-25",
+  "gap": "Counts all visitors to Alaska, not helicopter passengers or Knik River visitors; one year of data; summer = May-September, winter = October-April; reported second-hand by KTOO because the state page returned 403",
+  "use": "may say far fewer people visit Alaska from October to April; must never be used to say a helicopter tour or departure will be fuller or emptier"
+ },
+ "crowds": {
+  "region": "Alaska statewide",
+  "source": "https://www.ktoo.org/2025/10/22/last-years-alaska-tourism-season-was-a-record-year-but-just-barely",
+  "values": {
+   "full_year_2024_25": "over 3 million (3,079,200 in a state presentation snippet)",
+   "summer_share": "88%",
+   "winter_oct_apr": "fewer than 400,000 (376,300)"
+  },
+  "years": "2024-25 (one year)"
+ },
+ "monthly_price_series": null,
+ "climate": {
+  "primary": {
+   "station": "Palmer Municipal Airport (USW00025331), 61.596N 149.092W, 230 ft",
+   "period": "1991-2020",
+   "url": "https://www.ncei.noaa.gov/data/normals-monthly/1991-2020/access/USW00025331.csv",
+   "tmax_f": [
+    22.4,
+    28.3,
+    33.9,
+    47.8,
+    59.1,
+    65.7,
+    67.6,
+    64.6,
+    55.8,
+    42.3,
+    28.9,
+    25.1
+   ],
+   "tmin_f": [
+    8.3,
+    13.2,
+    17.2,
+    29.8,
+    38.8,
+    46.9,
+    50.7,
+    48.2,
+    40.8,
+    28.6,
+    15.6,
+    11.4
+   ],
+   "prcp_in": [
+    0.65,
+    0.7,
+    0.47,
+    0.3,
+    0.62,
+    1.0,
+    1.6,
+    2.32,
+    2.08,
+    1.25,
+    0.66,
+    0.96
+   ],
+   "wet_days_ge001": [
+    6.2,
+    6.1,
+    4.6,
+    3.9,
+    6.7,
+    8.7,
+    11.9,
+    14.3,
+    13.3,
+    8.9,
+    5.6,
+    7.7
+   ]
+  },
+  "snow": {
+   "station": "Matanuska Experiment Farm (USC00505733)",
+   "snow_in": [
+    9.2,
+    9.0,
+    7.6,
+    1.4,
+    0.5,
+    0,
+    0,
+    0,
+    0,
+    3.8,
+    8.1,
+    9.9
+   ]
+  },
+  "girdwood": {
+   "station": "Alyeska (USC00500243)",
+   "annual_prcp_in": 70.9,
+   "note": "more than five times Palmer's 12.6 in; September-December very wet"
+  },
+  "anchorage": {
+   "station": "Anchorage Intl AP (USW00026451)",
+   "annual_prcp_in": 16.42
+  },
+  "reanalysis_used": false
+ },
+ "flying_hours_derived": {
+  "source": "Iowa Environmental Mesonet ASOS archive, PAAQ Palmer, 2016-2025, 08:00-18:00 local, 36,336 reports",
+  "definition": "good = ceiling >= 3,000 ft (or none) and visibility >= 5 miles",
+  "good_pct": [
+   84,
+   82,
+   90,
+   93,
+   96,
+   93,
+   88,
+   90,
+   91,
+   87,
+   83,
+   81
+  ],
+  "poor_pct": [
+   10,
+   10,
+   6,
+   3,
+   1,
+   1,
+   3,
+   2,
+   4,
+   7,
+   12,
+   11
+  ],
+  "gust25_pct": [
+   7.2,
+   5.5,
+   7.1,
+   9.6,
+   10.8,
+   5.5,
+   2.4,
+   4.2,
+   3.8,
+   6.7,
+   5.2,
+   7.0
+  ],
+  "am_pm_good": "afternoon (13-17) as clear or 1-5 points clearer than morning (08-11) in every month",
+  "use": "body evidence only; never the headline basis (ANS-DERIVEDVERDICT); airport 20 miles from the glacier"
+ },
+ "daylight": {
+  "computed_for": "Knik River base 61.48N 148.75W, NOAA algorithm, 90.833 zenith, Alaska time (AKDT March 14 - November 7, 2027)",
+  "mid_month_2027": {
+   "Jan": "6h20 (9:55-4:15)",
+   "Feb": "9h02 (8:39-5:41)",
+   "Mar": "11h45 (8:12-7:57)",
+   "Apr": "14h45 (6:33-9:18)",
+   "May": "17h33 (5:06-10:38)",
+   "Jun": "19h26 (4:13-11:39)",
+   "Jul": "18h33 (4:44-11:17)",
+   "Aug": "15h54 (6:02-9:56)",
+   "Sep": "12h57 (7:21-8:18)",
+   "Oct": "10h04 (8:38-6:42)",
+   "Nov": "7h13 (9:03-4:15)",
+   "Dec": "5h25 (10:07-3:33)"
+  },
+  "solstices": {
+   "Jun 21": "19h30",
+   "Dec 21": "5h21"
+  }
+ },
+ "cycle": {
+  "what_changes": [
+   "glacier surface: blue meltwater pools from late spring through summer; snow cover in winter",
+   "tours: dogsledding May-August; paddleboarding mid-May to mid-September; ice-cave tours December-March; winter ice climbing mid-December to March",
+   "mountainsides: Southcentral fall colors peak in September (Travel Alaska)",
+   "light: 19 1/2 hours in mid-June, under 5 1/2 in mid-December; winter flights only in daylight"
+  ],
+  "who_publishes": "the operators (Alaska Helicopter Tours, Outbound Heli Adventures, Alpine Air), Travel Alaska"
+ },
+ "bonus_not_bookable": [
+  {
+   "outcome": "northern lights",
+   "why": "AHT's winter page mentions them, but flights run only in daylight; a sighting needs darkness and a clear sky"
+  },
+  {
+   "outcome": "an ice cave on the day",
+   "why": "natural formations that change; the tour runs in winter but no specific cave is promised"
+  },
+  {
+   "outcome": "wildlife from the air",
+   "why": "Outbound says animals 'tend to be more active during certain hours'; not plannable"
+  }
+ ],
+ "derived_times": [
+  {
+   "what": "sunrise and sunset for a date",
+   "markers": [
+    "sunrise",
+    "sunset"
+   ],
+   "where": "device only; static copy uses daylight lengths at mid-month"
+  }
+ ],
+ "advisories": [],
+ "jargon_swaps": [
+  {
+   "jargon": "VFR minimums / ceiling",
+   "plain": "low cloud",
+   "why": "the operators' own lists say 'low clouds'"
+  },
+  {
+   "jargon": "moulin",
+   "plain": "meltwater shaft",
+   "why": "trade term"
+  }
+ ],
+ "answer_figures": [
+  {
+   "row": "Daylight at the Knik River, mid-June and mid-December",
+   "factor": "daylight"
+  },
+  {
+   "row": "Average high at Palmer, July and January",
+   "factor": "temperature and rain on the ice"
+  },
+  {
+   "row": "Average rainfall at Palmer, June and August",
+   "factor": "temperature and rain on the ice"
+  },
+  {
+   "row": "Share of Alaska's 2024-25 visitors who came May to September",
+   "factor": "how busy Alaska is"
+  }
+ ],
+ "device_factors": {
+  "shown": [
+   "which tours run on the date (landing flights; Knik and Girdwood dogsledding; paddleboarding; ice climbing; ice-cave tours) from the operators' published seasons, plus Alpine Air's Christmas and Thanksgiving closure",
+   "sunrise, sunset and daylight at the Knik River (computed)",
+   "flying weather inside 16 days: Open-Meteo hourly low cloud, visibility, wind gusts and precipitation over the daylight hours, at Knik Glacier",
+   "temperature: forecast high inside 16 days, Palmer normal high and low beyond",
+   "precipitation: forecast total over the daylight hours inside 16 days, Palmer monthly total and wet days beyond"
+  ],
+  "considered_and_excluded": [
+   {
+    "factor": "sea state / tides",
+    "reason": "No water crossing; the flight is over land and ice"
+   },
+   {
+    "factor": "humidity / heat index",
+    "reason": "Highs stay below 70°F at Palmer in every month"
+   },
+   {
+    "factor": "crowds by date",
+    "reason": "No helicopter operator publishes passenger numbers; the statewide series is seasonal only"
+   },
+   {
+    "factor": "monthly visibility or ceiling normals",
+    "reason": "NOAA publishes none; the derived airport share is body evidence, so beyond the forecast window the card describes the month instead of inventing a number"
+   },
+   {
+    "factor": "aurora forecast",
+    "reason": "Flights run in daylight; a bonus, not a row"
+   }
+  ],
+  "per_activity": {}
+ },
+ "core_conclusions": [
+  {
+   "name": "mid-May to August best overall for a first trip",
+   "markers": [
+    "Mid-May to"
+   ]
+  },
+  {
+   "name": "weather on the day first",
+   "markers": [
+    "visibility"
+   ]
+  },
+  {
+   "name": "December to March: snow and ice caves",
+   "markers": [
+    "December to March"
+   ]
+  }
+ ],
+ "panel_flagged_uncharged": [
+  "re:most of them to Knik",
+  "re:summer-only",
+  "re:more than 19 hours of daylight",
+  "September, but wetter",
+  "re:rain is frequent and the dogsled",
+  "re:later slots may already be full"
+ ],
+ "undistinguished_options": [],
+ "season_proof": false,
+ "year_round_presence": [],
+ "owner_overrides": [],
+ "spokes": [
+  {
+   "name": "knik glacier winter tours / knik glacier in winter",
+   "disposition": "rejected",
+   "reason": "Covered by this page's winter section and date checker; too few products (one unrated GYG ice-climbing tour) for a separate page. Logged in the writer report."
+  },
+  {
+   "name": "knik glacier weather / forecast / weather today",
+   "disposition": "rejected",
+   "reason": "Answered by the date checker's live forecast on this page"
+  },
+  {
+   "name": "is alaska helicopter tour worth it / is knik glacier worth it",
+   "disposition": "rejected",
+   "reason": "No queue on this site (new-articles drained); logged for the owner in the writer report"
+  },
+  {
+   "name": "alaska helicopter tour cost / price",
+   "disposition": "built",
+   "url": "https://anchorageglacierhelicoptertour.com/guides/how-much-does-an-anchorage-glacier-helicopter-tour-cost/"
+  },
+  {
+   "name": "knik glacier aurora",
+   "disposition": "rejected",
+   "reason": "Flights run in daylight; one completion"
+  }
+ ],
+ "site_sweep": {
+  "checked": "2026-10-09",
+  "greps": [
+   "morning / afternoon / cloud builds / convective / earliest slot / more reliably / flyable morning",
+   "year-round / all year / winter",
+   "June through August / most reliable / best month",
+   "melt pool / ice cave",
+   "dispatch rate / Turnagain Arm / inland",
+   "best-time-for-an-anchorage-glacier-helicopter-tour (every link and its anchor text)",
+   "hook images (all six opened)"
+  ],
+  "pages": [
+   "content/_index.md",
+   "content/guides/*.md (13 sibling guides)",
+   "content/landing/*.md (3 pages)",
+   "content/tours/*.md (8 pages)",
+   "data/faq.yaml",
+   "data/timeline.yaml",
+   "data/comparison.yaml",
+   "data/tours_config.yaml",
+   "data/gyg_anchorage_glacier_helicopter_10offers.json",
+   "hugo.toml (steps, footer links)",
+   "static/images/*hook*.webp"
+  ],
+  "fixed": [
+   "Morning-is-clearer claim (cloud builds through the day; morning slots fly more reliably; book the earliest slot) removed on every surface: content/_index.md weather section, data/faq.yaml weather answer, data/timeline.yaml weather step, data/comparison.yaml weather row, hugo.toml step 2 (was 'Book a Morning Slot'), offers JSON t147264 goodToKnow and FAQ answer, helicopter-ride-in-alaska.md (body + ledger), helicopter-tour-for-two-in-alaska.md (two passages), helicopter-tours-near-anchorage.md (morning-or-afternoon section), what-to-expect-on-a-glacier-helicopter-tour.md (body + ledger), which-anchorage-glacier-helicopter-tour-is-right-for-you.md (body + ledger), glacier-landing-tours-from-girdwood.md, knik-glacier-vs-punchbowl-glacier-helicopter-tours.md ('single flyable morning'). Source: Alaska Helicopter Tours planning guide ('It's really your preference'), Outbound FAQ, Palmer airport hourly reports 2016-2025.",
+   "data/faq.yaml best-month answer: 'June through August for the most reliable flying weather' replaced with mid-May to August for a first trip (all summer tours run, pools open), September fall color with more rain, December to March snow and ice caves with short days.",
+   "Hook image of this page carried 'The hour beats the month ... An 8am slot ... flies more reliably than a 3pm slot' in text; regenerated without the claim."
+  ],
+  "left": [
+   "The Knik operators' dispatch-rate claim on _index.md, glacier-landing-tours-from-girdwood.md and knik-glacier-vs-punchbowl: already labelled as a marketing claim; the Girdwood page now carries the measured rainfall gap (NOAA normals) instead of the time-of-day argument.",
+   "Punchbowl Glacier and Mitch Seavey's IdidaRide for Alpine Air's Girdwood dogsledding: not found on Alpine Air's own pages, but Alaska Railroad's listing confirms the pairing; left as is.",
+   "Anchor texts linking here ('goes month by month', 'what actually changes by season', footer 'knik glacier in september / winter tours / weather') all still match: the page has a season-by-season section with a month table and a winter section."
+  ]
+ },
+ "title_intent": {
+  "chosen": "Best Time for an Anchorage Glacier Helicopter Tour: Season, Weather & Time of Day",
+  "evidence": "the existing URL and its title; month, season and weather completions from the demand probe (knik glacier in june / september / winter, knik glacier weather); TITLE-FACET: 'Time of Day' not 'Hour'"
+ }
+}

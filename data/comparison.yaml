@@ -52,7 +52,7 @@ rows:
 
   - label: "Weather sensitivity"
     values:
-      - "High — needs cloud ceiling and visibility; morning slots fly more reliably"
+      - "High — needs good visibility, low wind and no icing"
       - "Moderate — boats and buses run in weather that grounds helicopters"
       - "Low, but low cloud hides the peaks that make the view"
 
@@ -70,6 +70,6 @@ rows:
 
   - label: "Best for"
     values:
-      - "Anyone who wants to be on glacier ice and has one flyable morning to spend"
+      - "Anyone who wants to be on glacier ice and has one flyable day to spend"
       - "Wildlife, calving faces, and a full day out without a weight limit"
       - "A free afternoon, a rental car, and no need to touch the ice"

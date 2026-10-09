@@ -1,0 +1,1222 @@
+{
+ "checked": "2026-10-09",
+ "page": "/guides/best-time-for-an-anchorage-glacier-helicopter-tour/",
+ "read": "whole page: title, meta, deck, box, decision list, figure strip, body, month table, FAQ, sources, device strings, hook image",
+ "gates": {
+  "HON-CURRENTPOLICY": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Weather, rebooking and refund rules from each operator's current page read 2026-10-09 (AHT planning guide, Outbound FAQ, Alpine Air FAQ); free cancellation from the GYG listings; old 'everything on this site...' wording scoped to the reader's booking."
+  },
+  "PROSE-EVENPAIR": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Pairs read: 'May and June are usually drier than July and August'; time-of-day paragraph gives morning and afternoon each a use in the same shape."
+  },
+  "PROSE-ALARMSCALE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Disruption verbs are 'can delay or cancel'; no frequency word without a source; ice-cave variability stated as 'change from year to year'. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "PROSE-NEXTSTEP": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Constraints end in actions: weather -> schedule early, check forecast before the free-cancellation deadline; winter daylight -> device shows sunrise/sunset."
+  },
+  "PROSE-OFFSEASONAPPEAL": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Winter section opens on what it offers (white glacier, ice caves, winter ice climbing) before daylight cost; October-November opens on landing flights continuing."
+  },
+  "VOICE-BLEND": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Box read aloud: availability, the pilot's needs, pools on the ice, fall color, snow and ice caves; not a bulletin. Writer share: 'blue meltwater pools open on the ice', 'the glacier is covered in snow'."
+  },
+  "STAT-CONSEQUENCE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Box: daylight -> fewer flight times; rain -> drier months; strip rows carry consequences (pack a warm layer, fewer flight times, rain more frequent late summer). Body: highs -> fleece/winter clothing; daylight -> light does not limit summer flights."
+  },
+  "STAT-NOUNSTACK": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Body season paragraphs use one or two measures per sentence; month table carries the rest; highs written 'average highs reach 59°F', never 'May averages'."
+  },
+  "WARMTH-SCOPE": {
+   "verdict": "na",
+   "where": "page + site",
+   "note": "No warm adjective about a class of places on the page. Checked on 2026-10-09 across the title, deck, box, decision list, body, month table, FAQ and date-checker strings: the case this gate covers does not arise on this page."
+  },
+  "LOCALE-DESTINATION": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "en_US recorded as prose_locale; fall, color, °F, inches, month-day dates, a.m./p.m. in body, FAQ and device clock(). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "TERM-GLOSSFIRST": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "'meltwater pools' self-explanatory; 'icing' appears with low cloud and wind as a flying hazard; 'ice caves' explained as natural formations in the body; no trade term in the deck."
+  },
+  "SAFETY-OWNPARA": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "The on-the-day weather hazard is not seasonal; it opens the box (paragraph 1, 'On the day') and has its own body section 'How the weather affects a helicopter flight'. No seasonal hazard window exists to scope."
+  },
+  "LABEL-WARM": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Rows are reader priorities with costs ('September, but cooler', 'December to March, short days', 'October to April, but colder with shorter days'); no 'day to avoid'."
+  },
+  "HAZARD-CLASSNOTINSTANCE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Hazard named as the class the operators publish: low cloud, poor visibility, strong wind or icing; outcomes 'delay or cancel'. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "NOREQ-BESTBET": {
+   "verdict": "na",
+   "where": "page + site",
+   "note": "No recommendation rests on an authority not doing something. Checked on 2026-10-09 across the title, deck, box, decision list, body, month table, FAQ and date-checker strings: the case this gate covers does not arise on this page."
+  },
+  "AUTHORITY-AVOIDDATES": {
+   "verdict": "na",
+   "where": "page + site",
+   "note": "No authority publishes avoid dates; Alpine Air's Thanksgiving and Christmas closures are in the device and the device's static row. Checked on 2026-10-09 across the title, deck, box, decision list, body, month table, FAQ and date-checker strings: the case this gate covers does not arise on this page."
+  },
+  "TENSE-CURRENTCALENDAR": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Seasons written in present tense as recurring operator seasons; no past-dated current-year calendar. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "CHOOSER-NOTTAUTOLOGY": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Each alternative has its own fact: September fall color; October-April fewer visitors to Alaska; December-March snow and ice caves. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "DATA-REGIMECHANGE": {
+   "verdict": "na",
+   "where": "page + site",
+   "note": "No cap, fee or rule change behind any figure. Checked on 2026-10-09 across the title, deck, box, decision list, body, month table, FAQ and date-checker strings: the case this gate covers does not arise on this page."
+  },
+  "PROSE-GLOSSLOCAL": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Palmer glossed in the box as 'the town nearest the Knik River base' (round 5); also introduced in the body as the valley town by the Knik River; in the box 'around Palmer' is a place name readers of Anchorage trips know; Southcentral Alaska is the state's own region name. "
+  },
+  "SRC-ABSENCELIVE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Absence claims ('None of the three operators we checked publishes departure times / cancellations') written after reading each operator's planning guide/FAQ/product pages on 2026-10-09."
+  },
+  "ANS-ACTFIRST": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Not a timed-entry or sell-out attraction; the act-first fact is the weather-gated flight, which is paragraph 1 after availability. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "DEV-DECISIONORDER": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Device rows ordered: which tours run (changes the booking), then daylight; forecast block leads with the flying verdict; sunrise/sunset is a stat, not the first row."
+  },
+  "ADVICE-INDOORREFUGE": {
+   "verdict": "na",
+   "where": "page + site",
+   "note": "No indoor sight is sold or recommended on this page; the product is a helicopter flight and time on the glacier, so there is no hot-day refuge advice to check."
+  },
+  "PROSE-TRADEOFFNOTASSIGN": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Products described by what they do (three landings in two hours; an hour on the snow) not assigned to one kind of reader. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "PROSE-POSITIVEMECHANISM": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Mechanisms stated positively ('the pilot needs good visibility'). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "PROSE-ONEHEDGE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Ice-climbing listing sentence: positive claim with its attribution, then 'It has no reviews ... so check' as its own sentence. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "RULE-EDGEINSTANCE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Season edges checked at both ends: dogsledding May 1/15 to Aug 30/31; paddleboarding May 15-Sep 15; ice climbing Dec 15-Mar 31; device tested on 2027-05-15, 2027-08-31, 2027-09-20, 2027-12-20."
+  },
+  "SWEEP-CONSEQUENCE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Corrected rule 'mornings fly more reliably' swept for its consequences: 'book the earliest slot', 'Book a Morning Slot', 'one flyable morning', 'an early departure leaves room to be rebooked the same day' (see site_sweep.fixed)."
+  },
+  "WIDERTRIP-NOCHANGE": {
+   "verdict": "na",
+   "where": "page + site",
+   "note": "Not a season-proof attraction (season_proof false in the record): the season changes which glacier tours run, so there is no wider-trip paragraph claiming the months do not change it."
+  },
+  "PHENOM-MULTIDRIVER": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Meltwater pools hedged 'usually open' and 'typically mid-May through September' from the source; fall color 'peak in September' attributed to Travel Alaska."
+  },
+  "NUISANCE-UPSIDE": {
+   "verdict": "na",
+   "where": "page + site",
+   "note": "The page makes no claim that a condition does not ruin the trip; rain and cloud are treated as reasons a flight can be cancelled, which is the operators' own framing."
+  },
+  "FRONT-EXCEPTIONNAMED": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Front exception: 'dogsledding and paddleboarding on the glacier are summer-season tours' names the products; Alpine Air's holiday closures named in the device."
+  },
+  "FRONT-CURRENTSCHEDULE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Season patterns written as operators' published seasons; no permanent counts on the front. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ANS-TACTICBODY": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Box ends on the check every reader can make (forecast before the free-cancellation deadline, scoped to 'if your booking has free cancellation')."
+  },
+  "FRONT-PORTSCOPE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Dogsledding gives both bases' dates in the device and body (Knik May 1-Aug 31, Girdwood May 15-Aug 30); the box says only 'summer-season'. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ANS-PAIRREASONS": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Mid-May to August reasons: all summer tours run, pools open; May/June drier than July/August given separately. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "DOCS-OPERATORRULE": {
+   "verdict": "na",
+   "where": "page + site",
+   "note": "No boarding document rule; weigh-in is on sibling pages. Checked on 2026-10-09 across the title, deck, box, decision list, body, month table, FAQ and date-checker strings: the case this gate covers does not arise on this page."
+  },
+  "SEE-VS-VISIT": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Landing vs scenic distinction is the site's subject; this page sells landing flights only and says so. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "PHENOM-RELIABLEWINDOW": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Pools window stated as the source's 'typically from mid-May through September'; box says 'usually open'. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "PROSE-GENERATEDTELLS": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Deck and box read aloud: no announcing clauses, no cause chain ending in an instruction, no antithesis; 'On the day, the weather comes first' gives its reason in the same sentence."
+  },
+  "REVIEW-REGRESSION": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Each round's box diffed against all earlier charges: daylight orphan, September rain drawback, 'most of them', 'summer-only', 'later slots' all stayed fixed through round 6."
+  },
+  "ROW-DATEDWINDOW": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Rows give operator months; exact dates with sources in device and body (2026 operator pages print no year; seasons are perennial). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "HERO-SEASONDEFINED": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Deck names what runs in each window (glacier dogsledding May to August; ice-cave tours December to March). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "FRONT-PATTERNNOTGAP": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Front states patterns; no temporary gaps or inventory counts. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "PANEL-CREEP": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Charges answered by removing facts (19 hours of daylight, 'most of them') not by adding edges; box stayed at ~235 words. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "PROSE-FEATUREHEDGE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Ice caves carried with the operator's own hedge (natural formations; no particular cave promised); ice-cave exploration attributed to the GYG listing."
+  },
+  "PROSE-NOABSOLUTECOMFORT": {
+   "verdict": "na",
+   "where": "page + site",
+   "note": "No weather-proofing claim anywhere on the page: the enclosed cabin is not sold as making bad weather irrelevant, and the box says weather can delay or cancel a flight."
+  },
+  "PROSE-EFFECTNOTIMAGE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Weather described by effect: 'can hide the ice field and the peaks', 'can delay or cancel a flight'. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "EXAMPLE-SPECIFIC": {
+   "verdict": "na",
+   "where": "page + site",
+   "note": "No timing-risk example tied to a departure. Checked on 2026-10-09 across the title, deck, box, decision list, body, month table, FAQ and date-checker strings: the case this gate covers does not arise on this page."
+  },
+  "SHOULDER-FREQUENCYCOST": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "September cost stated as felt: cooler, dogsled tours finished, rain about as frequent as August. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "CHECKS-ROWFULL": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Checks row: Visibility · low cloud · wind · icing - the device's forecast rows plus icing; rain shown in the device as precipitation. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "AVAIL-PRACTICAL": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Landing flights bookable year-round per all three operators' own pages (AHT 7 days a week); summer activity tours scoped; winter daylight limit stated."
+  },
+  "SEAS-GROUPALLFACTORS": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Mid-May to August checked on every ranked factor: weather on the day (every month), tours (all run), pools (open), daylight (long), rain (July/August wetter - disclosed in the box), visitors (busy - in the row). Judges paused on August rain in rounds 1-2; disclosed and ranked fifth."
+  },
+  "PANEL-PAUSEFACT": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Recurring factual pauses acted on by restructuring: September rain drawback replaced (August is wetter), daylight figure removed from the summer reason, 'most of them' replaced, 'only in daylight' scoped to AHT on every surface."
+  },
+  "ANS-NOPRODUCT": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Box names no single product; products are in 'Which glacier tour suits your season'. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ANS-NOSNAPSHOT": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "No inventory snapshot in the box. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "PROSE-STANDARDSTAT": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "'Average high', 'average rainfall', 'wet days' used consistently in box, strip, table and device. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "DECK-ANGLECONTRAST": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Deck says the flight runs every month while the activities on the ice change by season - the contrast with a single summer product. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ANS-WIDERANSWER": {
+   "verdict": "na",
+   "where": "page + site",
+   "note": "Not a season-proof attraction inside a wider trip; the box itself answers the months. Checked on 2026-10-09 across the title, deck, box, decision list, body, month table, FAQ and date-checker strings: the case this gate covers does not arise on this page."
+  },
+  "ANS-FACTSFIRST": {
+   "verdict": "na",
+   "where": "page + site",
+   "note": "Applies to season-proof attractions; this page opens on availability and the weather mechanism by design (VIEW-DAYFIRST). Checked on 2026-10-09 across the title, deck, box, decision list, body, month table, FAQ and date-checker strings: the case this gate covers does not arise on this page."
+  },
+  "ADVICE-DAYSHAPE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Time-of-day section: morning leaves the afternoon for the drive back or Palmer; afternoon a slower start and a little more warmth. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "SEAS-PROOFBENEFIT": {
+   "verdict": "na",
+   "where": "page + site",
+   "note": "Not weather-proof. Checked on 2026-10-09 across the title, deck, box, decision list, body, month table, FAQ and date-checker strings: the case this gate covers does not arise on this page."
+  },
+  "ANS-ROWADVICE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Rows recommend periods; no row restates a timetable. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "SRC-RENDERJS": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Operator pages were read with WebFetch (rendered text) on 2026-10-09; nothing recorded as unreadable except the state AVSP page (HTTP 403), which is named in the limits."
+  },
+  "SEAS-ODDSNOTNOISE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Season's effect on the deciding factor kept: body gives the good-flying share by month at Palmer (93-96% April-June, 81% December). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ANS-PEROPERATOR": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Operator figures each in their own sentence (AHT visibility/wind limits; Outbound 8 a.m.-8 p.m.; Alpine Air causes). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "SRC-ALLPAGES": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "AHT read on planning guide, glacier tours, dogsledding, paddleboarding, ice climbing, winter and when-to-go pages; Alpine Air FAQ vs dogsled page conflict (Labor Day vs Aug 30) settled on the tour page, as the page uses."
+  },
+  "OWNER-FACTCHECK": {
+   "verdict": "na",
+   "where": "page + site",
+   "note": "No owner review in this run. Checked on 2026-10-09 across the title, deck, box, decision list, body, month table, FAQ and date-checker strings: the case this gate covers does not arise on this page."
+  },
+  "PROSE-CATEGORYLABEL": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Derived count named as what it counts ('daytime hours ... with a cloud base of at least 3,000 feet and at least 5 miles of visibility'). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "SEASON-SCOPE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Season words scoped: 'summer-season tours' carry dates in the list; winter ice climbing Dec 15-Mar 31; 'in winter' for AHT daylight-only flying."
+  },
+  "DEV-MATERIALORDER": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Forecast stats in deciding order: daylight window, then flying verdict over low cloud/visibility/gusts/rain; the source line says it reads Knik Glacier over daylight hours."
+  },
+  "ANS-READERSEQUENCE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Box order: what happens on the day, which season, alternatives, then time of day and booking/forecast check. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "FRONT-SECONDHANDCOUNT": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "The visitor share (second-hand via KTOO) is in the strip with its year; the box says 'far fewer people visit Alaska' in words. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "VENUE-PARTS": {
+   "verdict": "na",
+   "where": "page + site",
+   "note": "No mixed venue. Checked on 2026-10-09 across the title, deck, box, decision list, body, month table, FAQ and date-checker strings: the case this gate covers does not arise on this page."
+  },
+  "RULE-CHANGEDNOTE": {
+   "verdict": "na",
+   "where": "page + site",
+   "note": "No regulated date changed. Checked on 2026-10-09 across the title, deck, box, decision list, body, month table, FAQ and date-checker strings: the case this gate covers does not arise on this page."
+  },
+  "OFFSEASON-WHOFOR": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Winter section: the season for tours you cannot do in summer (ice caves, winter ice climbing); the FAQ for September says 'if fall color matters to you'."
+  },
+  "DECK-FRAMEONLY": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Deck: one sentence on what runs when, one roadmap sentence; no verdict argued; deck2 hands off to the checker. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "GEO-REFERENCELABEL": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Palmer normals labelled 'at Palmer' on every surface with 'colder on the ice' beside them. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "WINDOW-CLOSESECOND": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Group test run: August is wetter than May by a multiple but rain ranks fifth and the box discloses it; dogsledding and paddleboarding define the window."
+  },
+  "WINDOW-RECOMMENDFIRST": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Fall color: recommendation first ('September brings ... peak fall color'), costs after; no promise of a date. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ADVICE-CHOICECONDITIONAL": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Time-of-day advice is 'your choice' with reasons; winter limited to daylight per AHT. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "LIVECHECK-ORDER": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Live checks: visibility, low cloud, wind, icing; sunset not a check row. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "OFFSEASON-PRODUCTTRADEOFF": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Off-season written for the product: summer activity tours stopped, snow on the glacier, ice caves, short days; statewide visitor proxy in the body."
+  },
+  "HAZARD-MECHANISMLIMITS": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Hazard by mechanism: pilot needs visibility; low cloud, wind, icing delay or cancel; AHT's own limits in the body. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "OWNER-CLAIMSOURCED": {
+   "verdict": "na",
+   "where": "page + site",
+   "note": "No owner rewrite in this run. Checked on 2026-10-09 across the title, deck, box, decision list, body, month table, FAQ and date-checker strings: the case this gate covers does not arise on this page."
+  },
+  "ANS-SOURCEVISIBLE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Pools window rests on a sponsored post: front says 'usually open' and the body names the source and sponsor. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ANS-EXCEPTIONFIRST": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Reduced-service paragraph names the exception (summer activity tours) and the rest as a group (landing flights continue). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "DATA-NEXTDATES": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Operators' seasons are perennial date ranges (no year printed); given exactly in device and body. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "SEAS-STRONGESTWINDOW": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Strongest window (mid-May to August) leads; September edge given its reason and cost. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "PROSE-PLAINATTRIB": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Front states patterns plainly; attributions (Alaska.org sponsored, Travel Alaska, AHT quotes) live in the body. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ANS-GOALOPENER": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Paragraph 3 sentences open on the goal period with its draw (fall color; fewer visitors; snow and ice caves). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "PROSE-SEASONSUBJECT": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "'September brings ... fall color' - concrete object; no season suiting an abstraction. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "PANEL-OWNERRECORD": {
+   "verdict": "na",
+   "where": "page + site",
+   "note": "No owner decisions this run. Checked on 2026-10-09 across the title, deck, box, decision list, body, month table, FAQ and date-checker strings: the case this gate covers does not arise on this page."
+  },
+  "SEAS-PREDICTORLABEL": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Rainfall normal supports 'drier', not 'clearer'; good-flying share named by its definition. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "SEAS-HAZARDDURABLE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Front hazard durable ('low cloud, strong wind or icing can delay or cancel'); details in the body. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ADVICE-SHAPENOTRANGE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Prose gives daylight shapes ('about 5 1/2 hours in mid-December'); device gives exact sunrise/sunset. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "PROSE-COINEDHEDGE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "No coined qualifier rescuing a superlative. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "SEAS-SAMPLESEASON": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Category season checked against all three operators (two Knik, one Girdwood): landing flights year-round at all three; no single-operator sample stated as the category."
+  },
+  "SEAS-SPECIALISTMAIN": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Winter written as a main season for ice caves and winter ice climbing, with its own decision row. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "RULE-GEOSCOPE": {
+   "verdict": "na",
+   "where": "page + site",
+   "note": "No legal rule. Checked on 2026-10-09 across the title, deck, box, decision list, body, month table, FAQ and date-checker strings: the case this gate covers does not arise on this page."
+  },
+  "SWEEP-NATIVESOURCE": {
+   "verdict": "na",
+   "where": "page + site",
+   "note": "English-language destination. Checked on 2026-10-09 across the title, deck, box, decision list, body, month table, FAQ and date-checker strings: the case this gate covers does not arise on this page."
+  },
+  "ANS-MARKETPLACE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "No marketplace observation in the box. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ANS-READERBEST": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "'the best overall time for a first trip' keeps best overall with its reader. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ANS-PHANTOMCOMPARE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "No comparison with an unpublished figure. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "PROSE-PLACEHOURS": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "No hours attached to a landscape. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ADVICE-NUISANCESCALE": {
+   "verdict": "na",
+   "where": "page + site",
+   "note": "No seasonal nuisance (mosquitoes not mentioned). Checked on 2026-10-09 across the title, deck, box, decision list, body, month table, FAQ and date-checker strings: the case this gate covers does not arise on this page."
+  },
+  "ANS-PROXYSUPER": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "No proxy superlative in the box ('far fewer people visit Alaska' is a comparative on the statewide count). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ANS-OPTIONALDETAIL": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Operator limits (0.5 mi, 30 kt) and the Girdwood rainfall gap kept in the body. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ANS-SPECIALISTFRAME": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Specialist months framed by goal (fall color, ice caves) with costs. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "SEAS-ELEVATION": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Ice is described as colder than the valley; fall color scoped to Southcentral Alaska's mountainsides. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "TITLE-INTENT": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Title kept on the URL's query ('Best Time for an Anchorage Glacier Helicopter Tour') plus the facets the demand probe showed (season/month, weather, time of day); recorded in title_intent."
+  },
+  "ANS-PEAKADVANTAGE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Summer sold as advantage first (all tours, pools) then its cost (July/August wetter, busy season row). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ADVICE-ISSUER": {
+   "verdict": "na",
+   "where": "page + site",
+   "note": "No official alert advised. Checked on 2026-10-09 across the title, deck, box, decision list, body, month table, FAQ and date-checker strings: the case this gate covers does not arise on this page."
+  },
+  "PROSE-DEFARTICLE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "No 'many ... the' universal return. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "SEAS-TOPOGRAPHY": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Girdwood vs Palmer difference stated in the body (Girdwood more than five times wetter); Palmer figures scoped. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ANS-PRODUCTSCARCITY": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "No 'mainly X' row; 'most of them to Knik' removed after round 2. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "DATA-OPERATORSPREAD": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Operator figures not generalised on the front. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ANS-ROUTEFIRST": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Two bases (Knik River, Girdwood) introduced in the body and the tour section; box concerns Knik and Girdwood flights alike. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "SCOPE-OBSERVATION": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Airport observations scoped to Palmer airport with distance to the glacier. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ANS-VALUEMONTH": {
+   "verdict": "na",
+   "where": "page + site",
+   "note": "No price changeover; no price series. Checked on 2026-10-09 across the title, deck, box, decision list, body, month table, FAQ and date-checker strings: the case this gate covers does not arise on this page."
+  },
+  "ANS-GREENSEASON": {
+   "verdict": "na",
+   "where": "page + site",
+   "note": "No low-demand rainy season framed. Checked on 2026-10-09 across the title, deck, box, decision list, body, month table, FAQ and date-checker strings: the case this gate covers does not arise on this page."
+  },
+  "SEAS-FAVOURABLE": {
+   "verdict": "na",
+   "where": "page + site",
+   "note": "No per-area best months list. Checked on 2026-10-09 across the title, deck, box, decision list, body, month table, FAQ and date-checker strings: the case this gate covers does not arise on this page."
+  },
+  "ANS-CHECKSOURCE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Checks row names variables the device shows (visibility, low cloud, wind) plus icing named by operators. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "PROSE-NAMEMEMBERS": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Categories named with members: 'low cloud, strong wind or icing'; tours named (dogsledding, paddleboarding, ice climbing, ice caves). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "FRONT-INVENTORY": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Front promises only products of the site's operators (AHT, Outbound, Alpine Air). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ANS-BESTAXIS": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "'best overall time for a first trip' followed by its axis: all summer tours run and pools open. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ANS-ONEMONTH": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Range kept: no single month separates from its neighbours on the ranked factors (June vs late May similar), so no one-month answer. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ANS-CROWDINFER": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Fewer-visitors row rests on a statewide visitor count, labelled 'in Alaska', not an inferred crowd at the glacier. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "SEAS-COREEDGE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Summer core with edges given per tour (May 1/15 starts, Aug 30/31 and Sep 15 ends). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ANS-SEASONGROUP": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "October-November and December-March given separately in the body; rows split ice caves (Dec-Mar) from fewer visitors (Oct-Apr). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "OFFSEASON-HONEST": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Out-of-season activities stated as not running; winter redirected to ice caves and snow. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ANS-SIDEROW": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "No charming side row; aurora is a body sentence, not a row. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "EVID-VERBMATCH": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "'usually drier' (average), 'rain is more frequent' (wet-day count), 'far fewer people' (count). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ANS-HIERARCHY": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "'On the day, the weather comes first' carries its reason in the same sentence. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ANS-GROUPMAINFACTOR": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Groups checked against the top factor (weather on the day applies in every month; no group claims better flying weather). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ANS-INSIGHT": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Counterintuitive fact kept on the page: no time of day is reliably clearer (box) with the airport evidence in the body. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ANS-ALTPROMINENCE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "September gets its own confident sentence with its costs. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "SEAS-SAFETYFIRST": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Weather hazard is in box paragraph 1 and the body section after the seasons. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "SEAS-EDGEWORDING": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Edges described as edges ('dogsled tours have finished' in September; paddleboarding to September 15). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ADVICE-OFFSEASONFRAME": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Off-season says what is not running and why winter is still worth it (ice caves, snow). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "PANEL-REDRAFT": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Panel passed 3/3 in round 6; each failing round carried a different single-phrase charge (daylight orphan, most-of-them count, strip orphan, they antecedent), fixed by removing or replacing the phrase, so no wholesale redraft was needed."
+  },
+  "ADVICE-OPTIONAL": {
+   "verdict": "na",
+   "where": "page + site",
+   "note": "No risky tactic offered. Checked on 2026-10-09 across the title, deck, box, decision list, body, month table, FAQ and date-checker strings: the case this gate covers does not arise on this page."
+  },
+  "ADVICE-RULESCOPE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Daylight-only rule scoped to AHT in winter on every surface. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "PROC-UNIVERSAL": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "No single listing's procedure generalised; landing sites 'chosen on the day' stays on tour pages. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ADVICE-SPLITREASON": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Time-of-day reasons kept apart: temperature (afternoon), day shape (morning), light/wildlife per Outbound. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ANS-DERIVEDVERDICT": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Headline rests on published seasons, NOAA normals and operator statements; the derived good-flying count is body-only. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "SLOT-MIX": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "'Fewer flight times' in winter checked: AHT daylight-only and 5 h 25 min daylight vs Outbound's 8 a.m.-8 p.m. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ANS-SEASONUSE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Each season says what it does for this activity (tours, pools, snow, daylight for flights). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ANS-REASONRANK": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Summer's reasons come from ranked factors 2 and 3 (tours, glacier surface). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "PROSE-OPTERM": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Operators' terms kept: low clouds, visibility, icing, gust spread (body). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "SEAS-WIDERTRIP": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Box hand-off 'Once your Alaska dates are fixed'; wider trip recorded as Alaska. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "PROSE-AMBIGAXIS": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "No ambiguous axis word. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ANS-COMPUTABLEROW": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "No row spent on a computed time; sunrise/sunset left to the device. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "DATA-BANDRANK": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "No excluded month outranks the band on its own priority (April driest but no summer tours). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ANS-FIGUSE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Strip checked against tables: 19 h 26 min / 5 h 25 min (daylight table), 68°F / 22°F (Palmer July/Jan), 1.00 / 2.32 in (June/Aug), 88% (KTOO 2024-25)."
+  },
+  "ANS-DRAWBACK": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Drawbacks are the ones a first-trip reader feels: September cooler and no dogsledding (round-1 rain drawback corrected); winter short days. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "AIO-CONSIST": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Description's figure (about 5 1/2 hours of daylight in mid-December) matches the body. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "DEV-STATE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Forecast mode: verdict from forecast hours; normals mode: month note, labelled 'Typical ... weather at Palmer'. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "DEV-NOSCRIPT": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Static card shows tour seasons and daylight rows with no date (DEV-NOSCRIPTDATE passes). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "DEV-FACTORS": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Temperature and precipitation always shown; extra rows (tours, daylight, low cloud, visibility, gusts) passed materiality; rejections recorded in device_factors.considered_and_excluded."
+  },
+  "DATA-SOURCE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "NOAA NCEI 1991-2020 station normals; no reanalysis. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "HON-MECHANISM": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Operator mechanisms in their own terms (AHT 0.5-mile visibility, 30-kt winds, 15-kt gust spread; may reschedule). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "STR-OVERFLOW": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "render_check.py over HTTP: render checks pass at 390 and 768 px. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ADVICE-MECHANISM": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Schedule early -> more days to move a cancelled flight (with the caveat that days may be full); check forecast before deadline -> change while cancelling is free."
+  },
+  "STR-CYCLE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Season-by-season section describes the glacier surface (pools, snow), tours and fall color, sourced to operators, Alaska.org and Travel Alaska."
+  },
+  "PROSE-VOICE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Read through: paragraph rhythms vary; no rule-of-three tic; no aphorisms. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ANS-DEADLINEROW": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "No deadline row. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "PROSE-COMPARATIVE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Plain comparatives ('drier', 'about as wet as August'); no 'brings the driest month'. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "SITE-OUTSIDEADVICE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Outside sources (Alaska.org sponsored post, anchorageactivities claim on old ledgers) checked; the morning claim from secondary sources was declined against the operators."
+  },
+  "HON-CROWD": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Crowd claims rest on the statewide 2024-25 visitor count, labelled as Alaska; no crowd claim about flights. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "SEAS-CURRENTCLOSURE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Dated 2026 search for closures of AHT, Outbound, Alpine Air, Knik River PUA: none found (current_status_snapshot, recheck before 2027-04-30)."
+  },
+  "SITE-ECHO": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "All sibling pages grepped; morning-clearer claim corrected on 12 surfaces; old best-month FAQ corrected (site_sweep). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "SEAS-DAYWEATHER": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "factor_weights ranks visibility/low cloud/wind first; box paragraph 1 says 'On the day, the weather comes first'. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "SEAS-DURATION": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Daylight ranked with the flight length beside it (1 hour landing, up to 4 hours activity); it binds only in winter, and the summer 19-hour figure was removed from the box as a reason."
+  },
+  "SEAS-LEAD": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Box opens on availability then the top factor (weather on the day). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "SEAS-CANON": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "factor_canonicity_checks recorded for each ranked factor; morning-clearer factor rejected. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "SEAS-SPLIT": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Archetype C: decision list names a period per experience (dogsledding, paddleboarding, fall color, ice caves, fewer visitors). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "SCOPE-WIDERTRIP": {
+   "verdict": "na",
+   "where": "page + site",
+   "note": "Not season-proof. Checked on 2026-10-09 across the title, deck, box, decision list, body, month table, FAQ and date-checker strings: the case this gate covers does not arise on this page."
+  },
+  "DATA-BRITTLECOUNT": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "The derived good-flying count is body evidence with its definition; no brittle count on the front. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "DATA-DERIVEDUNIT": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Derived count carries its thresholds (3,000 ft, 5 miles, 8 a.m.-6 p.m.). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "PROSE-NOTHAPPEN": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Aurora: 'possible on winter nights, but the flights run in daylight' - no denial. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "PROSE-PROMO": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Positive claims informational; no 'no bad season'. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "PROSE-EVENTVERB": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "No landing/falling event verbs for ordinary events. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "PROSE-FLOURISH": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "No personification hiding a condition. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "SEAS-GENERALWINDOW": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Published seasons (operators) and computed daylight stated separately and scoped. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "SCOPE-UNIVERSAL": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "No mechanism implies Knik and Girdwood behave identically; their rainfall difference is stated. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "PROSE-STACK": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "No box conclusion assembled from three places' series. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "SCOPE-ROW": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Each row answers one question. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "MEAS-BASELINE": {
+   "verdict": "na",
+   "where": "page + site",
+   "note": "Baseline not capturable: domain not in any Search Console property on this machine (measurement_baseline records the reason); open item for the owner."
+  },
+  "MEAS-FREEZE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Shipped as one overhaul; no other change planned before the read date. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "SEAS-SHAREDSUPER": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "No superlative joined to two periods ('drier' is comparative). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "SEAS-ABSENTEDGE": {
+   "verdict": "na",
+   "where": "page + site",
+   "note": "No 'before the X' absence claim. Checked on 2026-10-09 across the title, deck, box, decision list, body, month table, FAQ and date-checker strings: the case this gate covers does not arise on this page."
+  },
+  "PROSE-DRAMATISE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "No dramatised nuisance. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "HON-NUISANCEABSOLUTE": {
+   "verdict": "na",
+   "where": "page + site",
+   "note": "No nuisance window. Checked on 2026-10-09 across the title, deck, box, decision list, body, month table, FAQ and date-checker strings: the case this gate covers does not arise on this page."
+  },
+  "HON-MOSTCOUNT": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "'most of them to Knik Glacier' removed from the box in round 3; 'most' not used elsewhere without a count. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "SEAS-PRACTICALWINDOW": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Headline window is the practical overlap of published tour seasons. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ANS-IRRELEVANTCOST": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Costs in rows bear on the decision (cooler, short days, busy season). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "SCOPE-ROWHAZARD": {
+   "verdict": "na",
+   "where": "page + site",
+   "note": "No hazard row for an uncovered activity. Checked on 2026-10-09 across the title, deck, box, decision list, body, month table, FAQ and date-checker strings: the case this gate covers does not arise on this page."
+  },
+  "PANEL-BRIEFFULL": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Brief built from the record and the live box each round, including what could not be sourced (no cancellation rates, proxy limits). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "SEAS-SPLITTERSE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "verdict_split values are period names plus one short time-of-day phrase. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "SRC-DRIFT": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Operator seasons read on publish day (2026-10-09). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "STR-STATPLACE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Statistics placed in the sections they serve; the derived count sits in the weather section. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "STR-PLAINLABEL": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Headings and table columns in traveler words; 'Sources and methodology'. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "STR-SOURCESFOLD": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Sources in a <details> block under a plain H2. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "PROSE-HAZARDNAME": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Hazards named by kind and effect. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "PROSE-NOGATEBEND": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "'On the day' written as the natural scope of the weather sentence; no keyword padding. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "AVAIL-MECHANISM": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Front carries the rule (year-round flights; summer-season tours), not a count. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "HON-CAUSEEVIDENCE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Cancellation causes listed are the operators' own (low clouds, fog, high winds, icing). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ADVICE-SEASONREASON": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "'Schedule early in your stay' holds in every season with the same reason (weather can cancel in any month). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "SWEEP-DATALANG": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "data/ swept: faq.yaml, timeline.yaml, comparison.yaml, offers JSON goodToKnow and FAQ; single-language site. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "PROSE-SWEEPREGISTER": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Sweep replacements vary in wording across surfaces (not one pasted phrase). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ANS-CLARITYFIRST": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Box at 247 words after six rounds: clarity fixes (Palmer gloss, forecast-check reason, September rain) kept over the 230 guide; ANS-LENGTH is a warning."
+  },
+  "INTRO-SAMENESS": {
+   "verdict": "na",
+   "where": "page + site",
+   "note": "Not a season-proof subject. Checked on 2026-10-09 across the title, deck, box, decision list, body, month table, FAQ and date-checker strings: the case this gate covers does not arise on this page."
+  },
+  "ANS-TRADEOFF": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Costs named in the clause with the period ('although it is cooler...', 'but mid-December has only about 5 1/2 hours'). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "DATA-BANDBOUNDARY": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Season ends are the operators' last days (Aug 30/31, Sep 15, Mar 31). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "SEAS-AUTHORITYREASON": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Authority reasons used where published (Travel Alaska fall color; operators' winter daylight rule). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "AVAIL-FEEEXCEPTION": {
+   "verdict": "na",
+   "where": "page + site",
+   "note": "No fee lifted. Checked on 2026-10-09 across the title, deck, box, decision list, body, month table, FAQ and date-checker strings: the case this gate covers does not arise on this page."
+  },
+  "ADVICE-CHANNELSCOPE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Box instructions hold for every booking channel (free cancellation scoped 'if your booking has'). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "TITLE-FACETEVIDENCE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Facets Season, Weather & Time of Day each evidenced in box and body. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "OWNER-SOURCECLASS": {
+   "verdict": "na",
+   "where": "page + site",
+   "note": "No owner review. Checked on 2026-10-09 across the title, deck, box, decision list, body, month table, FAQ and date-checker strings: the case this gate covers does not arise on this page."
+  },
+  "PROSE-CLEFTREACH": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "No cleft repairs. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "DATA-DROPPEDSERIES": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Dropped claims (dispatch rate, morning reliability) grepped out of the page. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "PROSE-REVIEWERSHORTER": {
+   "verdict": "na",
+   "where": "page + site",
+   "note": "No reviewer copy. Checked on 2026-10-09 across the title, deck, box, decision list, body, month table, FAQ and date-checker strings: the case this gate covers does not arise on this page."
+  },
+  "SELF-ECHO": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Deck, box, list, body, FAQ and device checked against each other for dates (dogsledding, paddleboarding, ice climbing, ice caves, daylight) and the September rain wording."
+  },
+  "SWEEP-WORDNOTPHRASE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Grepped load-bearing words: morning, afternoon, cloud, earliest, flyable, daylight, wettest. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "GEO-PRODUCTPLACE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "product_place recorded (Knik Glacier, Knik River PUA); every series labelled by whether it measures it. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "GEO-UNITRANK": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Statewide visitor proxy ranks nothing about flights; Palmer normals labelled. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "GEO-BAREPLACE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Figures carry Palmer / the Knik River / Girdwood; 'the glacier' carries no figure. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "EV-BOTHSIDES": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Comparatives have data on both sides (Palmer normals both months; airport counts AM and PM). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "EV-KEEPHEDGE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "AHT's 'tend to be a bit higher' rendered 'usually a little warmer'; Alaska.org 'typically' kept as 'usually'. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "EV-OPERATORPAGE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Operator advice fetched from operator pages; the secondary 'morning flights more reliable' claim (old ledger: anchorageactivities.com) not used."
+  },
+  "EV-ADVICEPREMISE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Schedule-early advice states its premise (a cancelled flight needs days to move to). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "BUILD-FIXATSOURCE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Fixes made in Hugo source and data/, never in public/. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "PANEL-RECONCILE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "No judge rewrite pasted; charges reconciled into one version per round and all three lanes re-run. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "ANS-WEAKESTREASON": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Summer leads on its strongest reasons (tours, pools); daylight removed as a reason. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "DATA-SAMPLEORDER": {
+   "verdict": "na",
+   "where": "page + site",
+   "note": "No price ordering. Checked on 2026-10-09 across the title, deck, box, decision list, body, month table, FAQ and date-checker strings: the case this gate covers does not arise on this page."
+  },
+  "DATA-RIVALSERIES": {
+   "verdict": "na",
+   "where": "page + site",
+   "note": "No rival series offered. Checked on 2026-10-09 across the title, deck, box, decision list, body, month table, FAQ and date-checker strings: the case this gate covers does not arise on this page."
+  },
+  "TITLE-SEARCHWORD": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Title uses search words (best time, weather, time of day). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "PROSE-CONDITIONADJ": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "No 'unsettled/changeable'; costs named (rain more frequent, cooler). Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "EDIT-COMPRESSSCOPE": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Trims cut duplicated content, not qualifiers. Read on 2026-10-09 across the box, decision list, body, FAQ and date-checker strings."
+  },
+  "REVIEW-VERBATIM": {
+   "verdict": "na",
+   "where": "page + site",
+   "note": "No reviewer copy adopted. Checked on 2026-10-09 across the title, deck, box, decision list, body, month table, FAQ and date-checker strings: the case this gate covers does not arise on this page."
+  },
+  "DEV-THRESHOLDCOPY": {
+   "verdict": "pass",
+   "where": "page + site",
+   "note": "Device threshold labels match the prose framing (rough guide; pilot decides); month notes updated with the box (December daylight, AHT scope)."
+  }
+ }
+}

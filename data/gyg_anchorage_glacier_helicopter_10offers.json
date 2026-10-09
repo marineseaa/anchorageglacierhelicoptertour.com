@@ -19,9 +19,9 @@
     "pricePrefix": "From",
     "priceSuffix": "per person",
     "priceCategory": "per person",
-    "rating": 4.988205901790936,
+    "rating": 4.988271724893104,
     "formattedRating": "5.0",
-    "reviewCount": 89,
+    "reviewCount": 90,
     "ratingDistribution": [],
     "reviewerCategories": [],
     "reviewTags": [],
@@ -52,7 +52,7 @@
     "goodToKnow": [
       "Departure is from Alaska Glacier Lodge on East Knik River Road, roughly an hour's drive north of Anchorage — not from Anchorage itself.",
       "Transfers from Anchorage can be purchased separately; call the operator on 907-272-7777 after booking to arrange one.",
-      "Flights are weather-dependent. Low cloud, wind or icing will delay or cancel a departure, and morning slots historically fly more reliably than afternoon ones.",
+      "Flights are weather-dependent. Low cloud, wind or icing will delay or cancel a departure; the operator says morning or afternoon is your preference, and recommends booking early in your trip.",
       "Free cancellation up to 24 hours before departure.",
       "Pets, smoking and drones are not permitted, and open-toed shoes are refused at check-in."
     ],
@@ -261,7 +261,7 @@
       },
       {
         "q": "What happens if the weather is bad?",
-        "a": "The flight does not go. Helicopters need cloud ceiling and visibility, and Alaskan cloud builds through the day, so this is a real risk rather than a formality. Book a morning slot and, if you can, book it early in your trip so there is room to be rescheduled."
+        "a": "The flight does not go. Helicopters need good visibility, so this is a real risk rather than a formality. The operator first tries to move you later the same day or to another date, and refunds in full if it cancels for weather. Book it early in your trip so there is room to be rescheduled."
       },
       {
         "q": "Is it cold on the glacier in summer?",

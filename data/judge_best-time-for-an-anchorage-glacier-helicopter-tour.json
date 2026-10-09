@@ -1,0 +1,43 @@
+{
+  "slug": "best-time-for-an-anchorage-glacier-helicopter-tour",
+  "checked": "2026-10-09",
+  "answer_sha1": "58178610121ff136b2595bb173d4a392a9d18464",
+  "panel": [
+    {
+      "judge": 1,
+      "verdict": "PASS",
+      "charges": [],
+      "note": "Round 6: all 25 pass; paused on two long sentences near the compression line and the 88% strip row as a statewide stand-in."
+    },
+    {
+      "judge": 2,
+      "verdict": "PASS",
+      "charges": [],
+      "note": "Round 6: all pass; closest to GROUP-EQUALITY on August rain, disclosed in the box."
+    },
+    {
+      "judge": 3,
+      "verdict": "PASS",
+      "charges": [],
+      "note": "Round 6: all pass; paused on no hour reliably clearer resting partly on the valley-floor airport count."
+    }
+  ],
+  "outcome": "PASS",
+  "rewrites": 5,
+  "history": [
+    "Round 1: FAIL 2/3 - ORPHAN-FACT x2 ('mid-June has more than 19 hours of daylight' as a summer reason when daylight binds only in winter); OVERCLAIM + DRAWBACK-RELEVANCE on September 'rain is frequent'/'but wetter' when August, inside the recommended window, is wetter; ADVICE-MECHANISM (forecast check with no benefit). Judge 1 PASS. Fixed: daylight dropped from the summer reasons, winter daylight given its consequence (fewer flight times), September cost changed to cooler, forecast check given its benefit.",
+    "Round 2: FAIL 3/3 - GENERAL-AS-UNIVERSAL x3 on 'most of them to Knik Glacier' (no count). Fixed: 'including those to Knik Glacier'; pauses acted on: 'summer-only' scoped, 'later slots' clarified, pools hedged 'usually', 'flights run only in daylight' scoped to Alaska Helicopter Tours on every surface.",
+    "Round 3: FAIL 2/3 - ORPHAN-FACT x2 on the figure strip's 88% visitor share and the October-April visitor line with no consequence. Judge 2 PASS. Fixed: strip rows given actions (book summer flights ahead; pack rain gear), box line 'Alaska is quieter'.",
+    "Round 4: 1 PASS, 2 FAIL on different charges (ADVICE-MECHANISM on the forecast check; PLAIN on unexplained Palmer + DRAWBACK-RELEVANCE on September's rain). No charge repeated; all were one-phrase fixes and were made: forecast check names low cloud hiding the ice field, Palmer glossed, September names rain as frequent as August.",
+    "Round 5: FAIL 2/3 - PLAIN x2 on 'if they still have space' (no antecedent). Judge 2 PASS. Fixed: 'if the operator still has seats'.",
+    "Round 6: PASS 3/3. Recurring pauses recorded: August rain inside the window (disclosed, rain ranked fifth), 'no hour is reliably clearer' resting partly on the derived airport count (operators say the same), Alpine Air's holiday closures under 'year-round' (in the device)."
+  ],
+  "panel_flagged_uncharged": [
+    "re:most of them to Knik",
+    "re:summer-only",
+    "re:more than 19 hours of daylight",
+    "September, but wetter",
+    "re:rain is frequent and the dogsled",
+    "re:later slots may already be full"
+  ]
+}
