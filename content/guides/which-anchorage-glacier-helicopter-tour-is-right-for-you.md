@@ -90,7 +90,7 @@ Neither is better. They are different purchases, and people who book an activity
 
 **Group size.** The Girdwood dogsled run needs four people to launch, and parties of two or three may be moved to another departure. The 90-minute flight has a two-passenger minimum and solo travellers must call. Neither is a problem if you know in advance.
 
-**The clock.** Cloud builds through the day. Book the earliest slot available, and book it early in your trip so a weather cancellation can be rescheduled rather than lost. Everything here carries free cancellation up to 24 hours out.
+**The clock.** No time of day is reliably clearer, so pick the slot that suits your day, and book it early in your trip so a weather cancellation can be rescheduled rather than lost. Everything here carries free cancellation up to 24 hours out.
 
 Once you've picked a tour, our [full booking checklist](/guides/how-to-book-a-helicopter-tour-in-alaska/) walks through everything else worth checking before you pay.
 
@@ -121,7 +121,7 @@ Plenty of people do, and the sensible pairing is a landing tour and an activity 
 <!-- GK-AUDIT
 - Knik River valley ~1 hour north of Anchorage; Girdwood 40 miles / ~45 min south — VERIFIED (as of 2026-09-03): alaskatravelgram.com; girdwood.com; en.wikipedia.org/wiki/Seward_Highway.
 - Punchbowl Glacier ~3,200 ft — VERIFIED (as of 2026-09-03): alaska.org Alpine Air Girdwood dogsledding page.
-- Cloud building through the day in southcentral Alaska and morning flights being more reliable — VERIFIED qualitatively (as of 2026-09-03): alaskahelicoptertours.com planning guide; anchorageactivities.com flightseeing guide. Stated without a figure.
+- Time of day: no hour is reliably clearer. Alaska Helicopter Tours' planning guide ("It's really your preference that matters most here"; afternoons "tend to be a bit higher" in temperature) and Outbound's FAQ, read 2026-10-09; Palmer airport hourly reports 2016-2025 show afternoon hours as clear as morning ones in every month. The earlier "cloud builds through the day / morning flights more reliable" claim was removed sitewide on 2026-10-09.
 - "most glacier sled products give 15-20 minutes" is an industry generalisation about product shape, not a cited statistic; the 60-minute and 85-minute figures come from the listings themselves.
 - All prices, ratings, review counts, durations, ice times, weight limits, group minimums and inclusions — data/gyg_anchorage_glacier_helicopter_10offers.json only.
 -->

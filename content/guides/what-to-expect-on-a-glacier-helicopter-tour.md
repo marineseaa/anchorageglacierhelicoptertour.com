@@ -53,7 +53,7 @@ You will be given a headset. It carries the pilot's commentary and lets you talk
 
 The pilot decides, and the decision is about cloud ceiling, visibility, wind and icing rather than whether it looks nice. Rain under a high overcast is often perfectly flyable; a low ceiling on a bright day is not.
 
-If the flight cannot go, you are rescheduled or refunded. Every tour on this site carries free cancellation up to 24 hours before departure, and operators would rather move you than fly. Cloud builds through the day in southcentral Alaska, so a morning slot is your best chance — see the [best-time guide](/guides/best-time-for-an-anchorage-glacier-helicopter-tour/).
+If the flight cannot go, you are rescheduled or refunded. Every tour on this site carries free cancellation up to 24 hours before departure, and operators would rather move you than fly. No time of day is reliably clearer, so the best protection is a flight early in your trip — see the [best-time guide](/guides/best-time-for-an-anchorage-glacier-helicopter-tour/).
 
 ## The flight out
 
@@ -102,7 +102,7 @@ A drone, no — three of these tours refuse them outright. Backpacks are refused
 <!-- GK-AUDIT
 - Check-in windows (30 min at Alaska Glacier Lodge, 15 min at Alpine Air), the published weight limits and the $350 second-aircraft charge, ice times, provided equipment, prohibited items, free cancellation and every price — data/gyg_anchorage_glacier_helicopter_10offers.json only.
 - Weather cancellation for ceiling, visibility, wind and icing, and rescheduling or refunding rather than flying — VERIFIED (as of 2026-09-03): alaskahelicoptertours.com FAQ and planning guide.
-- Cloud building through the day in southcentral Alaska; morning flights more reliable — VERIFIED (as of 2026-09-03): anchorageactivities.com flightseeing guide; alaskahelicoptertours.com planning guide.
+- Time of day: no hour is reliably clearer. Alaska Helicopter Tours' planning guide ("It's really your preference that matters most here"; afternoons "tend to be a bit higher" in temperature) and Outbound's FAQ, read 2026-10-09; Palmer airport hourly reports 2016-2025 show afternoon hours as clear as morning ones in every month. The earlier "cloud builds through the day / morning flights more reliable" claim was removed sitewide on 2026-10-09.
 - Commercial flightseeing operating under FAA rules with certified pilots — general regulatory fact, stated without a figure or a safety-record claim. Deliberately no accident statistics are quoted.
 - Weight-and-balance planning as the reason for the weigh-in, tail-rotor approach discipline, and glaciers generating downslope drainage wind — standard aviation and glaciology practice, stated qualitatively.
 - Wildlife species named (moose, black bear, Dall sheep, mountain goats) — from the operators' own listings.

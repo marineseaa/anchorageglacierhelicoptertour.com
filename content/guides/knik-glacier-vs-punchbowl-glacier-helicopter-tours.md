@@ -64,7 +64,7 @@ So: Knik is where you go to look at a glacier. Punchbowl is where you go to do s
 
 The operators flying Knik claim a better dispatch rate than glacier flights working out of Girdwood, Seward, Juneau, Haines or Skagway. That is a marketing claim on a booking listing rather than a published statistic, and we treat it as one — but the geography under it is real. Turnagain Arm draws coastal cloud up from Cook Inlet, and Girdwood sits on it. The Knik River valley is further inland, behind a ridge.
 
-In practice this only decides the booking if your trip has a single flyable morning in it. If it does, we would go north. If you have two or three chances, book the tour you actually want and let the weather sort itself out — every tour here reschedules or refunds rather than flying into conditions the pilot does not like. The [best-time guide](/guides/best-time-for-an-anchorage-glacier-helicopter-tour/) covers the rest of the seasonal picture.
+In practice this only decides the booking if your trip has a single flyable day in it. If it does, we would go north. If you have two or three chances, book the tour you actually want and let the weather sort itself out — every tour here reschedules or refunds rather than flying into conditions the pilot does not like. The [best-time guide](/guides/best-time-for-an-anchorage-glacier-helicopter-tour/) covers the rest of the seasonal picture.
 
 ## What each one costs
 

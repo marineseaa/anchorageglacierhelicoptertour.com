@@ -184,7 +184,7 @@ For most couples staying in Anchorage, we'd narrow it to three real choices on t
 
 ### Best overall: the flagship Knik Glacier landing
 
-$522pp, one hour, thirty minutes flying and thirty minutes on the ice, rated 5.0 from 89 reviews — the most-reviewed and best-rated tour on this site. Book it via {{< gyg-link tour="147264" >}}Anchorage: Knik Glacier Helicopter Tour with Landing{{< /gyg-link >}}. Choose this if you want the classic Alaska helicopter experience without turning the day into an expedition.
+$522pp, one hour, thirty minutes flying and thirty minutes on the ice, rated 5.0 from 90 reviews — the most-reviewed and best-rated tour on this site. Book it via {{< gyg-link tour="147264" >}}Anchorage: Knik Glacier Helicopter Tour with Landing{{< /gyg-link >}}. Choose this if you want the classic Alaska helicopter experience without turning the day into an expedition.
 
 ### Best value: the Palmer landing
 
@@ -210,7 +210,7 @@ It can be an exceptional location for one — but a glacier proposal needs more 
 
 **Ask about a private or small-group arrangement.** This removes the biggest uncertainty: strangers sharing the moment. None of the nine tours here lists this as a standard option, so it takes a direct call, not a normal booking.
 
-**Have a weather backup.** Every flight near Anchorage is weather-dependent, and cloud builds through the day in southcentral Alaska more often than it clears. Think in terms of "propose during our Alaska helicopter flight," not "propose at this exact spot at this exact time."
+**Have a weather backup.** Every flight near Anchorage is weather-dependent, and low cloud or wind can delay a flight at any hour. Think in terms of "propose during our Alaska helicopter flight," not "propose at this exact spot at this exact time."
 
 **Secure the ring properly before you fly.** A glacier, with gloves, wind and uneven ice, is a bad place to discover how easily a ring slips out of a pocket.
 
@@ -254,7 +254,7 @@ Earlier if: your dates are fixed, you're travelling in peak summer, you want to 
 
 ## Which Time of Day Is Best for Two?
 
-There's no universally perfect departure time — weather matters more than the clock. Morning slots fly more reliably in southcentral Alaska, since cloud tends to build through the day, and an early departure leaves room to be rebooked the same day if conditions close in. Afternoon can still work well if you're combining the flight with another activity or your morning is already booked.
+There's no universally perfect departure time — weather matters more than the clock. No hour is reliably clearer: Alaska Helicopter Tours says morning or afternoon is your preference, and afternoons tend to be a little warmer. A morning departure leaves the rest of the day free; an afternoon one works well if you're combining the flight with another activity.
 
 ---
 
@@ -344,7 +344,7 @@ Book **shared** if you're primarily sightseeing — it's the better-value choice
 
 ### What is the best helicopter tour for two near Anchorage?
 
-For most first-time visitors, the [flagship Knik Glacier landing tour](/tours/anchorage-knik-glacier-helicopter-tour-with-landing/) at $522pp — rated 5.0 from 89 reviews, the most-reviewed tour on this site.
+For most first-time visitors, the [flagship Knik Glacier landing tour](/tours/anchorage-knik-glacier-helicopter-tour-with-landing/) at $522pp — rated 5.0 from 90 reviews, the most-reviewed tour on this site.
 
 ---
 

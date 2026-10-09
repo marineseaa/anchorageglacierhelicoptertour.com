@@ -254,7 +254,7 @@ Declare weights honestly when you book — this is a flight-safety number, not a
 
 ## What Happens If the Weather Is Bad?
 
-Weather is the biggest uncertainty in booking a helicopter tour in Alaska. Low cloud, poor visibility, wind or icing can delay, reroute or cancel a flight, and cloud builds through the day in southcentral Alaska more often than it clears — so book the earliest slot you can, and book it early in your trip so there's room to reschedule if the first attempt is grounded.
+Weather is the biggest uncertainty in booking a helicopter tour in Alaska. Low cloud, poor visibility, wind or icing can delay, reroute or cancel a flight, and no time of day is reliably clearer, so book it early in your trip so there's room to reschedule if the first attempt is grounded.
 
 Cancellation terms vary by operator: the flagship landing tour, the Grand tour and most others on this site refund in full up to **24 hours** before departure; the Palmer flight is more generous, at **7 days**. Check the specific listing before assuming either window.
 
@@ -394,6 +394,6 @@ They're different perspectives. A helicopter shows the glacier system and surrou
 <!-- GK-AUDIT
 - Departure points, drive times, flight times, ice times, prices, ratings, review counts, weight limits, the $350 second-aircraft charge and cancellation windows (24 hours standard; 7 days on the Palmer/Outbound Heli tour specifically) — data/gyg_anchorage_glacier_helicopter_10offers.json only, cross-checked against the site's own existing guides (how-much-does-an-anchorage-glacier-helicopter-tour-cost.md, which-anchorage-glacier-helicopter-tour-is-right-for-you.md).
 - Knik Glacier ~25 miles long, 5+ miles wide; Punchbowl Glacier ~3,200 ft — as stated in the site's existing content/_index.md and knik-glacier-vs-punchbowl-glacier-helicopter-tours.md.
-- Cloud building through the day in southcentral Alaska and morning flights being more reliable — stated qualitatively, matching the site's existing best-time and what-to-expect guides.
+- Time of day: no hour is reliably clearer. Alaska Helicopter Tours' planning guide ("It's really your preference that matters most here"; afternoons "tend to be a bit higher" in temperature) and Outbound's FAQ, read 2026-10-09; Palmer airport hourly reports 2016-2025 show afternoon hours as clear as morning ones in every month. The earlier "cloud builds through the day / morning flights more reliable" claim was removed sitewide on 2026-10-09.
 - General claims about helicopter mechanics (lift vs. acceleration, weight-and-balance planning), motion sickness and photography tips are standard aviation/travel guidance, stated without a figure or citation.
 -->

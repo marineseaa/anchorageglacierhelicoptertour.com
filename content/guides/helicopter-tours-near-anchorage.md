@@ -361,7 +361,7 @@ Weather can delay or cancel flights in any season. The [best-time guide](/guides
 
 ## Morning or afternoon?
 
-No time of day guarantees a better flight, so think about logistics. A morning departure leaves more of the day free if the schedule shifts, and cloud often builds later in the day. An afternoon departure may fit better if you're driving to Girdwood and combining several stops along Turnagain Arm.
+No time of day guarantees a better flight, so think about logistics. A morning departure leaves more of the day free if the schedule shifts; Alaska Helicopter Tours says the choice is your preference, and afternoons tend to be a little warmer. An afternoon departure may fit better if you're driving to Girdwood and combining several stops along Turnagain Arm.
 
 ## Don't book your helicopter tour on your last day
 

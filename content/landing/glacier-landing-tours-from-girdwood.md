@@ -49,7 +49,7 @@ It also does not give you the cheapest option. The lowest Girdwood price is $620
 
 Turnagain Arm pulls in coastal cloud. The operators flying from the Knik River valley claim a better dispatch rate than glacier flights working out of Girdwood, Seward, Juneau, Haines or Skagway — a marketing claim rather than a published statistic, but the geography behind it is real, since the inland valley sits further back from the water.
 
-That does not make Girdwood a bad bet; it makes a morning slot a better one. Cloud builds through the day here as everywhere in southcentral Alaska, and every tour carries free cancellation up to 24 hours before departure. If your trip contains exactly one flyable window and you cannot afford to be rescheduled, the [northern flights](/knik-glacier-helicopter-tours/) are the safer choice. The [best-time guide](/guides/best-time-for-an-anchorage-glacier-helicopter-tour/) covers the seasonal picture.
+That does not make Girdwood a bad bet. Girdwood is a much wetter place, with more than five times Palmer's yearly precipitation in NOAA's normals, so schedule the flight early in your trip, and every tour carries free cancellation up to 24 hours before departure. If your trip contains exactly one flyable window and you cannot afford to be rescheduled, the [northern flights](/knik-glacier-helicopter-tours/) are the safer choice. The [best-time guide](/guides/best-time-for-an-anchorage-glacier-helicopter-tour/) covers the seasonal picture.
 
 <!-- GK-AUDIT
 - Girdwood 40 miles / ~45 min south of Anchorage on the Seward Highway (127 miles Anchorage-Seward, fully paved) — VERIFIED (as of 2026-09-03): girdwood.com "Getting To Girdwood & Around"; en.wikipedia.org/wiki/Seward_Highway.
