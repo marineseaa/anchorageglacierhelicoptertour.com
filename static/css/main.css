@@ -1734,6 +1734,8 @@ address { font-style: normal; }
 .prose li { margin-bottom: var(--space-2); line-height: 1.65; }
 .prose strong { color: var(--charcoal); }
 .prose a { color: var(--canal-teal); text-decoration: underline; text-underline-offset: 2px; }
+/* Affiliate tour links (gyg-link shortcode) read as the CTA they are: bolder, thicker underline. */
+.prose a[data-gyg-href] { font-weight: 600; text-decoration-thickness: 2px; }
 
 /* ── 19. Fade-Up Animation ────────────────────────────────── */
 /* Scroll-reveal. The hidden state is gated on `.js`, set by an inline script in

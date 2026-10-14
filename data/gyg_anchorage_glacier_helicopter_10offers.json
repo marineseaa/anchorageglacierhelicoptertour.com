@@ -246,7 +246,7 @@
     ],
     "fullDescription": [
       "This is the shortest, cheapest and best-reviewed way to stand on Knik Glacier. You check in at Alaska Glacier Lodge on East Knik River Road — about an hour's drive north of Anchorage — and fly out in a light helicopter with a pilot who narrates the whole way.",
-      "The flight runs roughly thirty minutes each way over the Knik River valley and into the Chugach, low enough to pick out crevasse fields, meltwater rivers and waterfalls running off the ice. Pilots watch for moose, black bears, Dall sheep and mountain goats on the valley walls, and will circle for a better look when something is worth seeing.",
+      "The flying adds up to about thirty minutes, roughly fifteen each way, over the Knik River valley and into the Chugach, low enough to pick out crevasse fields, meltwater rivers and waterfalls running off the ice. Pilots watch for moose, black bears, Dall sheep and mountain goats on the valley walls, and will circle for a better look when something is worth seeing.",
       "Then the skids touch down on the glacier itself and you get thirty minutes on ice that fell as snow around a thousand years ago. It is quiet in a way that is difficult to describe until the rotor winds off. Bring sunglasses — the glare off clean ice on a bright day is severe.",
       "The lodge does not include transport from Anchorage in the price, but transfers can be bought separately: call the operator on 907-272-7777 after you have booked to arrange one. Most guests drive themselves, and the Old Glenn Highway approach is worth the trip on its own."
     ],
@@ -282,7 +282,7 @@
       "helicopter glacier landing alaska"
     ],
     "imagesPrunedNote": "Unreferenced gallery photos were removed by the post-build image prune. Re-run _gyg_tour_gallery_portable.py + _selfhost_images.py before giving this tour a page. Pre-prune JSON: ../_scrape/gyg_anchorage_glacier_helicopter_10offers_full_with_images.json",
-    "ratingsCheckedAt": "2026-10-03"
+    "ratingsCheckedAt": "2026-10-14"
   },
   {
     "id": 147273,
@@ -580,7 +580,7 @@
       "summer dog sledding alaska"
     ],
     "imagesPrunedNote": "Unreferenced gallery photos were removed by the post-build image prune. Re-run _gyg_tour_gallery_portable.py + _selfhost_images.py before giving this tour a page. Pre-prune JSON: ../_scrape/gyg_anchorage_glacier_helicopter_10offers_full_with_images.json",
-    "ratingsCheckedAt": "2026-10-03"
+    "ratingsCheckedAt": "2026-10-14"
   },
   {
     "id": 492083,
@@ -859,7 +859,7 @@
       "palmer helicopter tour",
       "outbound heli adventures knik glacier"
     ],
-    "ratingsCheckedAt": "2026-10-03"
+    "ratingsCheckedAt": "2026-10-14"
   },
   {
     "id": 412333,
@@ -881,9 +881,9 @@
     "pricePrefix": "From",
     "priceSuffix": "per person",
     "priceCategory": "per person",
-    "rating": 4.984403632547104,
+    "rating": 4.984938777798224,
     "formattedRating": "5.0",
-    "reviewCount": 25,
+    "reviewCount": 26,
     "ratingDistribution": [],
     "reviewerCategories": [],
     "reviewTags": [],
@@ -1159,7 +1159,7 @@
       "knik glacier peak landing"
     ],
     "imagesPrunedNote": "Unreferenced gallery photos were removed by the post-build image prune. Re-run _gyg_tour_gallery_portable.py + _selfhost_images.py before giving this tour a page. Pre-prune JSON: ../_scrape/gyg_anchorage_glacier_helicopter_10offers_full_with_images.json",
-    "ratingsCheckedAt": "2026-10-03"
+    "ratingsCheckedAt": "2026-10-14"
   },
   {
     "id": 412348,
@@ -1426,7 +1426,7 @@
       "glacier meltwater pool paddleboard"
     ],
     "imagesPrunedNote": "Unreferenced gallery photos were removed by the post-build image prune. Re-run _gyg_tour_gallery_portable.py + _selfhost_images.py before giving this tour a page. Pre-prune JSON: ../_scrape/gyg_anchorage_glacier_helicopter_10offers_full_with_images.json",
-    "ratingsCheckedAt": "2026-10-03"
+    "ratingsCheckedAt": "2026-10-14"
   },
   {
     "id": 1079145,
@@ -1676,7 +1676,7 @@
       "ididaride glacier dog sled tour"
     ],
     "imagesPrunedNote": "Unreferenced gallery photos were removed by the post-build image prune. Re-run _gyg_tour_gallery_portable.py + _selfhost_images.py before giving this tour a page. Pre-prune JSON: ../_scrape/gyg_anchorage_glacier_helicopter_10offers_full_with_images.json",
-    "ratingsCheckedAt": "2026-10-03"
+    "ratingsCheckedAt": "2026-10-14"
   },
   {
     "id": 1078337,
@@ -1893,7 +1893,7 @@
       "alpine air alaska flight"
     ],
     "imagesPrunedNote": "Unreferenced gallery photos were removed by the post-build image prune. Re-run _gyg_tour_gallery_portable.py + _selfhost_images.py before giving this tour a page. Pre-prune JSON: ../_scrape/gyg_anchorage_glacier_helicopter_10offers_full_with_images.json",
-    "ratingsCheckedAt": "2026-10-03"
+    "ratingsCheckedAt": "2026-10-14"
   },
   {
     "id": 412355,
@@ -2192,17 +2192,17 @@
       "longitude": -149.119017
     },
     "provider": "Alpine Air Alaska",
-    "startingPrice": 620,
-    "basePrice": 620,
-    "formattedStartingPrice": "$620",
-    "formattedBasePrice": "$620",
+    "startingPrice": 629,
+    "basePrice": 629,
+    "formattedStartingPrice": "$629",
+    "formattedBasePrice": "$629",
     "currency": "USD",
     "pricePrefix": "From",
     "priceSuffix": "per person",
     "priceCategory": "per person",
-    "rating": 4.928571428571429,
-    "formattedRating": "4.9",
-    "reviewCount": 14,
+    "rating": null,
+    "formattedRating": null,
+    "reviewCount": null,
     "ratingDistribution": [],
     "reviewerCategories": [],
     "reviewTags": [],
@@ -2295,6 +2295,6 @@
       "girdwood glacier landing"
     ],
     "imagesPrunedNote": null,
-    "ratingsCheckedAt": "2026-10-03"
+    "ratingsCheckedAt": "2026-10-14"
   }
 ]

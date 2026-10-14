@@ -138,6 +138,9 @@ footerSEOTitle = "Explore Anchorage Glacier Flights"
   label = "closest glacier to anchorage"
   href = "/guides/knik-glacier-vs-punchbowl-glacier-helicopter-tours/"
 [[params.footerSEOLinks]]
+  label = "is the knik glacier helicopter tour worth it"
+  href = "/guides/is-the-knik-glacier-helicopter-tour-worth-it/"
+[[params.footerSEOLinks]]
   label = "are there glaciers in anchorage"
   href = "/#faq"
 [[params.footerSEOLinks]]
