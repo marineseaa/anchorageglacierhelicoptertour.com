@@ -47,7 +47,7 @@ Transfers from Anchorage are not included in any price. Alaska Helicopter Tours 
 
 ## The six tours, and how they differ
 
-**[Knik Glacier Helicopter Tour with Landing](/tours/anchorage-knik-glacier-helicopter-tour-with-landing/)** — the flagship, and the best-reviewed tour on this site at 4.99 from 89 guests. One hour: thirty minutes flying, thirty on the ice, from $522. Book it through {{< gyg-link tour="147264" >}}Anchorage: Knik Glacier Helicopter Tour with Landing{{< /gyg-link >}}.
+**[Knik Glacier Helicopter Tour with Landing](/tours/anchorage-knik-glacier-helicopter-tour-with-landing/)** — the flagship, and the best-reviewed tour on this site at 4.99 from 90 guests. One hour: thirty minutes flying, thirty on the ice, from $522. Our [guide to this tour](/guides/is-the-knik-glacier-helicopter-tour-worth-it/) covers the lodge, the weight rules and the longer Knik alternatives. Book it through {{< gyg-link tour="147264" >}}Anchorage: Knik Glacier Helicopter Tour with Landing{{< /gyg-link >}}.
 
 **[From Palmer: Knik Glacier Helicopter Tour](/tours/from-palmer-knik-glacier-helicopter-tour/)** — the cheapest flight on the site at $520, and the one that gives you the *most* time on the ice: forty-five minutes, with microspikes handed out. Groups capped at seven. See {{< gyg-link tour="492083" >}}From Palmer: Knik Glacier Helicopter Tour{{< /gyg-link >}}.
 

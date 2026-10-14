@@ -38,7 +38,7 @@ These are the lowest prices we found for each kind of helicopter tour near Ancho
 In practice:
 
 - **Under $500** buys you the 30-minute scenic flight, or the cheapest glacier landing if you book it directly with the operator.
-- **Around $520 to $620** is the realistic entry point for a **glacier landing** near Anchorage.
+- **Around $520 to $629** is the realistic entry point for a **glacier landing** near Anchorage.
 - **$750 and up** usually means more flight time, more landings or an activity.
 
 Our [cost guide](/guides/how-much-does-an-anchorage-glacier-helicopter-tour-cost/) explains what every price band on this site buys, and the surcharges people forget.
@@ -57,7 +57,7 @@ That's a perfectly sensible booking if your main goal is *"I've never been in a 
 
 Don't stop at the cheapest scenic flight. Spend a little more for a **basic glacier landing**.
 
-The cheapest on GetYourGuide is the {{< gyg-link tour="492083" >}}From Palmer: Knik Glacier Helicopter Tour{{< /gyg-link >}} at $520: a 40 to 45-minute flight and about 45 minutes on Knik Glacier, rated 4.9 from 34 guests. The {{< gyg-link tour="147264" >}}Anchorage: Knik Glacier Helicopter Tour with Landing{{< /gyg-link >}} is $522 for a one-hour tour with thirty minutes on the ice, and it has the best review record on this site, 5.0 from 89 guests.
+The cheapest on GetYourGuide is the {{< gyg-link tour="492083" >}}From Palmer: Knik Glacier Helicopter Tour{{< /gyg-link >}} at $520: a 40 to 45-minute flight and about 45 minutes on Knik Glacier, rated 4.9 from 34 guests. The {{< gyg-link tour="147264" >}}Anchorage: Knik Glacier Helicopter Tour with Landing{{< /gyg-link >}} is $522 for a one-hour tour with thirty minutes on the ice, and it has the best review record on this site, 5.0 from 90 guests.
 
 For most first-time visitors, this is the price bracket we'd target. It isn't the cheapest helicopter ticket, but it may be the **cheapest tour that gives you the whole experience you came for**.
 
@@ -85,7 +85,7 @@ The lowest published price is Alaska Helicopter Tours' own Knik Glacier Landing,
 - departures from Alaska Glacier Lodge near Palmer;
 - year-round operation.
 
-On GetYourGuide, the cheapest landings are the {{< gyg-link tour="492083" >}}Palmer flight{{< /gyg-link >}} at $520 and the {{< gyg-link tour="147264" >}}flagship Knik landing{{< /gyg-link >}} at $522, both with free cancellation up to 24 hours before (7 days on the Palmer flight). South of Anchorage, the cheapest landing is Alpine Air's one-hour {{< gyg-link tour="1107685" >}}Girdwood: Chugach Mountains Helicopter Flight with Landing{{< /gyg-link >}} at $620, which gives 15 to 20 minutes on the ice.
+On GetYourGuide, the cheapest landings are the {{< gyg-link tour="492083" >}}Palmer flight{{< /gyg-link >}} at $520 and the {{< gyg-link tour="147264" >}}flagship Knik landing{{< /gyg-link >}} at $522, both with free cancellation up to 24 hours before (7 days on the Palmer flight). South of Anchorage, the cheapest landing is Alpine Air's one-hour {{< gyg-link tour="1107685" >}}Girdwood: Chugach Mountains Helicopter Flight with Landing{{< /gyg-link >}} at $629, which gives 15 to 20 minutes on the ice.
 
 All of these cost far less than the longer multi-landing flights, which start at $749 direct and $762 on GetYourGuide. For a first-time visitor keeping costs down, we'd pick a **basic one-landing tour**.
 
@@ -397,7 +397,7 @@ Near Anchorage, the cheapest helicopter ride is Alpine Air's 30-minute scenic fl
 
 ### How much is a cheap helicopter ride near Anchorage?
 
-A scenic flight with no landing starts at about $459. For a glacier landing, expect about $480 to $520 per person, or $620 from Girdwood.
+A scenic flight with no landing starts at about $459. For a glacier landing, expect about $480 to $520 per person, or $629 from Girdwood.
 
 ### What is the cheapest way to land on an Alaska glacier by helicopter?
 

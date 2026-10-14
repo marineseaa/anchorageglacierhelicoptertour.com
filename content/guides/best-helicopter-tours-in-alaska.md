@@ -73,7 +73,7 @@ Part of the advertised tour duration goes to the glacier stop rather than the ai
 
 ### Our pick
 
-Near Anchorage, the **[Knik Glacier Helicopter Tour with Landing](/tours/anchorage-knik-glacier-helicopter-tour-with-landing/)** is the strongest all-round version of this: $522, a one-hour round trip, thirty minutes on the ice, and rated 5.0 from 89 guests — the best review record of any tour on this site. Book it via {{< gyg-link tour="147264" >}}Anchorage: Knik Glacier Helicopter Tour with Landing{{< /gyg-link >}}. If ice time matters more to you than review count, the **[From Palmer tour](/tours/from-palmer-knik-glacier-helicopter-tour/)** is $2 cheaper and gives forty-five minutes on the glacier instead of thirty — book via {{< gyg-link tour="492083" >}}From Palmer: Knik Glacier Helicopter Tour{{< /gyg-link >}}.
+Near Anchorage, the **[Knik Glacier Helicopter Tour with Landing](/tours/anchorage-knik-glacier-helicopter-tour-with-landing/)** is the strongest all-round version of this: $522, a one-hour round trip, thirty minutes on the ice, and rated 5.0 from 90 guests — the best review record of any tour on this site. Book it via {{< gyg-link tour="147264" >}}Anchorage: Knik Glacier Helicopter Tour with Landing{{< /gyg-link >}}. If ice time matters more to you than review count, the **[From Palmer tour](/tours/from-palmer-knik-glacier-helicopter-tour/)** is $2 cheaper and gives forty-five minutes on the glacier instead of thirty — book via {{< gyg-link tour="492083" >}}From Palmer: Knik Glacier Helicopter Tour{{< /gyg-link >}}.
 
 ### Verdict
 
@@ -93,7 +93,7 @@ Makes sense if aerial photography is a priority, you've already walked on a glac
 
 ### Our pick
 
-The **[Grand Knik Glacier Helicopter Tour with Landings](/tours/anchorage-grand-knik-glacier-helicopter-tour-with-landings/)** is the version of this near Anchorage: two hours, three separate touchdowns — including a remote peak looking down the length of Knik Glacier — and a guided walk among the meltwater pools, for $762 and rated 5.0 from 25 guests. Book via {{< gyg-link tour="412333" >}}Anchorage: Grand Knik Glacier Helicopter Tour with Landings{{< /gyg-link >}}. If you'd rather fly out of Girdwood, the **[90-min Flight with 2 Landings](/tours/anchorage-90-min-flight-with-2-landings/)** covers the Chugach south of the city with a glacier landing and a second stop on an alpine ridge, for $844.
+The **[Grand Knik Glacier Helicopter Tour with Landings](/tours/anchorage-grand-knik-glacier-helicopter-tour-with-landings/)** is the version of this near Anchorage: two hours, three separate touchdowns — including a remote peak looking down the length of Knik Glacier — and a guided walk among the meltwater pools, for $762 and rated 5.0 from 26 guests. Book via {{< gyg-link tour="412333" >}}Anchorage: Grand Knik Glacier Helicopter Tour with Landings{{< /gyg-link >}}. If you'd rather fly out of Girdwood, the **[90-min Flight with 2 Landings](/tours/anchorage-90-min-flight-with-2-landings/)** covers the Chugach south of the city with a glacier landing and a second stop on an alpine ridge, for $844.
 
 ### Verdict
 
@@ -292,7 +292,7 @@ The "best" helicopter tour is therefore not necessarily the most expensive optio
 
 ### What is the best helicopter tour in Alaska?
 
-For most first-time visitors, a helicopter tour with a glacier landing offers the best combination of aerial scenery and time on the ice. Near Anchorage, the [Knik Glacier Helicopter Tour with Landing](/tours/anchorage-knik-glacier-helicopter-tour-with-landing/) has the strongest review record of any tour on this site at 5.0 from 89 guests.
+For most first-time visitors, a helicopter tour with a glacier landing offers the best combination of aerial scenery and time on the ice. Near Anchorage, the [Knik Glacier Helicopter Tour with Landing](/tours/anchorage-knik-glacier-helicopter-tour-with-landing/) has the strongest review record of any tour on this site at 5.0 from 90 guests.
 
 ### Where is the best place for a glacier helicopter tour in Alaska?
 

@@ -1,0 +1,3961 @@
+{
+ "activityId": "147273",
+ "totalCount": 64,
+ "averageRating": 4.8889669650421865,
+ "averagePerCategory": {
+  "guide": 4.892857,
+  "transportation": 4.7714286,
+  "service": 0.0,
+  "organization": 0.0,
+  "valueForMoney": 4.609756,
+  "safety": 0.0,
+  "meetingPoint": 0.0
+ },
+ "countPerCategory": {
+  "guide": 28,
+  "transportation": 35,
+  "service": 0,
+  "organization": 0,
+  "valueForMoney": 41,
+  "safety": 0,
+  "meetingPoint": 0,
+  "skipTheLine": 0
+ },
+ "mediaCount": null,
+ "byRating": {
+  "1": [],
+  "2": [],
+  "3": [
+   {
+    "id": 115324000,
+    "author": {
+     "country": "Germany",
+     "countryCode": "DE",
+     "fullName": "Manfred"
+    },
+    "title": "",
+    "message": "6 Personen in einem kleinen Hubschrauber ist einfach zu viel. Man sieht kaum etwas und kann keine guten Fotos machen. Die Hundeschlittenfahrt war sehr schön",
+    "isAnonymous": false,
+    "rating": 3,
+    "created": "2025-06-27T14:04:20+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "de",
+    "media": [],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_transport",
+      "ratingValue": 2
+     },
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 3
+     },
+     {
+      "ratingType": "rating_guide",
+      "ratingValue": 3
+     },
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 3
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "couple",
+    "travelerTypeLabel": "Couple"
+   }
+  ],
+  "4": [
+   {
+    "id": 127370083,
+    "author": {
+     "country": "United Kingdom",
+     "countryCode": "GB",
+     "fullName": "Sara"
+    },
+    "title": "",
+    "message": "Something I have always wanted to do. We were very late in the season so the snow was very wet, wish we had longer on the sled and more interaction with the dogs possibly learning how to harness them and attach to the sled. The glacier landing was good saw blue water river but didn’t get to go into any ice caves.",
+    "isAnonymous": false,
+    "rating": 4,
+    "created": "2026-09-04T00:04:06+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "en",
+    "media": [
+     {
+      "mediaId": 8518672,
+      "mediaType": "photo",
+      "urls": [
+       {
+        "size": "small",
+        "url": "https://cdn.getyourguide.com/img/review/f4de23e4d71e37f1f4374416e2576e5f72557e2c51b5a95eea505485b22b7461.jpg/97.jpg"
+       },
+       {
+        "size": "medium",
+        "url": "https://cdn.getyourguide.com/img/review/f4de23e4d71e37f1f4374416e2576e5f72557e2c51b5a95eea505485b22b7461.jpg/98.jpg"
+       },
+       {
+        "size": "large",
+        "url": "https://cdn.getyourguide.com/img/review/f4de23e4d71e37f1f4374416e2576e5f72557e2c51b5a95eea505485b22b7461.jpg/99.jpg"
+       },
+       {
+        "size": "gallery",
+        "url": "https://cdn.getyourguide.com/img/review/f4de23e4d71e37f1f4374416e2576e5f72557e2c51b5a95eea505485b22b7461.jpg/107.jpg"
+       },
+       {
+        "size": "desktop",
+        "url": "https://cdn.getyourguide.com/img/review/f4de23e4d71e37f1f4374416e2576e5f72557e2c51b5a95eea505485b22b7461.jpg/145.jpg"
+       },
+       {
+        "size": "mobile",
+        "url": "https://cdn.getyourguide.com/img/review/f4de23e4d71e37f1f4374416e2576e5f72557e2c51b5a95eea505485b22b7461.jpg/146.jpg"
+       },
+       {
+        "size": "thumb",
+        "url": "https://cdn.getyourguide.com/img/review/f4de23e4d71e37f1f4374416e2576e5f72557e2c51b5a95eea505485b22b7461.jpg/53.jpg"
+       },
+       {
+        "size": "largeThumb",
+        "url": "https://cdn.getyourguide.com/img/review/f4de23e4d71e37f1f4374416e2576e5f72557e2c51b5a95eea505485b22b7461.jpg/161.jpg"
+       }
+      ]
+     },
+     {
+      "mediaId": 8518673,
+      "mediaType": "photo",
+      "urls": [
+       {
+        "size": "small",
+        "url": "https://cdn.getyourguide.com/img/review/bc8acb32637cdf5f88413cc9a4c84fb21a1e3f559edf2bb5b7dd1326bd779430.jpg/97.jpg"
+       },
+       {
+        "size": "medium",
+        "url": "https://cdn.getyourguide.com/img/review/bc8acb32637cdf5f88413cc9a4c84fb21a1e3f559edf2bb5b7dd1326bd779430.jpg/98.jpg"
+       },
+       {
+        "size": "large",
+        "url": "https://cdn.getyourguide.com/img/review/bc8acb32637cdf5f88413cc9a4c84fb21a1e3f559edf2bb5b7dd1326bd779430.jpg/99.jpg"
+       },
+       {
+        "size": "gallery",
+        "url": "https://cdn.getyourguide.com/img/review/bc8acb32637cdf5f88413cc9a4c84fb21a1e3f559edf2bb5b7dd1326bd779430.jpg/107.jpg"
+       },
+       {
+        "size": "desktop",
+        "url": "https://cdn.getyourguide.com/img/review/bc8acb32637cdf5f88413cc9a4c84fb21a1e3f559edf2bb5b7dd1326bd779430.jpg/145.jpg"
+       },
+       {
+        "size": "mobile",
+        "url": "https://cdn.getyourguide.com/img/review/bc8acb32637cdf5f88413cc9a4c84fb21a1e3f559edf2bb5b7dd1326bd779430.jpg/146.jpg"
+       },
+       {
+        "size": "thumb",
+        "url": "https://cdn.getyourguide.com/img/review/bc8acb32637cdf5f88413cc9a4c84fb21a1e3f559edf2bb5b7dd1326bd779430.jpg/53.jpg"
+       },
+       {
+        "size": "largeThumb",
+        "url": "https://cdn.getyourguide.com/img/review/bc8acb32637cdf5f88413cc9a4c84fb21a1e3f559edf2bb5b7dd1326bd779430.jpg/161.jpg"
+       }
+      ]
+     },
+     {
+      "mediaId": 8518674,
+      "mediaType": "photo",
+      "urls": [
+       {
+        "size": "small",
+        "url": "https://cdn.getyourguide.com/img/review/6ef9fa1aa87a9d922465ef9a9705f203cd134be331e7fa0cc2ad43f693678f27.jpg/97.jpg"
+       },
+       {
+        "size": "medium",
+        "url": "https://cdn.getyourguide.com/img/review/6ef9fa1aa87a9d922465ef9a9705f203cd134be331e7fa0cc2ad43f693678f27.jpg/98.jpg"
+       },
+       {
+        "size": "large",
+        "url": "https://cdn.getyourguide.com/img/review/6ef9fa1aa87a9d922465ef9a9705f203cd134be331e7fa0cc2ad43f693678f27.jpg/99.jpg"
+       },
+       {
+        "size": "gallery",
+        "url": "https://cdn.getyourguide.com/img/review/6ef9fa1aa87a9d922465ef9a9705f203cd134be331e7fa0cc2ad43f693678f27.jpg/107.jpg"
+       },
+       {
+        "size": "desktop",
+        "url": "https://cdn.getyourguide.com/img/review/6ef9fa1aa87a9d922465ef9a9705f203cd134be331e7fa0cc2ad43f693678f27.jpg/145.jpg"
+       },
+       {
+        "size": "mobile",
+        "url": "https://cdn.getyourguide.com/img/review/6ef9fa1aa87a9d922465ef9a9705f203cd134be331e7fa0cc2ad43f693678f27.jpg/146.jpg"
+       },
+       {
+        "size": "thumb",
+        "url": "https://cdn.getyourguide.com/img/review/6ef9fa1aa87a9d922465ef9a9705f203cd134be331e7fa0cc2ad43f693678f27.jpg/53.jpg"
+       },
+       {
+        "size": "largeThumb",
+        "url": "https://cdn.getyourguide.com/img/review/6ef9fa1aa87a9d922465ef9a9705f203cd134be331e7fa0cc2ad43f693678f27.jpg/161.jpg"
+       }
+      ]
+     },
+     {
+      "mediaId": 8518675,
+      "mediaType": "photo",
+      "urls": [
+       {
+        "size": "small",
+        "url": "https://cdn.getyourguide.com/img/review/536367ef6e4f5878024391f07e7ef4b86bb9013c40bd9b97e6a99763b46a28c4.jpg/97.jpg"
+       },
+       {
+        "size": "medium",
+        "url": "https://cdn.getyourguide.com/img/review/536367ef6e4f5878024391f07e7ef4b86bb9013c40bd9b97e6a99763b46a28c4.jpg/98.jpg"
+       },
+       {
+        "size": "large",
+        "url": "https://cdn.getyourguide.com/img/review/536367ef6e4f5878024391f07e7ef4b86bb9013c40bd9b97e6a99763b46a28c4.jpg/99.jpg"
+       },
+       {
+        "size": "gallery",
+        "url": "https://cdn.getyourguide.com/img/review/536367ef6e4f5878024391f07e7ef4b86bb9013c40bd9b97e6a99763b46a28c4.jpg/107.jpg"
+       },
+       {
+        "size": "desktop",
+        "url": "https://cdn.getyourguide.com/img/review/536367ef6e4f5878024391f07e7ef4b86bb9013c40bd9b97e6a99763b46a28c4.jpg/145.jpg"
+       },
+       {
+        "size": "mobile",
+        "url": "https://cdn.getyourguide.com/img/review/536367ef6e4f5878024391f07e7ef4b86bb9013c40bd9b97e6a99763b46a28c4.jpg/146.jpg"
+       },
+       {
+        "size": "thumb",
+        "url": "https://cdn.getyourguide.com/img/review/536367ef6e4f5878024391f07e7ef4b86bb9013c40bd9b97e6a99763b46a28c4.jpg/53.jpg"
+       },
+       {
+        "size": "largeThumb",
+        "url": "https://cdn.getyourguide.com/img/review/536367ef6e4f5878024391f07e7ef4b86bb9013c40bd9b97e6a99763b46a28c4.jpg/161.jpg"
+       }
+      ]
+     }
+    ],
+    "optionId": 408072,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_guide",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 4
+     },
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 4
+     },
+     {
+      "ratingType": "rating_transport",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "couple",
+    "travelerTypeLabel": "Couple"
+   },
+   {
+    "id": 114227238,
+    "author": {
+     "country": "United States",
+     "countryCode": "US",
+     "fullName": "GetYourGuide traveler"
+    },
+    "title": "",
+    "message": "It was a nice trip with beautiful views from the helicopter. Dog sledding was a unique trip but very quick. For the money we spent it’s a one and done deal.",
+    "isAnonymous": true,
+    "rating": 4,
+    "created": "2025-05-14T23:45:29+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "en",
+    "media": [],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 4
+     },
+     {
+      "ratingType": "rating_guide",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 3
+     },
+     {
+      "ratingType": "rating_transport",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "couple",
+    "travelerTypeLabel": "Couple"
+   },
+   {
+    "id": 108693843,
+    "author": {
+     "country": "United States",
+     "countryCode": "US",
+     "fullName": "GetYourGuide traveler"
+    },
+    "title": "",
+    "message": "",
+    "isAnonymous": true,
+    "rating": 4,
+    "created": "2024-08-17T06:22:40+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "",
+    "media": [],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 4
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "",
+    "travelerTypeLabel": null
+   },
+   {
+    "id": 108447934,
+    "author": {
+     "country": "United States",
+     "countryCode": "US",
+     "fullName": "Melanie"
+    },
+    "title": "",
+    "message": "Emilia was an amazing guide. She interacted with us and was very informative.",
+    "isAnonymous": false,
+    "rating": 4,
+    "created": "2024-08-08T04:17:28+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "en",
+    "media": [],
+    "optionId": 408072,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_transport",
+      "ratingValue": 3
+     },
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 4
+     },
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 4
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "couple",
+    "travelerTypeLabel": "Couple"
+   },
+   {
+    "id": 107766184,
+    "author": {
+     "country": "United States",
+     "countryCode": "US",
+     "fullName": "GetYourGuide traveler"
+    },
+    "title": "",
+    "message": "It was a new type of experience for my family and I. Of course we enjoyed it but I’m not sure if it was worth all that money. I think adding a few professional photos would be an amazing idea.",
+    "isAnonymous": true,
+    "rating": 4,
+    "created": "2024-07-08T14:33:40+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "en",
+    "media": [],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 4
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "family_young",
+    "travelerTypeLabel": "Family with kids"
+   }
+  ],
+  "5": [
+   {
+    "id": 127240526,
+    "author": {
+     "country": "Israel",
+     "countryCode": "IL",
+     "fullName": "Yulia"
+    },
+    "title": "",
+    "message": "Everything was just perfect!! Amazing!!!",
+    "isAnonymous": false,
+    "rating": 5,
+    "created": "2026-08-31T04:18:21+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "en",
+    "media": [
+     {
+      "mediaId": 8451769,
+      "mediaType": "photo",
+      "urls": [
+       {
+        "size": "small",
+        "url": "https://cdn.getyourguide.com/img/review/f368bc570243df51bd5bff105de7709eb1f17ea3b82fcaa94e442ede1795e9f0.jpg/97.jpg"
+       },
+       {
+        "size": "medium",
+        "url": "https://cdn.getyourguide.com/img/review/f368bc570243df51bd5bff105de7709eb1f17ea3b82fcaa94e442ede1795e9f0.jpg/98.jpg"
+       },
+       {
+        "size": "large",
+        "url": "https://cdn.getyourguide.com/img/review/f368bc570243df51bd5bff105de7709eb1f17ea3b82fcaa94e442ede1795e9f0.jpg/99.jpg"
+       },
+       {
+        "size": "gallery",
+        "url": "https://cdn.getyourguide.com/img/review/f368bc570243df51bd5bff105de7709eb1f17ea3b82fcaa94e442ede1795e9f0.jpg/107.jpg"
+       },
+       {
+        "size": "desktop",
+        "url": "https://cdn.getyourguide.com/img/review/f368bc570243df51bd5bff105de7709eb1f17ea3b82fcaa94e442ede1795e9f0.jpg/145.jpg"
+       },
+       {
+        "size": "mobile",
+        "url": "https://cdn.getyourguide.com/img/review/f368bc570243df51bd5bff105de7709eb1f17ea3b82fcaa94e442ede1795e9f0.jpg/146.jpg"
+       },
+       {
+        "size": "thumb",
+        "url": "https://cdn.getyourguide.com/img/review/f368bc570243df51bd5bff105de7709eb1f17ea3b82fcaa94e442ede1795e9f0.jpg/53.jpg"
+       },
+       {
+        "size": "largeThumb",
+        "url": "https://cdn.getyourguide.com/img/review/f368bc570243df51bd5bff105de7709eb1f17ea3b82fcaa94e442ede1795e9f0.jpg/161.jpg"
+       }
+      ]
+     },
+     {
+      "mediaId": 8451770,
+      "mediaType": "photo",
+      "urls": [
+       {
+        "size": "small",
+        "url": "https://cdn.getyourguide.com/img/review/c130ddd8f19c705ff1c1f3c1058b467b92d0fa56ebe6c32e81747c4f9b9985e1.jpg/97.jpg"
+       },
+       {
+        "size": "medium",
+        "url": "https://cdn.getyourguide.com/img/review/c130ddd8f19c705ff1c1f3c1058b467b92d0fa56ebe6c32e81747c4f9b9985e1.jpg/98.jpg"
+       },
+       {
+        "size": "large",
+        "url": "https://cdn.getyourguide.com/img/review/c130ddd8f19c705ff1c1f3c1058b467b92d0fa56ebe6c32e81747c4f9b9985e1.jpg/99.jpg"
+       },
+       {
+        "size": "gallery",
+        "url": "https://cdn.getyourguide.com/img/review/c130ddd8f19c705ff1c1f3c1058b467b92d0fa56ebe6c32e81747c4f9b9985e1.jpg/107.jpg"
+       },
+       {
+        "size": "desktop",
+        "url": "https://cdn.getyourguide.com/img/review/c130ddd8f19c705ff1c1f3c1058b467b92d0fa56ebe6c32e81747c4f9b9985e1.jpg/145.jpg"
+       },
+       {
+        "size": "mobile",
+        "url": "https://cdn.getyourguide.com/img/review/c130ddd8f19c705ff1c1f3c1058b467b92d0fa56ebe6c32e81747c4f9b9985e1.jpg/146.jpg"
+       },
+       {
+        "size": "thumb",
+        "url": "https://cdn.getyourguide.com/img/review/c130ddd8f19c705ff1c1f3c1058b467b92d0fa56ebe6c32e81747c4f9b9985e1.jpg/53.jpg"
+       },
+       {
+        "size": "largeThumb",
+        "url": "https://cdn.getyourguide.com/img/review/c130ddd8f19c705ff1c1f3c1058b467b92d0fa56ebe6c32e81747c4f9b9985e1.jpg/161.jpg"
+       }
+      ]
+     },
+     {
+      "mediaId": 8451771,
+      "mediaType": "photo",
+      "urls": [
+       {
+        "size": "small",
+        "url": "https://cdn.getyourguide.com/img/review/7e356e78389baec48b787bfb946e84c639cfa5f8cd349d10840184b98720aa8a.jpg/97.jpg"
+       },
+       {
+        "size": "medium",
+        "url": "https://cdn.getyourguide.com/img/review/7e356e78389baec48b787bfb946e84c639cfa5f8cd349d10840184b98720aa8a.jpg/98.jpg"
+       },
+       {
+        "size": "large",
+        "url": "https://cdn.getyourguide.com/img/review/7e356e78389baec48b787bfb946e84c639cfa5f8cd349d10840184b98720aa8a.jpg/99.jpg"
+       },
+       {
+        "size": "gallery",
+        "url": "https://cdn.getyourguide.com/img/review/7e356e78389baec48b787bfb946e84c639cfa5f8cd349d10840184b98720aa8a.jpg/107.jpg"
+       },
+       {
+        "size": "desktop",
+        "url": "https://cdn.getyourguide.com/img/review/7e356e78389baec48b787bfb946e84c639cfa5f8cd349d10840184b98720aa8a.jpg/145.jpg"
+       },
+       {
+        "size": "mobile",
+        "url": "https://cdn.getyourguide.com/img/review/7e356e78389baec48b787bfb946e84c639cfa5f8cd349d10840184b98720aa8a.jpg/146.jpg"
+       },
+       {
+        "size": "thumb",
+        "url": "https://cdn.getyourguide.com/img/review/7e356e78389baec48b787bfb946e84c639cfa5f8cd349d10840184b98720aa8a.jpg/53.jpg"
+       },
+       {
+        "size": "largeThumb",
+        "url": "https://cdn.getyourguide.com/img/review/7e356e78389baec48b787bfb946e84c639cfa5f8cd349d10840184b98720aa8a.jpg/161.jpg"
+       }
+      ]
+     },
+     {
+      "mediaId": 8451772,
+      "mediaType": "photo",
+      "urls": [
+       {
+        "size": "small",
+        "url": "https://cdn.getyourguide.com/img/review/a299a4bddb61e14cabbf1154c98ef6f613b4de83fc3ad555fa295682c91c2850.jpg/97.jpg"
+       },
+       {
+        "size": "medium",
+        "url": "https://cdn.getyourguide.com/img/review/a299a4bddb61e14cabbf1154c98ef6f613b4de83fc3ad555fa295682c91c2850.jpg/98.jpg"
+       },
+       {
+        "size": "large",
+        "url": "https://cdn.getyourguide.com/img/review/a299a4bddb61e14cabbf1154c98ef6f613b4de83fc3ad555fa295682c91c2850.jpg/99.jpg"
+       },
+       {
+        "size": "gallery",
+        "url": "https://cdn.getyourguide.com/img/review/a299a4bddb61e14cabbf1154c98ef6f613b4de83fc3ad555fa295682c91c2850.jpg/107.jpg"
+       },
+       {
+        "size": "desktop",
+        "url": "https://cdn.getyourguide.com/img/review/a299a4bddb61e14cabbf1154c98ef6f613b4de83fc3ad555fa295682c91c2850.jpg/145.jpg"
+       },
+       {
+        "size": "mobile",
+        "url": "https://cdn.getyourguide.com/img/review/a299a4bddb61e14cabbf1154c98ef6f613b4de83fc3ad555fa295682c91c2850.jpg/146.jpg"
+       },
+       {
+        "size": "thumb",
+        "url": "https://cdn.getyourguide.com/img/review/a299a4bddb61e14cabbf1154c98ef6f613b4de83fc3ad555fa295682c91c2850.jpg/53.jpg"
+       },
+       {
+        "size": "largeThumb",
+        "url": "https://cdn.getyourguide.com/img/review/a299a4bddb61e14cabbf1154c98ef6f613b4de83fc3ad555fa295682c91c2850.jpg/161.jpg"
+       }
+      ]
+     },
+     {
+      "mediaId": 8451773,
+      "mediaType": "photo",
+      "urls": [
+       {
+        "size": "small",
+        "url": "https://cdn.getyourguide.com/img/review/e1c0631d8d326ad9a4c96e620119db71a4a7ca7752fef3d94c93f83a9e7e24ac.jpg/97.jpg"
+       },
+       {
+        "size": "medium",
+        "url": "https://cdn.getyourguide.com/img/review/e1c0631d8d326ad9a4c96e620119db71a4a7ca7752fef3d94c93f83a9e7e24ac.jpg/98.jpg"
+       },
+       {
+        "size": "large",
+        "url": "https://cdn.getyourguide.com/img/review/e1c0631d8d326ad9a4c96e620119db71a4a7ca7752fef3d94c93f83a9e7e24ac.jpg/99.jpg"
+       },
+       {
+        "size": "gallery",
+        "url": "https://cdn.getyourguide.com/img/review/e1c0631d8d326ad9a4c96e620119db71a4a7ca7752fef3d94c93f83a9e7e24ac.jpg/107.jpg"
+       },
+       {
+        "size": "desktop",
+        "url": "https://cdn.getyourguide.com/img/review/e1c0631d8d326ad9a4c96e620119db71a4a7ca7752fef3d94c93f83a9e7e24ac.jpg/145.jpg"
+       },
+       {
+        "size": "mobile",
+        "url": "https://cdn.getyourguide.com/img/review/e1c0631d8d326ad9a4c96e620119db71a4a7ca7752fef3d94c93f83a9e7e24ac.jpg/146.jpg"
+       },
+       {
+        "size": "thumb",
+        "url": "https://cdn.getyourguide.com/img/review/e1c0631d8d326ad9a4c96e620119db71a4a7ca7752fef3d94c93f83a9e7e24ac.jpg/53.jpg"
+       },
+       {
+        "size": "largeThumb",
+        "url": "https://cdn.getyourguide.com/img/review/e1c0631d8d326ad9a4c96e620119db71a4a7ca7752fef3d94c93f83a9e7e24ac.jpg/161.jpg"
+       }
+      ]
+     }
+    ],
+    "optionId": 408072,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_accuracy",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_transport",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_language_proficiency",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_pace_intensity",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "couple",
+    "travelerTypeLabel": "Couple"
+   },
+   {
+    "id": 127171738,
+    "author": {
+     "country": "United States",
+     "countryCode": "US",
+     "fullName": "Kimberly S"
+    },
+    "title": "",
+    "message": "Our mushing guide was full of interesting information but wasn't really a people person. He was helpful in taking pictures of us but was too slow so we didn't have much time with the puppies.",
+    "isAnonymous": false,
+    "rating": 5,
+    "created": "2026-08-29T04:42:30+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "en",
+    "media": [],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 3
+     },
+     {
+      "ratingType": "rating_guide",
+      "ratingValue": 4
+     },
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_transport",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "couple",
+    "travelerTypeLabel": "Couple"
+   },
+   {
+    "id": 127039197,
+    "author": {
+     "country": "United Kingdom",
+     "countryCode": "GB",
+     "fullName": "GetYourGuide traveler"
+    },
+    "title": "",
+    "message": "It was awesome! Although a little on the pricey side. The pilot and musher were brilliant. Not only got time with the dogs but the puppies also. The walking on the glacier was fab and Ben our pilot was very attentive and knowledgeable. Wonderful experience.",
+    "isAnonymous": true,
+    "rating": 5,
+    "created": "2026-08-25T08:07:12+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "en",
+    "media": [
+     {
+      "mediaId": 8351058,
+      "mediaType": "photo",
+      "urls": [
+       {
+        "size": "small",
+        "url": "https://cdn.getyourguide.com/img/review/71a9db809d573caee610324c8a924252ae1c627022d52bf04638b600af74e36c.jpg/97.jpg"
+       },
+       {
+        "size": "medium",
+        "url": "https://cdn.getyourguide.com/img/review/71a9db809d573caee610324c8a924252ae1c627022d52bf04638b600af74e36c.jpg/98.jpg"
+       },
+       {
+        "size": "large",
+        "url": "https://cdn.getyourguide.com/img/review/71a9db809d573caee610324c8a924252ae1c627022d52bf04638b600af74e36c.jpg/99.jpg"
+       },
+       {
+        "size": "gallery",
+        "url": "https://cdn.getyourguide.com/img/review/71a9db809d573caee610324c8a924252ae1c627022d52bf04638b600af74e36c.jpg/107.jpg"
+       },
+       {
+        "size": "desktop",
+        "url": "https://cdn.getyourguide.com/img/review/71a9db809d573caee610324c8a924252ae1c627022d52bf04638b600af74e36c.jpg/145.jpg"
+       },
+       {
+        "size": "mobile",
+        "url": "https://cdn.getyourguide.com/img/review/71a9db809d573caee610324c8a924252ae1c627022d52bf04638b600af74e36c.jpg/146.jpg"
+       },
+       {
+        "size": "thumb",
+        "url": "https://cdn.getyourguide.com/img/review/71a9db809d573caee610324c8a924252ae1c627022d52bf04638b600af74e36c.jpg/53.jpg"
+       },
+       {
+        "size": "largeThumb",
+        "url": "https://cdn.getyourguide.com/img/review/71a9db809d573caee610324c8a924252ae1c627022d52bf04638b600af74e36c.jpg/161.jpg"
+       }
+      ]
+     },
+     {
+      "mediaId": 8351059,
+      "mediaType": "photo",
+      "urls": [
+       {
+        "size": "small",
+        "url": "https://cdn.getyourguide.com/img/review/824cfe2eacba4328bd9c0a408841c5b5c4803ef849756dcbf80e00e4ff1f4031.jpg/97.jpg"
+       },
+       {
+        "size": "medium",
+        "url": "https://cdn.getyourguide.com/img/review/824cfe2eacba4328bd9c0a408841c5b5c4803ef849756dcbf80e00e4ff1f4031.jpg/98.jpg"
+       },
+       {
+        "size": "large",
+        "url": "https://cdn.getyourguide.com/img/review/824cfe2eacba4328bd9c0a408841c5b5c4803ef849756dcbf80e00e4ff1f4031.jpg/99.jpg"
+       },
+       {
+        "size": "gallery",
+        "url": "https://cdn.getyourguide.com/img/review/824cfe2eacba4328bd9c0a408841c5b5c4803ef849756dcbf80e00e4ff1f4031.jpg/107.jpg"
+       },
+       {
+        "size": "desktop",
+        "url": "https://cdn.getyourguide.com/img/review/824cfe2eacba4328bd9c0a408841c5b5c4803ef849756dcbf80e00e4ff1f4031.jpg/145.jpg"
+       },
+       {
+        "size": "mobile",
+        "url": "https://cdn.getyourguide.com/img/review/824cfe2eacba4328bd9c0a408841c5b5c4803ef849756dcbf80e00e4ff1f4031.jpg/146.jpg"
+       },
+       {
+        "size": "thumb",
+        "url": "https://cdn.getyourguide.com/img/review/824cfe2eacba4328bd9c0a408841c5b5c4803ef849756dcbf80e00e4ff1f4031.jpg/53.jpg"
+       },
+       {
+        "size": "largeThumb",
+        "url": "https://cdn.getyourguide.com/img/review/824cfe2eacba4328bd9c0a408841c5b5c4803ef849756dcbf80e00e4ff1f4031.jpg/161.jpg"
+       }
+      ]
+     },
+     {
+      "mediaId": 8351060,
+      "mediaType": "photo",
+      "urls": [
+       {
+        "size": "small",
+        "url": "https://cdn.getyourguide.com/img/review/bfc16e4195c33525164028bfe864b0e251236a05d0fbf18882168136f1771de2.jpg/97.jpg"
+       },
+       {
+        "size": "medium",
+        "url": "https://cdn.getyourguide.com/img/review/bfc16e4195c33525164028bfe864b0e251236a05d0fbf18882168136f1771de2.jpg/98.jpg"
+       },
+       {
+        "size": "large",
+        "url": "https://cdn.getyourguide.com/img/review/bfc16e4195c33525164028bfe864b0e251236a05d0fbf18882168136f1771de2.jpg/99.jpg"
+       },
+       {
+        "size": "gallery",
+        "url": "https://cdn.getyourguide.com/img/review/bfc16e4195c33525164028bfe864b0e251236a05d0fbf18882168136f1771de2.jpg/107.jpg"
+       },
+       {
+        "size": "desktop",
+        "url": "https://cdn.getyourguide.com/img/review/bfc16e4195c33525164028bfe864b0e251236a05d0fbf18882168136f1771de2.jpg/145.jpg"
+       },
+       {
+        "size": "mobile",
+        "url": "https://cdn.getyourguide.com/img/review/bfc16e4195c33525164028bfe864b0e251236a05d0fbf18882168136f1771de2.jpg/146.jpg"
+       },
+       {
+        "size": "thumb",
+        "url": "https://cdn.getyourguide.com/img/review/bfc16e4195c33525164028bfe864b0e251236a05d0fbf18882168136f1771de2.jpg/53.jpg"
+       },
+       {
+        "size": "largeThumb",
+        "url": "https://cdn.getyourguide.com/img/review/bfc16e4195c33525164028bfe864b0e251236a05d0fbf18882168136f1771de2.jpg/161.jpg"
+       }
+      ]
+     }
+    ],
+    "optionId": 408072,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_guide",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 4
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "family_old",
+    "travelerTypeLabel": "Family with teens"
+   },
+   {
+    "id": 126873239,
+    "author": {
+     "country": "United States",
+     "countryCode": "US",
+     "fullName": "Nitesh"
+    },
+    "title": "",
+    "message": "Wonderful! Ben was awesome and so was the tour. 100% recommended.",
+    "isAnonymous": false,
+    "rating": 5,
+    "created": "2026-08-21T01:31:00+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "en",
+    "media": [],
+    "optionId": 408072,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_transport",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_guide",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "couple",
+    "travelerTypeLabel": "Couple"
+   },
+   {
+    "id": 126751431,
+    "author": {
+     "country": "United States",
+     "countryCode": "US",
+     "fullName": "GetYourGuide traveler"
+    },
+    "title": "",
+    "message": "",
+    "isAnonymous": true,
+    "rating": 5,
+    "created": "2026-08-18T03:50:51+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "",
+    "media": [],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "",
+    "travelerTypeLabel": null
+   },
+   {
+    "id": 126269536,
+    "author": {
+     "country": "United States",
+     "countryCode": "US",
+     "fullName": "GetYourGuide traveler"
+    },
+    "title": "",
+    "message": "",
+    "isAnonymous": true,
+    "rating": 5,
+    "created": "2026-08-06T04:45:50+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "",
+    "media": [],
+    "optionId": 408072,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_transport",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_guide",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "couple",
+    "travelerTypeLabel": "Couple"
+   },
+   {
+    "id": 125288633,
+    "author": {
+     "country": "United States",
+     "countryCode": "US",
+     "fullName": "GetYourGuide traveler"
+    },
+    "title": "",
+    "message": "Everything is great. I wish the sledding part was longer and maybe the run would be parallel to other teams like a miniature race... But that's merely a a suggestion for improvement. Overall I'm 95% satisfied. The helicopter flight was awesome, we saw bears 🐻🐻🐻🐻🐻 on the mountains, a beautiful huge glacier we flew over, and the pilot's comments were spot on - not an excessive narration, but he pointed out the important stuff. And we got a chance to chat about personal life a little - it felt like a new friend took you on a flight in his helicopter - great experience. The puppies are a delight. I got a chance to work on conquering my fear of dogs because even all the adult dogs were super sweet. Thank you!",
+    "isAnonymous": true,
+    "rating": 5,
+    "created": "2026-07-09T02:17:44+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "en",
+    "media": [],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_transport",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_guide",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "couple",
+    "travelerTypeLabel": "Couple"
+   },
+   {
+    "id": 125045421,
+    "author": {
+     "country": "United States",
+     "countryCode": "US",
+     "fullName": "GetYourGuide traveler"
+    },
+    "title": "",
+    "message": "",
+    "isAnonymous": true,
+    "rating": 5,
+    "created": "2026-07-02T04:07:38+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "",
+    "media": [],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_guide",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_transport",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "couple",
+    "travelerTypeLabel": "Couple"
+   },
+   {
+    "id": 124960637,
+    "author": {
+     "country": "France",
+     "countryCode": "FR",
+     "fullName": "GetYourGuide traveler"
+    },
+    "title": "",
+    "message": "",
+    "isAnonymous": true,
+    "rating": 5,
+    "created": "2026-06-29T02:31:20+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "",
+    "media": [],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "",
+    "travelerTypeLabel": null
+   },
+   {
+    "id": 124728940,
+    "author": {
+     "country": "Mexico",
+     "countryCode": "MX",
+     "fullName": "Juan"
+    },
+    "title": "",
+    "message": "Genial 👍🏻",
+    "isAnonymous": false,
+    "rating": 5,
+    "created": "2026-06-21T03:27:07+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "en",
+    "media": [
+     {
+      "mediaId": 7253875,
+      "mediaType": "photo",
+      "urls": [
+       {
+        "size": "small",
+        "url": "https://cdn.getyourguide.com/img/review/8a2777f0d3f3ba085599959d6f90272f3eccb51557b6e46f73ae71f0ab8f0c94.jpg/97.jpg"
+       },
+       {
+        "size": "medium",
+        "url": "https://cdn.getyourguide.com/img/review/8a2777f0d3f3ba085599959d6f90272f3eccb51557b6e46f73ae71f0ab8f0c94.jpg/98.jpg"
+       },
+       {
+        "size": "large",
+        "url": "https://cdn.getyourguide.com/img/review/8a2777f0d3f3ba085599959d6f90272f3eccb51557b6e46f73ae71f0ab8f0c94.jpg/99.jpg"
+       },
+       {
+        "size": "gallery",
+        "url": "https://cdn.getyourguide.com/img/review/8a2777f0d3f3ba085599959d6f90272f3eccb51557b6e46f73ae71f0ab8f0c94.jpg/107.jpg"
+       },
+       {
+        "size": "desktop",
+        "url": "https://cdn.getyourguide.com/img/review/8a2777f0d3f3ba085599959d6f90272f3eccb51557b6e46f73ae71f0ab8f0c94.jpg/145.jpg"
+       },
+       {
+        "size": "mobile",
+        "url": "https://cdn.getyourguide.com/img/review/8a2777f0d3f3ba085599959d6f90272f3eccb51557b6e46f73ae71f0ab8f0c94.jpg/146.jpg"
+       },
+       {
+        "size": "thumb",
+        "url": "https://cdn.getyourguide.com/img/review/8a2777f0d3f3ba085599959d6f90272f3eccb51557b6e46f73ae71f0ab8f0c94.jpg/53.jpg"
+       },
+       {
+        "size": "largeThumb",
+        "url": "https://cdn.getyourguide.com/img/review/8a2777f0d3f3ba085599959d6f90272f3eccb51557b6e46f73ae71f0ab8f0c94.jpg/161.jpg"
+       }
+      ]
+     },
+     {
+      "mediaId": 7253877,
+      "mediaType": "photo",
+      "urls": [
+       {
+        "size": "small",
+        "url": "https://cdn.getyourguide.com/img/review/26be9fdc6fdad9dd0ddc0d72a3573fccecb6abc2ca216a8432e6eb7f96a291e3.jpg/97.jpg"
+       },
+       {
+        "size": "medium",
+        "url": "https://cdn.getyourguide.com/img/review/26be9fdc6fdad9dd0ddc0d72a3573fccecb6abc2ca216a8432e6eb7f96a291e3.jpg/98.jpg"
+       },
+       {
+        "size": "large",
+        "url": "https://cdn.getyourguide.com/img/review/26be9fdc6fdad9dd0ddc0d72a3573fccecb6abc2ca216a8432e6eb7f96a291e3.jpg/99.jpg"
+       },
+       {
+        "size": "gallery",
+        "url": "https://cdn.getyourguide.com/img/review/26be9fdc6fdad9dd0ddc0d72a3573fccecb6abc2ca216a8432e6eb7f96a291e3.jpg/107.jpg"
+       },
+       {
+        "size": "desktop",
+        "url": "https://cdn.getyourguide.com/img/review/26be9fdc6fdad9dd0ddc0d72a3573fccecb6abc2ca216a8432e6eb7f96a291e3.jpg/145.jpg"
+       },
+       {
+        "size": "mobile",
+        "url": "https://cdn.getyourguide.com/img/review/26be9fdc6fdad9dd0ddc0d72a3573fccecb6abc2ca216a8432e6eb7f96a291e3.jpg/146.jpg"
+       },
+       {
+        "size": "thumb",
+        "url": "https://cdn.getyourguide.com/img/review/26be9fdc6fdad9dd0ddc0d72a3573fccecb6abc2ca216a8432e6eb7f96a291e3.jpg/53.jpg"
+       },
+       {
+        "size": "largeThumb",
+        "url": "https://cdn.getyourguide.com/img/review/26be9fdc6fdad9dd0ddc0d72a3573fccecb6abc2ca216a8432e6eb7f96a291e3.jpg/161.jpg"
+       }
+      ]
+     },
+     {
+      "mediaId": 7253878,
+      "mediaType": "photo",
+      "urls": [
+       {
+        "size": "small",
+        "url": "https://cdn.getyourguide.com/img/review/a9ab24ce26b938723083267f7583a935975580d870de85ea3bab011323cb72d6.jpg/97.jpg"
+       },
+       {
+        "size": "medium",
+        "url": "https://cdn.getyourguide.com/img/review/a9ab24ce26b938723083267f7583a935975580d870de85ea3bab011323cb72d6.jpg/98.jpg"
+       },
+       {
+        "size": "large",
+        "url": "https://cdn.getyourguide.com/img/review/a9ab24ce26b938723083267f7583a935975580d870de85ea3bab011323cb72d6.jpg/99.jpg"
+       },
+       {
+        "size": "gallery",
+        "url": "https://cdn.getyourguide.com/img/review/a9ab24ce26b938723083267f7583a935975580d870de85ea3bab011323cb72d6.jpg/107.jpg"
+       },
+       {
+        "size": "desktop",
+        "url": "https://cdn.getyourguide.com/img/review/a9ab24ce26b938723083267f7583a935975580d870de85ea3bab011323cb72d6.jpg/145.jpg"
+       },
+       {
+        "size": "mobile",
+        "url": "https://cdn.getyourguide.com/img/review/a9ab24ce26b938723083267f7583a935975580d870de85ea3bab011323cb72d6.jpg/146.jpg"
+       },
+       {
+        "size": "thumb",
+        "url": "https://cdn.getyourguide.com/img/review/a9ab24ce26b938723083267f7583a935975580d870de85ea3bab011323cb72d6.jpg/53.jpg"
+       },
+       {
+        "size": "largeThumb",
+        "url": "https://cdn.getyourguide.com/img/review/a9ab24ce26b938723083267f7583a935975580d870de85ea3bab011323cb72d6.jpg/161.jpg"
+       }
+      ]
+     },
+     {
+      "mediaId": 7253880,
+      "mediaType": "photo",
+      "urls": [
+       {
+        "size": "small",
+        "url": "https://cdn.getyourguide.com/img/review/3b66f9902c719133b04c69fd140281e4e03a9aef8489f3bb0f4217866f502d24.jpg/97.jpg"
+       },
+       {
+        "size": "medium",
+        "url": "https://cdn.getyourguide.com/img/review/3b66f9902c719133b04c69fd140281e4e03a9aef8489f3bb0f4217866f502d24.jpg/98.jpg"
+       },
+       {
+        "size": "large",
+        "url": "https://cdn.getyourguide.com/img/review/3b66f9902c719133b04c69fd140281e4e03a9aef8489f3bb0f4217866f502d24.jpg/99.jpg"
+       },
+       {
+        "size": "gallery",
+        "url": "https://cdn.getyourguide.com/img/review/3b66f9902c719133b04c69fd140281e4e03a9aef8489f3bb0f4217866f502d24.jpg/107.jpg"
+       },
+       {
+        "size": "desktop",
+        "url": "https://cdn.getyourguide.com/img/review/3b66f9902c719133b04c69fd140281e4e03a9aef8489f3bb0f4217866f502d24.jpg/145.jpg"
+       },
+       {
+        "size": "mobile",
+        "url": "https://cdn.getyourguide.com/img/review/3b66f9902c719133b04c69fd140281e4e03a9aef8489f3bb0f4217866f502d24.jpg/146.jpg"
+       },
+       {
+        "size": "thumb",
+        "url": "https://cdn.getyourguide.com/img/review/3b66f9902c719133b04c69fd140281e4e03a9aef8489f3bb0f4217866f502d24.jpg/53.jpg"
+       },
+       {
+        "size": "largeThumb",
+        "url": "https://cdn.getyourguide.com/img/review/3b66f9902c719133b04c69fd140281e4e03a9aef8489f3bb0f4217866f502d24.jpg/161.jpg"
+       }
+      ]
+     },
+     {
+      "mediaId": 7253881,
+      "mediaType": "photo",
+      "urls": [
+       {
+        "size": "small",
+        "url": "https://cdn.getyourguide.com/img/review/a50aa53538d14de9cafd892efa05ed63b3926bdff82a5116f49a952b4e220110.jpg/97.jpg"
+       },
+       {
+        "size": "medium",
+        "url": "https://cdn.getyourguide.com/img/review/a50aa53538d14de9cafd892efa05ed63b3926bdff82a5116f49a952b4e220110.jpg/98.jpg"
+       },
+       {
+        "size": "large",
+        "url": "https://cdn.getyourguide.com/img/review/a50aa53538d14de9cafd892efa05ed63b3926bdff82a5116f49a952b4e220110.jpg/99.jpg"
+       },
+       {
+        "size": "gallery",
+        "url": "https://cdn.getyourguide.com/img/review/a50aa53538d14de9cafd892efa05ed63b3926bdff82a5116f49a952b4e220110.jpg/107.jpg"
+       },
+       {
+        "size": "desktop",
+        "url": "https://cdn.getyourguide.com/img/review/a50aa53538d14de9cafd892efa05ed63b3926bdff82a5116f49a952b4e220110.jpg/145.jpg"
+       },
+       {
+        "size": "mobile",
+        "url": "https://cdn.getyourguide.com/img/review/a50aa53538d14de9cafd892efa05ed63b3926bdff82a5116f49a952b4e220110.jpg/146.jpg"
+       },
+       {
+        "size": "thumb",
+        "url": "https://cdn.getyourguide.com/img/review/a50aa53538d14de9cafd892efa05ed63b3926bdff82a5116f49a952b4e220110.jpg/53.jpg"
+       },
+       {
+        "size": "largeThumb",
+        "url": "https://cdn.getyourguide.com/img/review/a50aa53538d14de9cafd892efa05ed63b3926bdff82a5116f49a952b4e220110.jpg/161.jpg"
+       }
+      ]
+     }
+    ],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_transport",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_guide",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "family_old",
+    "travelerTypeLabel": "Family with teens"
+   },
+   {
+    "id": 124153191,
+    "author": {
+     "country": "United States",
+     "countryCode": "US",
+     "fullName": "Diane"
+    },
+    "title": "",
+    "message": "A little expensive for the time but very fun",
+    "isAnonymous": false,
+    "rating": 5,
+    "created": "2026-06-01T22:06:18+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "en",
+    "media": [],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_guide",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "couple",
+    "travelerTypeLabel": "Couple"
+   },
+   {
+    "id": 124092938,
+    "author": {
+     "country": "Mexico",
+     "countryCode": "MX",
+     "fullName": "GetYourGuide traveler"
+    },
+    "title": "",
+    "message": "Una magnífica experiencia!",
+    "isAnonymous": true,
+    "rating": 5,
+    "created": "2026-05-31T04:29:54+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "es",
+    "media": [],
+    "optionId": 408072,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_guide",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_transport",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "couple",
+    "travelerTypeLabel": "Couple"
+   },
+   {
+    "id": 123997896,
+    "author": {
+     "country": "United States",
+     "countryCode": "US",
+     "fullName": "Jennifer"
+    },
+    "title": "",
+    "message": "While the price tag was definitely more than our typical budget, it was definitely worth it. Everything was well organized and it was clear safety was the number one priority for both humans as well as the dogs. The helicopter ride was amazing and my husband and I felt very secure and safe. It truly was a once in a lifetime opportunity. We are glad we spent the money and the time on this excursion.",
+    "isAnonymous": false,
+    "rating": 5,
+    "created": "2026-05-28T01:13:56+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "en",
+    "media": [],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_guide",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_transport",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "couple",
+    "travelerTypeLabel": "Couple"
+   },
+   {
+    "id": 123931957,
+    "author": {
+     "country": "United States",
+     "countryCode": "US",
+     "fullName": "MICHAEL James"
+    },
+    "title": "",
+    "message": "Awesome! The helicopter rides de to the dogs was amazing! Them landed at camp husky even better! Alaskan Huskies all wanting to say hi! We got to pet all of them so friendly and kisses! If you are a dog lover, this is a must! When they pulled out the sleds to choose the dogs, all the dogs went crazy to be picked for the next run. It was amazing watching every single dog howling saying pick me pick me. Would definitely recommend the store to anybody one of the best stores we’ve ever had",
+    "isAnonymous": false,
+    "rating": 5,
+    "created": "2026-05-26T03:38:45+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "en",
+    "media": [
+     {
+      "mediaId": 6848358,
+      "mediaType": "photo",
+      "urls": [
+       {
+        "size": "small",
+        "url": "https://cdn.getyourguide.com/img/review/1d4986ed5a92de86845c58ed92acb67a52399da07a665b295ea4032fb9cf338c.jpg/97.jpg"
+       },
+       {
+        "size": "medium",
+        "url": "https://cdn.getyourguide.com/img/review/1d4986ed5a92de86845c58ed92acb67a52399da07a665b295ea4032fb9cf338c.jpg/98.jpg"
+       },
+       {
+        "size": "large",
+        "url": "https://cdn.getyourguide.com/img/review/1d4986ed5a92de86845c58ed92acb67a52399da07a665b295ea4032fb9cf338c.jpg/99.jpg"
+       },
+       {
+        "size": "gallery",
+        "url": "https://cdn.getyourguide.com/img/review/1d4986ed5a92de86845c58ed92acb67a52399da07a665b295ea4032fb9cf338c.jpg/107.jpg"
+       },
+       {
+        "size": "desktop",
+        "url": "https://cdn.getyourguide.com/img/review/1d4986ed5a92de86845c58ed92acb67a52399da07a665b295ea4032fb9cf338c.jpg/145.jpg"
+       },
+       {
+        "size": "mobile",
+        "url": "https://cdn.getyourguide.com/img/review/1d4986ed5a92de86845c58ed92acb67a52399da07a665b295ea4032fb9cf338c.jpg/146.jpg"
+       },
+       {
+        "size": "thumb",
+        "url": "https://cdn.getyourguide.com/img/review/1d4986ed5a92de86845c58ed92acb67a52399da07a665b295ea4032fb9cf338c.jpg/53.jpg"
+       },
+       {
+        "size": "largeThumb",
+        "url": "https://cdn.getyourguide.com/img/review/1d4986ed5a92de86845c58ed92acb67a52399da07a665b295ea4032fb9cf338c.jpg/161.jpg"
+       }
+      ]
+     },
+     {
+      "mediaId": 6848359,
+      "mediaType": "photo",
+      "urls": [
+       {
+        "size": "small",
+        "url": "https://cdn.getyourguide.com/img/review/4bdc394a90514e6778faa7dc98b4f4ea6eff85e829072be43eb3226646217d8e.jpg/97.jpg"
+       },
+       {
+        "size": "medium",
+        "url": "https://cdn.getyourguide.com/img/review/4bdc394a90514e6778faa7dc98b4f4ea6eff85e829072be43eb3226646217d8e.jpg/98.jpg"
+       },
+       {
+        "size": "large",
+        "url": "https://cdn.getyourguide.com/img/review/4bdc394a90514e6778faa7dc98b4f4ea6eff85e829072be43eb3226646217d8e.jpg/99.jpg"
+       },
+       {
+        "size": "gallery",
+        "url": "https://cdn.getyourguide.com/img/review/4bdc394a90514e6778faa7dc98b4f4ea6eff85e829072be43eb3226646217d8e.jpg/107.jpg"
+       },
+       {
+        "size": "desktop",
+        "url": "https://cdn.getyourguide.com/img/review/4bdc394a90514e6778faa7dc98b4f4ea6eff85e829072be43eb3226646217d8e.jpg/145.jpg"
+       },
+       {
+        "size": "mobile",
+        "url": "https://cdn.getyourguide.com/img/review/4bdc394a90514e6778faa7dc98b4f4ea6eff85e829072be43eb3226646217d8e.jpg/146.jpg"
+       },
+       {
+        "size": "thumb",
+        "url": "https://cdn.getyourguide.com/img/review/4bdc394a90514e6778faa7dc98b4f4ea6eff85e829072be43eb3226646217d8e.jpg/53.jpg"
+       },
+       {
+        "size": "largeThumb",
+        "url": "https://cdn.getyourguide.com/img/review/4bdc394a90514e6778faa7dc98b4f4ea6eff85e829072be43eb3226646217d8e.jpg/161.jpg"
+       }
+      ]
+     },
+     {
+      "mediaId": 6848360,
+      "mediaType": "photo",
+      "urls": [
+       {
+        "size": "small",
+        "url": "https://cdn.getyourguide.com/img/review/0bff3ac6e75d164d040ae587ee3b30ed6109c037ecb8d3d0dc11f183b86eb5b7.jpg/97.jpg"
+       },
+       {
+        "size": "medium",
+        "url": "https://cdn.getyourguide.com/img/review/0bff3ac6e75d164d040ae587ee3b30ed6109c037ecb8d3d0dc11f183b86eb5b7.jpg/98.jpg"
+       },
+       {
+        "size": "large",
+        "url": "https://cdn.getyourguide.com/img/review/0bff3ac6e75d164d040ae587ee3b30ed6109c037ecb8d3d0dc11f183b86eb5b7.jpg/99.jpg"
+       },
+       {
+        "size": "gallery",
+        "url": "https://cdn.getyourguide.com/img/review/0bff3ac6e75d164d040ae587ee3b30ed6109c037ecb8d3d0dc11f183b86eb5b7.jpg/107.jpg"
+       },
+       {
+        "size": "desktop",
+        "url": "https://cdn.getyourguide.com/img/review/0bff3ac6e75d164d040ae587ee3b30ed6109c037ecb8d3d0dc11f183b86eb5b7.jpg/145.jpg"
+       },
+       {
+        "size": "mobile",
+        "url": "https://cdn.getyourguide.com/img/review/0bff3ac6e75d164d040ae587ee3b30ed6109c037ecb8d3d0dc11f183b86eb5b7.jpg/146.jpg"
+       },
+       {
+        "size": "thumb",
+        "url": "https://cdn.getyourguide.com/img/review/0bff3ac6e75d164d040ae587ee3b30ed6109c037ecb8d3d0dc11f183b86eb5b7.jpg/53.jpg"
+       },
+       {
+        "size": "largeThumb",
+        "url": "https://cdn.getyourguide.com/img/review/0bff3ac6e75d164d040ae587ee3b30ed6109c037ecb8d3d0dc11f183b86eb5b7.jpg/161.jpg"
+       }
+      ]
+     },
+     {
+      "mediaId": 6848361,
+      "mediaType": "photo",
+      "urls": [
+       {
+        "size": "small",
+        "url": "https://cdn.getyourguide.com/img/review/f04c9bf58e96b8ed237929bbaf788782a4858fd269e7fb12a5f62c818e1d3f6f.jpg/97.jpg"
+       },
+       {
+        "size": "medium",
+        "url": "https://cdn.getyourguide.com/img/review/f04c9bf58e96b8ed237929bbaf788782a4858fd269e7fb12a5f62c818e1d3f6f.jpg/98.jpg"
+       },
+       {
+        "size": "large",
+        "url": "https://cdn.getyourguide.com/img/review/f04c9bf58e96b8ed237929bbaf788782a4858fd269e7fb12a5f62c818e1d3f6f.jpg/99.jpg"
+       },
+       {
+        "size": "gallery",
+        "url": "https://cdn.getyourguide.com/img/review/f04c9bf58e96b8ed237929bbaf788782a4858fd269e7fb12a5f62c818e1d3f6f.jpg/107.jpg"
+       },
+       {
+        "size": "desktop",
+        "url": "https://cdn.getyourguide.com/img/review/f04c9bf58e96b8ed237929bbaf788782a4858fd269e7fb12a5f62c818e1d3f6f.jpg/145.jpg"
+       },
+       {
+        "size": "mobile",
+        "url": "https://cdn.getyourguide.com/img/review/f04c9bf58e96b8ed237929bbaf788782a4858fd269e7fb12a5f62c818e1d3f6f.jpg/146.jpg"
+       },
+       {
+        "size": "thumb",
+        "url": "https://cdn.getyourguide.com/img/review/f04c9bf58e96b8ed237929bbaf788782a4858fd269e7fb12a5f62c818e1d3f6f.jpg/53.jpg"
+       },
+       {
+        "size": "largeThumb",
+        "url": "https://cdn.getyourguide.com/img/review/f04c9bf58e96b8ed237929bbaf788782a4858fd269e7fb12a5f62c818e1d3f6f.jpg/161.jpg"
+       }
+      ]
+     },
+     {
+      "mediaId": 6848362,
+      "mediaType": "photo",
+      "urls": [
+       {
+        "size": "small",
+        "url": "https://cdn.getyourguide.com/img/review/f7f322dec455de7bc16f8226055b4d0b321af7351a8eadc44b14668b1a02ed16.jpg/97.jpg"
+       },
+       {
+        "size": "medium",
+        "url": "https://cdn.getyourguide.com/img/review/f7f322dec455de7bc16f8226055b4d0b321af7351a8eadc44b14668b1a02ed16.jpg/98.jpg"
+       },
+       {
+        "size": "large",
+        "url": "https://cdn.getyourguide.com/img/review/f7f322dec455de7bc16f8226055b4d0b321af7351a8eadc44b14668b1a02ed16.jpg/99.jpg"
+       },
+       {
+        "size": "gallery",
+        "url": "https://cdn.getyourguide.com/img/review/f7f322dec455de7bc16f8226055b4d0b321af7351a8eadc44b14668b1a02ed16.jpg/107.jpg"
+       },
+       {
+        "size": "desktop",
+        "url": "https://cdn.getyourguide.com/img/review/f7f322dec455de7bc16f8226055b4d0b321af7351a8eadc44b14668b1a02ed16.jpg/145.jpg"
+       },
+       {
+        "size": "mobile",
+        "url": "https://cdn.getyourguide.com/img/review/f7f322dec455de7bc16f8226055b4d0b321af7351a8eadc44b14668b1a02ed16.jpg/146.jpg"
+       },
+       {
+        "size": "thumb",
+        "url": "https://cdn.getyourguide.com/img/review/f7f322dec455de7bc16f8226055b4d0b321af7351a8eadc44b14668b1a02ed16.jpg/53.jpg"
+       },
+       {
+        "size": "largeThumb",
+        "url": "https://cdn.getyourguide.com/img/review/f7f322dec455de7bc16f8226055b4d0b321af7351a8eadc44b14668b1a02ed16.jpg/161.jpg"
+       }
+      ]
+     }
+    ],
+    "optionId": 408072,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_guide",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_transport",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "couple",
+    "travelerTypeLabel": "Couple"
+   },
+   {
+    "id": 123745443,
+    "author": {
+     "country": "India",
+     "countryCode": "IN",
+     "fullName": "GetYourGuide traveler"
+    },
+    "title": "",
+    "message": "It was an excellent experience! Must for anyone who is visiting Alaska!",
+    "isAnonymous": true,
+    "rating": 5,
+    "created": "2026-05-20T06:48:45+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "en",
+    "media": [],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_transport",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_guide",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "family_young",
+    "travelerTypeLabel": "Family with kids"
+   },
+   {
+    "id": 117239918,
+    "author": {
+     "country": "Mexico",
+     "countryCode": "MX",
+     "fullName": "GetYourGuide traveler"
+    },
+    "title": "",
+    "message": "Excelente experiencia!",
+    "isAnonymous": true,
+    "rating": 5,
+    "created": "2025-08-27T04:46:08+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "es",
+    "media": [
+     {
+      "mediaId": 3561771,
+      "mediaType": "photo",
+      "urls": [
+       {
+        "size": "small",
+        "url": "https://cdn.getyourguide.com/img/review/925716c099380b922624406ee7111d15a59862479e7304a48952c6c5ab59ebd4.jpg/97.jpg"
+       },
+       {
+        "size": "medium",
+        "url": "https://cdn.getyourguide.com/img/review/925716c099380b922624406ee7111d15a59862479e7304a48952c6c5ab59ebd4.jpg/98.jpg"
+       },
+       {
+        "size": "large",
+        "url": "https://cdn.getyourguide.com/img/review/925716c099380b922624406ee7111d15a59862479e7304a48952c6c5ab59ebd4.jpg/99.jpg"
+       },
+       {
+        "size": "gallery",
+        "url": "https://cdn.getyourguide.com/img/review/925716c099380b922624406ee7111d15a59862479e7304a48952c6c5ab59ebd4.jpg/107.jpg"
+       },
+       {
+        "size": "desktop",
+        "url": "https://cdn.getyourguide.com/img/review/925716c099380b922624406ee7111d15a59862479e7304a48952c6c5ab59ebd4.jpg/145.jpg"
+       },
+       {
+        "size": "mobile",
+        "url": "https://cdn.getyourguide.com/img/review/925716c099380b922624406ee7111d15a59862479e7304a48952c6c5ab59ebd4.jpg/146.jpg"
+       },
+       {
+        "size": "thumb",
+        "url": "https://cdn.getyourguide.com/img/review/925716c099380b922624406ee7111d15a59862479e7304a48952c6c5ab59ebd4.jpg/53.jpg"
+       },
+       {
+        "size": "largeThumb",
+        "url": "https://cdn.getyourguide.com/img/review/925716c099380b922624406ee7111d15a59862479e7304a48952c6c5ab59ebd4.jpg/161.jpg"
+       }
+      ]
+     }
+    ],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_guide",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 4
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "family_young",
+    "travelerTypeLabel": "Family with kids"
+   },
+   {
+    "id": 116892915,
+    "author": {
+     "country": "United Kingdom",
+     "countryCode": "GB",
+     "fullName": "Joanne"
+    },
+    "title": "",
+    "message": "Bucket list experience. Incredibly well organised.",
+    "isAnonymous": false,
+    "rating": 5,
+    "created": "2025-08-17T03:52:38+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "en",
+    "media": [],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_guide",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_transport",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "family_young",
+    "travelerTypeLabel": "Family with kids"
+   },
+   {
+    "id": 116700539,
+    "author": {
+     "country": "Germany",
+     "countryCode": "DE",
+     "fullName": "GetYourGuide traveler"
+    },
+    "title": "",
+    "message": "",
+    "isAnonymous": true,
+    "rating": 5,
+    "created": "2025-08-12T04:53:05+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "",
+    "media": [],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "",
+    "travelerTypeLabel": null
+   },
+   {
+    "id": 116290781,
+    "author": {
+     "country": "United States",
+     "countryCode": "US",
+     "fullName": "GetYourGuide traveler"
+    },
+    "title": "",
+    "message": "",
+    "isAnonymous": true,
+    "rating": 5,
+    "created": "2025-07-31T07:27:48+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "",
+    "media": [],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_guide",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_transport",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "couple",
+    "travelerTypeLabel": "Couple"
+   },
+   {
+    "id": 116252535,
+    "author": {
+     "country": "United States",
+     "countryCode": "US",
+     "fullName": "John"
+    },
+    "title": "",
+    "message": "We enjoyed everything about the tour, friendly staff and informative about safety. Pilot very friendly and enjoyable to ride with. The dog team handlers were amazing and friendly. The dogs were wonderful to watch and interact with. This tour was extremely fun",
+    "isAnonymous": false,
+    "rating": 5,
+    "created": "2025-07-30T02:02:23+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "en",
+    "media": [
+     {
+      "mediaId": 3276064,
+      "mediaType": "photo",
+      "urls": [
+       {
+        "size": "small",
+        "url": "https://cdn.getyourguide.com/img/review/259119ab32f2c433a43b7f64ac0e4b7db831e229475158811589265322801d00.jpg/97.jpg"
+       },
+       {
+        "size": "medium",
+        "url": "https://cdn.getyourguide.com/img/review/259119ab32f2c433a43b7f64ac0e4b7db831e229475158811589265322801d00.jpg/98.jpg"
+       },
+       {
+        "size": "large",
+        "url": "https://cdn.getyourguide.com/img/review/259119ab32f2c433a43b7f64ac0e4b7db831e229475158811589265322801d00.jpg/99.jpg"
+       },
+       {
+        "size": "gallery",
+        "url": "https://cdn.getyourguide.com/img/review/259119ab32f2c433a43b7f64ac0e4b7db831e229475158811589265322801d00.jpg/107.jpg"
+       },
+       {
+        "size": "desktop",
+        "url": "https://cdn.getyourguide.com/img/review/259119ab32f2c433a43b7f64ac0e4b7db831e229475158811589265322801d00.jpg/145.jpg"
+       },
+       {
+        "size": "mobile",
+        "url": "https://cdn.getyourguide.com/img/review/259119ab32f2c433a43b7f64ac0e4b7db831e229475158811589265322801d00.jpg/146.jpg"
+       },
+       {
+        "size": "thumb",
+        "url": "https://cdn.getyourguide.com/img/review/259119ab32f2c433a43b7f64ac0e4b7db831e229475158811589265322801d00.jpg/53.jpg"
+       },
+       {
+        "size": "largeThumb",
+        "url": "https://cdn.getyourguide.com/img/review/259119ab32f2c433a43b7f64ac0e4b7db831e229475158811589265322801d00.jpg/161.jpg"
+       }
+      ]
+     },
+     {
+      "mediaId": 3276065,
+      "mediaType": "photo",
+      "urls": [
+       {
+        "size": "small",
+        "url": "https://cdn.getyourguide.com/img/review/16c2cd0c1728e0b5a1524c72a81a54822efefe819b078b18d1fbfd621262eb09.jpg/97.jpg"
+       },
+       {
+        "size": "medium",
+        "url": "https://cdn.getyourguide.com/img/review/16c2cd0c1728e0b5a1524c72a81a54822efefe819b078b18d1fbfd621262eb09.jpg/98.jpg"
+       },
+       {
+        "size": "large",
+        "url": "https://cdn.getyourguide.com/img/review/16c2cd0c1728e0b5a1524c72a81a54822efefe819b078b18d1fbfd621262eb09.jpg/99.jpg"
+       },
+       {
+        "size": "gallery",
+        "url": "https://cdn.getyourguide.com/img/review/16c2cd0c1728e0b5a1524c72a81a54822efefe819b078b18d1fbfd621262eb09.jpg/107.jpg"
+       },
+       {
+        "size": "desktop",
+        "url": "https://cdn.getyourguide.com/img/review/16c2cd0c1728e0b5a1524c72a81a54822efefe819b078b18d1fbfd621262eb09.jpg/145.jpg"
+       },
+       {
+        "size": "mobile",
+        "url": "https://cdn.getyourguide.com/img/review/16c2cd0c1728e0b5a1524c72a81a54822efefe819b078b18d1fbfd621262eb09.jpg/146.jpg"
+       },
+       {
+        "size": "thumb",
+        "url": "https://cdn.getyourguide.com/img/review/16c2cd0c1728e0b5a1524c72a81a54822efefe819b078b18d1fbfd621262eb09.jpg/53.jpg"
+       },
+       {
+        "size": "largeThumb",
+        "url": "https://cdn.getyourguide.com/img/review/16c2cd0c1728e0b5a1524c72a81a54822efefe819b078b18d1fbfd621262eb09.jpg/161.jpg"
+       }
+      ]
+     }
+    ],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_transport",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_guide",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "couple",
+    "travelerTypeLabel": "Couple"
+   },
+   {
+    "id": 116234605,
+    "author": {
+     "country": "United States",
+     "countryCode": "US",
+     "fullName": "Pete"
+    },
+    "title": "",
+    "message": "Loved the chance to “mush” a team. Our musher taught us a lot about the sport. Got to meet and pet the dogs. Flight over (and pilot) to the base was great.",
+    "isAnonymous": false,
+    "rating": 5,
+    "created": "2025-07-29T11:15:42+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "en",
+    "media": [],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_guide",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_transport",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "couple",
+    "travelerTypeLabel": "Couple"
+   },
+   {
+    "id": 115942810,
+    "author": {
+     "country": "",
+     "countryCode": null,
+     "fullName": "Antonia"
+    },
+    "title": "",
+    "message": "Ticked off the bucket list, helicopter and glacier dogsled tour. What an experience and adventure. Money well spent. Thank you Sam for our helicopter ride, thank you Sully for a sledging ride and thank you Alaska for the memories @AlaskaHelicopterTours #alaska #dogsledding #helicopter #bucketlistmoment #adventure #glacier",
+    "isAnonymous": false,
+    "rating": 5,
+    "created": "2025-07-20T05:45:41+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "en",
+    "media": [
+     {
+      "mediaId": 3143527,
+      "mediaType": "photo",
+      "urls": [
+       {
+        "size": "small",
+        "url": "https://cdn.getyourguide.com/img/review/730671eb11ce41f26721cfd7a2edf0b8ae681e32eb56ff7e2316dd0bdc6ccbcf.jpg/97.jpg"
+       },
+       {
+        "size": "medium",
+        "url": "https://cdn.getyourguide.com/img/review/730671eb11ce41f26721cfd7a2edf0b8ae681e32eb56ff7e2316dd0bdc6ccbcf.jpg/98.jpg"
+       },
+       {
+        "size": "large",
+        "url": "https://cdn.getyourguide.com/img/review/730671eb11ce41f26721cfd7a2edf0b8ae681e32eb56ff7e2316dd0bdc6ccbcf.jpg/99.jpg"
+       },
+       {
+        "size": "gallery",
+        "url": "https://cdn.getyourguide.com/img/review/730671eb11ce41f26721cfd7a2edf0b8ae681e32eb56ff7e2316dd0bdc6ccbcf.jpg/107.jpg"
+       },
+       {
+        "size": "desktop",
+        "url": "https://cdn.getyourguide.com/img/review/730671eb11ce41f26721cfd7a2edf0b8ae681e32eb56ff7e2316dd0bdc6ccbcf.jpg/145.jpg"
+       },
+       {
+        "size": "mobile",
+        "url": "https://cdn.getyourguide.com/img/review/730671eb11ce41f26721cfd7a2edf0b8ae681e32eb56ff7e2316dd0bdc6ccbcf.jpg/146.jpg"
+       },
+       {
+        "size": "thumb",
+        "url": "https://cdn.getyourguide.com/img/review/730671eb11ce41f26721cfd7a2edf0b8ae681e32eb56ff7e2316dd0bdc6ccbcf.jpg/53.jpg"
+       },
+       {
+        "size": "largeThumb",
+        "url": "https://cdn.getyourguide.com/img/review/730671eb11ce41f26721cfd7a2edf0b8ae681e32eb56ff7e2316dd0bdc6ccbcf.jpg/161.jpg"
+       }
+      ]
+     },
+     {
+      "mediaId": 3143528,
+      "mediaType": "photo",
+      "urls": [
+       {
+        "size": "small",
+        "url": "https://cdn.getyourguide.com/img/review/695c8000a348a92b2c959b75d954d49bf6149119603842e41a1d55d524ddb85b.jpg/97.jpg"
+       },
+       {
+        "size": "medium",
+        "url": "https://cdn.getyourguide.com/img/review/695c8000a348a92b2c959b75d954d49bf6149119603842e41a1d55d524ddb85b.jpg/98.jpg"
+       },
+       {
+        "size": "large",
+        "url": "https://cdn.getyourguide.com/img/review/695c8000a348a92b2c959b75d954d49bf6149119603842e41a1d55d524ddb85b.jpg/99.jpg"
+       },
+       {
+        "size": "gallery",
+        "url": "https://cdn.getyourguide.com/img/review/695c8000a348a92b2c959b75d954d49bf6149119603842e41a1d55d524ddb85b.jpg/107.jpg"
+       },
+       {
+        "size": "desktop",
+        "url": "https://cdn.getyourguide.com/img/review/695c8000a348a92b2c959b75d954d49bf6149119603842e41a1d55d524ddb85b.jpg/145.jpg"
+       },
+       {
+        "size": "mobile",
+        "url": "https://cdn.getyourguide.com/img/review/695c8000a348a92b2c959b75d954d49bf6149119603842e41a1d55d524ddb85b.jpg/146.jpg"
+       },
+       {
+        "size": "thumb",
+        "url": "https://cdn.getyourguide.com/img/review/695c8000a348a92b2c959b75d954d49bf6149119603842e41a1d55d524ddb85b.jpg/53.jpg"
+       },
+       {
+        "size": "largeThumb",
+        "url": "https://cdn.getyourguide.com/img/review/695c8000a348a92b2c959b75d954d49bf6149119603842e41a1d55d524ddb85b.jpg/161.jpg"
+       }
+      ]
+     },
+     {
+      "mediaId": 3143529,
+      "mediaType": "photo",
+      "urls": [
+       {
+        "size": "small",
+        "url": "https://cdn.getyourguide.com/img/review/a99318acf6ee5bc753fa0cfc5f6c87e89c7b5b0981671761dea6a566712991b8.jpg/97.jpg"
+       },
+       {
+        "size": "medium",
+        "url": "https://cdn.getyourguide.com/img/review/a99318acf6ee5bc753fa0cfc5f6c87e89c7b5b0981671761dea6a566712991b8.jpg/98.jpg"
+       },
+       {
+        "size": "large",
+        "url": "https://cdn.getyourguide.com/img/review/a99318acf6ee5bc753fa0cfc5f6c87e89c7b5b0981671761dea6a566712991b8.jpg/99.jpg"
+       },
+       {
+        "size": "gallery",
+        "url": "https://cdn.getyourguide.com/img/review/a99318acf6ee5bc753fa0cfc5f6c87e89c7b5b0981671761dea6a566712991b8.jpg/107.jpg"
+       },
+       {
+        "size": "desktop",
+        "url": "https://cdn.getyourguide.com/img/review/a99318acf6ee5bc753fa0cfc5f6c87e89c7b5b0981671761dea6a566712991b8.jpg/145.jpg"
+       },
+       {
+        "size": "mobile",
+        "url": "https://cdn.getyourguide.com/img/review/a99318acf6ee5bc753fa0cfc5f6c87e89c7b5b0981671761dea6a566712991b8.jpg/146.jpg"
+       },
+       {
+        "size": "thumb",
+        "url": "https://cdn.getyourguide.com/img/review/a99318acf6ee5bc753fa0cfc5f6c87e89c7b5b0981671761dea6a566712991b8.jpg/53.jpg"
+       },
+       {
+        "size": "largeThumb",
+        "url": "https://cdn.getyourguide.com/img/review/a99318acf6ee5bc753fa0cfc5f6c87e89c7b5b0981671761dea6a566712991b8.jpg/161.jpg"
+       }
+      ]
+     },
+     {
+      "mediaId": 3143530,
+      "mediaType": "photo",
+      "urls": [
+       {
+        "size": "small",
+        "url": "https://cdn.getyourguide.com/img/review/a983d1af4c6beb4f905feb20bd23963043ea68cc15892ad7b1dc08ecf235f04f.jpg/97.jpg"
+       },
+       {
+        "size": "medium",
+        "url": "https://cdn.getyourguide.com/img/review/a983d1af4c6beb4f905feb20bd23963043ea68cc15892ad7b1dc08ecf235f04f.jpg/98.jpg"
+       },
+       {
+        "size": "large",
+        "url": "https://cdn.getyourguide.com/img/review/a983d1af4c6beb4f905feb20bd23963043ea68cc15892ad7b1dc08ecf235f04f.jpg/99.jpg"
+       },
+       {
+        "size": "gallery",
+        "url": "https://cdn.getyourguide.com/img/review/a983d1af4c6beb4f905feb20bd23963043ea68cc15892ad7b1dc08ecf235f04f.jpg/107.jpg"
+       },
+       {
+        "size": "desktop",
+        "url": "https://cdn.getyourguide.com/img/review/a983d1af4c6beb4f905feb20bd23963043ea68cc15892ad7b1dc08ecf235f04f.jpg/145.jpg"
+       },
+       {
+        "size": "mobile",
+        "url": "https://cdn.getyourguide.com/img/review/a983d1af4c6beb4f905feb20bd23963043ea68cc15892ad7b1dc08ecf235f04f.jpg/146.jpg"
+       },
+       {
+        "size": "thumb",
+        "url": "https://cdn.getyourguide.com/img/review/a983d1af4c6beb4f905feb20bd23963043ea68cc15892ad7b1dc08ecf235f04f.jpg/53.jpg"
+       },
+       {
+        "size": "largeThumb",
+        "url": "https://cdn.getyourguide.com/img/review/a983d1af4c6beb4f905feb20bd23963043ea68cc15892ad7b1dc08ecf235f04f.jpg/161.jpg"
+       }
+      ]
+     },
+     {
+      "mediaId": 3143531,
+      "mediaType": "photo",
+      "urls": [
+       {
+        "size": "small",
+        "url": "https://cdn.getyourguide.com/img/review/f0257e4cb36662dd7a3653c9b729233d13c08d0bfaec2a4aab1ca2c9dae0ffce.jpg/97.jpg"
+       },
+       {
+        "size": "medium",
+        "url": "https://cdn.getyourguide.com/img/review/f0257e4cb36662dd7a3653c9b729233d13c08d0bfaec2a4aab1ca2c9dae0ffce.jpg/98.jpg"
+       },
+       {
+        "size": "large",
+        "url": "https://cdn.getyourguide.com/img/review/f0257e4cb36662dd7a3653c9b729233d13c08d0bfaec2a4aab1ca2c9dae0ffce.jpg/99.jpg"
+       },
+       {
+        "size": "gallery",
+        "url": "https://cdn.getyourguide.com/img/review/f0257e4cb36662dd7a3653c9b729233d13c08d0bfaec2a4aab1ca2c9dae0ffce.jpg/107.jpg"
+       },
+       {
+        "size": "desktop",
+        "url": "https://cdn.getyourguide.com/img/review/f0257e4cb36662dd7a3653c9b729233d13c08d0bfaec2a4aab1ca2c9dae0ffce.jpg/145.jpg"
+       },
+       {
+        "size": "mobile",
+        "url": "https://cdn.getyourguide.com/img/review/f0257e4cb36662dd7a3653c9b729233d13c08d0bfaec2a4aab1ca2c9dae0ffce.jpg/146.jpg"
+       },
+       {
+        "size": "thumb",
+        "url": "https://cdn.getyourguide.com/img/review/f0257e4cb36662dd7a3653c9b729233d13c08d0bfaec2a4aab1ca2c9dae0ffce.jpg/53.jpg"
+       },
+       {
+        "size": "largeThumb",
+        "url": "https://cdn.getyourguide.com/img/review/f0257e4cb36662dd7a3653c9b729233d13c08d0bfaec2a4aab1ca2c9dae0ffce.jpg/161.jpg"
+       }
+      ]
+     }
+    ],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_guide",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_transport",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "couple",
+    "travelerTypeLabel": "Couple"
+   },
+   {
+    "id": 115431434,
+    "author": {
+     "country": "United States",
+     "countryCode": "US",
+     "fullName": "GetYourGuide traveler"
+    },
+    "title": "",
+    "message": "",
+    "isAnonymous": true,
+    "rating": 5,
+    "created": "2025-07-02T00:46:53+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "",
+    "media": [],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_transport",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_guide",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "family_young",
+    "travelerTypeLabel": "Family with kids"
+   },
+   {
+    "id": 115209882,
+    "author": {
+     "country": "United States",
+     "countryCode": "US",
+     "fullName": "Brad"
+    },
+    "title": "",
+    "message": "",
+    "isAnonymous": false,
+    "rating": 5,
+    "created": "2025-06-23T05:21:38+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "",
+    "media": [],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_transport",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_guide",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "family_old",
+    "travelerTypeLabel": "Family with teens"
+   },
+   {
+    "id": 115121766,
+    "author": {
+     "country": "India",
+     "countryCode": "IN",
+     "fullName": "Shantha Kumar"
+    },
+    "title": "",
+    "message": "",
+    "isAnonymous": false,
+    "rating": 5,
+    "created": "2025-06-19T17:30:27+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "",
+    "media": [],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_transport",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_guide",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "family_old",
+    "travelerTypeLabel": "Family with teens"
+   },
+   {
+    "id": 114670297,
+    "author": {
+     "country": "United States",
+     "countryCode": "US",
+     "fullName": "Gabriella"
+    },
+    "title": "",
+    "message": "Seeing the sled dogs in their element was amazing. Our pilot gave a great tour. 10/10",
+    "isAnonymous": false,
+    "rating": 5,
+    "created": "2025-06-02T02:32:09+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "en",
+    "media": [],
+    "optionId": 408072,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_transport",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_guide",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "family_old",
+    "travelerTypeLabel": "Family with teens"
+   },
+   {
+    "id": 114638531,
+    "author": {
+     "country": "Germany",
+     "countryCode": "DE",
+     "fullName": "Elke"
+    },
+    "title": "",
+    "message": "",
+    "isAnonymous": false,
+    "rating": 5,
+    "created": "2025-05-31T19:58:37+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "",
+    "media": [],
+    "optionId": 408072,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_guide",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "friends",
+    "travelerTypeLabel": "Friend group"
+   },
+   {
+    "id": 114394526,
+    "author": {
+     "country": "United States",
+     "countryCode": "US",
+     "fullName": "Jan"
+    },
+    "title": "",
+    "message": "It was fun. I wish they would talk about the wishing stone heritage on every tour. Very interesting. Loved going on the ice",
+    "isAnonymous": false,
+    "rating": 5,
+    "created": "2025-05-21T21:42:38+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "en",
+    "media": [],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 4
+     },
+     {
+      "ratingType": "rating_transport",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_guide",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "friends",
+    "travelerTypeLabel": "Friend group"
+   },
+   {
+    "id": 108910099,
+    "author": {
+     "country": "United States",
+     "countryCode": "US",
+     "fullName": "GetYourGuide traveler"
+    },
+    "title": "",
+    "message": "",
+    "isAnonymous": true,
+    "rating": 5,
+    "created": "2024-08-25T02:45:56+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "",
+    "media": [],
+    "optionId": 408072,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "",
+    "travelerTypeLabel": null
+   },
+   {
+    "id": 108062731,
+    "author": {
+     "country": "United States",
+     "countryCode": "US",
+     "fullName": "GetYourGuide traveler"
+    },
+    "title": "",
+    "message": "",
+    "isAnonymous": true,
+    "rating": 5,
+    "created": "2024-07-22T07:30:14+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "",
+    "media": [],
+    "optionId": 408072,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "",
+    "travelerTypeLabel": null
+   },
+   {
+    "id": 108060601,
+    "author": {
+     "country": "United States",
+     "countryCode": "US",
+     "fullName": "Robert"
+    },
+    "title": "",
+    "message": "Beautiful drive to the facility. No transportation offered that day so we rented a car. Check-in and safety brief were easy. Helicopter pilot did a good job getting us there. My one and only negative was that he could have been personable or even spoke to us once. He didn’t talk at all regarding the area or where we were heading. Only time I’ve had a pilot who didn’t tell us anything about surrounding landscape/area on the way there or the way back. The crew on the glacier were phenomenal! Very informative and eager to share their extensive knowledge. Dog sledding on the glacier was amazing. Beautiful scenery and the dogs are awesome. Our guide up top races the Iditarod and shared a lot of fun and interesting facts about the race and life on the glacier. Amazing experience. Great time. Highly recommend.",
+    "isAnonymous": false,
+    "rating": 5,
+    "created": "2024-07-22T05:12:51+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "en",
+    "media": [
+     {
+      "mediaId": 745767,
+      "mediaType": "photo",
+      "urls": [
+       {
+        "size": "small",
+        "url": "https://cdn.getyourguide.com/img/review/24db3663471290dcb5a5cb9efa509e4c78112837802674c06c6db2368980b6dc.jpg/97.jpg"
+       },
+       {
+        "size": "medium",
+        "url": "https://cdn.getyourguide.com/img/review/24db3663471290dcb5a5cb9efa509e4c78112837802674c06c6db2368980b6dc.jpg/98.jpg"
+       },
+       {
+        "size": "large",
+        "url": "https://cdn.getyourguide.com/img/review/24db3663471290dcb5a5cb9efa509e4c78112837802674c06c6db2368980b6dc.jpg/99.jpg"
+       },
+       {
+        "size": "gallery",
+        "url": "https://cdn.getyourguide.com/img/review/24db3663471290dcb5a5cb9efa509e4c78112837802674c06c6db2368980b6dc.jpg/107.jpg"
+       },
+       {
+        "size": "desktop",
+        "url": "https://cdn.getyourguide.com/img/review/24db3663471290dcb5a5cb9efa509e4c78112837802674c06c6db2368980b6dc.jpg/145.jpg"
+       },
+       {
+        "size": "mobile",
+        "url": "https://cdn.getyourguide.com/img/review/24db3663471290dcb5a5cb9efa509e4c78112837802674c06c6db2368980b6dc.jpg/146.jpg"
+       },
+       {
+        "size": "thumb",
+        "url": "https://cdn.getyourguide.com/img/review/24db3663471290dcb5a5cb9efa509e4c78112837802674c06c6db2368980b6dc.jpg/53.jpg"
+       },
+       {
+        "size": "largeThumb",
+        "url": "https://cdn.getyourguide.com/img/review/24db3663471290dcb5a5cb9efa509e4c78112837802674c06c6db2368980b6dc.jpg/161.jpg"
+       }
+      ]
+     },
+     {
+      "mediaId": 745769,
+      "mediaType": "photo",
+      "urls": [
+       {
+        "size": "small",
+        "url": "https://cdn.getyourguide.com/img/review/6a151bd13c5a82ec0facf46247cf36573e5599231a51517d701e9c180c637bcf.jpg/97.jpg"
+       },
+       {
+        "size": "medium",
+        "url": "https://cdn.getyourguide.com/img/review/6a151bd13c5a82ec0facf46247cf36573e5599231a51517d701e9c180c637bcf.jpg/98.jpg"
+       },
+       {
+        "size": "large",
+        "url": "https://cdn.getyourguide.com/img/review/6a151bd13c5a82ec0facf46247cf36573e5599231a51517d701e9c180c637bcf.jpg/99.jpg"
+       },
+       {
+        "size": "gallery",
+        "url": "https://cdn.getyourguide.com/img/review/6a151bd13c5a82ec0facf46247cf36573e5599231a51517d701e9c180c637bcf.jpg/107.jpg"
+       },
+       {
+        "size": "desktop",
+        "url": "https://cdn.getyourguide.com/img/review/6a151bd13c5a82ec0facf46247cf36573e5599231a51517d701e9c180c637bcf.jpg/145.jpg"
+       },
+       {
+        "size": "mobile",
+        "url": "https://cdn.getyourguide.com/img/review/6a151bd13c5a82ec0facf46247cf36573e5599231a51517d701e9c180c637bcf.jpg/146.jpg"
+       },
+       {
+        "size": "thumb",
+        "url": "https://cdn.getyourguide.com/img/review/6a151bd13c5a82ec0facf46247cf36573e5599231a51517d701e9c180c637bcf.jpg/53.jpg"
+       },
+       {
+        "size": "largeThumb",
+        "url": "https://cdn.getyourguide.com/img/review/6a151bd13c5a82ec0facf46247cf36573e5599231a51517d701e9c180c637bcf.jpg/161.jpg"
+       }
+      ]
+     },
+     {
+      "mediaId": 745770,
+      "mediaType": "photo",
+      "urls": [
+       {
+        "size": "small",
+        "url": "https://cdn.getyourguide.com/img/review/07e8b253c19ad2f7f5ea1690ad3a70108e1b804247ceef3aa974e38e19a49f22.jpg/97.jpg"
+       },
+       {
+        "size": "medium",
+        "url": "https://cdn.getyourguide.com/img/review/07e8b253c19ad2f7f5ea1690ad3a70108e1b804247ceef3aa974e38e19a49f22.jpg/98.jpg"
+       },
+       {
+        "size": "large",
+        "url": "https://cdn.getyourguide.com/img/review/07e8b253c19ad2f7f5ea1690ad3a70108e1b804247ceef3aa974e38e19a49f22.jpg/99.jpg"
+       },
+       {
+        "size": "gallery",
+        "url": "https://cdn.getyourguide.com/img/review/07e8b253c19ad2f7f5ea1690ad3a70108e1b804247ceef3aa974e38e19a49f22.jpg/107.jpg"
+       },
+       {
+        "size": "desktop",
+        "url": "https://cdn.getyourguide.com/img/review/07e8b253c19ad2f7f5ea1690ad3a70108e1b804247ceef3aa974e38e19a49f22.jpg/145.jpg"
+       },
+       {
+        "size": "mobile",
+        "url": "https://cdn.getyourguide.com/img/review/07e8b253c19ad2f7f5ea1690ad3a70108e1b804247ceef3aa974e38e19a49f22.jpg/146.jpg"
+       },
+       {
+        "size": "thumb",
+        "url": "https://cdn.getyourguide.com/img/review/07e8b253c19ad2f7f5ea1690ad3a70108e1b804247ceef3aa974e38e19a49f22.jpg/53.jpg"
+       },
+       {
+        "size": "largeThumb",
+        "url": "https://cdn.getyourguide.com/img/review/07e8b253c19ad2f7f5ea1690ad3a70108e1b804247ceef3aa974e38e19a49f22.jpg/161.jpg"
+       }
+      ]
+     }
+    ],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "couple",
+    "travelerTypeLabel": "Couple"
+   },
+   {
+    "id": 108015732,
+    "author": {
+     "country": "United States",
+     "countryCode": "US",
+     "fullName": "Armando"
+    },
+    "title": "",
+    "message": "Great experience amazing to be able to see the glacier up close and explore",
+    "isAnonymous": false,
+    "rating": 5,
+    "created": "2024-07-20T05:59:13+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "en",
+    "media": [],
+    "optionId": 408072,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_transport",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "couple",
+    "travelerTypeLabel": "Couple"
+   },
+   {
+    "id": 107717538,
+    "author": {
+     "country": "Australia",
+     "countryCode": "AU",
+     "fullName": "Monique"
+    },
+    "title": "",
+    "message": "Once in a lifetime experience with excellent and knowledgeable guidance. This tour is worth the money and I would definitely recommend this tour for everyone. The dogs were so friendly and just love to run. I can’t fault any part of this tour. I would do it again in a heartbeat",
+    "isAnonymous": false,
+    "rating": 5,
+    "created": "2024-07-05T23:42:28+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "en",
+    "media": [
+     {
+      "mediaId": 673171,
+      "mediaType": "photo",
+      "urls": [
+       {
+        "size": "small",
+        "url": "https://cdn.getyourguide.com/img/review/893257005e6215ecb88559bcc21c3228ac27c19bedc38c24a9920ef95c22c648.jpg/97.jpg"
+       },
+       {
+        "size": "medium",
+        "url": "https://cdn.getyourguide.com/img/review/893257005e6215ecb88559bcc21c3228ac27c19bedc38c24a9920ef95c22c648.jpg/98.jpg"
+       },
+       {
+        "size": "large",
+        "url": "https://cdn.getyourguide.com/img/review/893257005e6215ecb88559bcc21c3228ac27c19bedc38c24a9920ef95c22c648.jpg/99.jpg"
+       },
+       {
+        "size": "gallery",
+        "url": "https://cdn.getyourguide.com/img/review/893257005e6215ecb88559bcc21c3228ac27c19bedc38c24a9920ef95c22c648.jpg/107.jpg"
+       },
+       {
+        "size": "desktop",
+        "url": "https://cdn.getyourguide.com/img/review/893257005e6215ecb88559bcc21c3228ac27c19bedc38c24a9920ef95c22c648.jpg/145.jpg"
+       },
+       {
+        "size": "mobile",
+        "url": "https://cdn.getyourguide.com/img/review/893257005e6215ecb88559bcc21c3228ac27c19bedc38c24a9920ef95c22c648.jpg/146.jpg"
+       },
+       {
+        "size": "thumb",
+        "url": "https://cdn.getyourguide.com/img/review/893257005e6215ecb88559bcc21c3228ac27c19bedc38c24a9920ef95c22c648.jpg/53.jpg"
+       },
+       {
+        "size": "largeThumb",
+        "url": "https://cdn.getyourguide.com/img/review/893257005e6215ecb88559bcc21c3228ac27c19bedc38c24a9920ef95c22c648.jpg/161.jpg"
+       }
+      ]
+     },
+     {
+      "mediaId": 673172,
+      "mediaType": "photo",
+      "urls": [
+       {
+        "size": "small",
+        "url": "https://cdn.getyourguide.com/img/review/0aa3955d2fee90e609495a12358f6bcb3956c1c38c2477fcdbfe846743a3aa5c.jpg/97.jpg"
+       },
+       {
+        "size": "medium",
+        "url": "https://cdn.getyourguide.com/img/review/0aa3955d2fee90e609495a12358f6bcb3956c1c38c2477fcdbfe846743a3aa5c.jpg/98.jpg"
+       },
+       {
+        "size": "large",
+        "url": "https://cdn.getyourguide.com/img/review/0aa3955d2fee90e609495a12358f6bcb3956c1c38c2477fcdbfe846743a3aa5c.jpg/99.jpg"
+       },
+       {
+        "size": "gallery",
+        "url": "https://cdn.getyourguide.com/img/review/0aa3955d2fee90e609495a12358f6bcb3956c1c38c2477fcdbfe846743a3aa5c.jpg/107.jpg"
+       },
+       {
+        "size": "desktop",
+        "url": "https://cdn.getyourguide.com/img/review/0aa3955d2fee90e609495a12358f6bcb3956c1c38c2477fcdbfe846743a3aa5c.jpg/145.jpg"
+       },
+       {
+        "size": "mobile",
+        "url": "https://cdn.getyourguide.com/img/review/0aa3955d2fee90e609495a12358f6bcb3956c1c38c2477fcdbfe846743a3aa5c.jpg/146.jpg"
+       },
+       {
+        "size": "thumb",
+        "url": "https://cdn.getyourguide.com/img/review/0aa3955d2fee90e609495a12358f6bcb3956c1c38c2477fcdbfe846743a3aa5c.jpg/53.jpg"
+       },
+       {
+        "size": "largeThumb",
+        "url": "https://cdn.getyourguide.com/img/review/0aa3955d2fee90e609495a12358f6bcb3956c1c38c2477fcdbfe846743a3aa5c.jpg/161.jpg"
+       }
+      ]
+     },
+     {
+      "mediaId": 673173,
+      "mediaType": "photo",
+      "urls": [
+       {
+        "size": "small",
+        "url": "https://cdn.getyourguide.com/img/review/1e691b8e414e655647641344a217e919ea850fda3e3b3fb44464bc5c10a7204b.jpg/97.jpg"
+       },
+       {
+        "size": "medium",
+        "url": "https://cdn.getyourguide.com/img/review/1e691b8e414e655647641344a217e919ea850fda3e3b3fb44464bc5c10a7204b.jpg/98.jpg"
+       },
+       {
+        "size": "large",
+        "url": "https://cdn.getyourguide.com/img/review/1e691b8e414e655647641344a217e919ea850fda3e3b3fb44464bc5c10a7204b.jpg/99.jpg"
+       },
+       {
+        "size": "gallery",
+        "url": "https://cdn.getyourguide.com/img/review/1e691b8e414e655647641344a217e919ea850fda3e3b3fb44464bc5c10a7204b.jpg/107.jpg"
+       },
+       {
+        "size": "desktop",
+        "url": "https://cdn.getyourguide.com/img/review/1e691b8e414e655647641344a217e919ea850fda3e3b3fb44464bc5c10a7204b.jpg/145.jpg"
+       },
+       {
+        "size": "mobile",
+        "url": "https://cdn.getyourguide.com/img/review/1e691b8e414e655647641344a217e919ea850fda3e3b3fb44464bc5c10a7204b.jpg/146.jpg"
+       },
+       {
+        "size": "thumb",
+        "url": "https://cdn.getyourguide.com/img/review/1e691b8e414e655647641344a217e919ea850fda3e3b3fb44464bc5c10a7204b.jpg/53.jpg"
+       },
+       {
+        "size": "largeThumb",
+        "url": "https://cdn.getyourguide.com/img/review/1e691b8e414e655647641344a217e919ea850fda3e3b3fb44464bc5c10a7204b.jpg/161.jpg"
+       }
+      ]
+     }
+    ],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_transport",
+      "ratingValue": 3
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "couple",
+    "travelerTypeLabel": "Couple"
+   },
+   {
+    "id": 107715745,
+    "author": {
+     "country": "United States",
+     "countryCode": "US",
+     "fullName": "GetYourGuide traveler"
+    },
+    "title": "",
+    "message": "",
+    "isAnonymous": true,
+    "rating": 5,
+    "created": "2024-07-05T20:42:48+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "",
+    "media": [],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "",
+    "travelerTypeLabel": null
+   },
+   {
+    "id": 107713100,
+    "author": {
+     "country": "United States",
+     "countryCode": "US",
+     "fullName": "GetYourGuide traveler"
+    },
+    "title": "",
+    "message": "",
+    "isAnonymous": true,
+    "rating": 5,
+    "created": "2024-07-05T17:59:17+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "",
+    "media": [],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "",
+    "travelerTypeLabel": null
+   },
+   {
+    "id": 107673858,
+    "author": {
+     "country": "United States",
+     "countryCode": "US",
+     "fullName": "Monica"
+    },
+    "title": "",
+    "message": "We booked the combined trip with Flight and dog mushing! It was an amazing adventure. A quick trip to the top of the glacier and then a lap around the circuit with the fabulous Iditarod dogs. Our helicopter pilot was amazing as were the staff working with the dogs. It was a great day",
+    "isAnonymous": false,
+    "rating": 5,
+    "created": "2024-07-03T21:32:32+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "en",
+    "media": [],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 3
+     },
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_transport",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "friends",
+    "travelerTypeLabel": "Friend group"
+   },
+   {
+    "id": 107370788,
+    "author": {
+     "country": "South Africa",
+     "countryCode": "ZA",
+     "fullName": "David"
+    },
+    "title": "",
+    "message": "It was all fantastic",
+    "isAnonymous": false,
+    "rating": 5,
+    "created": "2024-06-19T02:43:02+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "en",
+    "media": [],
+    "optionId": 408072,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 4
+     },
+     {
+      "ratingType": "rating_transport",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "couple",
+    "travelerTypeLabel": "Couple"
+   },
+   {
+    "id": 107314733,
+    "author": {
+     "country": "United States",
+     "countryCode": "US",
+     "fullName": "GetYourGuide traveler"
+    },
+    "title": "",
+    "message": "",
+    "isAnonymous": true,
+    "rating": 5,
+    "created": "2024-06-16T02:56:50+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "",
+    "media": [],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "",
+    "travelerTypeLabel": null
+   },
+   {
+    "id": 106768313,
+    "author": {
+     "country": "Australia",
+     "countryCode": "AU",
+     "fullName": "DIANE"
+    },
+    "title": "",
+    "message": "The helicopter flight was brilliant and glacier landing pity the clouds stopped us from experiencing the dog mushing, safety first for sure would of been fun but the glacier landing g was amazing Cody was an excellent pilot and guide Thanks to all the team for a great morning",
+    "isAnonymous": false,
+    "rating": 5,
+    "created": "2024-05-19T02:56:36+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": false,
+    "language": "en",
+    "media": [],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "couple",
+    "travelerTypeLabel": "Couple"
+   },
+   {
+    "id": 102852939,
+    "author": {
+     "country": "Germany",
+     "countryCode": "DE",
+     "fullName": "Thomas"
+    },
+    "title": "",
+    "message": "War ein super Erlebnis……ein unvergessliches Erlebnis……absolut zu Empfehlen",
+    "isAnonymous": false,
+    "rating": 5,
+    "created": "2023-08-25T03:05:04+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": null,
+    "language": "de",
+    "media": [],
+    "optionId": 408072,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 4
+     },
+     {
+      "ratingType": "rating_transport",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "family_old",
+    "travelerTypeLabel": "Family with teens"
+   },
+   {
+    "id": 102438881,
+    "author": {
+     "country": "United States",
+     "countryCode": "US",
+     "fullName": "Sarah"
+    },
+    "title": "",
+    "message": "The best thing we did in Alaska. This felt Like a once. in a lifetime experience…. Because it was! Many people never see the glaciers from this vantage point…and it’s worth it! We climbed over water filled crevices and even drank water from them and the water was the best we’d ever had Sledding with the dogs was also an amazing experience to get a taste of what these dog sled teams do to prepare for the Iditarod",
+    "isAnonymous": false,
+    "rating": 5,
+    "created": "2023-08-05T16:14:37+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": null,
+    "language": "en",
+    "media": [],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 4
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "family_old",
+    "travelerTypeLabel": "Family with teens"
+   },
+   {
+    "id": 102384214,
+    "author": {
+     "country": "United States",
+     "countryCode": "US",
+     "fullName": "Kristen"
+    },
+    "title": "",
+    "message": "",
+    "isAnonymous": false,
+    "rating": 5,
+    "created": "2023-08-02T17:55:52+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": null,
+    "language": "",
+    "media": [],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_transport",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "family_young",
+    "travelerTypeLabel": "Family with kids"
+   },
+   {
+    "id": 102354393,
+    "author": {
+     "country": "United States",
+     "countryCode": "US",
+     "fullName": "GetYourGuide traveler"
+    },
+    "title": "",
+    "message": "I would like to have dogsled a little more time, and longer sledding.",
+    "isAnonymous": true,
+    "rating": 5,
+    "created": "2023-08-01T06:23:20+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": null,
+    "language": "en",
+    "media": [],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_transport",
+      "ratingValue": 4
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "couple",
+    "travelerTypeLabel": "Couple"
+   },
+   {
+    "id": 102222034,
+    "author": {
+     "country": "United States",
+     "countryCode": "US",
+     "fullName": "GetYourGuide traveler"
+    },
+    "title": "",
+    "message": "",
+    "isAnonymous": true,
+    "rating": 5,
+    "created": "2023-07-25T00:57:19+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": null,
+    "language": "",
+    "media": [],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "",
+    "travelerTypeLabel": null
+   },
+   {
+    "id": 102093783,
+    "author": {
+     "country": "",
+     "countryCode": null,
+     "fullName": "Mollie"
+    },
+    "title": "",
+    "message": "",
+    "isAnonymous": false,
+    "rating": 5,
+    "created": "2023-07-17T23:08:07+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": null,
+    "language": "",
+    "media": [],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_transport",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "couple",
+    "travelerTypeLabel": "Couple"
+   },
+   {
+    "id": 101837035,
+    "author": {
+     "country": "Mexico",
+     "countryCode": "MX",
+     "fullName": "GetYourGuide traveler"
+    },
+    "title": "",
+    "message": "",
+    "isAnonymous": true,
+    "rating": 5,
+    "created": "2023-07-02T03:40:23+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": null,
+    "language": "",
+    "media": [],
+    "optionId": 408072,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_transport",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "",
+    "travelerTypeLabel": null
+   },
+   {
+    "id": 101724100,
+    "author": {
+     "country": "Germany",
+     "countryCode": "DE",
+     "fullName": "Christina"
+    },
+    "title": "",
+    "message": "Ein atemberaubendes Erlebnis!",
+    "isAnonymous": false,
+    "rating": 5,
+    "created": "2023-06-23T22:13:56+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": null,
+    "language": "de",
+    "media": [],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_transport",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "couple",
+    "travelerTypeLabel": "Couple"
+   },
+   {
+    "id": 101195298,
+    "author": {
+     "country": "Belgium",
+     "countryCode": "BE",
+     "fullName": "GetYourGuide traveler"
+    },
+    "title": "",
+    "message": "",
+    "isAnonymous": true,
+    "rating": 5,
+    "created": "2023-05-10T06:08:45+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": null,
+    "language": "",
+    "media": [],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "",
+    "travelerTypeLabel": null
+   },
+   {
+    "id": 100909783,
+    "author": {
+     "country": "",
+     "countryCode": null,
+     "fullName": "GetYourGuide traveler"
+    },
+    "title": "",
+    "message": "",
+    "isAnonymous": false,
+    "rating": 5,
+    "created": "2023-04-15T02:58:13+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": null,
+    "language": "",
+    "media": [],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "",
+    "travelerTypeLabel": null
+   },
+   {
+    "id": 14609676,
+    "author": {
+     "country": "Poland",
+     "countryCode": "PL",
+     "fullName": "GetYourGuide traveler"
+    },
+    "title": "",
+    "message": "",
+    "isAnonymous": true,
+    "rating": 5,
+    "created": "2022-09-04T07:48:06+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": null,
+    "language": "",
+    "media": [],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "",
+    "travelerTypeLabel": null
+   },
+   {
+    "id": 14383257,
+    "author": {
+     "country": "United Arab Emirates",
+     "countryCode": null,
+     "fullName": "GetYourGuide traveler"
+    },
+    "title": "",
+    "message": "Me and my family really like it the pilot was perfect and all of the stuff",
+    "isAnonymous": true,
+    "rating": 5,
+    "created": "2022-08-08T16:09:55+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": null,
+    "language": "en-US",
+    "media": [],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "",
+    "travelerTypeLabel": null
+   },
+   {
+    "id": 14379858,
+    "author": {
+     "country": "United States",
+     "countryCode": "US",
+     "fullName": "GetYourGuide traveler"
+    },
+    "title": "",
+    "message": "Everything is perfect, kids love it",
+    "isAnonymous": true,
+    "rating": 5,
+    "created": "2022-08-08T08:54:04+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": null,
+    "language": "en-US",
+    "media": [],
+    "optionId": 408072,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "",
+    "travelerTypeLabel": null
+   },
+   {
+    "id": 14246348,
+    "author": {
+     "country": "United States",
+     "countryCode": "US",
+     "fullName": "GetYourGuide traveler"
+    },
+    "title": "",
+    "message": "This was amazing, suggest planning it towards the end of your trip so it is a highlight. Dogs run in the Iditarod!",
+    "isAnonymous": true,
+    "rating": 5,
+    "created": "2022-07-22T06:26:34+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": null,
+    "language": "en-US",
+    "media": [],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "",
+    "travelerTypeLabel": null
+   },
+   {
+    "id": 14113893,
+    "author": {
+     "country": "",
+     "countryCode": null,
+     "fullName": "GetYourGuide traveler"
+    },
+    "title": "",
+    "message": "",
+    "isAnonymous": true,
+    "rating": 5,
+    "created": "2022-06-30T14:02:44+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": null,
+    "language": "",
+    "media": [],
+    "optionId": 408072,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "",
+    "travelerTypeLabel": null
+   },
+   {
+    "id": 14101962,
+    "author": {
+     "country": "Germany",
+     "countryCode": "DE",
+     "fullName": "GetYourGuide traveler"
+    },
+    "title": "",
+    "message": "Tolle Flug + Pilot, Musher Ben ebenso. Ein einmaliges Erlebnis!!",
+    "isAnonymous": true,
+    "rating": 5,
+    "created": "2022-06-28T08:50:51+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": null,
+    "language": "de-DE",
+    "media": [],
+    "optionId": 408072,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "",
+    "travelerTypeLabel": null
+   },
+   {
+    "id": 13795197,
+    "author": {
+     "country": "Mexico",
+     "countryCode": "MX",
+     "fullName": "GetYourGuide traveler"
+    },
+    "title": "",
+    "message": "El personal aviso de manera oportuna que la parte de paseo en trineo con perros no iba a ser posible realizar debido a mal tiempo y es excelente pensando en seguridad del cliente, sin embargo el paso en helicoptero y al glaciar si fue posible y la atencion y explicacion de seguridad y del piloto Shine fueron excelentes. La amabilidad del piloto fue muy agradable y su explicacion en el vuelo y en el glaciar fueron extraordinarias. Nos facilitaron dispositivo para el calzado especial para caminar sobre el glaciar. El recorrido en el glaciar fue excelente ¡ recomindo 100% este paseo ¡¡¡",
+    "isAnonymous": true,
+    "rating": 5,
+    "created": "2022-05-19T15:56:02+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": null,
+    "language": "es-ES",
+    "media": [],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "",
+    "travelerTypeLabel": null
+   },
+   {
+    "id": 13085988,
+    "author": {
+     "country": "",
+     "countryCode": null,
+     "fullName": "GetYourGuide traveler"
+    },
+    "title": "",
+    "message": "",
+    "isAnonymous": true,
+    "rating": 5,
+    "created": "2021-09-13T08:04:55+02:00",
+    "activityId": 147273,
+    "enjoyment": "",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": null,
+    "language": "",
+    "media": [],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "",
+    "travelerTypeLabel": null
+   },
+   {
+    "id": 13016911,
+    "author": {
+     "country": "",
+     "countryCode": null,
+     "fullName": "wanda"
+    },
+    "title": "",
+    "message": "Una experiencia maravillosa. excelente servicio. el piloto del helicoptero es cortés y profesional. Vistas únicas y el trineo de perros y sus cuidadores son excepcionales. 100% recomendado.",
+    "isAnonymous": false,
+    "rating": 5,
+    "created": "2021-09-12T08:51:31+02:00",
+    "activityId": 147273,
+    "enjoyment": "Todo",
+    "formattedMessage": null,
+    "hasUpvoted": false,
+    "isPartnerReview": false,
+    "isTestData": null,
+    "language": "es-ES",
+    "media": [],
+    "optionId": 368979,
+    "originalLanguage": null,
+    "ratings": [
+     {
+      "ratingType": "rating_guide",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_overall",
+      "ratingValue": 5
+     },
+     {
+      "ratingType": "rating_value",
+      "ratingValue": 5
+     }
+    ],
+    "replies": [],
+    "tags": null,
+    "travelerType": "",
+    "travelerTypeLabel": null
+   }
+  ]
+ },
+ "incomplete": [],
+ "exhausted": [
+  "1",
+  "2",
+  "3",
+  "4",
+  "5"
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "activityId": "412355",
+ "totalCount": 0,
+ "averageRating": 0,
+ "averagePerCategory": {
+  "guide": 0.0,
+  "transportation": 0.0,
+  "service": 0.0,
+  "organization": 0.0,
+  "valueForMoney": 0.0,
+  "safety": 0.0,
+  "meetingPoint": 0.0
+ },
+ "countPerCategory": {
+  "guide": 0,
+  "transportation": 0,
+  "service": 0,
+  "organization": 0,
+  "valueForMoney": 0,
+  "safety": 0,
+  "meetingPoint": 0,
+  "skipTheLine": 0
+ },
+ "mediaCount": null,
+ "byRating": {
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "5": []
+ },
+ "incomplete": [],
+ "exhausted": [
+  "1",
+  "2",
+  "3",
+  "4",
+  "5"
+ ]
+}

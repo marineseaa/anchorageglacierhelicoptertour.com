@@ -70,7 +70,7 @@ Usually not particularly. A standard helicopter landing is a very different thin
 
 This varies by tour, and it's worth separating **total duration** from **actual flight time** from **time on the glacier** — a "90-minute tour" doesn't necessarily mean 90 minutes of flying, and a one-hour landing tour doesn't mean you spend the full hour standing on the ice.
 
-On this site specifically: the [Palmer tour](/tours/from-palmer-knik-glacier-helicopter-tour/) gives the most ice time at 45 minutes, inside a 90-minute booking. The [flagship landing tour](/tours/anchorage-knik-glacier-helicopter-tour-with-landing/) gives 30 minutes, inside a one-hour booking. The [Grand Knik tour](/tours/anchorage-grand-knik-glacier-helicopter-tour-with-landings/) spreads its time across three separate touchdowns over two hours.
+On this site specifically: the [Palmer tour](/tours/from-palmer-knik-glacier-helicopter-tour/) gives the most ice time at 45 minutes, inside a 90-minute booking. The [flagship landing tour](/tours/anchorage-knik-glacier-helicopter-tour-with-landing/) gives 30 minutes, inside a one-hour booking ([what to know before booking it](/guides/is-the-knik-glacier-helicopter-tour-worth-it/)). The [Grand Knik tour](/tours/anchorage-grand-knik-glacier-helicopter-tour-with-landings/) spreads its time across three separate touchdowns over two hours.
 
 ### Is 20–30 minutes on a glacier enough?
 

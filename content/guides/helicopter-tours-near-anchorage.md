@@ -71,7 +71,7 @@ It is also one of the easiest areas to book, because you can choose how far to t
 
 ### Simple, upgraded or adventure
 
-**Simple:** fly and land once. The [flagship landing tour](/tours/anchorage-knik-glacier-helicopter-tour-with-landing/) ($522, rated 5.0 from 89 guests) or the [Palmer flight](/tours/from-palmer-knik-glacier-helicopter-tour/) ($520, 4.9 from 34).
+**Simple:** fly and land once. The [flagship landing tour](/tours/anchorage-knik-glacier-helicopter-tour-with-landing/) ($522, rated 5.0 from 90 guests) or the [Palmer flight](/tours/from-palmer-knik-glacier-helicopter-tour/) ($520, 4.9 from 34).
 
 **Upgraded:** a longer flight with several landings. The {{< gyg-link tour="412333" >}}Grand Knik Glacier Helicopter Tour with Landings{{< /gyg-link >}} gives two hours and three touchdowns for $762.
 
@@ -124,7 +124,7 @@ The drive is part of the attraction. The road between Anchorage and Girdwood fol
 Alpine Air's Girdwood flights include:
 
 - a **30-minute scenic flight** with no landing, the {{< viator-link code="85337P1" >}}Anchorage Helicopter Flightseeing Tour (30 min){{< /viator-link >}}, which is sold on Viator (from $459, rated 5.0 from 16 reviews) and directly by Alpine Air, not on GetYourGuide;
-- a **one-hour glacier landing**, the {{< gyg-link tour="1107685" >}}Girdwood: Chugach Mountains Helicopter Flight with Landing{{< /gyg-link >}} (from $620, 4.9 from 14 guests), with 15 to 20 minutes on the ice;
+- a **one-hour glacier landing**, the {{< gyg-link tour="1107685" >}}Girdwood: Chugach Mountains Helicopter Flight with Landing{{< /gyg-link >}} (from $629, no reviews on its listing when we checked in October 2026), with 15 to 20 minutes on the ice;
 - a **90-minute flight with two landings**, the {{< gyg-link tour="1078337" >}}Anchorage: 90-min Flight with 2 Landings{{< /gyg-link >}} ($844), one on glacier ice and one on a ridge or lake, although its rating rests on only four reviews so far;
 - a **Prince William Sound flight**, the {{< viator-link code="85337P5" >}}Anchorage Prince William Sound Heli Tour with Glacier Landing{{< /viator-link >}} (90 minutes, from $769 on Viator, 4.95 from 64 reviews);
 - **glacier dog sledding** on Punchbowl Glacier in summer, the {{< gyg-link tour="1079145" >}}Anchorage: Helicopter Glacier Dogsledding Tour{{< /gyg-link >}} ($769).
@@ -150,7 +150,7 @@ As with any Alaska helicopter tour, the exact route and landing site depend on t
 
 Yes. Girdwood is not only a scenic-flight base; glacier landings are a standard part of what Alpine Air sells there.
 
-So if you're choosing between Knik and Girdwood, the decision isn't **landing versus no landing**. You can land on a glacier from either. The useful comparison is the whole itinerary, and what else you're doing that day. One difference does show up in the numbers: the Knik landing tours give 30 to 45 minutes on the ice for $520 to $522, while the one-hour Girdwood landing gives 15 to 20 minutes for $620. For the difference in what you land on, see our [Knik versus Punchbowl comparison](/guides/knik-glacier-vs-punchbowl-glacier-helicopter-tours/).
+So if you're choosing between Knik and Girdwood, the decision isn't **landing versus no landing**. You can land on a glacier from either. The useful comparison is the whole itinerary, and what else you're doing that day. One difference does show up in the numbers: the Knik landing tours give 30 to 45 minutes on the ice for $520 to $522, while the one-hour Girdwood landing gives 15 to 20 minutes for $629. For the difference in what you land on, see our [Knik versus Punchbowl comparison](/guides/knik-glacier-vs-punchbowl-glacier-helicopter-tours/).
 
 ## Knik Glacier or Girdwood: which is better?
 
@@ -181,7 +181,7 @@ Choose the one that fits your itinerary. The difference between an excellent Kni
 | | **Knik / Palmer** | **Girdwood** |
 |---|---|---|
 | Direction from Anchorage | North / northeast | South |
-| Glacier landing | **Yes**, from $520 | **Yes**, from $620 |
+| Glacier landing | **Yes**, from $520 | **Yes**, from $629 |
 | Time on the ice, basic landing | 30 to 45 minutes | 15 to 20 minutes |
 | Short scenic flight, no landing | Not sold as a separate tour | **30-minute flight** |
 | Multi-landing tours | Three landings, two hours | Two landings, 90 minutes |
@@ -456,7 +456,7 @@ Yes. Both the Knik tours and the Girdwood tours include glacier landings. The Kn
 
 ### What is the best glacier helicopter tour near Anchorage?
 
-For most first-time visitors, a one-landing Knik or Girdwood glacier tour. The [Knik Glacier Helicopter Tour with Landing](/tours/anchorage-knik-glacier-helicopter-tour-with-landing/) is the best-reviewed on this site, rated 5.0 from 89 guests.
+For most first-time visitors, a one-landing Knik or Girdwood glacier tour. The [Knik Glacier Helicopter Tour with Landing](/tours/anchorage-knik-glacier-helicopter-tour-with-landing/) is the best-reviewed on this site, rated 5.0 from 90 guests.
 
 ### Which is better, Knik Glacier or Girdwood?
 

@@ -1,7 +1,7 @@
 ---
 title: "Girdwood Helicopter Tours — Glacier Landings, 45 Min South"
 h1: "Glacier Flights from Girdwood"
-description: "Helicopter tours from Girdwood Airport into the Chugach: a one-hour glacier landing, a two-landing flight, Punchbowl Glacier dogsledding. The shortest drive from Anchorage, from $620."
+description: "Helicopter tours from Girdwood Airport into the Chugach: a one-hour glacier landing, a two-landing flight, Punchbowl Glacier dogsledding. The shortest drive from Anchorage, from $629."
 type: "landing"
 layout: "single"
 date: 2026-09-03
@@ -31,7 +31,7 @@ All three Girdwood tours leave from the Alpine Air Alaska hangar at Girdwood Air
 
 ## Three tours, three quite different purchases
 
-**{{< gyg-link tour="1107685" >}}Girdwood: Chugach Mountains Helicopter Flight with Landing{{< /gyg-link >}}** — the simple one. A one-hour flight into the Chugach backcountry and one glacier landing, with fifteen to twenty minutes on foot on the ice. In spring and summer the glaciers out here carry blue meltwater pools too. From $620, rated 4.9 from 14 guests. It is the cheapest way onto a glacier from Girdwood, though still about $100 more than the Knik valley landing tours, which also give more time on the ice.
+**{{< gyg-link tour="1107685" >}}Girdwood: Chugach Mountains Helicopter Flight with Landing{{< /gyg-link >}}** — the simple one. A one-hour flight into the Chugach backcountry and one glacier landing, with fifteen to twenty minutes on foot on the ice. In spring and summer the glaciers out here carry blue meltwater pools too. From $629; its listing showed no reviews when we checked in October 2026. It is the cheapest way onto a glacier from Girdwood, though still about $100 more than the Knik valley landing tours, which also give more time on the ice.
 
 **[90-min Flight with 2 Landings](/tours/anchorage-90-min-flight-with-2-landings/)** — the longest flight on this site. Ninety minutes through the Chugach with **two landings**: one on glacier ice, where you get around thirty minutes, and one on a high alpine ridge or a remote mountain lake. That second stop is the reason to book it. A glacier landing gives you ice; a ridge landing gives you the view back across the icefield you have just flown over, which is a different and often better photograph. From $844 via {{< gyg-link tour="1078337" >}}Anchorage: 90-min Flight with 2 Landings{{< /gyg-link >}}.
 
@@ -43,7 +43,7 @@ Note the **two-passenger minimum**. Solo travellers cannot simply book online �
 
 Bare blue ice. Punchbowl is a high snowfield that holds snow year-round — that is exactly why a dog team can live on it in July — so what you land on is white rather than the crevassed, meltwater-pooled surface that makes [Knik Glacier](/knik-glacier-helicopter-tours/) photograph the way it does. The 90-minute flight's glacier landing does put you on ice, but the route and the terrain are alpine Chugach rather than a broad valley glacier.
 
-It also does not give you the cheapest option. The lowest Girdwood price is $620, for fifteen to twenty minutes on the ice; the Knik valley starts at $520 for a landing with forty-five minutes on it. If cost is the deciding factor, drive north.
+It also does not give you the cheapest option. The lowest Girdwood price is $629, for fifteen to twenty minutes on the ice; the Knik valley starts at $520 for a landing with forty-five minutes on it. If cost is the deciding factor, drive north.
 
 ## Weather: the honest caveat
 
