@@ -96,7 +96,7 @@ Several first-time helicopter passengers said the pilot put them at ease.
 
 ## Flying in October and winter
 
-The operator flies year-round, seven days a week. In winter it only operates in daylight, so early-morning and late-afternoon departures aren't available. Reviews from October to March are as positive as the summer ones. Our [best-time guide](/guides/best-time-for-an-anchorage-glacier-helicopter-tour/) compares the seasons month by month, including daylight hours and what the glacier looks like.
+The operator flies year-round, seven days a week. Our guide to the [Knik Glacier in winter](/guides/knik-glacier-helicopter-tours-in-winter/) explains where the pilot can land once snow covers the ice. In winter it only operates in daylight, so early-morning and late-afternoon departures aren't available. Reviews from October to March are as positive as the summer ones. Our [best-time guide](/guides/best-time-for-an-anchorage-glacier-helicopter-tour/) compares the seasons month by month, including daylight hours and what the glacier looks like.
 
 ## Other practical things to know
 

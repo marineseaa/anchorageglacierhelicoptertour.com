@@ -57,7 +57,7 @@ Transfers from Anchorage are not included in any price. Alaska Helicopter Tours 
 
 **[Helicopter and Paddleboarding Tour](/tours/anchorage-knik-glacier-helicopter-and-paddleboarding-tour/)** — four hours, a dry suit, and a turquoise meltwater pool on the glacier surface. From $1,470 through {{< gyg-link tour="412348" >}}Anchorage: Knik Glacier Helicopter and Paddleboarding Tour{{< /gyg-link >}}.
 
-**[Helicopter and Ice Climbing Tour](/tours/anchorage-knik-glacier-helicopter-and-ice-climbing-tour/)** — up to four hours on the ice with an instructor, all technical gear provided, no experience needed, and ice cave exploration added in winter. From $1,416 via {{< gyg-link tour="412355" >}}Anchorage: Knik Glacier Helicopter and Ice Climbing Tour{{< /gyg-link >}}.
+**[Helicopter and Ice Climbing Tour](/tours/anchorage-knik-glacier-helicopter-and-ice-climbing-tour/)** — up to four hours on the ice with an instructor, all technical gear provided, no experience needed, and ice cave exploration added in winter. For what changes on the [Knik Glacier in winter](/guides/knik-glacier-helicopter-tours-in-winter/), from landing sites to daylight, see our winter guide. From $1,416 via {{< gyg-link tour="412355" >}}Anchorage: Knik Glacier Helicopter and Ice Climbing Tour{{< /gyg-link >}}.
 
 ## Read the weight limits before you book
 

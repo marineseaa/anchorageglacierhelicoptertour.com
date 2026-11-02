@@ -216,7 +216,7 @@ Yes — Knik is the main landing destination on this site, reached from operator
 
 ### Are glacier landings available in winter?
 
-Some Anchorage-area operations run year-round; see our [best-time guide](/guides/best-time-for-an-anchorage-glacier-helicopter-tour/) for what actually changes by season.
+Some Anchorage-area operations run year-round, and our guide to [winter Knik Glacier landings](/guides/knik-glacier-helicopter-tours-in-winter/) covers the snow season; see our [best-time guide](/guides/best-time-for-an-anchorage-glacier-helicopter-tour/) for what actually changes by season.
 
 ### Are ice caves guaranteed on a glacier landing?
 

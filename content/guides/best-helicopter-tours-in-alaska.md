@@ -169,7 +169,7 @@ Alaska helicopter sightseeing isn't exclusively a summer activity. Winter create
 
 **Downsides:** shorter daylight hours, colder conditions, fewer tourist activities overall, tour availability varying by operator, and weather disrupting plans more readily than in summer.
 
-No single tour on this site is sold specifically as a "winter" product — winter changes what a handful of the existing tours look like rather than adding a new one. Our [best-time guide](/guides/best-time-for-an-anchorage-glacier-helicopter-tour/) goes through what actually changes month by month.
+No single tour on this site is sold specifically as a "winter" product — winter changes what a handful of the existing tours look like rather than adding a new one. The operator-direct winter tours, such as ice caves and guided glacier walks, are in our [winter glacier helicopter tour comparison](/guides/winter-glacier-helicopter-tours-from-anchorage/). Our [best-time guide](/guides/best-time-for-an-anchorage-glacier-helicopter-tour/) goes through what actually changes month by month.
 
 ### Verdict
 

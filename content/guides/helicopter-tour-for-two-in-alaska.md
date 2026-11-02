@@ -184,7 +184,7 @@ For most couples staying in Anchorage, we'd narrow it to three real choices on t
 
 ### Best overall: the flagship Knik Glacier landing
 
-$522pp, one hour, thirty minutes flying and thirty minutes on the ice, rated 5.0 from 90 reviews — the most-reviewed and best-rated tour on this site. Book it via {{< gyg-link tour="147264" >}}Anchorage: Knik Glacier Helicopter Tour with Landing{{< /gyg-link >}}. Choose this if you want the classic Alaska helicopter experience without turning the day into an expedition.
+$522pp, one hour, thirty minutes flying and thirty minutes on the ice, rated 5.0 from 91 reviews — the most-reviewed and best-rated tour on this site. Book it via {{< gyg-link tour="147264" >}}Anchorage: Knik Glacier Helicopter Tour with Landing{{< /gyg-link >}}. Choose this if you want the classic Alaska helicopter experience without turning the day into an expedition.
 
 ### Best value: the Palmer landing
 
@@ -344,7 +344,7 @@ Book **shared** if you're primarily sightseeing — it's the better-value choice
 
 ### What is the best helicopter tour for two near Anchorage?
 
-For most first-time visitors, the [flagship Knik Glacier landing tour](/tours/anchorage-knik-glacier-helicopter-tour-with-landing/) at $522pp — rated 5.0 from 90 reviews, the most-reviewed tour on this site.
+For most first-time visitors, the [flagship Knik Glacier landing tour](/tours/anchorage-knik-glacier-helicopter-tour-with-landing/) at $522pp — rated 5.0 from 91 reviews, the most-reviewed tour on this site.
 
 ---
 

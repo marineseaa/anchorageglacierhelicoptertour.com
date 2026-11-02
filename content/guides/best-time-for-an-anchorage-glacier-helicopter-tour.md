@@ -108,7 +108,7 @@ Landing flights continue, but the summer activity tours have stopped. Snow retur
 
 ### December to March: snow and ice caves
 
-The glacier is white, and this is the season for the tours you cannot do in summer. Outbound runs its Winter Ice Cave Adventure from December to March, and Alaska Helicopter Tours runs winter ice climbing from December 15 to March 31. Ice caves are natural formations that change from year to year, so no particular cave is promised. Average highs at Palmer are 22 to 34°F, and you need full winter clothing.
+The glacier is white, and this is the season for the tours you cannot do in summer; our guide to [winter glacier helicopter tours](/guides/winter-glacier-helicopter-tours-from-anchorage/) compares them one by one. Outbound runs its Winter Ice Cave Adventure from December to March, and Alaska Helicopter Tours runs winter ice climbing from December 15 to March 31. Ice caves are natural formations that change from year to year, so no particular cave is promised. Average highs at Palmer are 22 to 34°F, and you need full winter clothing.
 
 Daylight is the main limit. Mid-December has 5 hours 25 minutes between sunrise and sunset at the Knik River, and Alaska Helicopter Tours flies only in daylight in winter, so early-morning and late-afternoon departures are not offered. By mid-March the days are back to almost 12 hours. The northern lights are possible on winter nights, but the flights run in daylight.
 
@@ -154,7 +154,7 @@ So choose the time that fits your day. A morning flight leaves the afternoon for
 
 ## Which glacier tour suits your season
 
-The {{< gyg-link tour="147264" >}}Knik Glacier Helicopter Tour with Landing{{< /gyg-link >}} from Alaska Glacier Lodge is the one to book in any month: an hour, with about 30 minutes on the ice, rated 4.99 from 90 reviews. For more time over the ice field, the {{< gyg-link tour="412333" >}}Grand Knik Glacier Helicopter Tour with Landings{{< /gyg-link >}} makes three landings in two hours (4.98 from 26 reviews), and Outbound's {{< gyg-link tour="492083" >}}Knik Glacier Helicopter Tour from Palmer{{< /gyg-link >}} is rated 4.92 from 34 reviews. [Our full breakdown of the landing tour →](/tours/anchorage-knik-glacier-helicopter-tour-with-landing/)
+The {{< gyg-link tour="147264" >}}Knik Glacier Helicopter Tour with Landing{{< /gyg-link >}} from Alaska Glacier Lodge is the one to book in any month: an hour, with about 30 minutes on the ice, rated 4.99 from 91 reviews. For more time over the ice field, the {{< gyg-link tour="412333" >}}Grand Knik Glacier Helicopter Tour with Landings{{< /gyg-link >}} makes three landings in two hours (4.98 from 26 reviews), and Outbound's {{< gyg-link tour="492083" >}}Knik Glacier Helicopter Tour from Palmer{{< /gyg-link >}} is rated 4.93 from 36 reviews. [Our full breakdown of the landing tour →](/tours/anchorage-knik-glacier-helicopter-tour-with-landing/)
 
 From May to August you can add a dog team. The {{< gyg-link tour="147273" >}}Helicopter and Glacier Dogsled Tour{{< /gyg-link >}} from the Knik River gives you an hour on the snow at the summer camp (4.89 from 64 reviews), and Alpine Air's {{< gyg-link tour="1079145" >}}Helicopter Glacier Dogsledding Tour{{< /gyg-link >}} leaves Girdwood (5.0 from 7 reviews). From mid-May to mid-September the {{< gyg-link tour="412348" >}}Helicopter and Paddleboarding Tour{{< /gyg-link >}} puts you on a meltwater pool on the glacier (5.0 from 12 reviews).
 

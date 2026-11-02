@@ -71,7 +71,7 @@ It is also one of the easiest areas to book, because you can choose how far to t
 
 ### Simple, upgraded or adventure
 
-**Simple:** fly and land once. The [flagship landing tour](/tours/anchorage-knik-glacier-helicopter-tour-with-landing/) ($522, rated 5.0 from 90 guests) or the [Palmer flight](/tours/from-palmer-knik-glacier-helicopter-tour/) ($520, 4.9 from 34).
+**Simple:** fly and land once. The [flagship landing tour](/tours/anchorage-knik-glacier-helicopter-tour-with-landing/) ($522, rated 5.0 from 90 guests) or the [Palmer flight](/tours/from-palmer-knik-glacier-helicopter-tour/) ($520, 4.9 from 36).
 
 **Upgraded:** a longer flight with several landings. The {{< gyg-link tour="412333" >}}Grand Knik Glacier Helicopter Tour with Landings{{< /gyg-link >}} gives two hours and three touchdowns for $762.
 
@@ -327,7 +327,7 @@ It's an excellent combination if dog sledding is already on your list, but it co
 
 ## Do helicopter tours near Anchorage run in winter?
 
-Yes, some do. Alaska Helicopter Tours flies its Knik glacier tours year-round, and Alpine Air flies its flightseeing and glacier-landing tours year-round except on Thanksgiving and Christmas. Winter changes the experience; it doesn't simply shut it down.
+Yes, some do. Alaska Helicopter Tours flies its Knik glacier tours year-round, and Alpine Air flies its flightseeing and glacier-landing tours year-round except on Thanksgiving and Christmas. Winter changes the experience; it doesn't simply shut it down. Our [winter tour comparison](/guides/winter-glacier-helicopter-tours-from-anchorage/) sets out the November to March options with their season dates.
 
 In winter you can expect:
 
