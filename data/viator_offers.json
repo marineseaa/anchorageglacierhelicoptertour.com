@@ -26,5 +26,19 @@
     "reviewCount": 64,
     "checkedAt": "2026-10-03",
     "why": "The GetYourGuide listing (t1063804) has 1 review."
+  },
+  {
+    "code": "329560P6",
+    "title": "Chugach Explorer Heli Flight-2 Hours-2 Landings-Anchorage Area",
+    "supplier": "Outbound Heli Adventures",
+    "departs": "Palmer",
+    "duration": "2 hours",
+    "landing": true,
+    "url": "https://www.viator.com/tours/Anchorage/Chugach-Explorer-Helicopter-Flight-2-Landings-Anchorage-Area/d4152-329560P6",
+    "fromPrice": 649,
+    "rating": 5.0,
+    "reviewCount": 8,
+    "checkedAt": "2026-11-07",
+    "why": "Not sold on GetYourGuide."
   }
 ]
