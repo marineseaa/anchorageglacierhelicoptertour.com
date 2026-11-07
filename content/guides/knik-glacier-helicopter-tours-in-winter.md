@@ -6,7 +6,7 @@ keywords: ["knik glacier helicopter tour winter","knik glacier winter","can you 
 type: "guides"
 date: 2026-11-02
 dateModified: "November 2026"
-dateModifiedISO: "2026-11-02"
+dateModifiedISO: "2026-11-07"
 featuredTourId: 147264
 relatedFAQ: "What happens if the weather cancels my flight?"
 autoWidgetTitle: "Other Knik Glacier and Anchorage tours"
@@ -250,7 +250,7 @@ A **regular Knik Glacier landing** is the simplest choice if you want to fly int
 
 A **winter ice cave tour** suits you better if your main goal is to explore natural ice formations with a guide. The cave you visit and what you do depend on current conditions, and you should never go into one without a professional assessment.
 
-A **guided winter glacier walk**, such as Alaska Helicopter Tours' Winter Glacier Exploration (December 15 to March 31), spends more time on the ground than a scenic landing. It can involve different equipment, longer ground time and a higher price.
+A **guided winter glacier walk**, such as Alaska Helicopter Tours' Winter Glacier Exploration (December 15 to March 14), spends more time on the ground than a scenic landing. It can involve different equipment, longer ground time and a higher price.
 
 If you're choosing between these, start with our [winter glacier helicopter tours comparison](/guides/winter-glacier-helicopter-tours-from-anchorage/) and read the operator's description of the winter itinerary itself as well as the tour title.
 
@@ -315,7 +315,7 @@ It can be, especially if you mainly want an aerial view of glaciers and snowy mo
 
 You can fly to Knik Glacier by helicopter in November, December, January or February, and a landing on the ice itself is often possible. Expect a winter glacier trip with a landing site the pilot chooses on the day and no guaranteed blue ice under your boots.
 
-For a short trip, choose the year-round {{< gyg-link tour="147264" >}}Knik Glacier Landing{{< /gyg-link >}}. For a longer flight with a clear list of winter landing alternatives, compare Outbound's {{< gyg-link tour="492083" >}}Knik Glacier Explorer{{< /gyg-link >}}. For several viewpoints on the ground, look at {{< gyg-link tour="412333" >}}Grand Knik{{< /gyg-link >}}. And for guided access to ice caves or ice climbing, book a dedicated winter tour instead of a standard landing.
+For a short trip, choose the year-round {{< gyg-link tour="147264" >}}Knik Glacier Landing{{< /gyg-link >}}. For a longer flight with a clear list of winter landing alternatives, compare Outbound's {{< gyg-link tour="492083" >}}Knik Glacier Explorer{{< /gyg-link >}}. For several viewpoints on the ground, look at {{< gyg-link tour="412333" >}}Grand Knik{{< /gyg-link >}}. And for guided access to ice caves or ice climbing, book a dedicated winter tour instead of a standard landing. Our guide to the [best Knik Glacier tour in winter](/guides/best-knik-glacier-helicopter-tour-in-winter-single-vs-grand-vs-guided/) sets these options side by side with their prices.
 
 [Explore Knik Glacier helicopter tours and compare booking options](/knik-glacier-helicopter-tours/).
 

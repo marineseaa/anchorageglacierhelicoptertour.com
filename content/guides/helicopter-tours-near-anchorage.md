@@ -327,7 +327,7 @@ It's an excellent combination if dog sledding is already on your list, but it co
 
 ## Do helicopter tours near Anchorage run in winter?
 
-Yes, some do. Alaska Helicopter Tours flies its Knik glacier tours year-round, and Alpine Air flies its flightseeing and glacier-landing tours year-round except on Thanksgiving and Christmas. Winter changes the experience; it doesn't simply shut it down. Our [winter tour comparison](/guides/winter-glacier-helicopter-tours-from-anchorage/) sets out the November to March options with their season dates.
+Yes, some do. Alaska Helicopter Tours flies its Knik glacier tours year-round, and Alpine Air flies its flightseeing and glacier-landing tours year-round except on Thanksgiving and Christmas. Winter changes the experience; it doesn't simply shut it down. Our [winter tour comparison](/guides/winter-glacier-helicopter-tours-from-anchorage/) sets out the November to March options with their season dates, and if Knik Glacier is your pick, we compare the [single vs Grand vs guided in winter](/guides/best-knik-glacier-helicopter-tour-in-winter-single-vs-grand-vs-guided/) options with their prices.
 
 In winter you can expect:
 

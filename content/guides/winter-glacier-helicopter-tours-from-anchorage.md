@@ -6,7 +6,7 @@ keywords: ["winter glacier helicopter tours anchorage","anchorage helicopter tou
 type: "guides"
 date: 2026-11-02
 dateModified: "November 2026"
-dateModifiedISO: "2026-11-04"
+dateModifiedISO: "2026-11-07"
 featuredTourId: 147264
 relatedFAQ: "What is the best month for a glacier helicopter tour near Anchorage?"
 autoWidgetTitle: "More glacier tours around Anchorage"
@@ -21,7 +21,7 @@ Before you pay, check which winter product you are buying. A one-hour flight wit
 
 This guide covers November 2026 to February 2027, with the operators' published starting prices, what the landing looks like in snow and the questions to ask before you book. For the whole year month by month, see our [best time for an Anchorage glacier helicopter tour](/guides/best-time-for-an-anchorage-glacier-helicopter-tour/) guide.
 
-> **At a glance:** For a simple winter glacier landing, look at Alaska Helicopter Tours' {{< gyg-link tour="147264" >}}Knik Glacier Landing{{< /gyg-link >}} or Outbound Heli Adventures' {{< gyg-link tour="492083" >}}Knik Glacier Explorer{{< /gyg-link >}}. For three landings in one trip, book {{< gyg-link tour="412333" >}}Grand Knik{{< /gyg-link >}}. For ice caves, Outbound runs a dedicated Winter Ice Cave Adventure from December to March. For a guided walk on the ice, Alaska Helicopter Tours runs Winter Glacier Exploration from December 15 to March 31. Dates, landing sites and seats depend on the operator's calendar and on safe flying conditions.
+> **At a glance:** For a simple winter glacier landing, look at Alaska Helicopter Tours' {{< gyg-link tour="147264" >}}Knik Glacier Landing{{< /gyg-link >}} or Outbound Heli Adventures' {{< gyg-link tour="492083" >}}Knik Glacier Explorer{{< /gyg-link >}}. For three landings in one trip, book {{< gyg-link tour="412333" >}}Grand Knik{{< /gyg-link >}}. For ice caves, Outbound runs a dedicated Winter Ice Cave Adventure from December to March. For a guided walk on the ice, Alaska Helicopter Tours runs Winter Glacier Exploration from December 15 to March 14. Dates, landing sites and seats depend on the operator's calendar and on safe flying conditions.
 
 ## Winter glacier helicopter tours near Anchorage compared
 
@@ -31,8 +31,8 @@ This guide covers November 2026 to February 2027, with the operators' published 
 | Outbound Heli: {{< gyg-link tour="492083" >}}Knik Glacier Explorer{{< /gyg-link >}} | 1.5 hours | $459 per person | Year-round | More flying and a landing site the pilot picks for the snow | {{< gyg-link tour="492083" >}}From Palmer: Knik Glacier Helicopter Tour{{< /gyg-link >}}, $520, rated 4.93 from 36 reviews |
 | Alaska Helicopter Tours: {{< gyg-link tour="412333" >}}Grand Knik{{< /gyg-link >}} | 2 hours | $749 per person | Year-round | Three remote landings and varied scenery | {{< gyg-link tour="412333" >}}Grand Knik Glacier Helicopter Tour with Landings{{< /gyg-link >}}, $762, rated 4.98 from 26 reviews |
 | Outbound Heli: Winter Ice Cave Adventure | 2 hours | $599 per person | December to March | Seeing glacier ice caves with a guide | Not on GetYourGuide; book with Outbound. Closest listing: the {{< gyg-link tour="492083" >}}Palmer flight{{< /gyg-link >}} |
-| Alaska Helicopter Tours: Winter Glacier Exploration | 2 hours | $1,049 | December 15 to March 31 | A guided walk on the glacier | Not on GetYourGuide; book with the operator. Closest listing: the {{< gyg-link tour="147264" >}}one-hour Knik landing{{< /gyg-link >}} |
-| Alaska Helicopter Tours: {{< gyg-link tour="412355" >}}Glacier Ice Climbing{{< /gyg-link >}} | 4 hours | $1,349 | December 15 to March 31, on request | Active travelers who want a private guided climb | {{< gyg-link tour="412355" >}}Knik Glacier Helicopter and Ice Climbing Tour{{< /gyg-link >}}, $1,416, no reviews yet |
+| Alaska Helicopter Tours: Winter Glacier Exploration | 2 hours | $1,049 | December 15 to March 14 | A guided walk on the glacier | Not on GetYourGuide; book with the operator. Closest listing: the {{< gyg-link tour="147264" >}}one-hour Knik landing{{< /gyg-link >}} |
+| Alaska Helicopter Tours: {{< gyg-link tour="412355" >}}Glacier Ice Climbing{{< /gyg-link >}} | 4 hours | $1,299 | December 15 to March 31, on request | Active travelers who want a private guided climb | {{< gyg-link tour="412355" >}}Knik Glacier Helicopter and Ice Climbing Tour{{< /gyg-link >}}, $1,416, no reviews yet |
 | Outbound Heli: Knik Glacier Ice Climbing, half day | 3.5 hours | $1,099 | Year-round | Climbers aged 16 and over who want instruction and a harder day | Not on GetYourGuide or Viator; book with Outbound. Closest listing: the {{< gyg-link tour="412355" >}}Knik ice-climbing tour{{< /gyg-link >}} |
 
 *Starting prices published on the operators' own websites when we checked on November 2, 2026, not live quotes for your dates. GetYourGuide prices are that platform's "from" price on the same day. Either can change with fees, group size or a private-tour upgrade, and the booking calendar is the final word. A published season does not mean a departure runs every day.
@@ -101,9 +101,9 @@ If you would rather book on GetYourGuide, Outbound's {{< gyg-link tour="492083" 
 
 **Best for:** visitors who want to spend the ground time walking with a guide instead of taking photos beside the helicopter.
 
-Alaska Helicopter Tours' <a href="https://www.alaskahelicoptertours.com/winter-glacier-exploration/" target="_blank" rel="nofollow noopener">Winter Glacier Exploration</a> is a two-hour guided trip with about 25 minutes of flying, sold from December 15 to March 31. On the glacier you walk between half a mile and two miles with a guide, on microspikes or snowshoes depending on the snow, with trekking poles and helmets when needed. Ice caves are sometimes part of the route but not always, and ice skating is added when conditions allow; mention it when you book if you are interested.
+Alaska Helicopter Tours' <a href="https://www.alaskahelicoptertours.com/winter-glacier-exploration/" target="_blank" rel="nofollow noopener">Winter Glacier Exploration</a> is a two-hour guided trip with about 25 minutes of flying, sold from December 15 to March 14. On the glacier you walk between half a mile and two miles with a guide, on microspikes or snowshoes depending on the snow, with trekking poles and helmets when needed. Ice caves are sometimes part of the route but not always, and ice skating is added when conditions allow; mention it when you book if you are interested.
 
-The product page lists it from $1,049 and does not say whether that is per person, while the operator's winter overview page still shows "from $799". Check the amount at checkout before you plan around either figure. This tour is sold through the operator, not on GetYourGuide.
+The product page and the operator's winter overview page both list it from $1,049, and neither says whether that is per person. Check the amount at checkout before you plan around it. This tour is sold through the operator, not on GetYourGuide.
 
 **Why choose it:** you get more to do on the ground than on a sightseeing landing, at a moderate effort level that the operator rates suitable for all ages.
 
@@ -113,9 +113,9 @@ The product page lists it from $1,049 and does not say whether that is per perso
 
 **Best for:** active visitors who want a private guided climb and are fine with a longer, more physical day.
 
-Alaska Helicopter Tours runs {{< gyg-link tour="412355" >}}Glacier Ice Climbing{{< /gyg-link >}} in winter from December 15 to March 31, on a glacier face or a frozen waterfall. The trip lasts four hours, including a flight of about 25 minutes, and every booking is private, with its own guides and climbing setup. The operator lists the winter version from $1,349 and marks it "available on request", so you book by asking for your date. No climbing experience is needed, and boots, crampons, helmet, harness, ropes, ice tools, instruction and trail snacks are included.
+Alaska Helicopter Tours runs {{< gyg-link tour="412355" >}}Glacier Ice Climbing{{< /gyg-link >}} in winter from December 15 to March 31, on a glacier face or a frozen waterfall. The trip lasts four hours, including a flight of about 25 minutes, and every booking is private, with its own guides and climbing setup. The operator lists the winter version from $1,299 and marks it "available on request", so you book by asking for your date. No climbing experience is needed, and boots, crampons, helmet, harness, ropes, ice tools, instruction and trail snacks are included.
 
-On GetYourGuide the same climb is the {{< gyg-link tour="412355" >}}Knik Glacier Helicopter and Ice Climbing Tour{{< /gyg-link >}} at $1,416. It has no reviews there yet, so confirm the details with the operator when you book. [Our breakdown of the ice-climbing tour](/tours/anchorage-knik-glacier-helicopter-and-ice-climbing-tour/) covers what the listing includes.
+On GetYourGuide the same climb is the {{< gyg-link tour="412355" >}}Knik Glacier Helicopter and Ice Climbing Tour{{< /gyg-link >}} at $1,416. It has no reviews there yet, so confirm the details with the operator when you book. [Our breakdown of the ice-climbing tour](/tours/anchorage-knik-glacier-helicopter-and-ice-climbing-tour/) covers what the listing includes, and our [first-timer's guide to winter ice climbing](/guides/glacier-ice-climbing-by-helicopter-near-anchorage-winter-beginners/) compares the two operators on age, fitness and gear.
 
 This is not a normal glacier landing with a short optional climb. Ask about instruction, physical demands, party size and how weather affects the climbing site.
 
@@ -129,7 +129,7 @@ Outbound Heli Adventures sells a cheaper shared alternative from Palmer: <a href
 
 ## Which winter helicopter tour should you book?
 
-Pick by what you want to do after the helicopter lands. Which glacier photo looks best matters less.
+Pick by what you want to do after the helicopter lands. Which glacier photo looks best matters less. If you have settled on Knik Glacier, we compare the [single landing vs Grand Knik vs guided](/guides/best-knik-glacier-helicopter-tour-in-winter-single-vs-grand-vs-guided/) options and their price gaps.
 
 - **You have never flown in a helicopter:** start with the {{< gyg-link tour="147264" >}}Knik Glacier Landing{{< /gyg-link >}}. It is short and gives you the mountain scenery and the glacier in one hour.
 - **You want a longer flight without paying for several stops:** compare Outbound's {{< gyg-link tour="492083" >}}Knik Glacier Explorer{{< /gyg-link >}}.
@@ -146,7 +146,7 @@ Pick by what you want to do after the helicopter lands. Which glacier photo look
 | Time on foot among winter ice formations | Winter Glacier Exploration, from $1,049 | No cave on the day would spoil the trip for you |
 | Stepping inside an ice cave, if the guide judges it safe | Outbound's Winter Ice Cave Adventure, from $599 per person | You travel in November, before the December to March season |
 | Photographing several ice features | The ice-cave trip with a second cave stop, or {{< gyg-link tour="412333" >}}Grand Knik{{< /gyg-link >}} for three landings | One good stop is enough for you |
-| A physical challenge with instruction | Ice climbing: $1,099 with Outbound (16+) or $1,349 private with Alaska Helicopter Tours (13+) | You'd rather stroll and take photos than work with ropes and ice tools |
+| A physical challenge with instruction | Ice climbing: $1,099 with Outbound (16+) or $1,299 private with Alaska Helicopter Tours (13+) | You'd rather stroll and take photos than work with ropes and ice tools |
 
 The guided walk suits you best if you would still enjoy the day when no cave is safe to visit. The cave trip suits you if blue ice is the reason you came to Alaska and you accept that a particular entrance may be closed.
 
@@ -184,7 +184,7 @@ The operators' published starting prices for winter 2026–27 fall into three gr
 |---|---|---|
 | **About $450 to $550 per person** | A standard Knik landing or the 90-minute Explorer flight | A scenic helicopter flight with one ground stop |
 | **About $600 to $775 per person** | The ice-cave tour or the three-landing {{< gyg-link tour="412333" >}}Grand Knik{{< /gyg-link >}} | A longer trip, more stops or a guided cave visit |
-| **About $1,050 and up** | Winter Glacier Exploration, Outbound's half-day ice climbing ($1,099) or private ice climbing ($1,349 direct, $1,416 on GetYourGuide) | Guides, equipment, more time on the ice and, for climbing, instruction |
+| **About $1,050 and up** | Winter Glacier Exploration, Outbound's half-day ice climbing ($1,099) or private ice climbing ($1,299 direct, $1,416 on GetYourGuide) | Guides, equipment, more time on the ice and, for climbing, instruction |
 
 These are not package quotes. Transport from Anchorage, an extra landing, a private upgrade, tips and any passenger-weight surcharge can change the total. If two of you are going, compare the full final price for two instead of the "from" figure. A solo traveler should ask first: Outbound requires a two-guest minimum on every tour and will try to add a single guest to an existing booking.
 

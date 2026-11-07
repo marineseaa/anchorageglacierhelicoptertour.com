@@ -147,7 +147,7 @@ Near Anchorage there is currently no heli-hiking tour you can book through GetYo
 
 ## 5. Helicopter Ice Climbing — Best Adventure Experience
 
-If heli-hiking sounds too tame, Alaska also offers helicopter-accessed **ice climbing**. You fly into glacier terrain, land, receive equipment and instruction, and spend the activity portion of the tour learning to climb glacier ice — a considerably more specialised product than sightseeing.
+If heli-hiking sounds too tame, Alaska also offers helicopter-accessed **ice climbing**. You fly into glacier terrain, land, receive equipment and instruction, and spend the activity portion of the tour learning to climb glacier ice — a considerably more specialised product than sightseeing. Our guide to [helicopter ice climbing for beginners](/guides/glacier-ice-climbing-by-helicopter-near-anchorage-winter-beginners/) compares the two winter options near Anchorage, with ages and prices.
 
 Before booking, check the minimum age, fitness expectations, mobility requirements, clothing requirements (the ice-climbing tour near Anchorage explicitly excludes warm and waterproof clothing while providing all technical gear — see our [what-to-wear guide](/guides/what-to-wear-on-an-alaska-glacier-helicopter-tour/)), equipment provided, and activity duration.
 

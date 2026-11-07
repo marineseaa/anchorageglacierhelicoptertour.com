@@ -66,7 +66,7 @@ What you want is a closed shoe with a real sole. Trainers with a soft, smooth so
 
 **May and September.** The same, plus a hat and gloves, and a warmer mid-layer. Shoulder-season mornings at a lodge an hour north of Anchorage are cold before the sun clears the ridge.
 
-**October to April.** Full winter kit: thermal base layers, an insulated mid-layer, a proper shell, insulated gloves, a warm hat, and boots that will handle a snowy car park as well as the glacier. The ice-climbing tour is the winter one worth doing — it adds ice cave exploration once the meltwater channels freeze solid — and it is also the one that gives you no clothing at all.
+**October to April.** Full winter kit: thermal base layers, an insulated mid-layer, a proper shell, insulated gloves, a warm hat, and boots that will handle a snowy car park as well as the glacier. The ice-climbing tour is the winter one worth doing — it adds ice cave exploration once the meltwater channels freeze solid — and it is also the one that gives you no clothing at all. Our guide to [winter ice climbing](/guides/glacier-ice-climbing-by-helicopter-near-anchorage-winter-beginners/) lists the gear the operators hand out and the layers you bring.
 
 ## The things that get refused at the aircraft
 

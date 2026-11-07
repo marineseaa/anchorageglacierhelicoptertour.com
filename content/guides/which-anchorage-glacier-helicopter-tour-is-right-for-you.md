@@ -27,7 +27,7 @@ Nine tours, three operators, two directions out of the city and a price range th
 
 ## The short answer
 
-If you want to stand on a glacier and you are choosing on value, book the **[Palmer flight](/tours/from-palmer-knik-glacier-helicopter-tour/)** — $520, forty-five minutes on the ice, more glacier time than anything else on this site.
+If you want to stand on a glacier and you are choosing on value, book the **[Palmer flight](/tours/from-palmer-knik-glacier-helicopter-tour/)** — $520, forty-five minutes on the ice, more glacier time than anything else on this site. Going between November and March? See [which winter Knik tour](/guides/best-knik-glacier-helicopter-tour-in-winter-single-vs-grand-vs-guided/) suits you: a single landing, Grand Knik or a guided walk.
 
 If you want the safest, best-reviewed version of the same idea, book the **[flagship landing tour](/tours/anchorage-knik-glacier-helicopter-tour-with-landing/)** — $522, 4.99 from 90 guests, thirty minutes on the ice.
 
