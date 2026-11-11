@@ -30,7 +30,7 @@ Both are an easy half-day from town, and both offer glacier landings. **Knik Gla
 | **Girdwood** | A scenic day trip south | About 45 minutes south (40 miles) | 30-minute scenic flight, glacier landing, two-landing flight, Prince William Sound, summer dog sledding |
 | **Anchorage itself** | Small-plane flightseeing | In the city | Floatplane and small-plane flights from Lake Hood; no glacier helicopter tours |
 
-Prices on this site run from $520 for the cheapest Knik landing to $1,470 for a four-hour glacier activity. The [cost guide](/guides/how-much-does-an-anchorage-glacier-helicopter-tour-cost/) breaks the range down.
+Prices on this site run from $520 for the cheapest Knik landing to $1,470 for a four-hour glacier activity. The [cost guide](/guides/how-much-does-an-anchorage-glacier-helicopter-tour-cost/) breaks the range down. Visiting between November and March? See our [winter helicopter tour prices near Anchorage](/guides/winter-helicopter-tour-prices-near-anchorage/).
 
 ## Knik Glacier helicopter tours: best for a glacier landing
 

@@ -41,7 +41,7 @@ In practice:
 - **Around $520 to $629** is the realistic entry point for a **glacier landing** near Anchorage.
 - **$750 and up** usually means more flight time, more landings or an activity.
 
-Our [cost guide](/guides/how-much-does-an-anchorage-glacier-helicopter-tour-cost/) explains what every price band on this site buys, and the surcharges people forget.
+Our [cost guide](/guides/how-much-does-an-anchorage-glacier-helicopter-tour-cost/) explains what every price band on this site buys, and the surcharges people forget, and our [winter helicopter tour prices near Anchorage](/guides/winter-helicopter-tour-prices-near-anchorage/) covers the ice cave, glacier-walk and ice-climbing fares from November to March.
 
 ## What is the cheapest helicopter tour worth booking?
 
@@ -160,7 +160,7 @@ Some of the most expensive helicopter tours combine the flight with:
 - paddleboarding;
 - swimming in a meltwater pool.
 
-If you're already planning a guided glacier walk somewhere you can drive to, such as Matanuska Glacier north of Anchorage, you may not need to pay for heli-trekking as well. Spend the helicopter budget on the part only a helicopter can give you.
+If you're already planning a guided glacier walk somewhere you can drive to, such as [Matanuska Glacier](/guides/can-you-visit-a-glacier-near-anchorage-in-winter/) north of Anchorage, you may not need to pay for heli-trekking as well. Spend the helicopter budget on the part only a helicopter can give you.
 
 ### 6. Look at your whole Alaska itinerary
 

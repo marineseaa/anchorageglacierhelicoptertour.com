@@ -281,7 +281,7 @@ Much of the surface is under snow, especially in midwinter. How much varies, so 
 
 ### Can you walk on Knik Glacier in winter?
 
-A tour can include a short, guided stop on or beside the glacier, but where you can walk depends on the site and the hazards that day. Stay in the marked area and follow your pilot or guide. A standard flight isn't a license to travel the glacier on your own.
+A tour can include a short, guided stop on or beside the glacier, but where you can walk depends on the site and the hazards that day. Stay in the marked area and follow your pilot or guide. A standard flight isn't a license to travel the glacier on your own. For a longer guided walk, see the [ways to visit a glacier near Anchorage in winter](/guides/can-you-visit-a-glacier-near-anchorage-in-winter/), including Matanuska Glacier by road.
 
 ### Can you see blue ice on a winter Knik Glacier helicopter tour?
 

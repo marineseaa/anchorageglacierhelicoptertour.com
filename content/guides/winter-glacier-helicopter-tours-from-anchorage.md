@@ -19,7 +19,7 @@ Yes, you can take a glacier helicopter tour near Anchorage in winter. The standa
 
 Before you pay, check which winter product you are buying. A one-hour flight with a glacier landing is a different day from a guided two-hour ice-cave outing. And a tour sold as an *Anchorage* helicopter adventure usually leaves from Palmer, 45 to 60 minutes' drive from the city. It doesn't leave from downtown Anchorage.
 
-This guide covers November 2026 to February 2027, with the operators' published starting prices, what the landing looks like in snow and the questions to ask before you book. For the whole year month by month, see our [best time for an Anchorage glacier helicopter tour](/guides/best-time-for-an-anchorage-glacier-helicopter-tour/) guide.
+This guide covers November 2026 to February 2027, with the operators' published starting prices, what the landing looks like in snow and the questions to ask before you book. For the whole year month by month, see our [best time for an Anchorage glacier helicopter tour](/guides/best-time-for-an-anchorage-glacier-helicopter-tour/) guide. To compare every way of reaching a glacier, including a guided walk on Matanuska, read [can you visit a glacier near Anchorage in winter](/guides/can-you-visit-a-glacier-near-anchorage-in-winter/).
 
 > **At a glance:** For a simple winter glacier landing, look at Alaska Helicopter Tours' {{< gyg-link tour="147264" >}}Knik Glacier Landing{{< /gyg-link >}} or Outbound Heli Adventures' {{< gyg-link tour="492083" >}}Knik Glacier Explorer{{< /gyg-link >}}. For three landings in one trip, book {{< gyg-link tour="412333" >}}Grand Knik{{< /gyg-link >}}. For ice caves, Outbound runs a dedicated Winter Ice Cave Adventure from December to March. For a guided walk on the ice, Alaska Helicopter Tours runs Winter Glacier Exploration from December 15 to March 14. Dates, landing sites and seats depend on the operator's calendar and on safe flying conditions.
 
@@ -202,7 +202,7 @@ Before you pay, go through the costs that sit outside the headline price:
 
 A higher price does not buy more caves or more snowshoeing. It buys a different activity, so pay for the one you want to do on the ice.
 
-If you're choosing between the cheaper options, read our [Knik Glacier Landing review](/guides/is-the-knik-glacier-helicopter-tour-worth-it/), our [guide to what a glacier helicopter tour costs](/guides/how-much-does-an-anchorage-glacier-helicopter-tour-cost/) and our [helicopter booking checklist](/guides/how-to-book-a-helicopter-tour-in-alaska/).
+If you're choosing between the cheaper options, read our [Knik Glacier Landing review](/guides/is-the-knik-glacier-helicopter-tour-worth-it/), our [guide to what a glacier helicopter tour costs](/guides/how-much-does-an-anchorage-glacier-helicopter-tour-cost/) and our [helicopter booking checklist](/guides/how-to-book-a-helicopter-tour-in-alaska/). For budgets for two and four people, the extra fees and a month-by-month view, see our [winter helicopter tour prices](/guides/winter-helicopter-tour-prices-near-anchorage/).
 
 ## Where do winter glacier helicopter tours depart?
 
