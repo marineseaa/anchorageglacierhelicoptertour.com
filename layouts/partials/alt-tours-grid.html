@@ -11,7 +11,8 @@
 {{ $all := index $site.Data $site.Params.offersDataKey }}
 {{ $pool := slice }}
 {{ range $all }}
-  {{ if ne (string .id) (string $exclude) }}{{ $pool = $pool | append . }}{{ end }}
+  {{/* linkOnly entries (non-helicopter tours kept only so gyg-link can resolve them) never become cards. */}}
+  {{ if and (ne (string .id) (string $exclude)) (not .linkOnly) }}{{ $pool = $pool | append . }}{{ end }}
 {{ end }}
 {{ $pool = sort $pool "reviewCount" "desc" }}
 <div class="alt-tours-grid" data-affiliate-widget="auto" role="list">

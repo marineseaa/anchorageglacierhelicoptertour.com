@@ -2296,5 +2296,75 @@
     ],
     "imagesPrunedNote": null,
     "ratingsCheckedAt": "2026-10-14"
+  },
+  {
+    "id": 25493,
+    "title": "From Anchorage: Matanuska Glacier Full-Day Tour",
+    "url": "https://www.getyourguide.com/anchorage-l978/winter-glacier-experience-matanuska-glacier-t25493/",
+    "location": "Anchorage",
+    "provider": "907 Tours",
+    "startingPrice": 329.0,
+    "basePrice": 329,
+    "formattedStartingPrice": "$329",
+    "formattedBasePrice": "$329",
+    "currency": "USD",
+    "pricePrefix": "From",
+    "priceSuffix": "per person",
+    "priceCategory": "per person",
+    "rating": 4.807858164308245,
+    "formattedRating": "4.8",
+    "reviewCount": 123,
+    "duration": "10 hours",
+    "freeCancellation": true,
+    "cancellationDescription": "Cancel up to 24 hours in advance for a full refund",
+    "includes": [
+      "Round-trip transport from Anchorage",
+      "All entry fees",
+      "Glacier safety equipment (ice cleats, helmets, poles)",
+      "Light snacks and bottled water",
+      "Guided glacier experience"
+    ],
+    "excludes": [
+      "Lunch",
+      "Gratuities (customarily $10-$20 per person, per guide)",
+      "Footwear \u2014 sturdy waterproof shoes in summer, warm waterproof boots in winter"
+    ],
+    "linkOnly": true,
+    "linkOnlyNote": "Matanuska Glacier road tour, linked from guide prose only; alt-tours-grid skips linkOnly entries. Added 2026-11-11.",
+    "ratingsCheckedAt": "2026-11-11"
+  },
+  {
+    "id": 544593,
+    "title": "From Anchorage: Matanuska Glacier Winter Tour with Lunch",
+    "url": "https://www.getyourguide.com/anchorage-l978/matanuska-glacier-winter-tour-t544593/",
+    "location": "Anchorage",
+    "provider": "Greatland Adventures",
+    "startingPrice": 354.0,
+    "basePrice": 354.25,
+    "formattedStartingPrice": "$354",
+    "formattedBasePrice": "$354",
+    "currency": "USD",
+    "pricePrefix": "From",
+    "priceSuffix": "per person",
+    "priceCategory": "per person",
+    "rating": 5.0,
+    "formattedRating": "5.0",
+    "reviewCount": 16,
+    "duration": "8 hours",
+    "freeCancellation": true,
+    "cancellationDescription": "Cancel up to 24 hours in advance for a full refund",
+    "includes": [
+      "Hotel pickup and drop-off at select Anchorage hotels",
+      "Guided glacier tour",
+      "All glacier equipment",
+      "Lunch, snacks and water"
+    ],
+    "excludes": [
+      "Winter gear package \u2014 parka, snow pants, boots, hat and gloves \u2014 $30",
+      "Guide gratuity (10% of the tour price per person is suggested)"
+    ],
+    "linkOnly": true,
+    "linkOnlyNote": "Matanuska Glacier road tour, linked from guide prose only; alt-tours-grid skips linkOnly entries. Added 2026-11-11.",
+    "ratingsCheckedAt": "2026-11-11"
   }
 ]
