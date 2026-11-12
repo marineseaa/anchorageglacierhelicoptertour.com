@@ -88,7 +88,7 @@ The flight out takes about 15 minutes. The pilot narrates and watches for wildli
 
 <img class="hook-image" src="/images/gyg/t147264-x4.webp" alt="Two people walking beside a deep blue meltwater stream cut into the white ice of Knik Glacier." width="1600" height="1066" loading="lazy">
 
-Your pilot is also your guide on the ice, and reviewers describe them leading a short walk, picking spots for photos and explaining what you're looking at. One recent reviewer said the pilot took them along a few different routes so they could see more of the glacier. Pilots named in 2026 reviews include Alec, Ryan, Liam and Alex.
+Your pilot is also your guide on the ice, and reviewers describe them leading a short walk, picking spots for photos and explaining what you're looking at. One recent reviewer said the pilot took them along a few different routes so they could see more of the glacier. Pilots named in 2,020+ reviews include Alec, Ryan, Liam and Alex.
 
 In summer the surface carries meltwater pools and streams. In winter the glacier is covered in snow. An October reviewer described a "wintery day in the sun" on the glacier and said they would like to come back in summer too.
 

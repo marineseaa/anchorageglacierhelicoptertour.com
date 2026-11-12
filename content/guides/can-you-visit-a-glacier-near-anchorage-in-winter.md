@@ -32,7 +32,7 @@ You can also drive into Portage Valley south of Anchorage, or look for a legal r
 |---|---|---|---|---|---|---|
 | Knik Glacier helicopter landing | Usually a landing on or beside the glacier; the pilot picks the spot on the day | Drive or a paid transfer to a heli-base near Palmer, then fly | Half a day with the drive and check-in | $479 per person (Alaska Helicopter Tours) | First-timers and short stays | {{< gyg-link tour="147264" >}}Knik Glacier Helicopter Tour with Landing{{< /gyg-link >}}, $522 on GetYourGuide, rated 5.0 from over 90 reviews |
 | Knik-area multi-landing helicopter tour | At least one glacier-area stop; other stops may be on ridges or beside ice | Heli-base near Palmer | Half a day or longer | $749 per person ({{< gyg-link tour="412333" >}}Grand Knik{{< /gyg-link >}}) | Photographers who want several viewpoints | {{< gyg-link tour="412333" >}}Grand Knik Glacier Helicopter Tour with Landings{{< /gyg-link >}}, $762 on GetYourGuide, rated 5.0 from over 25 reviews |
-| Matanuska Glacier guided walk | Yes, where the guide judges the ice safe | About two hours or more by road each way; tours include hotel pickup | Most of a day | $329 per person (907 Tours) | Time on the ice without flying | {{< gyg-link tour="25493" >}}Matanuska Glacier Full-Day Tour{{< /gyg-link >}}, $329 on GetYourGuide, rated 4.8 from over 120 reviews |
+| Matanuska Glacier guided walk | Yes, where the guide judges the ice safe | About two hours or more by road each way; tours include hotel pickup | Most of a day | $329 per person (907 Tours) | Time on the ice without flying | {{< gyg-link tour="25493" >}}Matanuska Glacier Full-Day Tour{{< /gyg-link >}}, $329 on GetYourGuide, rated 4.8 from over 120+ reviews |
 | Matanuska Glacier highway viewpoint | No, viewing only | Drive northeast on the Glenn Highway and stop only where it is legal and plowed | Half a day or a full day in winter | No tour fee; vehicle costs vary | Landscape viewing on a budget | Not a bookable tour |
 | Portage Valley scenic drive | Not reliably; Portage Glacier can't be seen from the visitor center deck | An hour or more south on the Seward Highway, conditions permitting | Several hours | Driving costs only | Snowy valley and mountain scenery | Not a bookable tour |
 
@@ -119,7 +119,7 @@ Matanuska walks can reach sculpted ice, ridges and blue-ice sections where the g
 - On the ice: 907 Tours describes 2.5 to 3 hours exploring the glacier face with a guide. From late November through April the group rides out to the blue ice on sleds pulled by a snow machine.
 - Season: year-round, with its winter lineup running October to March.
 - Not included: lunch and guide tips.
-- Rating: 4.8 on GetYourGuide from over 120 reviews, at the same $329.
+- Rating: 4.8 on GetYourGuide from over 120+ reviews, at the same $329.
 
 **Greatland Adventures: {{< gyg-link tour="544593" >}}Matanuska Glacier Winter Tour with Lunch{{< /gyg-link >}}**
 
@@ -344,7 +344,7 @@ Compare and book a winter glacier trip:
 
 - Alaska Helicopter Tours' {{< gyg-link tour="147264" >}}Knik Glacier Helicopter Tour with Landing{{< /gyg-link >}}, $522, rated 5.0 from over 90 reviews
 - Outbound Heli's year-round {{< gyg-link tour="492083" >}}From Palmer: Knik Glacier Helicopter Tour{{< /gyg-link >}}, $520, rated 4.9 from over 35 reviews
-- 907 Tours' {{< gyg-link tour="25493" >}}From Anchorage: Matanuska Glacier Full-Day Tour{{< /gyg-link >}}, $329, rated 4.8 from over 120 reviews
+- 907 Tours' {{< gyg-link tour="25493" >}}From Anchorage: Matanuska Glacier Full-Day Tour{{< /gyg-link >}}, $329, rated 4.8 from over 120+ reviews
 - Greatland's {{< gyg-link tour="544593" >}}From Anchorage: Matanuska Glacier Winter Tour with Lunch{{< /gyg-link >}}, rated 5.0 from 15+ reviews
 
 Before you pay, reconfirm the date, total price, pickup, the activity itself, age and fitness rules and the weather cancellation terms.

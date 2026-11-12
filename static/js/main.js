@@ -199,6 +199,18 @@ function initGalleryArrows() {
   const step = () => Math.max(280, strip.clientWidth * 0.8);
   if (prev) prev.addEventListener('click', () => strip.scrollBy({ left: -step(), behavior: 'smooth' }));
   if (next) next.addEventListener('click', () => strip.scrollBy({ left: step(), behavior: 'smooth' }));
+
+  // GALLERY END-STATE (flat skill step 9, berninatraintour.com 2026-11-12):
+  // hide the arrow at either end of the strip (CSS: :disabled -> opacity 0) so
+  // the prev arrow never covers the first photo on load.
+  const gUpdate = () => {
+    const max = strip.scrollWidth - strip.clientWidth - 2;
+    if (prev) prev.disabled = strip.scrollLeft <= 2;
+    if (next) next.disabled = strip.scrollLeft >= max;
+  };
+  strip.addEventListener('scroll', () => window.requestAnimationFrame(gUpdate), { passive: true });
+  window.addEventListener('resize', gUpdate);
+  gUpdate();
 }
 
 /* ════════════════════════════════════════════════════════════

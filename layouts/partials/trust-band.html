@@ -31,7 +31,7 @@
       <li class="trust-item fade-up">
         <div class="trust-text">
           <span class="trust-metric">{{ printf "%.1f" $rating }} / 5</span>
-          <span class="trust-label">{{ if $reviewCount }}{{ lang.FormatNumber 0 $reviewCount }}+ Reviews{{ else }}Top Rated{{ end }}</span>
+          <span class="trust-label">{{ if $reviewCount }}{{ partial "review-count.html" $reviewCount }} Reviews{{ else }}Top Rated{{ end }}</span>
         </div>
       </li>
       {{ end }}
