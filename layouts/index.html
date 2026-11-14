@@ -5,7 +5,7 @@
   {{/* need to edit any layout file's hardcoded string anymore.                 */}}
   {{ $tourID   := .Site.Params.featuredTourID | int }}
   {{ $tour     := dict }}
-  {{ $allTours := index .Site.Data .Site.Params.offersDataKey }}
+  {{ $allTours := index hugo.Data .Site.Params.offersDataKey }}
   {{ range $allTours }}
     {{ if eq (int .id) $tourID }}
       {{ $tour = . }}

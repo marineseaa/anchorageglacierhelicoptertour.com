@@ -8,7 +8,7 @@
      punctuation). */}}
 {{- $code := .Get "code" -}}
 {{- $p := dict -}}
-{{- range .Site.Data.viator_offers -}}{{- if eq (string .code) (string $code) -}}{{- $p = . -}}{{- end -}}{{- end -}}
+{{- range hugo.Data.viator_offers -}}{{- if eq (string .code) (string $code) -}}{{- $p = . -}}{{- end -}}{{- end -}}
 {{- if not $p.url -}}{{- errorf "viator-link: %q not in data/viator_offers.json (page %s)" $code .Page.File.Path -}}{{- end -}}
 {{- $label := trim (.Inner | default "") " \n\t" | default $p.title -}}
 <a href="{{ $p.url }}" data-viator-href="{{ $p.url }}" target="_blank" rel="sponsored nofollow noopener noreferrer">{{ .Page.RenderString $label }}</a>

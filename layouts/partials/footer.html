@@ -10,7 +10,7 @@
 {{/* Primary tour for footer address — read from offers JSON via offersDataKey */}}
 {{ $primaryID := $site.Params.primaryTourID | default $site.Params.featuredTourID | int }}
 {{ $primaryTour := dict }}
-{{ $allTours := index $site.Data $site.Params.offersDataKey }}
+{{ $allTours := index hugo.Data $site.Params.offersDataKey }}
 {{ range $allTours }}
   {{ if eq (int .id) $primaryID }}
     {{ $primaryTour = . }}

@@ -8,7 +8,7 @@
      data-affiliate-href (decorated by main.js). */}}
 {{ $site := .Site }}
 {{ $exclude := .exclude | default "" }}
-{{ $all := index $site.Data $site.Params.offersDataKey }}
+{{ $all := index hugo.Data $site.Params.offersDataKey }}
 {{ $pool := slice }}
 {{ range $all }}
   {{/* linkOnly entries (non-helicopter tours kept only so gyg-link can resolve them) never become cards. */}}
