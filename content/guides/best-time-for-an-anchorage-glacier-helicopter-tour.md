@@ -144,7 +144,7 @@ This happens in every month. To see how often, we counted the daytime hours at P
 
 Girdwood is a much wetter place to fly from. It averages 70.9 inches of precipitation a year, more than five times Palmer's 12.6 inches, and September to December are its wettest months. If your trip has a single free day, the Knik River flights leave from the drier valley.
 
-If a flight cannot go, the operators reschedule it or refund you. Alaska Helicopter Tours aims to move you later the same day or to another date and refunds in full if it cancels for weather; Outbound looks at the weather on the day and contacts you; Alpine Air offers a later time or a full refund. All three advise booking at the start of your stay so there is time to rebook.
+If a flight cannot go, the operators reschedule it or refund you; see [what happens when snow or wind cancels a flight](/guides/do-glacier-helicopter-tours-fly-in-snow-winter-weather-delays-cancellations/). Alaska Helicopter Tours aims to move you later the same day or to another date and refunds in full if it cancels for weather; Outbound looks at the weather on the day and contacts you; Alpine Air offers a later time or a full refund. All three advise booking at the start of your stay so there is time to rebook.
 
 ## The best time of day to fly
 

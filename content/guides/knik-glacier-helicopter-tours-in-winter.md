@@ -211,7 +211,7 @@ For more detail, see our [guide to what to wear on an Alaska glacier helicopter 
 
 ## Are winter helicopter glacier landings safe?
 
-A reputable operator checks the weather, aircraft performance, visibility and the landing surface before deciding whether a flight or landing goes ahead. No commercial glacier landing can be guaranteed in advance.
+A reputable operator checks the weather, aircraft performance, visibility and the landing surface before deciding whether a flight or landing goes ahead. Our guide to [winter weather, delays and cancellations](/guides/do-glacier-helicopter-tours-fly-in-snow-winter-weather-delays-cancellations/) sets out each operator's refund rules. No commercial glacier landing can be guaranteed in advance.
 
 Winter adds a few practical points:
 

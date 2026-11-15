@@ -174,7 +174,7 @@ Compare the **total trip cost**, not only the **helicopter ticket price**.
 
 This matters around Anchorage because the glacier flights all depart outside the city: the Knik tours from the Knik River valley near Palmer, the Girdwood tours from Girdwood Airport to the south. None of the tours on GetYourGuide includes transport.
 
-Alpine Air's shuttle from Anchorage costs $75 per person round trip, so $150 for two. Alaska Helicopter Tours arranges door-to-door transfers by phone. A tour that looks $50 cheaper can easily cost more once transport is added.
+Alpine Air's shuttle from Anchorage costs $75 per person round trip, so $150 for two. Alaska Helicopter Tours charges $89 per person from select Anchorage stops for tours of two hours or less, and Outbound charges $90 from an Anchorage address; our guide to [shuttle costs and pickup](/guides/anchorage-glacier-helicopter-tours-with-transportation-winter-shuttle-pickup-guide/) covers all three. A tour that looks $50 cheaper can easily cost more once transport is added.
 
 ### 8. Use a rental car strategically
 

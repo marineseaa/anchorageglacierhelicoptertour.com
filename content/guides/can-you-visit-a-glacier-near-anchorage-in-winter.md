@@ -258,7 +258,7 @@ For helicopter budgets by experience and month, see our [winter helicopter tour 
 Yes. The simplest ways are a guided Matanuska day tour with Anchorage hotel pickup, or a helicopter flight with a transfer to the heli-base near Palmer.
 
 - **Matanuska:** Greatland Adventures and 907 Tours both include Anchorage pickup in their winter tours. Confirm your hotel is in the pickup area and check the meeting time.
-- **Knik helicopter:** Outbound Heli runs a shuttle from Anchorage to its Palmer base and can book round-trip transport by phone. Alaska Helicopter Tours arranges transfers too, but check what the exact ticket you buy includes.
+- **Knik helicopter:** Outbound Heli runs a shuttle from Anchorage to its Palmer base and can book round-trip transport by phone. Our guide to [which operators offer winter pickup](/guides/anchorage-glacier-helicopter-tours-with-transportation-winter-shuttle-pickup-guide/) has the prices and pickup rules. Alaska Helicopter Tours arranges transfers too, but check what the exact ticket you buy includes.
 - **Portage and scenic drives:** Don't assume a summer shuttle or sightseeing schedule runs in winter. You may need a private driver or a winter sightseeing tour.
 
 Without a car, sort tours by pickup first and compare prices second. A cheap ticket is a poor deal if you can't easily reach its departure point.

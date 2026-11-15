@@ -87,7 +87,7 @@ Alaska Helicopter Tours puts its lodge about 45 minutes north of Anchorage, and 
 
 ## Can you get a shuttle from Anchorage to Knik Glacier?
 
-Often, yes. None of the tours on GetYourGuide includes transport from Anchorage, but Alaska Helicopter Tours runs a door-to-door shuttle that you arrange by phone (907-272-7777) after booking.
+Often, yes. None of the tours on GetYourGuide includes transport from Anchorage, but Alaska Helicopter Tours runs a round-trip shuttle from select Anchorage stops, $89 per person for tours of two hours or less, that you arrange by phone (907-272-7777) after booking. Our [winter shuttle and pickup guide](/guides/anchorage-glacier-helicopter-tours-with-transportation-winter-shuttle-pickup-guide/) compares it with the Outbound and Alpine Air transfers.
 
 Before you book, check whether transport is:
 
@@ -476,7 +476,7 @@ Some are. Alaska Helicopter Tours flies its Knik glacier tours year-round, and A
 
 ### Can I take a shuttle from Anchorage to a helicopter tour?
 
-Yes. Alpine Air runs a shuttle to Girdwood for $75 per person round trip, and Alaska Helicopter Tours arranges door-to-door transfers by phone. Neither is included in the GetYourGuide price.
+Yes. Alpine Air runs a shuttle to Girdwood for $75 per person round trip, and Alaska Helicopter Tours arranges transfers from select Anchorage stops by phone. Neither is included in the GetYourGuide price.
 
 ### Is Knik Glacier better than a scenic flight over Anchorage?
 
@@ -494,7 +494,7 @@ Near the beginning or middle, if you can. A weather cancellation early in your s
 
 <!-- GK-AUDIT
 - Source: new-articles/07-helicopter-tours-near-anchorage.md (published 2026-10-03, run 4). All sections kept; sections re-headed in the site's voice.
-- Alaska Helicopter Tours: Knik Glacier Landing from $479 direct (1 hr, ~30 min flight), Grand Knik $749 direct, glacier tours year-round, Anchorage base 29979 East Knik River Road, Palmer, "45 minutes north of Anchorage", door-to-door shuttle — alaskahelicoptertours.com/glacier-tours/ and /anchorage/ (checked 2026-10-03). The source article's "$699" multi-landing and dogsledding figures did not match the operator (Grand Knik $749, dogsledding from $749 direct) and were not used.
+- Alaska Helicopter Tours: Knik Glacier Landing from $479 direct (1 hr, ~30 min flight), Grand Knik $749 direct, glacier tours year-round, Anchorage base 29979 East Knik River Road, Palmer, "45 minutes north of Anchorage", shuttle from select Anchorage stops ($89/$178 pp, planning guide rechecked 2026-11-15) — alaskahelicoptertours.com/glacier-tours/ and /anchorage/ (checked 2026-10-03). The source article's "$699" multi-landing and dogsledding figures did not match the operator (Grand Knik $749, dogsledding from $749 direct) and were not used.
 - Alpine Air Alaska: flightseeing and glacier landing tours year-round except Christmas and Thanksgiving; shuttle $75/pp round trip from any Anchorage hotel, B&B or the airport — alpineairalaska.com/faq/. Summer dogsledding May 15 - Aug 31, glacier landing 15-20 min on the ice, PWS 90 min — Alpine Air FareHarbor item descriptions (checked 2026-10-03). Landing areas Lake George, Whiteout and Colony glaciers — alaskarailroad.com helicopter glacier landing page; alaska.org Alpine Air listing (Colony Glacier or mountain ridges).
 - Viator (API, 2026-10-03): 85337P1 30-min flightseeing $459, 5.0/16; 85337P5 PWS with landing $769, 4.95/64. GYG has no 30-min flight; GYG's PWS listing t1063804 has 1 review, so Viator is linked instead.
 - GYG live (2026-10-03, ?currency=USD): 147264 $522 4.99/89; 492083 $520 4.92/34; 412333 $762 4.98/25; 147273 $816 4.89/64; 412348 $1,470 5.0/12; 412355 $1,416 no public rating; 1079145 $769 5.0/7; 1078337 $844 4.77/4; 1107685 $620 4.93/14 (Alpine Air, 1 hr, 15-20 min on the ice).

@@ -294,7 +294,7 @@ For more, see our guide to [what to wear on an Alaska glacier helicopter tour](/
 
 Yes. Price and number of landings make no difference to flight safety. Fog, low cloud, wind and icing can delay a flight, change its route or cancel it, and the crew decides whether the flight and each landing are safe.
 
-Alaska Helicopter Tours says it tries to reschedule a flight it cancels for weather and refunds you if it can't. Outbound says it refunds or reschedules a departure it cancels for weather. Neither covers cancelling yourself, so read the terms for the site you book through.
+Alaska Helicopter Tours says it tries to reschedule a flight it cancels for weather and refunds you if it can't. Outbound's and Alpine Air's terms are in our guide to [winter weather and refund rules](/guides/do-glacier-helicopter-tours-fly-in-snow-winter-weather-delays-cancellations/). Outbound says it refunds or reschedules a departure it cancels for weather. Neither covers cancelling yourself, so read the terms for the site you book through.
 
 If this flight is a main reason for your trip, book it early in your stay. A spare morning or afternoon later in the trip is worth more than a longer tour on a fixed date.
 
