@@ -160,7 +160,7 @@ Some of the most expensive helicopter tours combine the flight with:
 - paddleboarding;
 - swimming in a meltwater pool.
 
-If you're already planning a guided glacier walk somewhere you can drive to, such as [Matanuska Glacier](/guides/can-you-visit-a-glacier-near-anchorage-in-winter/) north of Anchorage, you may not need to pay for heli-trekking as well. Spend the helicopter budget on the part only a helicopter can give you.
+If you're already planning a guided glacier walk somewhere you can drive to, such as [Matanuska Glacier](/guides/can-you-visit-a-glacier-near-anchorage-in-winter/) north of Anchorage, you may not need to pay for heli-trekking as well (our [Knik vs Matanuska](/guides/knik-glacier-vs-matanuska-glacier-in-winter/) guide compares the two). Spend the helicopter budget on the part only a helicopter can give you.
 
 ### 6. Look at your whole Alaska itinerary
 

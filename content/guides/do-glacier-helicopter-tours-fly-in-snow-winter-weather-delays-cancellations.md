@@ -248,7 +248,7 @@ Before paying, ask:
 
 Don't assume every operator answers question three the same way, or that a safe alternative landing earns a refund. The tour description and booking terms decide it.
 
-A winter Knik Glacier landing can be spectacular even when snow covers the surface. The amount of visible blue ice, meltwater and exposed ice texture does change with the season, though. If you're booking mainly to photograph open blue pools or glowing ice caves, adjust your expectations and ask about current conditions.
+A winter Knik Glacier landing can be spectacular even when snow covers the surface. The amount of visible blue ice, meltwater and exposed ice texture does change with the season, though. If you're booking mainly to photograph open blue pools or glowing ice caves, adjust your expectations and ask about current conditions. Our [winter glacier helicopter tours guide](/guides/winter-glacier-helicopter-tours-from-anchorage/) covers the dedicated ice cave tour and what happens when the cave is closed.
 
 For more, see our guide to [Knik Glacier helicopter tours in winter](/guides/knik-glacier-helicopter-tours-in-winter/).
 

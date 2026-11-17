@@ -25,7 +25,7 @@ The options, by what you want:
 
 - **A simple first flight:** Alaska Helicopter Tours' Knik Glacier Landing, from $479 on the operator's site or $522 on GetYourGuide.
 - **Several settings and photos:** {{< gyg-link tour="412333" >}}Grand Knik{{< /gyg-link >}}, from $749 with three remote stops.
-- **A guided walk among winter ice formations:** <a href="https://www.alaskahelicoptertours.com/winter-glacier-exploration/" target="_blank" rel="nofollow noopener">Winter Glacier Exploration</a>, from $1,049, sold from December 15 to March 14. Check the price for your date at checkout.
+- **A guided walk among winter ice formations:** <a href="https://www.alaskahelicoptertours.com/winter-glacier-exploration/" target="_blank" rel="nofollow noopener">Winter Glacier Exploration</a>, from $1,049, sold from December 15 to March 14. Check the price for your date at checkout. If a cave is what you are after, see our [landing vs ice cave comparison](/guides/winter-glacier-landing-vs-ice-cave-tour-alaska/).
 - **Another single landing:** Outbound's {{< gyg-link tour="492083" >}}Knik Glacier Explorer{{< /gyg-link >}}, from $459 on Outbound's site, year-round.
 - **Another multi-landing flight:** Outbound's {{< viator-link code="329560P6" >}}Chugach Explorer{{< /viator-link >}}, from $574 on Outbound's site with two landings and an optional third, year-round.
 

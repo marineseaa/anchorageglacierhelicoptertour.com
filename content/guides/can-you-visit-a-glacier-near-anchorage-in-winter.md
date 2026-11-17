@@ -113,7 +113,7 @@ Matanuska walks can reach sculpted ice, ridges and blue-ice sections where the g
 
 **907 Tours: {{< gyg-link tour="25493" >}}Matanuska Glacier Full-Day Tour{{< /gyg-link >}}**
 
-- Price: $329 per adult, and $254 for children 14 and younger on 907 Tours' own site. Confirm minimum ages directly.
+- Price: $329 per adult, and $259 for children 14 and younger on 907 Tours' own site. Confirm minimum ages directly.
 - Length: about 10 hours in total.
 - Departure: around 8 a.m., with Anchorage hotel pickup.
 - On the ice: 907 Tours describes 2.5 to 3 hours exploring the glacier face with a guide. From late November through April the group rides out to the blue ice on sleds pulled by a snow machine.
@@ -200,7 +200,7 @@ The two glaciers are often compared, but they suit different goals.
 | A guided ice trek without flying | Matanuska | No helicopter involved |
 | A family with younger children | Check both tours' age and fitness rules | Age limits and stamina needs vary a lot |
 
-If you can afford a helicopter and want the classic flight over the ice, Knik gives you the better flightseeing. If you want a real glacier walk and would rather keep your feet on the ground on the way there, choose Matanuska with a trained guide.
+If you can afford a helicopter and want the classic flight over the ice, Knik gives you the better flightseeing. If you want a real glacier walk and would rather keep your feet on the ground on the way there, choose Matanuska with a trained guide. Our full comparison of [Knik Glacier vs Matanuska Glacier in winter](/guides/knik-glacier-vs-matanuska-glacier-in-winter/) covers prices, drive times, families and month-by-month fit.
 
 ## What is glacier access like from November to February?
 
@@ -377,7 +377,7 @@ Choose Knik for the helicopter ride, the mountain views and a shorter stop on th
 
 ### Can children visit a glacier in winter?
 
-Often, but age minimums, equipment sizes, cold exposure and effort differ by tour. Greatland's Matanuska winter group tour takes children from age 8, and 907 Tours prices children 14 and younger at $254. Some helicopter sightseeing tours suit families within the aircraft and operator rules. Check the rules of the exact tour before you book.
+Often, but age minimums, equipment sizes, cold exposure and effort differ by tour. Greatland's Matanuska winter group tour takes children from age 8, and 907 Tours prices children 14 and younger at $259. Some helicopter sightseeing tours suit families within the aircraft and operator rules. Check the rules of the exact tour before you book.
 
 ### Do you have to book a helicopter to see blue glacier ice?
 

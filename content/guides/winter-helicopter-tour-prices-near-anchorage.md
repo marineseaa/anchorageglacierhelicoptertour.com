@@ -244,7 +244,7 @@ The year-round Knik flights are the most dependable choice in all four months, b
 It is if you want a flight over remote mountains and glaciers with a chance to step out near the ice. At $459 to $479 it costs far more than a roadside viewpoint, but a viewpoint can't give you the access or the view from above.
 
 - **Good value for you:** you have never flown in a helicopter, you want big scenery, your trip is short, and you're happy with either an on-glacier landing or another safe glacier-area spot.
-- **Consider a cheaper trip on the ground:** you mainly want a guided ice walk and don't care about flying. A guided {{< gyg-link tour="25493" >}}Matanuska Glacier day tour from Anchorage{{< /gyg-link >}} starts at $329.
+- **Consider a cheaper trip on the ground:** you mainly want a guided ice walk and don't care about flying. A guided {{< gyg-link tour="25493" >}}Matanuska Glacier day tour from Anchorage{{< /gyg-link >}} starts at $329; see [Knik versus Matanuska in winter](/guides/knik-glacier-vs-matanuska-glacier-in-winter/) for how the two days compare.
 - **Consider paying more:** you want a longer guided walk, an ice cave, a climbing lesson or several photo stops.
 - **Think twice:** the only result you'd accept is a specific cave, a particular blue-ice formation or one exact landing spot. Winter conditions can rule those out.
 
@@ -284,7 +284,7 @@ Some third-party listings show child prices, but the rules depend on the operato
 
 ### Is an ice cave tour the same as a Knik Glacier landing?
 
-No. A regular landing is a scenic flight with a stop in glacier country. A dedicated cave tour aims to take you to an ice cave with a guide, if conditions allow. A basic landing doesn't include a cave visit.
+No. A regular landing is a scenic flight with a stop in glacier country. A dedicated cave tour aims to take you to an ice cave with a guide, if conditions allow. A basic landing doesn't include a cave visit. Our [glacier landing versus ice cave tour](/guides/winter-glacier-landing-vs-ice-cave-tour-alaska/) guide compares walking, safety and months.
 
 ### Are winter helicopter tours cheaper than summer tours?
 
