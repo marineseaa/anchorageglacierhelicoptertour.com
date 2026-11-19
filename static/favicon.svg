@@ -2,9 +2,9 @@
   <!-- PER-SITE MARK for anchorageglacierhelicoptertour.com: a helicopter in profile
        over a glacier ridge. Square corners (no rx) to match the FLAT design system.
        This is a STANDALONE file, so it cannot read :root - the hexes below are this
-       site's palette written out literally: bg --deep-canal #2A3740, ice ridge
-       --gold #2F7290 with an --accent-on-dark #A1C0CD facet, aircraft
-       --canal-light #EAF1F4. If the palette changes, change them here too, then
+       site's palette written out literally: bg -deep-canal #2A3740, ice ridge
+       -gold #2F7290 with an -accent-on-dark #A1C0CD facet, aircraft
+       -canal-light #EAF1F4. If the palette changes, change them here too, then
        re-run _gen_favicons.py so the PNGs come from the new art.
        See HUGO-SITE-DEPLOYMENT-CHECKLIST.md "Silent-failure checks" G. -->
   <rect width="32" height="32" fill="#2A3740"/>

@@ -37,6 +37,6 @@
       {{ with $price }}<span class="booking-card-price"><span class="price-from">From</span> <span class="price-amount">{{ . }}</span> <span class="price-per">{{ $tour.priceCategory | default "per person" }}</span></span>{{ end }}
       <a href="{{ $tour.url }}" data-affiliate-href="{{ $tour.url }}" class="btn-primary" target="_blank" rel="sponsored nofollow noopener noreferrer">Check Availability</a>
     </div>
-    <p class="booking-card-note">You'll choose your date and complete the booking on {{ $provider }}. Reserve now, pay later on most departures.</p>
+    <p class="booking-card-note">You'll choose your date and complete the booking on {{ $provider }}.{{ if $tour.freeCancellation }}{{ with $tour.cancellationDescription }} {{ . }}.{{ else }} Free cancellation under {{ $provider }}'s standard terms; the booking page shows the deadline.{{ end }}{{ end }}</p>
   </div>
 </div>
