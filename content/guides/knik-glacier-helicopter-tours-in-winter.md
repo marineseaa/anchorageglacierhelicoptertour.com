@@ -162,7 +162,7 @@ It depends on what you want from the trip.
 
 - Bare glacier ice and bright meltwater pools.
 - Long days and more flexible timing.
-- Glacier dogsledding and paddleboarding, which run only in summer.
+- Glacier dogsledding and paddleboarding, which run only in summer. Winter dog sledding by helicopter lands at a kennel instead; see [winter dog sledding by helicopter](/guides/can-you-go-dog-sledding-by-helicopter-in-alaska-in-winter/).
 - The bright turquoise scenes in most summer tour ads.
 
 For the year as a whole, see our [guide to the best time for an Anchorage glacier helicopter tour](/guides/best-time-for-an-anchorage-glacier-helicopter-tour/).

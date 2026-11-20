@@ -321,7 +321,7 @@ Alpine Air's 90-minute {{< viator-link code="85337P5" >}}Prince William Sound to
 
 ## What about glacier dog sledding near Anchorage?
 
-Both areas offer helicopter dog sledding in summer. The helicopter takes you up to a snowfield where dog teams can run even when the valleys below are green: the [Knik valley tour](/tours/anchorage-area-helicopter-and-glacier-dogsled-tour/) gives a full hour with the team, and Alpine Air's Punchbowl Glacier camp runs from May 15 to August 31.
+Both areas offer helicopter dog sledding in summer. In winter the options change; see [helicopter dog sledding in winter](/guides/can-you-go-dog-sledding-by-helicopter-in-alaska-in-winter/). The helicopter takes you up to a snowfield where dog teams can run even when the valleys below are green: the [Knik valley tour](/tours/anchorage-area-helicopter-and-glacier-dogsled-tour/) gives a full hour with the team, and Alpine Air's Punchbowl Glacier camp runs from May 15 to August 31.
 
 It's an excellent combination if dog sledding is already on your list, but it costs far more than a basic landing: $769 to $816, against $520 to $522. Our [glacier dogsledding page](/anchorage-helicopter-glacier-dogsledding/) compares the camps.
 

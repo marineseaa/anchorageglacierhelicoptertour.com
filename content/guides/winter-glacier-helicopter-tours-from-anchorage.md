@@ -6,7 +6,7 @@ keywords: ["winter glacier helicopter tours anchorage","anchorage helicopter tou
 type: "guides"
 date: 2026-11-02
 dateModified: "November 2026"
-dateModifiedISO: "2026-11-07"
+dateModifiedISO: "2026-11-20"
 featuredTourId: 147264
 relatedFAQ: "What is the best month for a glacier helicopter tour near Anchorage?"
 autoWidgetTitle: "More glacier tours around Anchorage"
@@ -334,7 +334,7 @@ If snowshoeing matters to you, ask the operator:
 
 This is one of the easiest Alaska tours to misread. The helicopter flight to a dogsled camp on a glacier is a summer product: operators fly you up to the high snow that stays on the glacier when the valleys are warm.
 
-Alaska Helicopter Tours describes its glacier dogsled camps as a summer operation and lists no winter dates; this site's [best-time guide](/guides/best-time-for-an-anchorage-glacier-helicopter-tour/) gives May 1 to August 31 for the camp near Palmer. On GetYourGuide, the {{< gyg-link tour="147273" >}}Helicopter and Glacier Dogsled Tour{{< /gyg-link >}} from the Knik River (rated 4.89 from 64 reviews) runs in that summer window. Winter dog mushing near Anchorage is a separate activity on land, away from the glacier camp.
+Alaska Helicopter Tours describes its glacier dogsled camps as a summer operation and lists no winter dates; this site's [best-time guide](/guides/best-time-for-an-anchorage-glacier-helicopter-tour/) gives May 1 to August 31 for the camp near Palmer. On GetYourGuide, the {{< gyg-link tour="147273" >}}Helicopter and Glacier Dogsled Tour{{< /gyg-link >}} from the Knik River (rated 4.9 from more than 60 reviews) runs in that summer window. Winter dog mushing near Anchorage is a separate activity on land, away from the glacier camp, though a few kennel-based fly-and-ride packages fly you to the dogs from Palmer or Anchorage; our guide to [winter helicopter dog sledding options](/guides/can-you-go-dog-sledding-by-helicopter-in-alaska-in-winter/) compares them.
 
 If mushing is essential to your trip, book it as its own winter activity. A glacier helicopter landing in winter does not come with a dog team.
 
