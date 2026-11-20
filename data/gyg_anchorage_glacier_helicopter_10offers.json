@@ -2366,5 +2366,24 @@
     "linkOnly": true,
     "linkOnlyNote": "Matanuska Glacier road tour, linked from guide prose only; alt-tours-grid skips linkOnly entries. Added 2026-11-11.",
     "ratingsCheckedAt": "2026-11-11"
+  },
+  {
+    "id": 416041,
+    "title": "Willow: Traditional Alaskan Dog Sledding Ride",
+    "url": "https://www.getyourguide.com/anchorage-l978/willow-traditional-alaskan-dog-sledding-ride-t416041/",
+    "location": "Willow",
+    "provider": "Alaskan Husky Adventures",
+    "currency": "EUR",
+    "startingPriceEUR": 167.78,
+    "pricePrefix": "From",
+    "priceSuffix": "per person",
+    "priceCategory": "per person",
+    "rating": 4.894736842105263,
+    "formattedRating": "4.9",
+    "reviewCount": 38,
+    "duration": "1.5 hours",
+    "linkOnly": true,
+    "linkOnlyNote": "Ground winter dog-sled ride (Willow, November to April at the operator), linked from guide prose only; alt-tours-grid skips linkOnly entries. Rating/reviews from the GYG partner snapshot. Added 2026-11-20.",
+    "ratingsCheckedAt": "2026-11-20"
   }
 ]
