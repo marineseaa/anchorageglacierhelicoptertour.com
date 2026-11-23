@@ -224,6 +224,8 @@ The self-drive glacier provider publishes child rates, but that doesn't mean eve
 
 907 Tours recommends children be at least 8 for its Anchorage day trip and rates it moderate. That makes it a better fit for families with older children who enjoy several hours outdoors than for families with toddlers.
 
+For minimum ages, lap infants, seating and weight limits on the Knik flights, read our guide to [winter glacier helicopter tours with kids](/guides/winter-glacier-helicopter-tours-with-kids/).
+
 ## Which glacier is better for photography?
 
 It depends on the photos you want.

@@ -386,7 +386,7 @@ On the December 21 solstice, Anchorage gets about 5 hours 28 minutes of daylight
 
 ### Are winter glacier tours suitable for children?
 
-Some standard glacier landings and the guided glacier walk are sold for all ages. Whether they suit your family depends on each child's comfort with the flight, the cold, uneven ground and any equipment rules. Check with the operator before booking, especially for ice caves and climbing.
+Some standard glacier landings and the guided glacier walk are sold for all ages. Whether they suit your family depends on each child's comfort with the flight, the cold, uneven ground and any equipment rules. Check with the operator before booking, especially for ice caves and climbing. Our guide to [winter glacier helicopter tours with kids](/guides/winter-glacier-helicopter-tours-with-kids/) covers minimum ages, lap infants, seating and weight limits.
 
 ### What if my helicopter tour is canceled because of snow or wind?
 

@@ -334,7 +334,7 @@ No. The operator sells it as two hours in total with about 45 minutes of flying;
 
 ### Can children go on Knik Glacier helicopter tours in winter?
 
-Some flightseeing tours are listed for all ages, subject to helicopter, seating and safety rules. A short landing suits young children better than a moderate guided walk. Tell the operator each child's age and ask about winter clothing, seating and whether the tour suits them before you book.
+Some flightseeing tours are listed for all ages, subject to helicopter, seating and safety rules. A short landing suits young children better than a moderate guided walk. Tell the operator each child's age and ask about winter clothing, seating and whether the tour suits them before you book. Our [family guide to winter glacier helicopter tours with kids](/guides/winter-glacier-helicopter-tours-with-kids/) covers minimum ages, lap infants and seating.
 
 ### Do glacier helicopter tours leave directly from Anchorage?
 
