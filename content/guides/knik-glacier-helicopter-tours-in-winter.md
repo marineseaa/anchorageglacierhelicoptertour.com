@@ -6,7 +6,7 @@ keywords: ["knik glacier helicopter tour winter","knik glacier winter","can you 
 type: "guides"
 date: 2026-11-02
 dateModified: "November 2026"
-dateModifiedISO: "2026-11-07"
+dateModifiedISO: "2026-11-24"
 featuredTourId: 147264
 relatedFAQ: "What happens if the weather cancels my flight?"
 autoWidgetTitle: "Other Knik Glacier and Anchorage tours"
@@ -142,7 +142,7 @@ The Knik Glacier helicopter season continues through winter, but four months tha
 | **January** | Midwinter snow and ice, with the days slowly lengthening | Protect your plans against weather delays and avoid tight onward connections |
 | **February** | More daylight than December and the same winter glacier conditions | A good month to pair a glacier flight with other winter activities |
 
-In Anchorage on the December 21 solstice, daylight lasts about 5 hours 28 minutes, with sunrise around 10:14 a.m. and sunset around 3:42 p.m. That is why a midwinter helicopter tour can't be scheduled like a midsummer one. The actual flight window depends on the operator and the weather, and Palmer's sunrise and sunset differ by a few minutes from Anchorage's.
+In Anchorage on the December 21 solstice, daylight lasts about 5 hours 28 minutes, with sunrise around 10:13 a.m. and sunset around 3:41 p.m. That is why a midwinter helicopter tour can't be scheduled like a midsummer one; see [what time of day to fly in winter](/guides/how-much-daylight-do-you-need-for-a-glacier-helicopter-tour-in-alaska/). The actual flight window depends on the operator and the weather, and Palmer's sunrise and sunset differ by a few minutes from Anchorage's.
 
 A tour page saying *year-round* means the operator sells that product in winter. It doesn't mean daily departures, guaranteed seats or flights in poor visibility.
 

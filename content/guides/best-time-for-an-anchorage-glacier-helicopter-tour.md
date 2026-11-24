@@ -110,7 +110,7 @@ Landing flights continue, but the summer activity tours have stopped. Snow retur
 
 The glacier is white, and this is the season for the tours you cannot do in summer; our guide to [winter glacier helicopter tours](/guides/winter-glacier-helicopter-tours-from-anchorage/) compares them one by one. Outbound runs its Winter Ice Cave Adventure from December to March, and Alaska Helicopter Tours runs winter ice climbing from December 15 to March 31. Ice caves are natural formations that change from year to year, so no particular cave is promised. Average highs at Palmer are 22 to 34°F, and you need full winter clothing.
 
-Daylight is the main limit. Mid-December has 5 hours 25 minutes between sunrise and sunset at the Knik River, and Alaska Helicopter Tours flies only in daylight in winter, so early-morning and late-afternoon departures are not offered. By mid-March the days are back to almost 12 hours. The northern lights are possible on winter nights, but the flights run in daylight.
+Daylight is the main limit. Mid-December has 5 hours 25 minutes between sunrise and sunset at the Knik River, and Alaska Helicopter Tours flies only in daylight in winter, so early-morning and late-afternoon departures are not offered. By mid-March the days are back to almost 12 hours. Our daylight guide lists the [month-by-month sunrise and sunset in Anchorage](/guides/how-much-daylight-do-you-need-for-a-glacier-helicopter-tour-in-alaska/) from November to February. The northern lights are possible on winter nights, but the flights run in daylight.
 
 ### April to mid-May: spring snow and long days
 

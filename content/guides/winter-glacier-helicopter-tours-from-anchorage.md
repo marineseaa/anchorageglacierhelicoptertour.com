@@ -6,7 +6,7 @@ keywords: ["winter glacier helicopter tours anchorage","anchorage helicopter tou
 type: "guides"
 date: 2026-11-02
 dateModified: "November 2026"
-dateModifiedISO: "2026-11-20"
+dateModifiedISO: "2026-11-24"
 featuredTourId: 147264
 relatedFAQ: "What is the best month for a glacier helicopter tour near Anchorage?"
 autoWidgetTitle: "More glacier tours around Anchorage"
@@ -160,7 +160,7 @@ November brings colder temperatures, snow and quickly shortening days. The year-
 
 ### December: ice-cave season begins, with the shortest days
 
-Outbound's ice-cave tours start in December, and Alaska Helicopter Tours' Winter Glacier Exploration and ice climbing start on December 15. December also has the least daylight: on the December 21 solstice, Anchorage gets about 5 hours 28 minutes between sunrise (about 10:14 a.m.) and sunset (about 3:42 p.m.).
+Outbound's ice-cave tours start in December, and Alaska Helicopter Tours' Winter Glacier Exploration and ice climbing start on December 15. December also has the least daylight: on the December 21 solstice, Anchorage gets about 5 hours 28 minutes between sunrise (about 10:13 a.m.) and sunset (about 3:41 p.m.).
 
 **How to plan it:** book a midday slot, plan your drive with care and don't schedule a helicopter trip right after a flight arrives.
 
@@ -382,7 +382,7 @@ Don't count on a dedicated ice-cave tour in November. Outbound's Winter Ice Cave
 
 ### How many hours of daylight does Anchorage get in December?
 
-On the December 21 solstice, Anchorage gets about 5 hours 28 minutes of daylight, with sunrise around 10:14 a.m. and sunset around 3:42 p.m. Operators fit winter flights into those hours and the weather.
+On the December 21 solstice, Anchorage gets about 5 hours 28 minutes of daylight, with sunrise around 10:13 a.m. and sunset around 3:41 p.m. Operators fit winter flights into those hours and the weather; our [winter daylight planner](/guides/how-much-daylight-do-you-need-for-a-glacier-helicopter-tour-in-alaska/) shows the sunrise and sunset for each month and the times to ask for.
 
 ### Are winter glacier tours suitable for children?
 
