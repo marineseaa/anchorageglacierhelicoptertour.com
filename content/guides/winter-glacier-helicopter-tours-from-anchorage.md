@@ -133,7 +133,7 @@ Pick by what you want to do after the helicopter lands. Which glacier photo look
 
 - **You have never flown in a helicopter:** start with the {{< gyg-link tour="147264" >}}Knik Glacier Landing{{< /gyg-link >}}. It is short and gives you the mountain scenery and the glacier in one hour.
 - **You want a longer flight without paying for several stops:** compare Outbound's {{< gyg-link tour="492083" >}}Knik Glacier Explorer{{< /gyg-link >}}.
-- **Landscape photography matters most:** look at {{< gyg-link tour="412333" >}}Grand Knik{{< /gyg-link >}}, but confirm how the winter landings can change and allow for shifting light.
+- **Landscape photography matters most:** look at {{< gyg-link tour="412333" >}}Grand Knik{{< /gyg-link >}}, but confirm how the winter landings can change and allow for shifting light. Our [winter glacier photography guide](/guides/best-winter-glacier-photography-tours-near-anchorage/) compares the flights for photographers.
 - **You want to see an ice cave:** book a dedicated ice-cave tour such as Outbound's Winter Ice Cave Adventure. A standard landing does not promise a cave; our [winter glacier landing vs ice cave tour](/guides/winter-glacier-landing-vs-ice-cave-tour-alaska/) comparison explains the difference on the ground.
 - **You want an active guided day:** compare Winter Glacier Exploration and {{< gyg-link tour="412355" >}}Glacier Ice Climbing{{< /gyg-link >}} by your fitness, the equipment supplied and the activities on your date.
 - **You're visiting in November:** look first at the year-round Knik landing flights. The dedicated cave, walking and climbing tours start in December.
@@ -275,6 +275,8 @@ The order is much the same with both Palmer operators, though the time on the gr
 - **Travel light.** Use a wrist or neck strap, avoid changing lenses in blowing snow, and ask before bringing a tripod, because helicopter operators can restrict bags and loose gear.
 - **Edit gently.** Blue ice is vivid already; turning every shadow cyan makes the photo look less real.
 - **Let the guide set the limits.** Don't stand under an overhang, cross a crevasse or leave the approved area for a better angle.
+
+For shutter speeds, exposure on snow and what to pack, see our guide to [camera settings and lenses for glacier flights](/guides/best-winter-glacier-photography-tours-near-anchorage/).
 
 ## Winter weather: will your helicopter tour fly?
 

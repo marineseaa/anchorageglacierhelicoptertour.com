@@ -111,7 +111,7 @@ In summer the stops can include a glacier, alpine ridges and the ice around Lake
 
 It costs more than the basic {{< gyg-link tour="147264" >}}Knik Glacier Landing{{< /gyg-link >}}, and it pays off if you are mainly buying different landscapes from several viewpoints on the ground. If your only goal is the most time standing on ice, it isn't automatically the better choice.
 
-**Why choose it:** more variety in the scenery and more chances for different photos.
+**Why choose it:** more variety in the scenery and more chances for different photos. If pictures are the point of your trip, compare the [best winter photography tours](/guides/best-winter-glacier-photography-tours-near-anchorage/).
 
 **What to confirm:** the expected winter landing sites, the ground time at each, whether all three stops usually happen and what happens if one site is unusable.
 

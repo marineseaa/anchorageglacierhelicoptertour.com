@@ -37,7 +37,7 @@ This comparison covers the choices near Anchorage, what to expect from the fligh
 | Walk as little as possible outdoors | **Standard landing** | A short stop involves less walking than approaching a cave |
 | Learn about the ice from a guide | **Guided glacier walk or ice cave tour** | A guide on the ground and traction gear are part of the trip |
 | Travel with children | **Start with the standard landing** | A simpler outing; confirm age, gear and walking for any cave tour |
-| Photograph blue ice textures close up | **Ice cave or guided glacier walk** | Good chances of close-up detail, never a promised formation or entry |
+| Photograph blue ice textures close up | **Ice cave or guided glacier walk** | Good chances of close-up detail, never a promised formation or entry; see our guide to [photographing blue ice in winter](/guides/best-winter-glacier-photography-tours-near-anchorage/) |
 | Keep the budget lower | **Standard landing** | Headline prices start below the guided cave trips |
 
 **Our recommendation:** for most first-time winter visitors to Anchorage, book a Knik Glacier landing unless a cave is the reason you are coming. For a cave-focused trip from December to February, compare Outbound Heli's <a href="https://outboundheli.com/winter-ice-cave-adventure/" target="_blank" rel="nofollow noopener">Winter Ice Cave Adventure</a> with Alaska Helicopter Tours' <a href="https://www.alaskahelicoptertours.com/winter-glacier-exploration/" target="_blank" rel="nofollow noopener">Winter Glacier Exploration</a>. The two put different weight on the cave and promise different things about reaching one.
