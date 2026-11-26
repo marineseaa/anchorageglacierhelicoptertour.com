@@ -40,5 +40,19 @@
     "reviewCount": 8,
     "checkedAt": "2026-11-07",
     "why": "Not sold on GetYourGuide."
+  },
+  {
+    "code": "85337P4",
+    "title": "Anchorage Helicopter Flight with Glacier Landing (1 hour)",
+    "supplier": "Alpine Air Alaska",
+    "departs": "Girdwood Airport",
+    "duration": "1 hour",
+    "landing": true,
+    "url": "https://www.viator.com/tours/Anchorage/Glacier-Landing-Tour-Girdwood-Alaska/d4152-85337P4",
+    "fromPrice": 610,
+    "rating": 4.93,
+    "reviewCount": 160,
+    "checkedAt": "2026-11-26",
+    "why": "The GetYourGuide listing (t1107685) has no reviews."
   }
 ]
